@@ -1,1 +1,1 @@
-script: echo "test"
+script: python prod.py
