@@ -10,7 +10,7 @@ lines = []
 
 ## add headers
 lines.append("I")
-lines.append("810 Version - Created on " + datetime.datetime.now())
+lines.append("810 Version - Created on " + str(datetime.datetime.now()))
 
 ## save to file
 with open(sys.argv[1]) as lines, open('out.txt', 'w') as out:
