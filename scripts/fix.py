@@ -1,4 +1,5 @@
 ##
+## Fixes
 ## Converts json to dat for use in IF
 ##
 
@@ -13,8 +14,5 @@ lines.append("I")
 lines.append("810 Version - Created on " + str(datetime.datetime.now()))
 
 ## save to file
-with open(sys.argv[1]) as lines, open('out.txt', 'w') as out:
-    for line in lines:
-       if line.strip():                     #checks if line is not empty
-           out.write(line.split()[0]+'\n')
-           print line
+with open('/fix.dat', mode='wt', encoding='utf-8') as currentFile:
+    currentFile.write('\n'.join(lines))
