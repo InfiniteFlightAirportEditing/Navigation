@@ -16,7 +16,7 @@ lines.append("810 Version - Created on " + str(datetime.datetime.now()))
 lines.append(" ")
 
 ## read json
-with open('../fixes.json') as data_file:    
+with open('fixes.json') as data_file:    
     data = json.load(data_file)
 
 ## iterate through each obejct
@@ -28,5 +28,5 @@ for fix in data:
 	lines.append(" %s  %s  %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), name.encode('utf-8')))
 
 ## save to file
-with open('../dat/fix.dat', mode='wt') as currentFile:
+with open('dat/fix.dat', mode='wt') as currentFile:
     currentFile.write('\n'.join(lines))
