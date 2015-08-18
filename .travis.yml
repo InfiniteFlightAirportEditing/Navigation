@@ -1,1 +1,1 @@
-script: python /scripts/fix.py
+script: python scripts/fix.py
