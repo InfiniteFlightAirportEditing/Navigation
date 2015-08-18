@@ -7,4 +7,4 @@ after_script:
   - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
   - git add .
   - git commit -m "Created .dat files via Travis"
-  - git push master
+  - git push
