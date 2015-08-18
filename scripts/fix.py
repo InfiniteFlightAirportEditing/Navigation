@@ -28,5 +28,5 @@ for fix in data:
 	lines.append(" %s  %s  %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), name.encode('utf-8')))
 
 ## save to file
-with open('dat/fix.dat', mode='wt') as currentFile:
+with open('fix.dat', mode='wt') as currentFile:
     currentFile.write('\n'.join(lines))

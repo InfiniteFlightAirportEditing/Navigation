@@ -5,7 +5,7 @@ script: python scripts/fix.py
 after_script:
   - git config credential.helper "store --file=.git/credentials"
   - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
-  - git remote add github https://github.com/InfiniteFlightAirportEditing/Navigation.git
+  - git remote add github https://github.com/InfiniteFlightAirportEditing/Navigation-Dat.git
   - git add .
   - git config --global user.email "airports@liveflightapp.com"
   - git config --global user.name "Airport Editing (via Travis)"
