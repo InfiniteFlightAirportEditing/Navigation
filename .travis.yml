@@ -10,4 +10,5 @@ after_script:
   - git config --global user.email "airports@liveflightapp.com"
   - git config --global user.name "Airport Editing (via Travis)"
   - git commit -m "Created .dat files via Travis"
+  - git config --global push.default simple
   - git push github
