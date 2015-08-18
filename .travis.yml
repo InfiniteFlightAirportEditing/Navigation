@@ -1,1 +1,1 @@
-script: python prod.py
+script: python /scripts/fix.py
