@@ -5,6 +5,7 @@ script: python scripts/fix.py
 after_script:
   - git config credential.helper "store --file=.git/credentials"
   - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
+  - git remote add github git@github.com:InfiniteFlightAirportEditing/Navigation.git
   - git add .
   - git commit -m "Created .dat files via Travis"
-  - git push
+  - git push github master
