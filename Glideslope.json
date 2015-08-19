@@ -14,6 +14,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "RCYU",
+    "identifier": null,
+    "associatedRunwayNumber": null,
+    "latitude": 24.01447200 ,
+    "longitude": 121.61319400,
+    "elevation": 52,
+    "frequency": null,
+    "receptionRange": 10,
+    "bearing": 26.187,
+    "glideslope": 3.2
+  },
+  {
+    "name": "GS",
     "airportICAO": "OPJA",
     "identifier": null,
     "associatedRunwayNumber": "33",
