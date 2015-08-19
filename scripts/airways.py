@@ -16,7 +16,7 @@ lines.append("810 Version - Generated using airways.py on Travis")
 lines.append(" ")
 
 ## read json
-with open('airways.json') as data_file:    
+with open('Airways.json') as data_file:    
     data = json.load(data_file)
 
 ## iterate through each obejct

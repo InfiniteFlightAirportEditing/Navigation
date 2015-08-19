@@ -16,7 +16,7 @@ lines.append("810 Version - Generated using fix.py on Travis")
 lines.append(" ")
 
 ## read json
-with open('fixes.json') as data_file:    
+with open('Fixes.json') as data_file:    
     data = json.load(data_file)
 
 ## iterate through each obejct
