@@ -1,45 +1,6 @@
 [
   {
     "name": "GS",
-    "airportICAO": "RCFN",
-    "identifier": null,
-    "associatedRunwayNumber": "04",
-    "latitude": 22.74861145,
-    "longitude": 121.09566498,
-    "elevation": 143,
-    "frequency": 100,
-    "receptionRange": 300038,
-    "bearing": 170.000,
-    "glideslope": 3.117
-  },
-  {
-    "name": "GS",
-    "airportICAO": "RCYU",
-    "identifier": null,
-    "associatedRunwayNumber": null,
-    "latitude": 24.01447200 ,
-    "longitude": 121.61319400,
-    "elevation": 52,
-    "frequency": null,
-    "receptionRange": 10,
-    "bearing": 26.187,
-    "glideslope": 3.2
-  },
-  {
-    "name": "GS",
-    "airportICAO": "OPJA",
-    "identifier": null,
-    "associatedRunwayNumber": "33",
-    "latitude": 28.27461052,
-    "longitude": 68.45742035,
-    "elevation": 185,
-    "frequency": 100,
-    "receptionRange": 300327,
-    "bearing": 126.000,
-    "glideslope": 3.1126
-  },
-  {
-    "name": "GS",
     "airportICAO": "40N",
     "identifier": "IMQS",
     "associatedRunwayNumber": "29",
@@ -8461,32 +8422,6 @@
     "receptionRange": 10,
     "bearing": 38.750,
     "glideslope": 3.00037875
-  },
-  {
-    "name": "GS",
-    "airportICAO": null,
-    "identifier": null,
-    "associatedRunwayNumber": "32L",
-    "latitude": 40.75644302,
-    "longitude": 16.94084930,
-    "elevation": 1184,
-    "frequency": 100,
-    "receptionRange": 300321,
-    "bearing": 358.004,
-    "glideslope": 3.0358002
-  },
-  {
-    "name": "GS",
-    "airportICAO": null,
-    "identifier": null,
-    "associatedRunwayNumber": "03",
-    "latitude": 24.01447105,
-    "longitude": 121.61319733,
-    "elevation": 52,
-    "frequency": 100,
-    "receptionRange": 320026,
-    "bearing": 347.000,
-    "glideslope": 3.6347
   },
   {
     "name": "GS",
@@ -74072,19 +74007,6 @@
     "receptionRange": 10,
     "bearing": 229.252,
     "glideslope": 3.00229126
-  },
-  {
-    "name": "GS",
-    "airportICAO": null,
-    "identifier": null,
-    "associatedRunwayNumber": "03",
-    "latitude": 24.01447200,
-    "longitude": 121.61319400,
-    "elevation": 52,
-    "frequency": 100,
-    "receptionRange": 0,
-    "bearing": 0.0,
-    "glideslope": 0.0
   },
   {
     "name": "GS",
