@@ -88,7 +88,7 @@ for gs in gsData:
 	bearing = gs["bearing"]
 	icao = gs["airportICAO"]
 	runwayNumber = gs["associatedRunwayNumber"]
-	glideslope = gs["glideslope"] * 100
+	glideslope = int(gs["glideslope"] * 100)
 
 	if type(identifier) is NoneType:
 		identifier = ""
@@ -102,7 +102,7 @@ for gs in gsData:
 	if type(name) is NoneType:
 		name = ""
 	
-	lines.append("6  %s  %s  %s  %s  %s  %s  %s  %s  %s  %s  %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(glideslope).encode('utf-8'), str(bearing).encode('utf-8'), identifier.encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')))
+	lines.append("6  %s  %s  %s  %s  %s  %s%s  %s  %s  %s  %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(glideslope).encode('utf-8'), str(bearing).encode('utf-8'), identifier.encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')))
 
 ## read MB
 with open('MarkerBeacons.json') as data_file:
