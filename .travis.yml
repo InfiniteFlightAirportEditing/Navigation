@@ -12,3 +12,5 @@ after_script:
   - git commit -m "Created .dat files via Travis"
   - git config --global push.default simple
   - git push github HEAD:master
+notifications:
+  slack: airportediting:Khe0lsGunLHhWLh1rGyKZhbd
