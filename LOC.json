@@ -17997,9 +17997,9 @@
     "airportICAO": "KMDW",
     "identifier": "IHKH",
     "associatedRunwayNumber": "04R",
-    "latitude": 41.79259491,
-    "longitude": -87.74230194,
-    "elevation": 619,
+    "latitude": 41.779166,
+    "longitude": -87.759325,
+    "elevation": 620,
     "frequency": 111500,
     "receptionRange": 18,
     "bearing": 43.373
@@ -18010,12 +18010,12 @@
     "airportICAO": "KMDW",
     "identifier": "IMDW",
     "associatedRunwayNumber": "13C",
-    "latitude": 41.77877045,
-    "longitude": -87.74308014,
+    "latitude": 41.791588,
+    "longitude": -87.761065,
     "elevation": 612,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 133.677
+    "bearing": 133.676
   },
   {
     "name": "ILS-cat-I",
@@ -18023,8 +18023,8 @@
     "airportICAO": "KMDW",
     "identifier": "IMXT",
     "associatedRunwayNumber": "31C",
-    "latitude": 41.79202271,
-    "longitude": -87.76170349,
+    "latitude": 41.779251,
+    "longitude": -87.743741,
     "elevation": 607,
     "frequency": 109900,
     "receptionRange": 18,
@@ -67579,12 +67579,12 @@
     "airportICAO": "KRSW",
     "identifier": "IRSW",
     "associatedRunwayNumber": "06",
-    "latitude": 26.54753300,
-    "longitude": -81.73768300,
+    "latitude": 26.526485,
+    "longitude": -81.770014,
     "elevation": 28,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 53.970
+    "bearing": 53.960
   },
   {
     "name": "ILS-cat-I",
