@@ -17999,7 +17999,7 @@
     "associatedRunwayNumber": "04R",
     "latitude": 41.79259491,
     "longitude": -87.74230194,
-    "elevation": 620,
+    "elevation": 619,
     "frequency": 111500,
     "receptionRange": 18,
     "bearing": 43.373
@@ -22052,10 +22052,10 @@
     "type": 4,
     "airportICAO": "KRSW",
     "identifier": "IRSW",
-    "associatedRunwayNumber": "06",
+    "associatedRunwayNumber": "05",
     "latitude": 26.54753304,
     "longitude": -81.73768616,
-    "elevation": 28,
+    "elevation": 27,
     "frequency": 111500,
     "receptionRange": 18,
     "bearing": 53.970
