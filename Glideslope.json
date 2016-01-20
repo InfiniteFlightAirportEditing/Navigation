@@ -5235,7 +5235,7 @@
     "elevation": 1,
     "frequency": 109550,
     "receptionRange": 15,
-    "bearing": 227.750,
+    "bearing": 46.750,
     "glideslope": 3.00227375
   },
   {
@@ -11763,6 +11763,19 @@
     "receptionRange": 10,
     "bearing": 0.124,
     "glideslope": 3.00000062
+  },
+  {
+    "name": "GS",
+    "airportICAO": "KCOS",
+    "identifier": "ICOS",
+    "associatedRunwayNumber": "35R",
+    "latitude": 38.779029
+    "longitude": -104.685795
+    "elevation": 6052,
+    "frequency": 109.100,
+    "receptionRange": 10,
+    "bearing": 0.124,
+    "glideslope": 3.0016340
   },
   {
     "name": "GS",
@@ -21973,7 +21986,7 @@
     "name": "GS",
     "airportICAO": "KRSW",
     "identifier": "IRSW",
-    "associatedRunwayNumber": "05",
+    "associatedRunwayNumber": "06",
     "latitude": 26.52728844,
     "longitude": -81.76670074,
     "elevation": 26,
@@ -45682,6 +45695,20 @@
     "glideslope": 3.50234104
   },
   {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "EGMC",
+    "identifier": "IND",
+    "associatedRunwayNumber": "06",
+    "latitude": 51.343400,
+    "longitude": 0.0004201,
+    "elevation": 55,
+    "frequency": 111350,
+    "receptionRange": 18,
+    "bearing": 55.208
+	"glideslope": 3.50153232
+  },
+  {
     "name": "GS",
     "airportICAO": "EGMD",
     "identifier": "ILDY",
@@ -55644,12 +55671,12 @@
     "airportICAO": "KFRG",
     "identifier": "IFRG",
     "associatedRunwayNumber": "14",
-    "latitude": 40.73188100,
-    "longitude": -73.41603600,
+    "latitude": 40.734643,
+    "longitude": -73.421778,
     "elevation": 76,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 132.688,
+    "bearing": 132.370,
     "glideslope": 3.00132344
   },
   {

@@ -4118,7 +4118,7 @@
     "elevation": 13,
     "frequency": 108150,
     "receptionRange": 18,
-    "bearing": 203.160
+    "bearing": 213.160
   },
   {
     "name": "ILS-cat-I",
@@ -5197,7 +5197,7 @@
     "elevation": 1,
     "frequency": 109550,
     "receptionRange": 18,
-    "bearing": 227.371
+    "bearing": 46.371
   },
   {
     "name": "ILS-cat-I",
@@ -11786,6 +11786,19 @@
     "latitude": 38.82731628,
     "longitude": -104.71588898,
     "elevation": 6190,
+    "frequency": 109900,
+    "receptionRange": 18,
+    "bearing": 0.053
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "KCOS",
+    "identifier": "ICOS",
+    "associatedRunwayNumber": "35R",
+    "latitude": 38.779029
+    "longitude": -104.684262,
+    "elevation": 6188,
     "frequency": 109900,
     "receptionRange": 18,
     "bearing": 0.053
@@ -22052,13 +22065,13 @@
     "type": 4,
     "airportICAO": "KRSW",
     "identifier": "IRSW",
-    "associatedRunwayNumber": "05",
-    "latitude": 26.54753304,
-    "longitude": -81.73768616,
-    "elevation": 27,
+    "associatedRunwayNumber": "06",
+    "latitude": 26.526485,
+    "longitude": -81.770014,
+    "elevation": 28,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 53.970
+    "bearing": 53.960
   },
   {
     "name": "ILS-cat-I",
@@ -49649,6 +49662,19 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "EGMC",
+    "identifier": "IND",
+    "associatedRunwayNumber": "06",
+    "latitude": 51.343400,
+    "longitude": 0.0004201,
+    "elevation": 55,
+    "frequency": 111350,
+    "receptionRange": 18,
+    "bearing": 55.084
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "EGMD",
     "identifier": "ILDY",
     "associatedRunwayNumber": "21",
@@ -59024,13 +59050,13 @@
     "type": 4,
     "airportICAO": "KENW",
     "identifier": "IENW",
-    "associatedRunwayNumber": "06L",
-    "latitude": 42.60029698,
-    "longitude": -87.92167682,
+    "associatedRunwayNumber": "07L",
+    "latitude": 42.592997,
+    "longitude": -87.941731,
     "elevation": 743,
     "frequency": 109350,
     "receptionRange": 18,
-    "bearing": 63.676
+    "bearing": 63.686
   },
   {
     "name": "ILS-cat-I",
@@ -59662,12 +59688,12 @@
     "airportICAO": "KFRG",
     "identifier": "IFRG",
     "associatedRunwayNumber": "14",
-    "latitude": 40.72120000,
-    "longitude": -73.40228600,
+    "latitude": 40.734643,
+    "longitude": -73.421778,
     "elevation": 82,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 132.344
+    "bearing": 132.370
   },
   {
     "name": "ILS-cat-I",
