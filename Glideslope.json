@@ -13953,12 +13953,25 @@
     "airportICAO": "KFLL",
     "identifier": "ILHI",
     "associatedRunwayNumber": "10L",
-    "latitude": 26.07767868,
-    "longitude": -80.16175842,
+    "latitude": 26.076928,
+    "longitude": -80.164769,
     "elevation": 6,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 90.750,
+    "bearing": 90.34,
+    "glideslope": 3.00090375
+  },
+  {
+    "name": "GS",
+    "airportICAO": "KFLL",
+    "identifier": "ILHI",
+    "associatedRunwayNumber": "10R",
+    "latitude": 26.065892,
+    "longitude": -80.158347,
+    "elevation": 6,
+    "frequency": 111750
+    "receptionRange": 10,
+    "bearing": 90.34,
     "glideslope": 3.00090375
   },
   {
@@ -13966,12 +13979,25 @@
     "airportICAO": "KFLL",
     "identifier": "IUDL",
     "associatedRunwayNumber": "28R",
-    "latitude": 26.07767105,
-    "longitude": -80.14418030,
+    "latitude": 26.076802,
+    "longitude": -80.140969,
     "elevation": 5,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 270.750,
+    "bearing": 270.390,
+    "glideslope": 3.00270375
+  },
+  {
+    "name": "GS",
+    "airportICAO": "KFLL",
+    "identifier": "IUDL",
+    "associatedRunwayNumber": "28L",
+    "latitude": 26.065741,
+    "longitude": -80.133984,
+    "elevation": 5,
+    "frequency": 111750,
+    "receptionRange": 10,
+    "bearing": 270.390,
     "glideslope": 3.00270375
   },
   {
@@ -52031,12 +52057,12 @@
     "airportICAO": "KBMI",
     "identifier": "ILHJ",
     "associatedRunwayNumber": "20",
-    "latitude": 40.48181700,
-    "longitude": -88.90688100,
+    "latitude": 40.484926,
+    "longitude": -88.907140,
     "elevation": 858,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 198.688,
+    "bearing": 198.906
     "glideslope": 3.00197844
   },
   {
@@ -52044,13 +52070,26 @@
     "airportICAO": "KBMI",
     "identifier": "IBMI",
     "associatedRunwayNumber": "29",
-    "latitude": 40.47743300,
-    "longitude": -88.91414200,
+    "latitude": 40.477523,
+    "longitude": -88.909993,
     "elevation": 871,
-    "frequency": 108300,
+    "frequency": 110950,
     "receptionRange": 10,
     "bearing": 288.920,
     "glideslope": 3.0028796
+  },
+  {
+    "name": "GS",
+    "airportICAO": "KBMI",
+    "identifier": "ILHJ",
+    "associatedRunwayNumber": "02",
+    "latitude": 40.463973,
+    "longitude": -88.916033,
+    "elevation": 871,
+    "frequency": 111900,
+    "receptionRange": 18,
+    "bearing": 17.904,
+	"glideslope": 3.0027458
   },
   {
     "name": "GS",
