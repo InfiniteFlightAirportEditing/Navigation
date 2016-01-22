@@ -9455,9 +9455,9 @@
     "airportICAO": "KARR",
     "identifier": "IARR",
     "associatedRunwayNumber": "09",
-    "latitude": 41.77129364,
-    "longitude": -88.48166656,
-    "elevation": 698,
+    "latitude": 41.770144,
+    "longitude": -88.485370,
+    "elevation": 712,
     "frequency": 108900,
     "receptionRange": 10,
     "bearing": 89.312,
@@ -9466,14 +9466,14 @@
   {
     "name": "GS",
     "airportICAO": "KARR",
-    "identifier": "IROF",
-    "associatedRunwayNumber": "27",
-    "latitude": 41.76955414,
-    "longitude": -88.46519470,
-    "elevation": 712,
+    "identifier": "IARR",
+    "associatedRunwayNumber": "33",
+    "latitude": 41.767422,
+    "longitude": -88.475066,
+    "elevation": 706,
     "frequency": 111150,
     "receptionRange": 10,
-    "bearing": 269.312,
+    "bearing": 328.950,
     "glideslope": 3.00269156
   },
   {
@@ -13949,22 +13949,24 @@
     "glideslope": 3.00221031
   },
   {
-    "name": "GS",
-    "airportICAO": "KFLL",
-    "identifier": "ILHI",
+     "airportICAO": "KFLL",
+    "identifier": "IFLL",
     "associatedRunwayNumber": "10L",
+    "latitude": 26.07767868,
+    "longitude": -80.16175842,
     "latitude": 26.076928,
     "longitude": -80.164769,
     "elevation": 6,
     "frequency": 110100,
     "receptionRange": 10,
+    "bearing": 90.750,
     "bearing": 90.34,
     "glideslope": 3.00090375
   },
   {
     "name": "GS",
     "airportICAO": "KFLL",
-    "identifier": "ILHI",
+    "identifier": "IFLL",
     "associatedRunwayNumber": "10R",
     "latitude": 26.065892,
     "longitude": -80.158347,
@@ -13975,22 +13977,24 @@
     "glideslope": 3.00090375
   },
   {
-    "name": "GS",
     "airportICAO": "KFLL",
-    "identifier": "IUDL",
+    "identifier": "IFLL",
     "associatedRunwayNumber": "28R",
+    "latitude": 26.07767105,
+    "longitude": -80.14418030,
     "latitude": 26.076802,
     "longitude": -80.140969,
     "elevation": 5,
     "frequency": 110700,
     "receptionRange": 10,
+    "bearing": 270.750,
     "bearing": 270.390,
     "glideslope": 3.00270375
   },
   {
     "name": "GS",
     "airportICAO": "KFLL",
-    "identifier": "IUDL",
+    "identifier": "IFLL",
     "associatedRunwayNumber": "28L",
     "latitude": 26.065741,
     "longitude": -80.133984,
@@ -20049,14 +20053,40 @@
     "name": "GS",
     "airportICAO": "KORD",
     "identifier": "IMED",
-    "associatedRunwayNumber": "10",
-    "latitude": 41.96817780,
-    "longitude": -87.92742157,
+    "associatedRunwayNumber": "10L",
+    "latitude": 41.968995,
+    "longitude": -87.931532
     "elevation": 672,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 90.750,
-    "glideslope": 3.00089875
+    "bearing": 89.880
+	"glideslope": 3.00140094
+  },
+  {
+    "name": "GS",
+    "airportICAO": "KORD",
+    "identifier": "ISXH",
+    "associatedRunwayNumber": "10C",
+    "latitude": 41.965700,
+    "longitude": -87.931523,
+    "elevation": 672,
+    "frequency": 108950,
+    "receptionRange": 10,
+    "bearing": 89.870
+	"glideslope": 3.00140094
+  },
+  {
+    "name": "GS",
+    "airportICAO": "KORD",
+    "identifier": "IBYW",
+    "associatedRunwayNumber": "10R",
+    "latitude": 41.957217,
+    "longitude": -87.927893,
+    "elevation": 676,
+    "frequency": 110900,
+    "receptionRange": 10,
+    "bearing": 89.953
+	"glideslope": 3.00140094
   },
   {
     "name": "GS",
@@ -20140,14 +20170,40 @@
     "name": "GS",
     "airportICAO": "KORD",
     "identifier": "ITSL",
-    "associatedRunwayNumber": "28",
-    "latitude": 41.96790695,
-    "longitude": -87.88751221,
-    "elevation": 648,
+    "associatedRunwayNumber": "28R",
+    "latitude": 41.969069,
+    "longitude": -87.883728,
+    "elevation": 680,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 270.750,
-    "glideslope": 3.00269875
+    "bearing": 273.880
+	"glideslope": 3.00219406
+  },
+  {
+    "name": "GS",
+    "airportICAO": "KORD",
+    "identifier": "IVZE",
+    "associatedRunwayNumber": "28C",
+    "latitude": 41.965766,
+    "longitude": -87.891811,
+    "elevation": 680,
+    "frequency": 108950,
+    "receptionRange": 10,
+    "bearing": 273.883
+	"glideslope": 3.00219406
+  },
+  {
+    "name": "GS",
+    "airportICAO": "KORD",
+    "identifier": "IVQX",
+    "associatedRunwayNumber": "28L",
+    "latitude": 41.957236,
+    "longitude": -87.900229,
+    "elevation": 680,
+    "frequency": 110750,
+    "receptionRange": 10,
+    "bearing": 273.879
+	"glideslope": 3.00219406
   },
   {
     "name": "GS",
@@ -52055,7 +52111,7 @@
   {
     "name": "GS",
     "airportICAO": "KBMI",
-    "identifier": "ILHJ",
+    "identifier": "IBMI",
     "associatedRunwayNumber": "20",
     "latitude": 40.484926,
     "longitude": -88.907140,
@@ -52081,7 +52137,7 @@
   {
     "name": "GS",
     "airportICAO": "KBMI",
-    "identifier": "ILHJ",
+    "identifier": "IBMI",
     "associatedRunwayNumber": "02",
     "latitude": 40.463973,
     "longitude": -88.916033,
