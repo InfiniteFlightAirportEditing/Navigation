@@ -21393,12 +21393,12 @@
     "airportICAO": "KPWK",
     "identifier": "IPWK",
     "associatedRunwayNumber": "16",
-    "latitude": 42.12086105,
-    "longitude": -87.90484619,
+    "latitude": 42.123333,
+    "longitude": -87.907129,
     "elevation": 639,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 159.312,
+    "bearing": 158.670,
     "glideslope": 3.00158656
   },
   {
@@ -21757,13 +21757,13 @@
     "airportICAO": "KRIL",
     "identifier": "IRIL",
     "associatedRunwayNumber": "26",
-    "latitude": 39.52667236,
-    "longitude": -107.71832275,
+    "latitude": 39.526855,
+    "longitude":-107.715591,
     "elevation": 5536,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 273.750,
-    "glideslope": 3.60272875
+    "bearing": 273.480,
+    "glideslope": 3.40272875
   },
   {
     "name": "GS",
