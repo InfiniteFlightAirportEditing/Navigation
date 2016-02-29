@@ -4099,9 +4099,9 @@
     "type": 4,
     "airportICAO": "EGMC",
     "identifier": "IND",
-    "associatedRunwayNumber": "24",
-    "latitude": 51.56436539,
-    "longitude": 0.67986399,
+    "associatedRunwayNumber": "23",
+    "latitude": 51.575665,
+    "longitude": 0.704933,
     "elevation": 49,
     "frequency": 111350,
     "receptionRange": 18,
@@ -7402,12 +7402,12 @@
     "airportICAO": "ETNG",
     "identifier": "GIX",
     "associatedRunwayNumber": "27",
-    "latitude": 50.96095657,
-    "longitude": 6.01680279,
+    "latitude": 50.960683,
+    "longitude": 6.063482,
     "elevation": 263,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 270.573
+    "bearing": 270.763
   },
   {
     "name": "ILS-cat-I",
@@ -40395,12 +40395,12 @@
     "airportICAO": "YSSY",
     "identifier": "ISY",
     "associatedRunwayNumber": "07",
-    "latitude": -33.93714905,
-    "longitude": 151.19166565,
+    "latitude": -33.943840,
+    "longitude": 151.163495,
     "elevation": 21,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 74.149
+    "bearing": 74.090
   },
   {
     "name": "ILS-cat-II",
@@ -40408,12 +40408,12 @@
     "airportICAO": "YSSY",
     "identifier": "ISS",
     "associatedRunwayNumber": "16L",
-    "latitude": -33.97333145,
-    "longitude": 151.19444275,
+    "latitude": -33.949623,
+    "longitude": 151.188298,
     "elevation": 30,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 167.903
+    "bearing": 167.790
   },
   {
     "name": "ILS-cat-I",
@@ -40421,12 +40421,12 @@
     "airportICAO": "YSSY",
     "identifier": "IKS",
     "associatedRunwayNumber": "16R",
-    "latitude": -33.96666718,
-    "longitude": 151.18167114,
+    "latitude": -33.929365,
+    "longitude": 151.171619,
     "elevation": 14,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 167.384
+    "bearing": 167.910
   },
   {
     "name": "ILS-cat-I",
@@ -40434,8 +40434,8 @@
     "airportICAO": "YSSY",
     "identifier": "ISW",
     "associatedRunwayNumber": "25",
-    "latitude": -33.94388962,
-    "longitude": 151.16278076,
+    "latitude": -33.937592,
+    "longitude": 151.189909,
     "elevation": 13,
     "frequency": 109700,
     "receptionRange": 18,
@@ -40447,8 +40447,8 @@
     "airportICAO": "YSSY",
     "identifier": "ISN",
     "associatedRunwayNumber": "34L",
-    "latitude": -33.92750168,
-    "longitude": 151.17111206,
+    "latitude": -33.964280,
+    "longitude": 151.180630,
     "elevation": 8,
     "frequency": 110100,
     "receptionRange": 18,
@@ -40460,8 +40460,8 @@
     "airportICAO": "YSSY",
     "identifier": "IKN",
     "associatedRunwayNumber": "34R",
-    "latitude": -33.94749832,
-    "longitude": 151.18777466,
+    "latitude": -33.971098,
+    "longitude": 151.193901,
     "elevation": 20,
     "frequency": 109300,
     "receptionRange": 18,
@@ -49767,9 +49767,9 @@
     "type": 4,
     "airportICAO": "EGMC",
     "identifier": "IND",
-    "associatedRunwayNumber": "24",
-    "latitude": 51.56436700,
-    "longitude": 0.67986400,
+    "associatedRunwayNumber": "23",
+    "latitude": 51.575665,
+    "longitude": 0.704933,
     "elevation": 49,
     "frequency": 111350,
     "receptionRange": 18,
@@ -49780,9 +49780,9 @@
     "type": 4,
     "airportICAO": "EGMC",
     "identifier": "IND",
-    "associatedRunwayNumber": "06",
-    "latitude": 51.343400,
-    "longitude": 0.0004201,
+    "associatedRunwayNumber": "05",
+    "latitude": 51.565196,
+    "longitude": 0.681683,
     "elevation": 55,
     "frequency": 111350,
     "receptionRange": 18,
@@ -68298,7 +68298,7 @@
     "elevation": 8,
     "frequency": 109550,
     "receptionRange": 18,
-    "bearing": 297.932
+    "bearing": 287.932
   },
   {
     "name": "ILS-cat-III",
@@ -68311,7 +68311,7 @@
     "elevation": 5,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 297.903
+    "bearing": 287.903
   },
   {
     "name": "LDA-GS",
@@ -68324,7 +68324,7 @@
     "elevation": 13,
     "frequency": 110750,
     "receptionRange": 18,
-    "bearing": 294.802
+    "bearing": 284.802
   },
   {
     "name": "ILS-cat-I",
@@ -72440,25 +72440,25 @@
     "airportICAO": "LFPB",
     "identifier": "LBG",
     "associatedRunwayNumber": "07",
-    "latitude": 48.97551300,
-    "longitude": 2.46032000,
+    "latitude": 48.963814,
+    "longitude": 2.420164,
     "elevation": 155,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 66.083
+    "bearing": 67.083
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "LFPB",
     "identifier": "RGE",
-    "associatedRunwayNumber": "27",
-    "latitude": 48.96490097,
-    "longitude": 2.42020011,
+    "associatedRunwayNumber": "25",
+    "latitude": 48.974103,
+    "longitude": 2.458190,
     "elevation": 218,
     "frequency": 110550,
     "receptionRange": 18,
-    "bearing": 265.597
+    "bearing": 254.597
   },
   {
     "name": "ILS-cat-I",
