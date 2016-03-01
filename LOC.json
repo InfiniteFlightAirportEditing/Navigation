@@ -11796,7 +11796,7 @@
     "airportICAO": "KCOS",
     "identifier": "ICOS",
     "associatedRunwayNumber": "35R",
-    "latitude": 38.779029
+    "latitude": 38.779029, 
     "longitude": -104.684262,
     "elevation": 6188,
     "frequency": 109900,
