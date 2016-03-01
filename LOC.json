@@ -13962,7 +13962,8 @@
     "bearing": 226.050
   },
   {
-    "name": "GS",
+    "name": "ILS-cat-I",
+	"type": 4,
     "airportICAO": "KFLL",
     "identifier": "IFLL",
     "associatedRunwayNumber": "10R",
@@ -13974,8 +13975,8 @@
     "bearing": 90.340,
   },
   {
-    "name": "LOC",
-    "type": 5,
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "KFLL",
     "identifier": "IFLL",
     "associatedRunwayNumber": "10L",
@@ -13987,8 +13988,8 @@
     "bearing": 90.340
   },
   {
-    "name": "LOC",
-    "type": 5,
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "KFLL",
     "identifier": "IFLL",
     "associatedRunwayNumber": "28R",
@@ -14000,8 +14001,8 @@
     "bearing": 270.390
   },
   {
-    "name": "LOC",
-    "type": 5,
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "KFLL",
     "identifier": "IFLL",
     "associatedRunwayNumber": "28L",

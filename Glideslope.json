@@ -13949,18 +13949,16 @@
     "glideslope": 3.00221031
   },
   {
-     "airportICAO": "KFLL",
+    "name": "GS",
+    "airportICAO": "KFLL",
     "identifier": "IFLL",
     "associatedRunwayNumber": "10L",
-    "latitude": 26.07767868,
-    "longitude": -80.16175842,
     "latitude": 26.076928,
     "longitude": -80.164769,
     "elevation": 6,
     "frequency": 110100,
     "receptionRange": 10,
     "bearing": 90.750,
-    "bearing": 90.34,
     "glideslope": 3.00090375
   },
   {
@@ -13977,18 +13975,16 @@
     "glideslope": 3.00090375
   },
   {
+    "name": "GS",
     "airportICAO": "KFLL",
     "identifier": "IFLL",
     "associatedRunwayNumber": "28R",
-    "latitude": 26.07767105,
-    "longitude": -80.14418030,
     "latitude": 26.076802,
     "longitude": -80.140969,
     "elevation": 5,
     "frequency": 110700,
     "receptionRange": 10,
     "bearing": 270.750,
-    "bearing": 270.390,
     "glideslope": 3.00270375
   },
   {
