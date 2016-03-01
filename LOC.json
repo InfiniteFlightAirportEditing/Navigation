@@ -13980,7 +13980,7 @@
     "identifier": "IFLL",
     "associatedRunwayNumber": "10L",
     "latitude": 26.076928,
-    "longitude": -80.164769
+    "longitude": -80.164769,
     "elevation": 9,
     "frequency": 108500,
     "receptionRange": 18,
@@ -13993,7 +13993,7 @@
     "identifier": "IFLL",
     "associatedRunwayNumber": "28R",
     "latitude": 26.076805,
-    "longitude": -80.140798
+    "longitude": -80.140798,
     "elevation": 6,
     "frequency": 108500,
     "receptionRange": 18,
