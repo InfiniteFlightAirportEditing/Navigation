@@ -32374,12 +32374,12 @@
     "airportICAO": "PHOG",
     "identifier": "IOGG",
     "associatedRunwayNumber": "02",
-    "latitude": 20.89154243,
-    "longitude": -156.43312073,
+    "latitude": 20.889220,
+    "longitude": -156.436282,
     "elevation": 46,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 35.624,
+    "bearing": 34.834,
     "glideslope": 3.00034812
   },
   {
@@ -65382,12 +65382,12 @@
     "airportICAO": "KTMB",
     "identifier": "ITMB",
     "associatedRunwayNumber": "09R",
-    "latitude": 25.64227500,
-    "longitude": -80.43483300,
+    "latitude":  25.6429130,
+    "longitude": -80.441139,
     "elevation": 6,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 87.620,
+    "bearing": 87.330,
     "glideslope": 3.0008731
   },
   {

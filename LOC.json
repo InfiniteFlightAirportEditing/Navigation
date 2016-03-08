@@ -32518,12 +32518,12 @@
     "airportICAO": "PHOG",
     "identifier": "IOGG",
     "associatedRunwayNumber": "02",
-    "latitude": 20.90616035,
-    "longitude": -156.42366028,
+    "latitude":  20.889220,
+    "longitude": -156.436282,
     "elevation": 46,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 34.810
+    "bearing": 34.830
   },
   {
     "name": "ILS-cat-I",
@@ -69516,12 +69516,12 @@
     "airportICAO": "KTMB",
     "identifier": "ITMB",
     "associatedRunwayNumber": "09R",
-    "latitude": 25.64390000,
-    "longitude": -80.41749400,
+    "latitude": 25.642913,
+    "longitude": -80.441139,
     "elevation": 8,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 87.320
+    "bearing": 87.330
   },
   {
     "name": "ILS-cat-I",
