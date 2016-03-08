@@ -11769,8 +11769,8 @@
     "airportICAO": "KCOS",
     "identifier": "ICOS",
     "associatedRunwayNumber": "35R",
-    "latitude": 38.779029
-    "longitude": -104.685795
+    "latitude": 38.779029,
+    "longitude": -104.685795,
     "elevation": 6052,
     "frequency": 109.100,
     "receptionRange": 10,
@@ -20051,11 +20051,11 @@
     "identifier": "IMED",
     "associatedRunwayNumber": "10L",
     "latitude": 41.968995,
-    "longitude": -87.931532
+    "longitude": -87.931532,
     "elevation": 672,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 89.880
+    "bearing": 89.880,
 	"glideslope": 3.00140094
   },
   {
@@ -20068,7 +20068,7 @@
     "elevation": 672,
     "frequency": 108950,
     "receptionRange": 10,
-    "bearing": 89.870
+    "bearing": 89.870,
 	"glideslope": 3.00140094
   },
   {
@@ -20081,7 +20081,7 @@
     "elevation": 676,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 89.953
+    "bearing": 89.953,
 	"glideslope": 3.00140094
   },
   {
@@ -20172,7 +20172,7 @@
     "elevation": 680,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 273.880
+    "bearing": 273.880,
 	"glideslope": 3.00219406
   },
   {
@@ -20185,7 +20185,7 @@
     "elevation": 680,
     "frequency": 108950,
     "receptionRange": 10,
-    "bearing": 273.883
+    "bearing": 273.883,
 	"glideslope": 3.00219406
   },
   {
@@ -20198,7 +20198,7 @@
     "elevation": 680,
     "frequency": 110750,
     "receptionRange": 10,
-    "bearing": 273.879
+    "bearing": 273.879,
 	"glideslope": 3.00219406
   },
   {
@@ -45783,7 +45783,7 @@
     "elevation": 55,
     "frequency": 111350,
     "receptionRange": 18,
-    "bearing": 55.208
+    "bearing": 55.208,
 	"glideslope": 3.50153232
   },
   {
@@ -52114,7 +52114,7 @@
     "elevation": 858,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 198.906
+    "bearing": 198.906,
     "glideslope": 3.00197844
   },
   {
