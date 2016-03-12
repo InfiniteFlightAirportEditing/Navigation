@@ -22531,6 +22531,16 @@
   }, 
   {
     "receptionRange": 40, 
+    "elevation": 1265, 
+    "name": "POMONA", 
+    "longitude": -117.7870758, 
+    "frequency": 110.4000, 
+    "latitude": 34.0783886, 
+    "identifier": "POM", 
+    "slavedVariation": 15.0
+  }, 
+  {
+    "receptionRange": 40, 
     "elevation": 16, 
     "name": "PONCE", 
     "longitude": -66.51916504, 
