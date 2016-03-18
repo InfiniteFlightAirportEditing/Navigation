@@ -43269,8 +43269,8 @@
     "airportICAO": "KEGE",
     "identifier": "IESJ",
     "associatedRunwayNumber": "25",
-    "latitude": 39.63973236,
-    "longitude": -106.93274689,
+    "latitude": 39.644106,
+    "longitude": -106.903636,
     "elevation": 6461,
     "frequency": 109750,
     "receptionRange": 18,
@@ -50302,12 +50302,12 @@
     "airportICAO": "EGSS",
     "identifier": "ISED",
     "associatedRunwayNumber": "04",
-    "latitude": 51.89705800,
-    "longitude": 0.25289400,
+    "latitude": 51.875032,
+    "longitude": 0.219862,
     "elevation": 348,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 42.800
+    "bearing": 42.810
   },
   {
     "name": "ILS-cat-I",
@@ -50315,12 +50315,12 @@
     "airportICAO": "EGSS",
     "identifier": "ISX",
     "associatedRunwayNumber": "22",
-    "latitude": 51.87275300,
-    "longitude": 0.21643100,
+    "latitude": 51.895162,
+    "longitude": 0.250062,
     "elevation": 348,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 222.800
+    "bearing": 223.810
   },
   {
     "name": "ILS-cat-I",

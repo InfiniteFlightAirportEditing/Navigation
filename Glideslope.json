@@ -13404,6 +13404,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "KEGE",
+    "identifier": "IEGE",
+    "associatedRunwayNumber": "25",
+    "latitude": 39.644106,
+    "longitude": -106.903636,
+    "elevation": 6461,
+    "frequency": 109.750,
+    "receptionRange": 10,
+    "bearing": 251.916,
+    "glideslope": 3.00180938
+  },
+  {
+    "name": "GS",
     "airportICAO": "KEGI",
     "identifier": "IEGI",
     "associatedRunwayNumber": "18",
@@ -46298,12 +46311,12 @@
     "airportICAO": "EGSS",
     "identifier": "ISED",
     "associatedRunwayNumber": "04",
-    "latitude": 51.87785600,
-    "longitude": 0.22164200,
+    "latitude": 51.875032,
+    "longitude": 0.219862,
     "elevation": 348,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 43.600,
+    "bearing": 42.810,
     "glideslope": 3.000428
   },
   {
@@ -46311,12 +46324,12 @@
     "airportICAO": "EGSS",
     "identifier": "ISX",
     "associatedRunwayNumber": "22",
-    "latitude": 51.89388100,
-    "longitude": 0.24555300,
+    "latitude": 51.895162,
+    "longitude": 0.250062,
     "elevation": 348,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 223.600,
+    "bearing": 223.810,
     "glideslope": 3.002228
   },
   {
