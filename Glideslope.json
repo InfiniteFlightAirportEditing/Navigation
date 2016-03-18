@@ -16085,12 +16085,12 @@
     "airportICAO": "KIND",
     "identifier": "IIND",
     "associatedRunwayNumber": "05L",
-    "latitude": 39.70910645,
-    "longitude": -86.31936646,
+    "latitude": 39.706308,
+    "longitude": -86.320929,
     "elevation": 741,
     "frequency": 111750,
     "receptionRange": 10,
-    "bearing": 44.876,
+    "bearing": 44.456,
     "glideslope": 3.00044438
   },
   {
