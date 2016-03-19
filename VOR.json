@@ -2223,9 +2223,9 @@
     "receptionRange": 130, 
     "elevation": 131, 
     "name": "BATAM", 
-    "longitude": 104.1333333, 
+    "longitude": 104.13259125, 
     "frequency": 1160000, 
-    "latitude": 01.1366667, 
+    "latitude": 1.13688099, 
     "identifier": "BTM", 
     "slavedVariation": 0.0
   }, 
