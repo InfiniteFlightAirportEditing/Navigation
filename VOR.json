@@ -27723,9 +27723,9 @@
     "receptionRange": 200, 
     "elevation": 150, 
     "name": "TEKONG", 
-    "longitude": 104.02207947, 
+    "longitude": 104.02166670, 
     "frequency": 1165000, 
-    "latitude": 1.41539395, 
+    "latitude": 1.41500000, 
     "identifier": "VTK", 
     "slavedVariation": 0.0
   }, 
