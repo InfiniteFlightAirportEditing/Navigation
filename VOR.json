@@ -26113,9 +26113,9 @@
     "receptionRange": 200, 
     "elevation": 150, 
     "name": "SINJON", 
-    "longitude": 103.8550000, 
+    "longitude": 103.85422516, 
     "frequency": 1135000, 
-    "latitude": 01.2233333, 
+    "latitude": 1.22259402, 
     "identifier": "SJ", 
     "slavedVariation": 0.0
   }, 
@@ -27723,9 +27723,9 @@
     "receptionRange": 200, 
     "elevation": 150, 
     "name": "TEKONG", 
-    "longitude": 104.0216667, 
+    "longitude": 104.02207947, 
     "frequency": 1165000, 
-    "latitude": 01.4150000, 
+    "latitude": 1.41539395, 
     "identifier": "VTK", 
     "slavedVariation": 0.0
   }, 
