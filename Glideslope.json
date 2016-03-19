@@ -39849,12 +39849,12 @@
     "airportICAO": "WSAP",
     "identifier": "IPN",
     "associatedRunwayNumber": "02",
-    "latitude": 1.34733903,
-    "longitude": 103.90280914,
+    "latitude": 1.342049,
+    "longitude": 103.901762,
     "elevation": 50,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 23.812,
+    "bearing": 22.91,
     "glideslope": 3.00022906
   },
   {
@@ -39862,12 +39862,12 @@
     "airportICAO": "WSAP",
     "identifier": "IPS",
     "associatedRunwayNumber": "20",
-    "latitude": 1.37425005,
-    "longitude": 103.91424561,
+    "latitude": 1.378757,
+    "longitude": 103.917280,
     "elevation": 50,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 203.812,
+    "bearing": 202.512,
     "glideslope": 3.00202906
   },
   {
