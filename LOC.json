@@ -11796,7 +11796,7 @@
     "airportICAO": "KCOS",
     "identifier": "ICOS",
     "associatedRunwayNumber": "35R",
-    "latitude": 38.779029, 
+    "latitude": 38.779029,
     "longitude": -104.684262,
     "elevation": 6188,
     "frequency": 109900,
@@ -43100,12 +43100,12 @@
     "airportICAO": "KCUB",
     "identifier": "ICUB",
     "associatedRunwayNumber": "31",
-    "latitude": 33.97509766,
-    "longitude": -81.00307465,
-    "elevation": 191,
+    "latitude": 33.966490,
+    "longitude": -80.988535,
+    "elevation": 190.9,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 306.168
+    "bearing": 305.59
   },
   {
     "name": "LDA",
