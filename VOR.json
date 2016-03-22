@@ -25560,6 +25560,16 @@
     "slavedVariation": 351.0
   }, 
   {
+    "receptionRange": 130, 
+    "elevation": 23, 
+    "name": "SEAL BEACH", 
+    "longitude": -118.054755, 
+    "frequency": 1157000, 
+    "latitude": 33.7832981, 
+    "identifier": "SLI", 
+    "slavedVariation": 15.0
+  }, 
+  {
     "receptionRange": 25, 
     "elevation": 3280, 
     "name": "SEARLE", 
