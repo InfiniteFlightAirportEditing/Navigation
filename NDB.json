@@ -8579,8 +8579,8 @@
   {
     "name": "BURNHAM",
     "identifier": "BUR",
-    "latitude": 51.51889038,
-    "longitude": -0.67722201,
+    "latitude": 51.5183333,
+    "longitude": -0.6766667,
     "elevation": 0,
     "frequency": 421,
     "receptionRange": 30
@@ -11351,8 +11351,8 @@
   {
     "name": "CHILTERN",
     "identifier": "CHT",
-    "latitude": 51.62305450,
-    "longitude": -0.51833302,
+    "latitude": 51.6233333,
+    "longitude": -0.5183333,
     "elevation": 0,
     "frequency": 277,
     "receptionRange": 25
@@ -62111,8 +62111,8 @@
   {
     "name": "WOODLEY",
     "identifier": "WOD",
-    "latitude": 51.45277786,
-    "longitude": -0.87888902,
+    "latitude": 51.4533333,
+    "longitude": -0.8783333,
     "elevation": 0,
     "frequency": 352,
     "receptionRange": 25
