@@ -23052,13 +23052,13 @@
     "name": "GS",
     "airportICAO": "KSNA",
     "identifier": "ISNA",
-    "associatedRunwayNumber": "19R",
-    "latitude": 33.67987823,
-    "longitude": -117.86729431,
-    "elevation": 43,
+    "associatedRunwayNumber": "20R",
+    "latitude": 33.681647,
+    "longitude": -117.865058,
+    "elevation": 56,
     "frequency": 111750,
     "receptionRange": 10,
-    "bearing": 208.624,
+    "bearing": 207.81,
     "glideslope": 3.00207812
   },
   {
