@@ -21370,6 +21370,16 @@
     "slavedVariation": 357.0
   }, 
   {
+    "receptionRange": 120, 
+    "elevation": 27, 
+    "name": "PAMPUS", 
+    "longitude": 5.0921602249145508, 
+    "frequency": 1178000, 
+    "latitude": 52.3348007202148438, 
+    "identifier": "PAM", 
+    "slavedVariation": -2.007
+  }, 
+  {
     "receptionRange": 130, 
     "elevation": 108, 
     "name": "PANGKAL", 
