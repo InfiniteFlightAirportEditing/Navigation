@@ -25560,6 +25560,16 @@
     "slavedVariation": 351.0
   }, 
   {
+    "receptionRange": 120, 
+    "elevation": 300, 
+    "name": "SEAFORD", 
+    "longitude": 0.1219440028071404, 
+    "frequency": 1170000, 
+    "latitude": 50.7606010437011719, 
+    "identifier": "SFD", 
+    "slavedVariation": -2.049
+  }, 
+  {
     "receptionRange": 130, 
     "elevation": 23, 
     "name": "SEAL BEACH", 
@@ -26548,6 +26558,16 @@
     "latitude": 36.67502594, 
     "identifier": "SBV", 
     "slavedVariation": 355.0
+  }, 
+  {
+    "receptionRange": 40, 
+    "elevation": 66, 
+    "name": "SOUTHAMPTON", 
+    "longitude": -1.3450000286102295, 
+    "frequency": 1133500, 
+    "latitude": 50.9552993774414062, 
+    "identifier": "SAM", 
+    "slavedVariation": -4.001
   }, 
   {
     "receptionRange": 130, 
