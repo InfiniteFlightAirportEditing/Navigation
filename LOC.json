@@ -49678,12 +49678,12 @@
     "airportICAO": "EGLC",
     "identifier": "ILSR",
     "associatedRunwayNumber": "27",
-    "latitude": 51.50564200,
-    "longitude": 0.04212500,
+    "latitude": 51.504888,
+    "longitude": 0.066015,
     "elevation": 19,
     "frequency": 111150,
     "receptionRange": 18,
-    "bearing": 272.892
+    "bearing": 274.892
   },
   {
     "name": "ILS-cat-I",

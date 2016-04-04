@@ -4047,12 +4047,12 @@
     "airportICAO": "EGLC",
     "identifier": "ILSR",
     "associatedRunwayNumber": "27",
-    "latitude": 51.50551224,
-    "longitude": 0.06335000,
+    "latitude": 51.504888,
+    "longitude": 0.066015,
     "elevation": 35,
     "frequency": 111150,
     "receptionRange": 10,
-    "bearing": 273.750,
+    "bearing": 274.750,
     "glideslope": 5.50272875
   },
   {
