@@ -42131,9 +42131,9 @@
   {
     "name": "PAHOA",
     "identifier": "POA",
-    "latitude": 19.54113960,
-    "longitude": -154.97222900,
-    "elevation": 0,
+    "latitude": 19.5411400,
+    "longitude": -154.9722278,
+    "elevation": 495,
     "frequency": 332,
     "receptionRange": 50
   },
