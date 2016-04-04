@@ -3917,12 +3917,12 @@
     "airportICAO": "EGHI",
     "identifier": "ISN",
     "associatedRunwayNumber": "20",
-    "latitude": 50.957563,
-    "longitude": -1.352729,
+    "latitude": 50.957565,
+    "longitude": -1.352720,
     "elevation": 44,
     "frequency": 110750,
     "receptionRange": 10,
-    "bearing": 199.350,
+    "bearing": 199.360,
     "glideslope": 3.10239344
   },
   {
