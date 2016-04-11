@@ -8048,8 +8048,8 @@
   {
     "name": "BRUNO",
     "identifier": "BUN",
-    "latitude": 51.07694626,
-    "longitude": 4.77944422,
+    "latitude": 51.1183333,
+    "longitude": 4.8416667,
     "elevation": 0,
     "frequency": 341,
     "receptionRange": 50
@@ -39413,8 +39413,8 @@
   {
     "name": "NICKY",
     "identifier": "NIK",
-    "latitude": 51.16249847,
-    "longitude": 4.18916702,
+    "latitude": 51.165,
+    "longitude": 4.1833333,
     "elevation": 0,
     "frequency": 336,
     "receptionRange": 50
