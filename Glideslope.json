@@ -4827,12 +4827,12 @@
     "airportICAO": "EGUW",
     "identifier": "WT",
     "associatedRunwayNumber": "23",
-    "latitude": 52.13332748,
-    "longitude": 0.96411699,
+    "latitude": 52.134327,
+    "longitude": 0.968563,
     "elevation": 284,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 228.624,
+    "bearing": 227.83,
     "glideslope": 3.00227812
   },
   {

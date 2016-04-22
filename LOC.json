@@ -4789,12 +4789,12 @@
     "airportICAO": "EGUW",
     "identifier": "WT",
     "associatedRunwayNumber": "23",
-    "latitude": 52.12507629,
-    "longitude": 0.94891399,
+    "latitude": 52.134327,
+    "longitude": 0.968563,
     "elevation": 284,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 232.506
+    "bearing": 227.83
   },
   {
     "name": "ILS-cat-I",
