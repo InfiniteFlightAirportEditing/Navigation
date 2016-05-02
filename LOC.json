@@ -22534,12 +22534,12 @@
     "airportICAO": "KSEA",
     "identifier": "ISZI",
     "associatedRunwayNumber": "16C",
-    "latitude": 47.43577957,
-    "longitude": -122.31123352,
+    "latitude": 47.463811,
+    "longitude": -122.310988,
     "elevation": 355,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 180.337
+    "bearing": 180.34
   },
   {
     "name": "ILS-cat-I",
@@ -22547,12 +22547,12 @@
     "airportICAO": "KSEA",
     "identifier": "ISNQ",
     "associatedRunwayNumber": "16L",
-    "latitude": 47.42939377,
-    "longitude": -122.30805969,
+    "latitude": 47.463797,
+    "longitude": -122.307752,
     "elevation": 338,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 180.343
+    "bearing": 180.34
   },
   {
     "name": "ILS-cat-III",
@@ -22560,12 +22560,12 @@
     "airportICAO": "KSEA",
     "identifier": "ICJL",
     "associatedRunwayNumber": "16R",
-    "latitude": 47.43775558,
-    "longitude": -122.31803131,
+    "latitude": 47.463838,
+    "longitude": -122.317863,
     "elevation": 410,
     "frequency": 110750,
     "receptionRange": 18,
-    "bearing": 180.336
+    "bearing": 180.34
   },
   {
     "name": "ILS-cat-I",
@@ -22573,12 +22573,12 @@
     "airportICAO": "KSEA",
     "identifier": "ITUC",
     "associatedRunwayNumber": "34C",
-    "latitude": 47.46509552,
-    "longitude": -122.31097412,
+    "latitude": 47.437972,
+    "longitude": -122.311214,
     "elevation": 422,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 0.337
+    "bearing": 0.34
   },
   {
     "name": "ILS-cat-III",
@@ -22586,12 +22586,12 @@
     "airportICAO": "KSEA",
     "identifier": "IBEJ",
     "associatedRunwayNumber": "34L",
-    "latitude": 47.46659851,
-    "longitude": -122.31783295,
+    "latitude": 47.440537,
+    "longitude": -122.318065,
     "elevation": 433,
     "frequency": 110750,
     "receptionRange": 18,
-    "bearing": 0.336
+    "bearing": 0.34
   },
   {
     "name": "ILS-cat-I",
@@ -22599,12 +22599,12 @@
     "airportICAO": "KSEA",
     "identifier": "ISEA",
     "associatedRunwayNumber": "34R",
-    "latitude": 47.46507645,
-    "longitude": -122.30773926,
+    "latitude": 47.431175,
+    "longitude": -122.308040,
     "elevation": 428,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 0.343
+    "bearing": 0.34
   },
   {
     "name": "ILS-cat-I",
