@@ -5569,11 +5569,11 @@
     "identifier": "BIL",
     "associatedRunwayNumber": "09",
     "latitude": 55.74131775,
-    "longitude": 9.13911915,
+    "longitude": 9.13411915,
     "elevation": 247,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 87.688,
+    "bearing": 86.688,
     "glideslope": 3.00086844
   },
   {
@@ -5581,12 +5581,12 @@
     "airportICAO": "EKBI",
     "identifier": "LEL",
     "associatedRunwayNumber": "27",
-    "latitude": 55.73961639,
-    "longitude": 9.17425346,
+    "latitude": 55.7411673,
+    "longitude": 9.17925346,
     "elevation": 247,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 267.688,
+    "bearing": 266.598,
     "glideslope": 3.00266844
   },
   {
@@ -35273,12 +35273,12 @@
     "airportICAO": "SMJP",
     "identifier": "IZAN",
     "associatedRunwayNumber": "11",
-    "latitude": 5.45165014,
-    "longitude": -55.20086288,
+    "latitude": 5.452760,
+    "longitude": -55.203476,
     "elevation": 56,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 90.312,
+    "bearing": 89.69,
     "glideslope": 3.00089656
   },
   {
