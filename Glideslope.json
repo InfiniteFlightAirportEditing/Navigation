@@ -5838,6 +5838,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "EKVG",
+    "identifier": "MF",
+    "associatedRunwayNumber": "30",
+    "latitude": 62.059778,
+    "longitude": -7.259344,
+    "elevation": 280,
+    "frequency": 110300,
+    "receptionRange": 10,
+    "bearing": 296.178,
+    "glideslope": 3.01280125
+  },
+  {
+    "name": "GS",
     "airportICAO": "EKYT",
     "identifier": "AE",
     "associatedRunwayNumber": "08L",
