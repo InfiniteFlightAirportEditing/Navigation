@@ -48196,12 +48196,12 @@
     "airportICAO": "ESGG",
     "identifier": "SSG",
     "associatedRunwayNumber": "03",
-    "latitude": 57.65233300,
-    "longitude": 12.26802800,
+    "latitude": 57.646202,
+    "longitude": 12.263778,
     "elevation": 506,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 26.904,
+    "bearing": 25.904,
     "glideslope": 3.00025952
   },
   {
@@ -48209,12 +48209,12 @@
     "airportICAO": "ESGG",
     "identifier": "NGG",
     "associatedRunwayNumber": "21",
-    "latitude": 57.67402800,
-    "longitude": 12.28775000,
+    "latitude": 57.672824,
+    "longitude": 12.288001,
     "elevation": 506,
     "frequency": 108500,
     "receptionRange": 10,
-    "bearing": 206.904,
+    "bearing": 205.904,
     "glideslope": 3.00205952
   },
   {
