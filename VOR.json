@@ -20500,6 +20500,16 @@
     "slavedVariation": 24.0
   }, 
   {
+    "receptionRange": 130, 
+    "elevation": 160, 
+    "name": "Norvenich", 
+    "longitude": 50.0666666, 
+    "frequency": 1162000, 
+    "latitude": 6.6850000, 
+    "identifier": "NOR", 
+    "slavedVariation": 20.0
+  }, 
+  {
     "receptionRange": 40, 
     "elevation": 310, 
     "name": "NORWICH", 
