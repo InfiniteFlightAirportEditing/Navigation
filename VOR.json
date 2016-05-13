@@ -20921,6 +20921,16 @@
   }, 
   {
     "receptionRange": 100, 
+    "elevation": 160, 
+    "name": "Osnabruck", 
+    "longitude": 18.99355507, 
+    "frequency": 1143000, 
+    "latitude": 63.40605545, 
+    "identifier": "OSN", 
+    "slavedVariation": 6.0
+  }, 
+  {
+    "receptionRange": 100, 
     "elevation": 76, 
     "name": "OSAKA", 
     "longitude": 135.45161438, 
