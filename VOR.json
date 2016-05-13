@@ -1860,6 +1860,16 @@
     "slavedVariation": 2.0
   }, 
   {
+    "receptionRange": 110, 
+    "elevation": 160, 
+    "name": "Barmen", 
+    "longitude": 51.3186111, 
+    "frequency": 1136000, 
+    "latitude": 7.16833333, 
+    "identifier": "BAM", 
+    "slavedVariation": 7.0
+  }, 
+  {
     "receptionRange": 130, 
     "elevation": 1279, 
     "name": "BAMAKO/SENOU", 
