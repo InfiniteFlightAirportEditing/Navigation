@@ -27941,12 +27941,12 @@
     "airportICAO": "LIMC",
     "identifier": "IMSL",
     "associatedRunwayNumber": "17L",
-    "latitude": 45.63946533,
-    "longitude": 8.73283577,
+    "latitude": 45.650373,
+    "longitude": 8.727925,
     "elevation": 792,
     "frequency": 110750,
     "receptionRange": 10,
-    "bearing": 170.250,
+    "bearing": 169.070,
     "glideslope": 3.00169625
   },
   {
@@ -27954,12 +27954,12 @@
     "airportICAO": "LIMC",
     "identifier": "IMA",
     "associatedRunwayNumber": "35L",
-    "latitude": 45.61738968,
-    "longitude": 8.72811127,
+    "latitude": 45.610815,
+    "longitude": 8.728301,
     "elevation": 768,
     "frequency": 109100,
     "receptionRange": 10,
-    "bearing": 350.250,
+    "bearing": 349.070,
     "glideslope": 3.00349625
   },
   {
@@ -27967,12 +27967,12 @@
     "airportICAO": "LIMC",
     "identifier": "MLP",
     "associatedRunwayNumber": "35R",
-    "latitude": 45.61869431,
-    "longitude": 8.73858261,
+    "latitude": 45.615752,
+    "longitude": 8.737495,
     "elevation": 740,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 350.250,
+    "bearing": 349.060,
     "glideslope": 3.00349625
   },
   {
