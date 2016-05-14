@@ -6583,12 +6583,12 @@
     "airportICAO": "ESGP",
     "identifier": "GP",
     "associatedRunwayNumber": "19",
-    "latitude": 57.76244354,
-    "longitude": 11.86824989,
+    "latitude": 57.784157,
+    "longitude": 11.871833,
     "elevation": 59,
     "frequency": 108100,
     "receptionRange": 18,
-    "bearing": 185.012
+    "bearing": 185.000
   },
   {
     "name": "ILS-cat-I",
