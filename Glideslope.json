@@ -2448,12 +2448,12 @@
     "airportICAO": "EDDM",
     "identifier": "IMNE",
     "associatedRunwayNumber": "08L",
-    "latitude": 48.36472321,
-    "longitude": 11.77180290,
+    "latitude": 48.362758,
+    "longitude": 11.767531,
     "elevation": 1487,
     "frequency": 109500,
     "receptionRange": 15,
-    "bearing": 83.812,
+    "bearing": 83.4,
     "glideslope": 3.00083406
   },
   {
@@ -2461,12 +2461,12 @@
     "airportICAO": "EDDM",
     "identifier": "IMSE",
     "associatedRunwayNumber": "08R",
-    "latitude": 48.33937836,
-    "longitude": 11.75533867,
+    "latitude": 48.340679,
+    "longitude": 11.751020,
     "elevation": 1487,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 83.750,
+    "bearing": 83.37,
     "glideslope": 3.00083375
   },
   {
@@ -2474,12 +2474,12 @@
     "airportICAO": "EDDM",
     "identifier": "IMSW",
     "associatedRunwayNumber": "26L",
-    "latitude": 48.34288025,
-    "longitude": 11.80087185,
+    "latitude": 48.344815,
+    "longitude": 11.804585,
     "elevation": 1487,
     "frequency": 108300,
     "receptionRange": 10,
-    "bearing": 263.750,
+    "bearing": 263.37,
     "glideslope": 3.00263375
   },
   {
@@ -2487,12 +2487,12 @@
     "airportICAO": "EDDM",
     "identifier": "IMNW",
     "associatedRunwayNumber": "26R",
-    "latitude": 48.36815643,
-    "longitude": 11.81651878,
+    "latitude": 48.366880,
+    "longitude": 11.821116,
     "elevation": 1487,
     "frequency": 108700,
     "receptionRange": 15,
-    "bearing": 263.812,
+    "bearing": 263.4,
     "glideslope": 3.00263406
   },
   {
