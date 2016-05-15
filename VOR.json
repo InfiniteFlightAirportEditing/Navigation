@@ -26803,9 +26803,9 @@
     "receptionRange": 130, 
     "elevation": 13, 
     "name": "ST", 
-    "longitude": -63.1182785, 
+    "longitude": -63.1183333, 
     "frequency": 1130000, 
-    "latitude": 18.03811073, 
+    "latitude": 18.0383333, 
     "identifier": "PJM", 
     "slavedVariation": 348.0
   }, 
