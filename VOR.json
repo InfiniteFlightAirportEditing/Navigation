@@ -18288,6 +18288,16 @@
     "latitude": 44.58180618, 
     "identifier": "YEE", 
     "slavedVariation": 350.0
+  },
+  {
+    "receptionRange": 130, 
+    "elevation": 207, 
+    "name": "MIDHURST", 
+    "longitude": -000.6250000, 
+    "frequency": 114000, 
+    "latitude": 51.0538889, 
+    "identifier": "MID", 
+    "slavedVariation": 350.0
   }, 
   {
     "receptionRange": 40, 
