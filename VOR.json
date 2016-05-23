@@ -19808,7 +19808,7 @@
     "latitude": 30.2885264,
     "identifier": "TNV",
     "slavedVariation": 8.0,
-  },
+  }, 
   {
     "receptionRange": 130, 
     "elevation": 126, 
