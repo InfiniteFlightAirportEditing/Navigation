@@ -5651,11 +5651,11 @@
   }, 
   {
     "receptionRange": 40, 
-    "elevation": 275, 
-    "name": "COLLEGE", 
-    "longitude": -96.42069244, 
+    "elevation": 264, 
+    "name": "COLLEGE STATION", 
+    "longitude": -96.4206808, 
     "frequency": 1133000, 
-    "latitude": 30.60499954, 
+    "latitude": 30.6050017, 
     "identifier": "CLL", 
     "slavedVariation": 8.0
   }, 
@@ -11713,9 +11713,9 @@
     "receptionRange": 130, 
     "elevation": 47, 
     "name": "HOBBY", 
-    "longitude": -95.27661133, 
+    "longitude": -95.2766203, 
     "frequency": 1171000, 
-    "latitude": 29.65561104, 
+    "latitude": 29.6556181, 
     "identifier": "HUB", 
     "slavedVariation": 5.0
   }, 
@@ -12083,9 +12083,9 @@
     "receptionRange": 130, 
     "elevation": 81, 
     "name": "HUMBLE", 
-    "longitude": -95.34572601, 
+    "longitude": -95.3457192, 
     "frequency": 1166000, 
-    "latitude": 29.95691681, 
+    "latitude": 29.9569172, 
     "identifier": "IAH", 
     "slavedVariation": 5.0
   }, 
@@ -12413,9 +12413,9 @@
     "receptionRange": 40, 
     "elevation": 419, 
     "name": "INDUSTRY", 
-    "longitude": -96.56219482, 
+    "longitude": -96.5621942, 
     "frequency": 1102000, 
-    "latitude": 29.95605469, 
+    "latitude": 29.9560575, 
     "identifier": "IDU", 
     "slavedVariation": 8.0
   }, 
@@ -16603,9 +16603,9 @@
     "receptionRange": 130, 
     "elevation": 207, 
     "name": "LUFKIN", 
-    "longitude": -94.71683502, 
+    "longitude": -94.7168325, 
     "frequency": 1121000, 
-    "latitude": 31.16244507, 
+    "latitude": 31.1624419, 
     "identifier": "LFK", 
     "slavedVariation": 5.0
   }, 
@@ -19799,6 +19799,16 @@
     "identifier": "NVS", 
     "slavedVariation": 357.0
   }, 
+  {
+    "receptionRange": 130,
+    "elevation": 247,
+    "name": "NAVASOTA",
+    "longitude": -96.0582400,
+    "frequency": 1159000,
+    "latitude": 30.2885264,
+    "identifier": "TNV",
+    "slavedVariation": 8.0,
+  }
   {
     "receptionRange": 130, 
     "elevation": 126, 
