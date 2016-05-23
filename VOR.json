@@ -19807,7 +19807,7 @@
     "frequency": 1159000,
     "latitude": 30.2885264,
     "identifier": "TNV",
-    "slavedVariation": 8.0,
+    "slavedVariation": 8.0
   }, 
   {
     "receptionRange": 130, 
