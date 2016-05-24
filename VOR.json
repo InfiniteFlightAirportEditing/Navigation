@@ -16303,9 +16303,9 @@
     "receptionRange": 40, 
     "elevation": 1207, 
     "name": "LLANO", 
-    "longitude": -98.78739166, 
+    "longitude": -98.7873886, 
     "frequency": 1082000, 
-    "latitude": 30.79633331, 
+    "latitude": 30.7963419, 
     "identifier": "LLO", 
     "slavedVariation": 8.0
   }, 
@@ -27833,9 +27833,9 @@
     "receptionRange": 40, 
     "elevation": 710, 
     "name": "TEMPLE", 
-    "longitude": -97.42497253, 
+    "longitude": -97.4249669, 
     "frequency": 1104000, 
-    "latitude": 31.20933342, 
+    "latitude": 31.2093358, 
     "identifier": "TPL", 
     "slavedVariation": 9.0
   }, 
