@@ -24536,12 +24536,12 @@
     "airportICAO": "KVLD",
     "identifier": "IVLD",
     "associatedRunwayNumber": "35",
-    "latitude": 30.79316711,
-    "longitude": -83.27571869,
+    "latitude": 30.768751,
+    "longitude": -83.271157,
     "elevation": 203,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 350.870
+    "bearing": 350.86
   },
   {
     "name": "ILS-cat-I",

@@ -24470,12 +24470,12 @@
     "airportICAO": "KVLD",
     "identifier": "IVLD",
     "associatedRunwayNumber": "35",
-    "latitude": 30.77611732,
-    "longitude": -83.27381897,
-    "elevation": 197,
+    "latitude": 30.768751,
+    "longitude": -83.271157,
+    "elevation": 203,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 351.750,
+    "bearing": 350.86,
     "glideslope": 3.00350875
   },
   {
