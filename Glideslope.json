@@ -24366,12 +24366,12 @@
     "airportICAO": "KVAD",
     "identifier": "IVAD",
     "associatedRunwayNumber": "18L",
-    "latitude": 30.97548103,
-    "longitude": -83.18931580,
+    "latitude": 30.981812,
+    "longitude": -83.190808,
     "elevation": 233,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 180.968,
+    "bearing": 180.47,
     "glideslope": 2.50180484
   },
   {

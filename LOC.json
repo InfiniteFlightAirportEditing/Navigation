@@ -24432,12 +24432,12 @@
     "airportICAO": "KVAD",
     "identifier": "IVAD",
     "associatedRunwayNumber": "18L",
-    "latitude": 30.95193291,
-    "longitude": -83.19109344,
+    "latitude": 30.981812,
+    "longitude": -83.190807,
     "elevation": 233,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 180.473
+    "bearing": 180.47
   },
   {
     "name": "ILS-cat-I",
