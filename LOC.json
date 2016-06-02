@@ -22690,12 +22690,12 @@
     "airportICAO": "KSFO",
     "identifier": "ISIA",
     "associatedRunwayNumber": "19L",
-    "latitude": 37.60451889,
-    "longitude": -122.38223267,
-    "elevation": 10,
+    "latitude": 37.627828,
+    "longitude": -122.366817,
+    "elevation": 4,
     "frequency": 108900,
     "receptionRange": 18,
-    "bearing": 207.667
+    "bearing": 207.72
   },
   {
     "name": "ILS-cat-I",
@@ -22703,12 +22703,12 @@
     "airportICAO": "KSFO",
     "identifier": "ISFO",
     "associatedRunwayNumber": "28L",
-    "latitude": 37.62656784,
-    "longitude": -122.39377594,
-    "elevation": 8,
+    "latitude": 37.611661,
+    "longitude": -122.358307,
+    "elevation": 4,
     "frequency": 109550,
     "receptionRange": 18,
-    "bearing": 297.932
+    "bearing": 297.92
   },
   {
     "name": "ILS-cat-III",
@@ -22716,25 +22716,12 @@
     "airportICAO": "KSFO",
     "identifier": "IGWQ",
     "associatedRunwayNumber": "28R",
-    "latitude": 37.62953949,
-    "longitude": -122.39530945,
-    "elevation": 5,
+    "latitude": 37.613502,
+    "longitude": -122.357133,
+    "elevation": 4,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 297.903
-  },
-  {
-    "name": "LDA-GS",
-    "type": 4,
-    "airportICAO": "KSFO",
-    "identifier": "IFNP",
-    "associatedRunwayNumber": "28R",
-    "latitude": 37.62129974,
-    "longitude": -122.36840057,
-    "elevation": 13,
-    "frequency": 110750,
-    "receptionRange": 18,
-    "bearing": 294.802
+    "bearing": 297.91
   },
   {
     "name": "ILS-cat-I",
