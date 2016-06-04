@@ -26,10 +26,10 @@
     "Track": "Whisky", 
     "Waypoint 1": "VALIE",
     "Waypoint 2": "SCROD",
-    "Waypoint 3": "56/50"
-    "Waypoint 4": "57/40"
-    "Waypoint 5": "56/30"
-    "Waypoint 6": "54/20"
+    "Waypoint 3": "56/50",
+    "Waypoint 4": "57/40",
+    "Waypoint 5": "56/30",
+    "Waypoint 6": "54/20",
     "Waypoint 7": "PIKIL",
     "Waypoint 8": "SOVED"
   },
@@ -37,10 +37,10 @@
     "Track": "XRay", 
     "Waypoint 1": "STEAM",
     "Waypoint 2": "OYSTR",
-    "Waypoint 3": "55/50"
-    "Waypoint 4": "56/40"
-    "Waypoint 5": "55/30"
-    "Waypoint 6": "53/20"
+    "Waypoint 3": "55/50",
+    "Waypoint 4": "56/40",
+    "Waypoint 5": "55/30",
+    "Waypoint 6": "53/20",
     "Waypoint 7": "RESNO",
     "Waypoint 8": "NETKI"
   },
@@ -48,10 +48,10 @@
     "Track": "Yankee", 
     "Waypoint 1": "REDBY",
     "Waypoint 2": "CARPE",
-    "Waypoint 3": "54/50"
-    "Waypoint 4": "55/40"
-    "Waypoint 5": "54/30"
-    "Waypoint 6": "52/20"
+    "Waypoint 3": "54/50",
+    "Waypoint 4": "55/40",
+    "Waypoint 5": "54/30",
+    "Waypoint 6": "52/20",
     "Waypoint 7": "DOGAL",
     "Waypoint 8": "BEXET"
   }
