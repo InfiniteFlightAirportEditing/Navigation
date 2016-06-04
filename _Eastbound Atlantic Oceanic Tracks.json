@@ -1,0 +1,58 @@
+[ 
+  { 
+
+    "Track": "Uniform", 
+    "Waypoint 1": "HO",
+    "Waypoint 2": "PORGY",
+    "Waypoint 2": "47/50",
+    "Waypoint 3": "50/40",
+    "Waypoint 4": "52/30",
+    "Waypoint 5": "52/20",
+    "Waypoint 6": "LIMRI",
+    "Waypoint 7": "XETBO"
+  },
+  {
+    "Track": "Victor", 
+    "Waypoint 1": "FOXXE",
+    "Waypoint 2": "LOACH",
+    "Waypoint 3": "57/50",
+    "Waypoint 4": "58/40",
+    "Waypoint 5": "58/30",
+    "Waypoint 6": "57/20",
+    "Waypoint 7": "SUNOT",
+    "Waypoint 8": "KESIX"
+  },
+  {
+    "Track": "Whisky", 
+    "Waypoint 1": "VALIE",
+    "Waypoint 2": "SCROD",
+    "Waypoint 3": "56/50"
+    "Waypoint 4": "57/40"
+    "Waypoint 5": "56/30"
+    "Waypoint 6": "54/20"
+    "Waypoint 7": "PIKIL",
+    "Waypoint 8": "SOVED"
+  },
+  {
+    "Track": "XRay", 
+    "Waypoint 1": "STEAM",
+    "Waypoint 2": "OYSTR",
+    "Waypoint 3": "55/50"
+    "Waypoint 4": "56/40"
+    "Waypoint 5": "55/30"
+    "Waypoint 6": "53/20"
+    "Waypoint 7": "RESNO",
+    "Waypoint 8": "NETKI"
+  },
+  {
+    "Track": "Yankee", 
+    "Waypoint 1": "REDBY",
+    "Waypoint 2": "CARPE",
+    "Waypoint 3": "54/50"
+    "Waypoint 4": "55/40"
+    "Waypoint 5": "54/30"
+    "Waypoint 6": "52/20"
+    "Waypoint 7": "DOGAL",
+    "Waypoint 8": "BEXET"
+  }
+]
