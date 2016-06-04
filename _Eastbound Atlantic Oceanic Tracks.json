@@ -1,26 +1,27 @@
 [ 
+  
   { 
 
     "Track": "Uniform", 
-    "Waypoint 1": "HO",
-    "Waypoint 2": "PORGY",
-    "Waypoint 2": "47/50",
-    "Waypoint 3": "50/40",
-    "Waypoint 4": "52/30",
-    "Waypoint 5": "52/20",
-    "Waypoint 6": "LIMRI",
-    "Waypoint 7": "XETBO"
+    "Waypoint 1": "XETBO",
+    "Waypoint 2": "LIMRI",
+    "Waypoint 2": "52/20",
+    "Waypoint 3": "52/30",
+    "Waypoint 4": "50/40",
+    "Waypoint 5": "47/50",
+    "Waypoint 6": "PORGY",
+    "Waypoint 7": "HO"
   },
   {
     "Track": "Victor", 
-    "Waypoint 1": "FOXXE",
-    "Waypoint 2": "LOACH",
-    "Waypoint 3": "57/50",
-    "Waypoint 4": "58/40",
-    "Waypoint 5": "58/30",
-    "Waypoint 6": "57/20",
-    "Waypoint 7": "SUNOT",
-    "Waypoint 8": "KESIX"
+    "Waypoint 1": "KESIX",
+    "Waypoint 2": "SUNOT",
+    "Waypoint 3": "57/20",
+    "Waypoint 4": "58/30",
+    "Waypoint 5": "58/40",
+    "Waypoint 6": "57/50",
+    "Waypoint 7": "LOACH",
+    "Waypoint 8": "FOXXE"
   },
   {
     "Track": "Whisky", 
