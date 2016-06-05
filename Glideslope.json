@@ -2864,12 +2864,12 @@
     "airportICAO": "EDJA",
     "identifier": "IAMW",
     "associatedRunwayNumber": "24",
-    "latitude": 47.99200058,
-    "longitude": 10.25065041,
-    "elevation": 2050,
+    "latitude": 47.995542,
+    "longitude": 10.256496,
+    "elevation": 2077.1,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 237.876,
+    "bearing": 239.33,
     "glideslope": 3.00237438
   },
   {

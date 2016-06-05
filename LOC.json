@@ -2826,12 +2826,12 @@
     "airportICAO": "EDJA",
     "identifier": "IAMW",
     "associatedRunwayNumber": "24",
-    "latitude": 47.98171616,
-    "longitude": 10.22161674,
-    "elevation": 0,
+    "latitude": 47.995542,
+    "longitude": 10.256496,
+    "elevation": 2077.1,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 239.250
+    "bearing": 239.33
   },
   {
     "name": "ILS-cat-I",
