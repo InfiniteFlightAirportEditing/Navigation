@@ -40344,9 +40344,9 @@
     "airportICAO": "YSCB",
     "identifier": "ICB",
     "associatedRunwayNumber": "35",
-    "latitude": -35.28722382,
-    "longitude": 149.19444275,
-    "elevation": 1888,
+    "latitude": -35.320209,
+    "longitude": 149.194444,
+    "elevation": 1887,
     "frequency": 109500,
     "receptionRange": 18,
     "bearing": 360.000

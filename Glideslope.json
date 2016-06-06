@@ -40239,12 +40239,12 @@
     "airportICAO": "YSCB",
     "identifier": "ICB",
     "associatedRunwayNumber": "35",
-    "latitude": -35.31194305,
-    "longitude": 149.19639587,
-    "elevation": 1888,
+    "latitude": -35.320209,
+    "longitude": 149.194444,
+    "elevation": 1887,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 180.000,
+    "bearing": 360.000,
     "glideslope": 3.0018
   },
   {
