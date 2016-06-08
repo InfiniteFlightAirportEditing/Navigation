@@ -14330,12 +14330,12 @@
     "airportICAO": "KFWA",
     "identifier": "IHVD",
     "associatedRunwayNumber": "05",
-    "latitude": 40.96565247,
-    "longitude": -85.21089935,
-    "elevation": 806,
+    "latitude": 40.962686,
+    "longitude": -85.212692,
+    "elevation": 248.1,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 44.312,
+    "bearing": 44.16,
     "glideslope": 3.00044156
   },
   {
@@ -14343,12 +14343,12 @@
     "airportICAO": "KFWA",
     "identifier": "IFWA",
     "associatedRunwayNumber": "32",
-    "latitude": 40.97930527,
-    "longitude": -85.18680573,
-    "elevation": 798,
+    "latitude": 40.978058,
+    "longitude": -85.183083,
+    "elevation": 248.1,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 315.750,
+    "bearing": 314.87,
     "glideslope": 3.00314875
   },
   {
