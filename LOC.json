@@ -8819,12 +8819,12 @@
     "airportICAO": "KABE",
     "identifier": "IABE",
     "associatedRunwayNumber": "06",
-    "latitude": 40.66085052,
-    "longitude": -75.42792511,
+    "latitude": 40.646982,
+    "longitude": -75.450637,
     "elevation": 394,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 51.170
+    "bearing": 51.16
   },
   {
     "name": "ILS-cat-I",
@@ -8832,12 +8832,12 @@
     "airportICAO": "KABE",
     "identifier": "IBXY",
     "associatedRunwayNumber": "13",
-    "latitude": 40.64608765,
-    "longitude": -75.43134308,
+    "latitude": 40.655201,
+    "longitude": -75.449769,
     "elevation": 394,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 123.102
+    "bearing": 123.11
   },
   {
     "name": "ILS-cat-I",
@@ -8845,12 +8845,12 @@
     "airportICAO": "KABE",
     "identifier": "IGUW",
     "associatedRunwayNumber": "24",
-    "latitude": 40.64294815,
-    "longitude": -75.45723724,
-    "elevation": 398,
+    "latitude": 40.660042,
+    "longitude": -75.429257,
+    "elevation": 394,
     "frequency": 108550,
     "receptionRange": 18,
-    "bearing": 231.151
+    "bearing": 231.16
   },
   {
     "name": "ILS-cat-I",
