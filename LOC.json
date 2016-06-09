@@ -18815,26 +18815,26 @@
     "type": 4,
     "airportICAO": "KMOB",
     "identifier": "IMOB",
-    "associatedRunwayNumber": "14",
-    "latitude": 30.67991829,
-    "longitude": -88.23532104,
-    "elevation": 209,
+    "associatedRunwayNumber": "15",
+    "latitude": 30.702294,
+    "longitude": -88.253988,
+    "elevation": 218.7,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 144.345
+    "bearing": 144.34
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "KMOB",
     "identifier": "IATE",
-    "associatedRunwayNumber": "32",
-    "latitude": 30.70429420,
-    "longitude": -88.25566101,
-    "elevation": 207,
+    "associatedRunwayNumber": "33",
+    "latitude": 30.683335,
+    "longitude": -88.238170,
+    "elevation": 218.7,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 324.339
+    "bearing": 324.34
   },
   {
     "name": "ILS-cat-I",
