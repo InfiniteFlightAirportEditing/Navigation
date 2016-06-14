@@ -29176,13 +29176,13 @@
     "airportICAO": "LSZA",
     "identifier": "ILU",
     "associatedRunwayNumber": "01",
-    "latitude": 46.00051880,
-    "longitude": 8.90963078,
-    "elevation": 928,
+    "latitude": 45.998528,
+    "longitude": 8.907764,
+    "elevation": 915,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 20.000,
-    "glideslope": 6.0002
+    "bearing": 18.79,
+    "glideslope": 6.65
   },
   {
     "name": "GS",
