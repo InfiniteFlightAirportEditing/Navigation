@@ -8376,12 +8376,12 @@
     "airportICAO": "GMMX",
     "identifier": "MAR",
     "associatedRunwayNumber": "10",
-    "latitude": 31.60673141,
-    "longitude": -8.04608631,
-    "elevation": 1558,
+    "latitude": 31.608315,
+    "longitude": -8.052469,
+    "elevation": 1545,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 96.000,
+    "bearing": 95.92,
     "glideslope": 3.00096
   },
   {
