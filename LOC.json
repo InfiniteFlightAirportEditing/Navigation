@@ -6206,12 +6206,12 @@
     "airportICAO": "ENSB",
     "identifier": "LB",
     "associatedRunwayNumber": "10",
-    "latitude": 78.24306488,
-    "longitude": 15.52022457,
-    "elevation": 111,
+    "latitude": 78.248789,
+    "longitude": 15.418050,
+    "elevation": 88,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 105.421
+    "bearing": 105.37
   },
   {
     "name": "ILS-cat-I",

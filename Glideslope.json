@@ -6218,12 +6218,12 @@
     "airportICAO": "ENSB",
     "identifier": "LB",
     "associatedRunwayNumber": "10",
-    "latitude": 78.24694061,
-    "longitude": 15.42786884,
+    "latitude": 78.248789,
+    "longitude": 15.418050,
     "elevation": 88,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 105.750,
+    "bearing": 105.37,
     "glideslope": 3.00105375
   },
   {
