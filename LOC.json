@@ -5907,12 +5907,12 @@
     "airportICAO": "ENBR",
     "identifier": "BR",
     "associatedRunwayNumber": "17",
-    "latitude": 60.27890015,
-    "longitude": 5.22300005,
-    "elevation": 165,
+    "latitude": 60.306627,
+    "longitude": 5.213684,
+    "elevation": 166,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 170.564
+    "bearing": 170.53
   },
   {
     "name": "ILS-cat-I",
@@ -5920,12 +5920,12 @@
     "airportICAO": "ENBR",
     "identifier": "BG",
     "associatedRunwayNumber": "35",
-    "latitude": 60.30757523,
-    "longitude": 5.21336699,
-    "elevation": 165,
+    "latitude": 60.280160,
+    "longitude": 5.222591,
+    "elevation": 166,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 350.545
+    "bearing": 350.53
   },
   {
     "name": "ILS-cat-I",
