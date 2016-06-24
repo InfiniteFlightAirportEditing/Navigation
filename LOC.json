@@ -38732,12 +38732,12 @@
     "airportICAO": "VOMM",
     "identifier": "IMAS",
     "associatedRunwayNumber": "07",
-    "latitude": 12.99730587,
-    "longitude": 80.18755341,
+    "latitude": 12.984139,
+    "longitude": 80.152930,
     "elevation": 52,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 68.673
+    "bearing": 68.920
   },
   {
     "name": "ILS-cat-I",

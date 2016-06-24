@@ -38627,12 +38627,12 @@
     "airportICAO": "VOMM",
     "identifier": "IMAS",
     "associatedRunwayNumber": "07",
-    "latitude": 12.98636055,
-    "longitude": 80.15491486,
+    "latitude": 12.984139,
+    "longitude":  80.152930,
     "elevation": 52,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 69.750,
+    "bearing": 68.920,
     "glideslope": 3.00068875
   },
   {
