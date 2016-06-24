@@ -30177,12 +30177,12 @@
     "airportICAO": "MMUN",
     "identifier": "INCP",
     "associatedRunwayNumber": "12L",
-    "latitude": 21.05275917,
-    "longitude": -86.87887573,
+    "latitude": 21.054476,
+    "longitude": -86.880940,
     "elevation": 20,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 124.250,
+    "bearing": 123.670,
     "glideslope": 3.00123625
   },
   {
@@ -30190,12 +30190,12 @@
     "airportICAO": "MMUN",
     "identifier": "ICUN",
     "associatedRunwayNumber": "12R",
-    "latitude": 21.04289246,
-    "longitude": -86.88915253,
+    "latitude": 21.045345,
+    "longitude": -86.891048,
     "elevation": 20,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 124.688,
+    "bearing": 123.688,
     "glideslope": 3.00123844
   },
   {
