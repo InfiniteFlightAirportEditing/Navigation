@@ -73702,12 +73702,12 @@
     "airportICAO": "LIMJ",
     "identifier": "GSE",
     "associatedRunwayNumber": "28",
-    "latitude": 44.41661100,
-    "longitude": 8.82277800,
+    "latitude": 44.408464,
+    "longitude": 8.859563,
     "elevation": 9,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 287.302
+    "bearing": 285.402
   },
   {
     "name": "ILS-cat-III",

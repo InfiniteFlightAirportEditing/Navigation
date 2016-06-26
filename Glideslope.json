@@ -69542,12 +69542,12 @@
     "airportICAO": "LIMJ",
     "identifier": "GSE",
     "associatedRunwayNumber": "28",
-    "latitude": 44.40902800,
-    "longitude": 8.85322200,
+    "latitude": 44.408464,
+    "longitude": 8.859563,
     "elevation": 26,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 287.604,
+    "bearing": 285.404,
     "glideslope": 3.17287302
   },
   {
