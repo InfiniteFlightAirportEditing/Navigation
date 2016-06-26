@@ -7193,25 +7193,25 @@
     "airportICAO": "ESSL",
     "identifier": "LSL",
     "associatedRunwayNumber": "11",
-    "latitude": 58.41008377,
-    "longitude": 15.66808319,
+    "latitude": 58.409978,
+    "longitude": 15.663358,
     "elevation": 172,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 112.438,
-    "glideslope": 3.25112219
+    "bearing": 112.400,
+    "glideslope": 3.15112219
   },
   {
     "name": "GS",
     "airportICAO": "ESSL",
     "identifier": "SL",
     "associatedRunwayNumber": "29",
-    "latitude": 58.40480423,
-    "longitude": 15.69274998,
+    "latitude": 58.402703,
+    "longitude": 15.697049,
     "elevation": 172,
     "frequency": 108100,
     "receptionRange": 10,
-    "bearing": 292.438,
+    "bearing": 291.400,
     "glideslope": 2.86292219
   },
   {

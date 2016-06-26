@@ -7181,12 +7181,12 @@
     "airportICAO": "ESSL",
     "identifier": "LSL",
     "associatedRunwayNumber": "11",
-    "latitude": 58.40169525,
-    "longitude": 15.70177841,
+    "latitude": 58.409978,
+    "longitude": 15.663358,
     "elevation": 172,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 112.202
+    "bearing": 112.400
   },
   {
     "name": "ILS-cat-I",
@@ -7194,12 +7194,12 @@
     "airportICAO": "ESSL",
     "identifier": "SL",
     "associatedRunwayNumber": "29",
-    "latitude": 58.41147232,
-    "longitude": 15.65602779,
+    "latitude": 58.402703,
+    "longitude": 15.697049,
     "elevation": 172,
     "frequency": 108100,
     "receptionRange": 18,
-    "bearing": 292.200
+    "bearing": 291.400
   },
   {
     "name": "ILS-cat-I",
