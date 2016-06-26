@@ -69555,12 +69555,12 @@
     "airportICAO": "LIML",
     "identifier": "ILNT",
     "associatedRunwayNumber": "36",
-    "latitude": 45.43698100,
-    "longitude": 9.27634200,
+    "latitude": 45.434311,
+    "longitude": 9.278232,
     "elevation": 352,
     "frequency": 109550,
     "receptionRange": 10,
-    "bearing": 356.352,
+    "bearing": 355.682,
     "glideslope": 3.00355676
   },
   {

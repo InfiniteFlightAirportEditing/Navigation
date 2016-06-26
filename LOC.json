@@ -73715,12 +73715,12 @@
     "airportICAO": "LIML",
     "identifier": "ILNT",
     "associatedRunwayNumber": "36",
-    "latitude": 45.45922800,
-    "longitude": 9.27554200,
+    "latitude": 45.434311,
+    "longitude": 9.278232,
     "elevation": 353,
     "frequency": 109550,
     "receptionRange": 18,
-    "bearing": 355.676
+    "bearing": 355.686
   },
   {
     "name": "ILS-cat-I",
