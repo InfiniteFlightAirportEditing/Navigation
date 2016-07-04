@@ -28787,12 +28787,12 @@
     "airportICAO": "LOWS",
     "identifier": "OES",
     "associatedRunwayNumber": "16",
-    "latitude": 47.77909088,
-    "longitude": 13.01294708,
+    "latitude": 47.805619,
+    "longitude": 12.996161,
     "elevation": 1411,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 157.534
+    "bearing": 156.98
   },
   {
     "name": "ILS-cat-III",
