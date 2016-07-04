@@ -40487,12 +40487,12 @@
     "airportICAO": "ZBAA",
     "identifier": "IOR",
     "associatedRunwayNumber": "18L",
-    "latitude": 40.05260468,
-    "longitude": 116.60063171,
+    "latitude": 40.089446,
+    "longitude": 116.594794,
     "elevation": 98,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 173.121
+    "bearing": 173.17
   },
   {
     "name": "ILS-cat-I",
@@ -40500,12 +40500,12 @@
     "airportICAO": "ZBAA",
     "identifier": "ILG",
     "associatedRunwayNumber": "18R",
-    "latitude": 40.06953049,
-    "longitude": 116.57418823,
+    "latitude": 40.102073,
+    "longitude": 116.569655,
     "elevation": 107,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 173.980
+    "bearing": 173.15
   },
   {
     "name": "ILS-cat-I",
@@ -40513,12 +40513,12 @@
     "airportICAO": "ZBAA",
     "identifier": "IDK",
     "associatedRunwayNumber": "36L",
-    "latitude": 40.10570526,
-    "longitude": 116.56912231,
+    "latitude": 40.073470,
+    "longitude": 116.574145,
     "elevation": 115,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 353.987
+    "bearing": 353.15
   },
   {
     "name": "ILS-cat-II",
@@ -40526,12 +40526,12 @@
     "airportICAO": "ZBAA",
     "identifier": "IQU",
     "associatedRunwayNumber": "36R",
-    "latitude": 40.09629059,
-    "longitude": 116.59371948,
+    "latitude": 40.055453,
+    "longitude": 116.600114,
     "elevation": 110,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 353.099
+    "bearing": 353.17
   },
   {
     "name": "ILS-cat-I",
