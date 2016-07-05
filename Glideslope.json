@@ -77069,12 +77069,12 @@
     "airportICAO": "TJSJ",
     "identifier": "ISJU",
     "associatedRunwayNumber": "08",
-    "latitude": 18.44084400,
-    "longitude": -66.01266100,
+    "latitude": 18.438756,
+    "longitude": -66.014864,
     "elevation": 9,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 67.742,
+    "bearing": 67.87,
     "glideslope": 3.00066871
   },
   {
@@ -77082,12 +77082,12 @@
     "airportICAO": "TJSJ",
     "identifier": "ICLA",
     "associatedRunwayNumber": "10",
-    "latitude": 18.43265600,
-    "longitude": -66.01084700,
+    "latitude": 18.433561,
+    "longitude": -66.013728,
     "elevation": 8,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 90.288,
+    "bearing": 90.14,
     "glideslope": 3.00090144
   },
   {
