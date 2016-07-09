@@ -36236,12 +36236,12 @@
     "airportICAO": "UHHH",
     "identifier": "IUF",
     "associatedRunwayNumber": "05R",
-    "latitude": 48.54499817,
-    "longitude": 135.21333313,
+    "latitude": 48.514640,
+    "longitude": 135.172764,
     "elevation": 244,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 41.567
+    "bearing": 42.07
   },
   {
     "name": "ILS-cat-I",
@@ -36249,12 +36249,12 @@
     "airportICAO": "UHHH",
     "identifier": "IHI",
     "associatedRunwayNumber": "23L",
-    "latitude": 48.50999832,
-    "longitude": 135.16667175,
+    "latitude": 48.541240,
+    "longitude": 135.209020,
     "elevation": 244,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 221.895
+    "bearing": 222.07
   },
   {
     "name": "ILS-cat-I",
