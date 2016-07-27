@@ -3580,12 +3580,12 @@
     "airportICAO": "EGBB",
     "identifier": "IBIR",
     "associatedRunwayNumber": "15",
-    "latitude": 52.44541168,
-    "longitude": -1.73864400,
-    "elevation": 325,
+    "latitude": 52.465584,
+    "longitude": -1.761044,
+    "elevation": 327,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 145.892
+    "bearing": 145.94
   },
   {
     "name": "ILS-cat-I",
@@ -3593,12 +3593,12 @@
     "airportICAO": "EGBB",
     "identifier": "IBM",
     "associatedRunwayNumber": "33",
-    "latitude": 52.46672058,
-    "longitude": -1.76233900,
-    "elevation": 325,
+    "latitude": 52.442756,
+    "longitude": -1.735712,
+    "elevation": 327,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 325.866
+    "bearing": 325.94
   },
   {
     "name": "ILS-cat-I",
