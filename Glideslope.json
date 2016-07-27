@@ -70915,44 +70915,44 @@
     "bearing": 233.538,
     "glideslope": 3.00232769
   },
-  {
+   {
     "name": "GS",
     "airportICAO": "LTAI",
     "identifier": "IATY",
     "associatedRunwayNumber": "18C",
-    "latitude": 36.91250000,
-    "longitude": 30.79305600,
-    "elevation": 177,
+    "latitude": 36.915553,
+    "longitude": 30.794796,
+    "elevation": 176.8,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 186.510,
-    "glideslope": 3.00186255
+    "bearing": 186.2500,
+    "glideslope": 3.0018625
   },
   {
     "name": "GS",
     "airportICAO": "LTAI",
     "identifier": "IAYT",
     "associatedRunwayNumber": "36C",
-    "latitude": 36.88777800,
-    "longitude": 30.79222200,
-    "elevation": 177,
+    "latitude": 36.885051,
+    "longitude": 30.790621,
+    "elevation": 176.8,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 6.510,
-    "glideslope": 3.00006255
+    "bearing": 6.2500,
+    "glideslope": 3.0000625
   },
   {
     "name": "GS",
     "airportICAO": "LTAI",
     "identifier": "IALY",
     "associatedRunwayNumber": "36R",
-    "latitude": 36.88333300,
-    "longitude": 30.80888900,
-    "elevation": 177,
+    "latitude": 36.911348,
+    "longitude": 30.811435,
+    "elevation": 176.8,
     "frequency": 108100,
     "receptionRange": 10,
-    "bearing": 6.564,
-    "glideslope": 3.00006282
+    "bearing": 6.280,
+    "glideslope": 3.00006281
   },
   {
     "name": "GS",
@@ -76185,12 +76185,12 @@
     "airportICAO": "SBGR",
     "identifier": "IUC",
     "associatedRunwayNumber": "09L",
-    "latitude": -23.43433300,
-    "longitude": -46.47916700,
+    "latitude": -23.434297,
+    "longitude": -46.483369,
     "elevation": 2459,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 74.210,
+    "bearing": 73.60,
     "glideslope": 2.97073605
   },
   {
@@ -76198,12 +76198,12 @@
     "airportICAO": "SBGR",
     "identifier": "IGR",
     "associatedRunwayNumber": "09R",
-    "latitude": -23.43900000,
-    "longitude": -46.48383300,
-    "elevation": 2459,
+    "latitude": -23.438810,
+    "longitude": -46.487013,
+    "elevation": 2458.0,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 74.198,
+    "bearing": 73.60,
     "glideslope": 2.92073599
   },
   {
@@ -76211,12 +76211,12 @@
     "airportICAO": "SBGR",
     "identifier": "IBC",
     "associatedRunwayNumber": "27L",
-    "latitude": -23.43300000,
-    "longitude": -46.46166700,
-    "elevation": 2459,
+    "latitude": -23.431205,
+    "longitude": -46.458849,
+    "elevation": 2458.0,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 254.198,
+    "bearing": 253.6,
     "glideslope": 3.00253599
   },
   {
@@ -76224,12 +76224,12 @@
     "airportICAO": "SBGR",
     "identifier": "IGS",
     "associatedRunwayNumber": "27R",
-    "latitude": -23.42283300,
-    "longitude": -46.45116700,
-    "elevation": 2459,
+    "latitude": -23.424910,
+    "longitude": -46.448611,
+    "elevation": 2458.0,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 254.210,
+    "bearing": 253.6,
     "glideslope": 3.00253605
   },
   {
