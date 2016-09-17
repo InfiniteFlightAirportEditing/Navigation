@@ -72038,12 +72038,12 @@
     "airportICAO": "NZDN",
     "identifier": "IHL",
     "associatedRunwayNumber": "03",
-    "latitude": -45.93324400,
-    "longitude": 170.19165000,
+    "latitude": -45.933879,
+    "longitude": 170.187480,
     "elevation": 4,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 56.908,
+    "bearing": 55.95,
     "glideslope": 3.00055954
   },
   {
@@ -72051,12 +72051,12 @@
     "airportICAO": "NZDN",
     "identifier": "IDN",
     "associatedRunwayNumber": "21",
-    "latitude": -45.92656900,
-    "longitude": 170.20539200,
+    "latitude": -45.924309,
+    "longitude": 170.207838,
     "elevation": 4,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 236.908,
+    "bearing": 235.95,
     "glideslope": 3.00235954
   },
   {

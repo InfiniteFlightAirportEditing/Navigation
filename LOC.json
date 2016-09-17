@@ -76198,12 +76198,12 @@
     "airportICAO": "NZDN",
     "identifier": "IHL",
     "associatedRunwayNumber": "03",
-    "latitude": -45.92345300,
-    "longitude": 170.20934400,
+    "latitude": -45.933879,
+    "longitude": 170.187480,
     "elevation": 4,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 55.450
+    "bearing": 55.95
   },
   {
     "name": "ILS-cat-I",
@@ -76211,12 +76211,12 @@
     "airportICAO": "NZDN",
     "identifier": "IDN",
     "associatedRunwayNumber": "21",
-    "latitude": -45.93531100,
-    "longitude": 170.18412200,
+    "latitude": -45.924309,
+    "longitude": 170.207838,
     "elevation": 4,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 236.415
+    "bearing": 235.95
   },
   {
     "name": "ILS-cat-I",
