@@ -74326,12 +74326,12 @@
     "airportICAO": "LOWI",
     "identifier": "OEV",
     "associatedRunwayNumber": "26",
-    "latitude": 47.25858900,
-    "longitude": 11.34074400,
+    "latitude": 47.261624,
+    "longitude": 11.35702,
     "elevation": 1906,
     "frequency": 111100,
     "receptionRange": 27,
-    "bearing": 256.000
+    "bearing": 261.03
   },
   {
     "name": "ILS-cat-III",

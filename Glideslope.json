@@ -70153,13 +70153,13 @@
     "airportICAO": "LOWI",
     "identifier": "OEV",
     "associatedRunwayNumber": "26",
-    "latitude": 47.26014700,
-    "longitude": 11.35349400,
+    "latitude": 47.261624,
+    "longitude": 11.35702,
     "elevation": 1911,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 256.000,
-    "glideslope": 3.80256
+    "bearing": 261.03,
+    "glideslope": 3.5
   },
   {
     "name": "GS",
