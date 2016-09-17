@@ -32374,12 +32374,12 @@
     "airportICAO": "PHNY",
     "identifier": "ILNY",
     "associatedRunwayNumber": "03",
-    "latitude": 20.78286362,
-    "longitude": -156.95506287,
+    "latitude": 20.780716,
+    "longitude": -156.956519,
     "elevation": 1304,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 44.688,
+    "bearing": 43.85,
     "glideslope": 3.00043844
   },
   {

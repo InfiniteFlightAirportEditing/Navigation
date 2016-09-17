@@ -32492,12 +32492,12 @@
     "airportICAO": "PHNY",
     "identifier": "ILNY",
     "associatedRunwayNumber": "03",
-    "latitude": 20.79253578,
-    "longitude": -156.94429016,
+    "latitude": 20.780716,
+    "longitude": -156.956519,
     "elevation": 1308,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 44.058
+    "bearing": 43.85
   },
   {
     "name": "ILS-cat-I",
