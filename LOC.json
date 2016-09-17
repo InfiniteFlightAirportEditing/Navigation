@@ -5725,12 +5725,12 @@
     "airportICAO": "EKRN",
     "identifier": "IAR",
     "associatedRunwayNumber": "11",
-    "latitude": 55.05818558,
-    "longitude": 14.77970314,
+    "latitude": 55.067092,
+    "longitude": 14.744343,
     "elevation": 52,
     "frequency": 109350,
     "receptionRange": 18,
-    "bearing": 113.780
+    "bearing": 113.77
   },
   {
     "name": "ILS-cat-I",
@@ -5743,7 +5743,7 @@
     "elevation": 52,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 295.544
+    "bearing": 293.77
   },
   {
     "name": "ILS-cat-I",

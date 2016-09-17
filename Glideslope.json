@@ -5763,12 +5763,12 @@
     "airportICAO": "EKRN",
     "identifier": "IAR",
     "associatedRunwayNumber": "11",
-    "latitude": 55.06472015,
-    "longitude": 14.74904442,
+    "latitude": 55.067092,
+    "longitude": 14.744343,
     "elevation": 52,
     "frequency": 109350,
     "receptionRange": 10,
-    "bearing": 114.562,
+    "bearing": 113.77,
     "glideslope": 3.00113781
   },
   {
@@ -5776,12 +5776,12 @@
     "airportICAO": "EKRN",
     "identifier": "IRE",
     "associatedRunwayNumber": "29",
-    "latitude": 55.06175613,
-    "longitude": 14.77021885,
+    "latitude": 55.059434,
+    "longitude": 14.774706,
     "elevation": 52,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 294.562,
+    "bearing": 293.77,
     "glideslope": 3.00293781
   },
   {
