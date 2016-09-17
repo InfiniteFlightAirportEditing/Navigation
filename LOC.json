@@ -6557,12 +6557,12 @@
     "airportICAO": "ESGJ",
     "identifier": "SJ",
     "associatedRunwayNumber": "19",
-    "latitude": 57.74519348,
-    "longitude": 14.06116676,
+    "latitude": 57.767062,
+    "longitude": 14.074475,
     "elevation": 741,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 198.028
+    "bearing": 198.06
   },
   {
     "name": "ILS-cat-I",

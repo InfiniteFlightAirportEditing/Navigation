@@ -6569,12 +6569,12 @@
     "airportICAO": "ESGJ",
     "identifier": "SJ",
     "associatedRunwayNumber": "19",
-    "latitude": 57.76461029,
-    "longitude": 14.07077789,
+    "latitude": 57.767062,
+    "longitude": 14.074475,
     "elevation": 741,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 198.062,
+    "bearing": 198.06,
     "glideslope": 3.00198031
   },
   {
