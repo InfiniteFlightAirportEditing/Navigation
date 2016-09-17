@@ -73415,13 +73415,13 @@
     "name": "GS",
     "airportICAO": "OTBD",
     "identifier": "IBD",
-    "associatedRunwayNumber": "34",
-    "latitude": 25.24505600,
-    "longitude": 51.57345600,
+    "associatedRunwayNumber": "33",
+    "latitude": 25.241985,
+    "longitude": 51.573561,
     "elevation": 35,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 338.414,
+    "bearing": 338.21,
     "glideslope": 3.00338207
   },
   {
