@@ -37730,52 +37730,52 @@
     "type": 4,
     "airportICAO": "UUEE",
     "identifier": "IMR",
-    "associatedRunwayNumber": "07L",
-    "latitude": 55.97833252,
-    "longitude": 37.45333481,
+    "associatedRunwayNumber": "06L",
+    "latitude": 55.969840,
+    "longitude": 37.386990,
     "elevation": 622,
     "frequency": 108100,
     "receptionRange": 18,
-    "bearing": 77.116
+    "bearing": 75.05
   },
   {
     "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "UUEE",
     "identifier": "INL",
-    "associatedRunwayNumber": "07R",
-    "latitude": 55.97666550,
-    "longitude": 37.45500183,
+    "associatedRunwayNumber": "06R",
+    "latitude": 55.967179,
+    "longitude": 37.386582,
     "elevation": 622,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 76.053
+    "bearing": 75.06
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "UUEE",
     "identifier": "IBW",
-    "associatedRunwayNumber": "25L",
-    "latitude": 55.96500015,
-    "longitude": 37.37833405,
+    "associatedRunwayNumber": "24L",
+    "latitude": 55.975727,
+    "longitude": 37.443840,
     "elevation": 622,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 253.707
+    "bearing": 255.06
   },
   {
     "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "UUEE",
     "identifier": "IAD",
-    "associatedRunwayNumber": "25R",
-    "latitude": 55.96666718,
-    "longitude": 37.37333298,
+    "associatedRunwayNumber": "24R",
+    "latitude": 55.978049,
+    "longitude": 37.441925,
     "elevation": 622,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 253.440
+    "bearing": 255.05
   },
   {
     "name": "ILS-cat-I",
