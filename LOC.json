@@ -2488,12 +2488,12 @@
     "airportICAO": "EDDP",
     "identifier": "ILNE",
     "associatedRunwayNumber": "08L",
-    "latitude": 51.43389511,
-    "longitude": 12.27275562,
+    "latitude": 51.431244,
+    "longitude": 12.215852,
     "elevation": 463,
     "frequency": 108550,
     "receptionRange": 18,
-    "bearing": 85.749
+    "bearing": 85.71
   },
   {
     "name": "ILS-cat-III",
@@ -2501,12 +2501,12 @@
     "airportICAO": "EDDP",
     "identifier": "ILSR",
     "associatedRunwayNumber": "08R",
-    "latitude": 51.41439438,
-    "longitude": 12.26427460,
+    "latitude": 51.411607,
+    "longitude": 12.204644,
     "elevation": 463,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 85.749
+    "bearing": 85.71
   },
   {
     "name": "ILS-cat-III",
@@ -2514,8 +2514,8 @@
     "airportICAO": "EDDP",
     "identifier": "ILSL",
     "associatedRunwayNumber": "26L",
-    "latitude": 51.41123199,
-    "longitude": 12.19662189,
+    "latitude": 51.414021,
+    "longitude": 12.256252,
     "elevation": 463,
     "frequency": 110300,
     "receptionRange": 18,
@@ -2532,7 +2532,7 @@
     "elevation": 463,
     "frequency": 108350,
     "receptionRange": 18,
-    "bearing": 265.698
+    "bearing": 265.71
   },
   {
     "name": "ILS-cat-I",
@@ -3930,26 +3930,26 @@
     "type": 4,
     "airportICAO": "EGJJ",
     "identifier": "IJJ",
-    "associatedRunwayNumber": "09",
-    "latitude": 49.20941162,
-    "longitude": -2.17853093,
+    "associatedRunwayNumber": "08",
+    "latitude": 49.206988,
+    "longitude": -2.206879,
     "elevation": 277,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 82.591
+    "bearing": 82.75
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "EGJJ",
     "identifier": "IDD",
-    "associatedRunwayNumber": "27",
+    "associatedRunwayNumber": "26",
     "latitude": 49.20687103,
     "longitude": -2.20830798,
     "elevation": 277,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 262.699
+    "bearing": 262.75
   },
   {
     "name": "ILS-cat-I",
