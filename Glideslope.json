@@ -2526,12 +2526,12 @@
     "airportICAO": "EDDP",
     "identifier": "ILNE",
     "associatedRunwayNumber": "08L",
-    "latitude": 51.43281937,
-    "longitude": 12.22064972,
+    "latitude": 51.431244,
+    "longitude": 12.215852,
     "elevation": 463,
     "frequency": 108550,
     "receptionRange": 15,
-    "bearing": 86.688,
+    "bearing": 85.71,
     "glideslope": 3.00085844
   },
   {
@@ -2539,12 +2539,12 @@
     "airportICAO": "EDDP",
     "identifier": "ILSR",
     "associatedRunwayNumber": "08R",
-    "latitude": 51.41314316,
-    "longitude": 12.20854187,
+    "latitude": 51.411607,
+    "longitude": 12.204644,
     "elevation": 463,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 86.688,
+    "bearing": 85.71,
     "glideslope": 3.00085844
   },
   {
@@ -2552,8 +2552,8 @@
     "airportICAO": "EDDP",
     "identifier": "ILSL",
     "associatedRunwayNumber": "26L",
-    "latitude": 51.41512299,
-    "longitude": 12.25085545,
+    "latitude": 51.414021,
+    "longitude": 12.256252,
     "elevation": 463,
     "frequency": 110300,
     "receptionRange": 20,
@@ -2570,7 +2570,7 @@
     "elevation": 463,
     "frequency": 108350,
     "receptionRange": 15,
-    "bearing": 266.624,
+    "bearing": 265.71,
     "glideslope": 3.00265812
   },
   {
