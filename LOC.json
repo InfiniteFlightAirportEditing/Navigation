@@ -26850,12 +26850,12 @@
     "airportICAO": "LFPB",
     "identifier": "RGE",
     "associatedRunwayNumber": "27",
-    "latitude": 48.96490097,
-    "longitude": 2.42020011,
+    "latitude": 48.965026,
+    "longitude": 2.445545,
     "elevation": 218,
     "frequency": 110550,
     "receptionRange": 18,
-    "bearing": 265.597
+    "bearing": 265.1
   },
   {
     "name": "ILS-cat-I",
