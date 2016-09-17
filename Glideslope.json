@@ -13980,11 +13980,11 @@
     "identifier": "IFLL",
     "associatedRunwayNumber": "10L",
     "latitude": 26.076928,
-    "longitude": -80.164769,
+    "longitude": -80.164794,
     "elevation": 6,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 90.750,
+    "bearing": 90.34,
     "glideslope": 3.00090375
   },
   {
@@ -14005,12 +14005,12 @@
     "airportICAO": "KFLL",
     "identifier": "IFLL",
     "associatedRunwayNumber": "28R",
-    "latitude": 26.076802,
-    "longitude": -80.140969,
+    "latitude": 26.076801,
+    "longitude": -80.140994,
     "elevation": 5,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 270.750,
+    "bearing": 270.37,
     "glideslope": 3.00270375
   },
   {
