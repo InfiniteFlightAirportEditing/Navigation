@@ -70595,12 +70595,12 @@
     "airportICAO": "LDZA",
     "identifier": "IZA",
     "associatedRunwayNumber": "05",
-    "latitude": 45.75388600,
-    "longitude": 16.08544400,
+    "latitude": 45.731829,
+    "longitude": 16.051970,
     "elevation": 335,
     "frequency": 109500,
     "receptionRange": 25,
-    "bearing": 46.790
+    "bearing": 46.71
   },
   {
     "name": "ILS-cat-I",
@@ -70608,12 +70608,12 @@
     "airportICAO": "LDZA",
     "identifier": "IZG",
     "associatedRunwayNumber": "23",
-    "latitude": 45.72968600,
-    "longitude": 16.04864200,
+    "latitude": 45.751897,
+    "longitude": 16.082495,
     "elevation": 344,
     "frequency": 109100,
     "receptionRange": 25,
-    "bearing": 226.810
+    "bearing": 226.72
   },
   {
     "name": "ILS-cat-I",
