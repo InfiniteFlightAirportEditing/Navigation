@@ -29580,12 +29580,12 @@
     "airportICAO": "LTBA",
     "identifier": "IIST",
     "associatedRunwayNumber": "05",
-    "latitude": 40.97694397,
-    "longitude": 28.83416748,
+    "latitude": 40.965578,
+    "longitude": 28.809869,
     "elevation": 163,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 58.261
+    "bearing": 58.56
   },
   {
     "name": "ILS-cat-I",
@@ -29593,12 +29593,12 @@
     "airportICAO": "LTBA",
     "identifier": "IISB",
     "associatedRunwayNumber": "17L",
-    "latitude": 40.96805573,
-    "longitude": 28.80944443,
+    "latitude": 40.996459,
+    "longitude": 28.808565,
     "elevation": 163,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 178.596
+    "bearing": 178.49
   },
   {
     "name": "ILS-cat-I",
@@ -29606,12 +29606,12 @@
     "airportICAO": "LTBA",
     "identifier": "IATA",
     "associatedRunwayNumber": "23",
-    "latitude": 40.96500015,
-    "longitude": 28.80833244,
+    "latitude":40.977737,
+    "longitude": 28.836211,
     "elevation": 163,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 238.738
+    "bearing": 238.56
   },
   {
     "name": "ILS-cat-I",
@@ -29619,12 +29619,12 @@
     "airportICAO": "LTBA",
     "identifier": "ISEF",
     "associatedRunwayNumber": "35L",
-    "latitude": 40.99805450,
-    "longitude": 28.80583382,
+    "latitude": 40.969344,
+    "longitude": 28.807027,
     "elevation": 163,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 358.279
+    "bearing": 358.41
   },
   {
     "name": "ILS-cat-I",
@@ -29632,12 +29632,12 @@
     "airportICAO": "LTBA",
     "identifier": "IYES",
     "associatedRunwayNumber": "35R",
-    "latitude": 40.99805450,
-    "longitude": 28.80833244,
+    "latitude": 40.969409,
+    "longitude": 28.809511,
     "elevation": 163,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 358.282
+    "bearing": 358.49
   },
   {
     "name": "ILS-cat-I",
