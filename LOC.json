@@ -40292,12 +40292,12 @@
     "airportICAO": "YPPH",
     "identifier": "IPN",
     "associatedRunwayNumber": "03",
-    "latitude": -31.92598152,
-    "longitude": 115.96922302,
+    "latitude": -31.9587,
+    "longitude": 115.959706,
     "elevation": 41,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 13.872
+    "bearing": 13.88
   },
   {
     "name": "ILS-cat-I",
@@ -40305,12 +40305,12 @@
     "airportICAO": "YPPH",
     "identifier": "IGD",
     "associatedRunwayNumber": "21",
-    "latitude": -31.96190834,
-    "longitude": 115.95876312,
+    "latitude": -31.928575,
+    "longitude": 115.968479,
     "elevation": 67,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 193.892
+    "bearing": 193.88
   },
   {
     "name": "ILS-cat-I",
@@ -40318,12 +40318,12 @@
     "airportICAO": "YPPH",
     "identifier": "IPH",
     "associatedRunwayNumber": "24",
-    "latitude": -31.94194412,
-    "longitude": 115.95694733,
+    "latitude": -31.930886,
+    "longitude": 115.978824,
     "elevation": 67,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 239.181
+    "bearing": 238.88
   },
   {
     "name": "ILS-cat-I",
