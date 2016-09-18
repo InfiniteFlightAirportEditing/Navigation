@@ -6647,12 +6647,12 @@
     "airportICAO": "ESKM",
     "identifier": "NKM",
     "associatedRunwayNumber": "16",
-    "latitude": 60.96350098,
-    "longitude": 14.50977802,
+    "latitude": 60.965614,
+    "longitude": 14.505994,
     "elevation": 634,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 161.500,
+    "bearing": 161.25,
     "glideslope": 3.0016125
   },
   {
