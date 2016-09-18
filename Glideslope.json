@@ -66448,12 +66448,12 @@
     "airportICAO": "LDPL",
     "identifier": "IPU",
     "associatedRunwayNumber": "27",
-    "latitude": 44.89274200,
-    "longitude": 13.93552500,
-    "elevation": 243,
+    "latitude": 44.893928,
+    "longitude": 13.940859,
+    "elevation": 273,
     "frequency": 111500,
     "receptionRange": 25,
-    "bearing": 268.560,
+    "bearing": 268.26,
     "glideslope": 3.2026828
   },
   {
