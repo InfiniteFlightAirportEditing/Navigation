@@ -28045,12 +28045,12 @@
     "airportICAO": "LIMZ",
     "identifier": "LEV",
     "associatedRunwayNumber": "21",
-    "latitude": 44.55383301,
-    "longitude": 7.62711096,
+    "latitude": 44.555528,
+    "longitude": 7.630405,
     "elevation": 1267,
     "frequency": 110950,
     "receptionRange": 10,
-    "bearing": 213.000,
+    "bearing": 212.50,
     "glideslope": 3.002125
   },
   {

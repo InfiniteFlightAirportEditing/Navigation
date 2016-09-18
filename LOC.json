@@ -28163,12 +28163,12 @@
     "airportICAO": "LIMZ",
     "identifier": "LEV",
     "associatedRunwayNumber": "21",
-    "latitude": 44.53680420,
-    "longitude": 7.61366701,
+    "latitude": 44.555528,
+    "longitude": 7.630405,
     "elevation": 1267,
     "frequency": 110950,
     "receptionRange": 18,
-    "bearing": 212.496
+    "bearing": 212.50
   },
   {
     "name": "ILS-cat-I",
