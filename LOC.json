@@ -6036,13 +6036,13 @@
     "type": 4,
     "airportICAO": "ENHD",
     "identifier": "HD",
-    "associatedRunwayNumber": "14",
-    "latitude": 59.33592224,
-    "longitude": 5.22710323,
-    "elevation": 96,
+    "associatedRunwayNumber": "13",
+    "latitude": 59.350678,
+    "longitude": 5.197552,
+    "elevation": 86,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 134.374
+    "bearing": 134.37
   },
   {
     "name": "ILS-cat-I",
