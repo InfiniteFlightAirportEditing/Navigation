@@ -2786,12 +2786,12 @@
     "airportICAO": "EDHI",
     "identifier": "IHFE",
     "associatedRunwayNumber": "05",
-    "latitude": 53.53122330,
-    "longitude": 9.82503605,
-    "elevation": 21,
+    "latitude": 53.525123,
+    "longitude": 9.813946,
+    "elevation": 20,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 52.188,
+    "bearing": 51.59,
     "glideslope": 3.10051594
   },
   {
@@ -2799,12 +2799,12 @@
     "airportICAO": "EDHI",
     "identifier": "HFW",
     "associatedRunwayNumber": "23",
-    "latitude": 53.53675461,
-    "longitude": 9.84064198,
-    "elevation": 21,
+    "latitude": 53.542924,
+    "longitude": 9.851706,
+    "elevation": 20,
     "frequency": 108500,
     "receptionRange": 10,
-    "bearing": 232.188,
+    "bearing": 231.59,
     "glideslope": 3.00231594
   },
   {
