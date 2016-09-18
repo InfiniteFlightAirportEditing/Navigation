@@ -6986,12 +6986,12 @@
     "airportICAO": "ESOK",
     "identifier": "SOK",
     "associatedRunwayNumber": "03",
-    "latitude": 59.45730591,
-    "longitude": 13.34924984,
+    "latitude": 59.434515,
+    "longitude": 13.327751,
     "elevation": 352,
     "frequency": 109350,
     "receptionRange": 18,
-    "bearing": 25.633
+    "bearing": 25.64
   },
   {
     "name": "ILS-cat-I",
@@ -6999,12 +6999,12 @@
     "airportICAO": "ESOK",
     "identifier": "NOK",
     "associatedRunwayNumber": "21",
-    "latitude": 59.43297195,
-    "longitude": 13.32627773,
+    "latitude": 59.454930,
+    "longitude": 13.347025,
     "elevation": 352,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 205.624
+    "bearing": 205.64
   },
   {
     "name": "ILS-cat-I",
