@@ -6739,12 +6739,12 @@
     "airportICAO": "ESMX",
     "identifier": "MX",
     "associatedRunwayNumber": "19",
-    "latitude": 56.91647339,
-    "longitude": 14.72263908,
-    "elevation": 610,
+    "latitude": 56.938379,
+    "longitude": 14.731911,
+    "elevation": 608,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 193.001
+    "bearing": 193.04
   },
   {
     "name": "ILS-cat-I",
