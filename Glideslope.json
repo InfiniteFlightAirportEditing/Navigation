@@ -31243,12 +31243,12 @@
     "airportICAO": "OIFM",
     "identifier": "IIFN",
     "associatedRunwayNumber": "26R",
-    "latitude": 32.748727,
-    "longitude": 51.837804,
+    "latitude": 32.757040,
+    "longitude": 51.883835,
     "elevation": 5059,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 77.88,
+    "bearing": 257.88,
     "glideslope": 3.00
   },
   {
