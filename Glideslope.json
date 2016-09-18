@@ -25964,13 +25964,13 @@
     "name": "GS",
     "airportICAO": "LFBX",
     "identifier": "PX",
-    "associatedRunwayNumber": "30",
-    "latitude": 45.19457245,
-    "longitude": 0.82171702,
-    "elevation": 387,
+    "associatedRunwayNumber": "29",
+    "latitude": 45.194083,
+    "longitude": 0.826219,
+    "elevation": 328,
     "frequency": 109100,
     "receptionRange": 10,
-    "bearing": 294.376,
+    "bearing": 293.69,
     "glideslope": 3.40293688
   },
   {
