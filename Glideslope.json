@@ -7219,12 +7219,12 @@
     "airportICAO": "ESSP",
     "identifier": "SP",
     "associatedRunwayNumber": "27",
-    "latitude": 58.58472061,
-    "longitude": 16.26352882,
+    "latitude": 58.585813,
+    "longitude": 16.269639,
     "elevation": 32,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 271.750,
+    "bearing": 270.87,
     "glideslope": 3.00270875
   },
   {
