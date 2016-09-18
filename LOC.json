@@ -70556,12 +70556,12 @@
     "airportICAO": "LDPL",
     "identifier": "IPU",
     "associatedRunwayNumber": "27",
-    "latitude": 44.89306400,
-    "longitude": 13.90038100,
-    "elevation": 157,
+    "latitude": 44.893928,
+    "longitude": 13.940859,
+    "elevation": 273,
     "frequency": 111500,
     "receptionRange": 25,
-    "bearing": 268.280
+    "bearing": 268.26
   },
   {
     "name": "ILS-cat-I",
