@@ -31348,12 +31348,12 @@
     "airportICAO": "OIFM",
     "identifier": "IIFN",
     "associatedRunwayNumber": "26R",
-    "latitude": 32.74789047,
-    "longitude": 51.83302689,
-    "elevation": 5044,
+    "latitude": 32.757040,
+    "longitude": 51.883835,
+    "elevation": 5059,
     "frequency": 109900,
-    "receptionRange": 18,
-    "bearing": 257.888
+    "receptionRange": 10,
+    "bearing": 257.88
   },
   {
     "name": "ILS-cat-I",
