@@ -48469,12 +48469,12 @@
     "airportICAO": "ESNO",
     "identifier": "NO",
     "associatedRunwayNumber": "12",
-    "latitude": 63.41363900,
-    "longitude": 18.97702800,
+    "latitude": 63.414066,
+    "longitude": 18.971021,
     "elevation": 354,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 122.270,
+    "bearing": 121.79,
     "glideslope": 3.25121635
   },
   {

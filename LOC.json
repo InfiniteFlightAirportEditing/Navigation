@@ -6817,12 +6817,12 @@
     "airportICAO": "ESNO",
     "identifier": "NO",
     "associatedRunwayNumber": "12",
-    "latitude": 63.40380478,
-    "longitude": 19.00799942,
+    "latitude": 63.414066,
+    "longitude": 18.971021,
     "elevation": 354,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 121.635
+    "bearing": 121.79
   },
   {
     "name": "ILS-cat-I",
