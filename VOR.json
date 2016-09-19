@@ -29281,11 +29281,11 @@
   }, 
   {
     "receptionRange": 130, 
-    "elevation": 400, 
-    "name": "V", 
-    "longitude": -61.80016708, 
+    "elevation": 62, 
+    "name": "BIRD", 
+    "longitude": -61.80016700, 
     "frequency": 1145000, 
-    "latitude": 17.12588882, 
+    "latitude": 17.12584800, 
     "identifier": "ANU", 
     "slavedVariation": 347.0
   }, 
