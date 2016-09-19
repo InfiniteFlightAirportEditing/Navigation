@@ -52499,12 +52499,12 @@
     "airportICAO": "ESNQ",
     "identifier": "NQ",
     "associatedRunwayNumber": "21",
-    "latitude": 67.80938900,
-    "longitude": 20.31452800,
+    "latitude": 67.831397,
+    "longitude": 20.353315,
     "elevation": 1508,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 213.644
+    "bearing": 213.59
   },
   {
     "name": "ILS-cat-I",

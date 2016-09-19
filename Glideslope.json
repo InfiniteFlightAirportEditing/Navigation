@@ -6842,12 +6842,12 @@
     "airportICAO": "ESNQ",
     "identifier": "NQ",
     "associatedRunwayNumber": "21",
-    "latitude": 67.82836151,
-    "longitude": 20.35144424,
+    "latitude": 67.831397,
+    "longitude": 20.353315,
     "elevation": 1508,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 214.312,
+    "bearing": 213.59,
     "glideslope": 2.86213656
   },
   {
