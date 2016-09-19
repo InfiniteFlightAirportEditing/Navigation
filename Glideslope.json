@@ -48313,12 +48313,12 @@
     "airportICAO": "ESMK",
     "identifier": "MK",
     "associatedRunwayNumber": "19",
-    "latitude": 55.92900000,
-    "longitude": 14.08516700,
+    "latitude": 55.931601,
+    "longitude": 14.087704,
     "elevation": 76,
     "frequency": 108500,
     "receptionRange": 10,
-    "bearing": 187.264,
+    "bearing": 187.13,
     "glideslope": 3.25187132
   },
   {
