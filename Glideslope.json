@@ -2188,12 +2188,12 @@
     "airportICAO": "EDDE",
     "identifier": "IERE",
     "associatedRunwayNumber": "10",
-    "latitude": 50.98204422,
-    "longitude": 10.94374371,
+    "latitude": 50.981283,
+    "longitude": 10.939679,
     "elevation": 1035,
     "frequency": 108300,
     "receptionRange": 10,
-    "bearing": 98.500,
+    "bearing": 97.23,
     "glideslope": 3.0009825
   },
   {
@@ -2201,12 +2201,12 @@
     "airportICAO": "EDDE",
     "identifier": "IERW",
     "associatedRunwayNumber": "28",
-    "latitude": 50.98021698,
-    "longitude": 10.97003555,
+    "latitude": 50.978338,
+    "longitude": 10.976546,
     "elevation": 1035,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 278.500,
+    "bearing": 277.23,
     "glideslope": 3.0027825
   },
   {
