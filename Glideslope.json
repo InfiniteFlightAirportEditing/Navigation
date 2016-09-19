@@ -6985,12 +6985,12 @@
     "airportICAO": "ESOH",
     "identifier": "IHF",
     "associatedRunwayNumber": "18",
-    "latitude": 60.02380753,
-    "longitude": 13.57622242,
+    "latitude": 60.026851,
+    "longitude": 13.578124,
     "elevation": 474,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 177.376,
+    "bearing": 176.69,
     "glideslope": 3.00176688
   },
   {
