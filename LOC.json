@@ -6855,26 +6855,26 @@
     "type": 4,
     "airportICAO": "ESNU",
     "identifier": "NU",
-    "associatedRunwayNumber": "14",
-    "latitude": 63.78163910,
-    "longitude": 20.30316734,
+    "associatedRunwayNumber": "13",
+    "latitude": 63.798597,
+    "longitude": 20.269285,
     "elevation": 24,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 138.516
+    "bearing": 138.54
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "ESNU",
     "identifier": "SNU",
-    "associatedRunwayNumber": "32",
-    "latitude": 63.79972076,
-    "longitude": 20.26694489,
+    "associatedRunwayNumber": "31",
+    "latitude": 63.783073,
+    "longitude": 20.300340,
     "elevation": 24,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 318.491
+    "bearing": 318.55
   },
   {
     "name": "ILS-cat-I",
