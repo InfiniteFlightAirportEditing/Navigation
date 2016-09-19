@@ -7571,12 +7571,12 @@
     "airportICAO": "EYPA",
     "identifier": "IAN",
     "associatedRunwayNumber": "19",
-    "latitude": 55.95994568,
-    "longitude": 21.08850670,
+    "latitude": 55.983085,
+    "longitude": 21.097876,
     "elevation": 33,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 192.706
+    "bearing": 192.68
   },
   {
     "name": "ILS-cat-I",

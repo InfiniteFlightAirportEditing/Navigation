@@ -7583,12 +7583,12 @@
     "airportICAO": "EYPA",
     "identifier": "IAN",
     "associatedRunwayNumber": "19",
-    "latitude": 55.97884369,
-    "longitude": 21.09825706,
+    "latitude": 55.983085,
+    "longitude": 21.097876,
     "elevation": 33,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 193.438,
+    "bearing": 192.68,
     "glideslope": 3.00192719
   },
   {
