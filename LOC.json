@@ -6791,12 +6791,12 @@
     "airportICAO": "ESNN",
     "identifier": "NNN",
     "associatedRunwayNumber": "16",
-    "latitude": 62.51686096,
-    "longitude": 17.45272255,
-    "elevation": 16,
+    "latitude":  62.536728,
+    "longitude": 17.437328,
+    "elevation": 17,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 160.192
+    "bearing": 160.20
   },
   {
     "name": "ILS-cat-I",
@@ -6804,12 +6804,12 @@
     "airportICAO": "ESNN",
     "identifier": "SNN",
     "associatedRunwayNumber": "34",
-    "latitude": 62.54369354,
-    "longitude": 17.43174934,
-    "elevation": 16,
+    "latitude": 62.518967,
+    "longitude": 17.451195,
+    "elevation": 17,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 340.167
+    "bearing": 340.20
   },
   {
     "name": "ILS-cat-I",
