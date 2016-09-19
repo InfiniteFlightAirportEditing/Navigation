@@ -74586,12 +74586,12 @@
     "airportICAO": "LQSA",
     "identifier": "BHS",
     "associatedRunwayNumber": "12",
-    "latitude": 43.81845300,
-    "longitude": 18.34782200,
-    "elevation": 1709,
+    "latitude": 43.830000,
+    "longitude": 18.317118,
+    "elevation": 1708,
     "frequency": 110700,
     "receptionRange": 25,
-    "bearing": 117.000
+    "bearing": 117.47
   },
   {
     "name": "ILS-cat-I",

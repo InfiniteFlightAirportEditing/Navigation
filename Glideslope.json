@@ -70413,12 +70413,12 @@
     "airportICAO": "LQSA",
     "identifier": "BHS",
     "associatedRunwayNumber": "12",
-    "latitude": 43.82942200,
-    "longitude": 18.32180000,
-    "elevation": 1705,
+    "latitude": 43.830000,
+    "longitude": 18.317118,
+    "elevation": 1708,
     "frequency": 110700,
     "receptionRange": 25,
-    "bearing": 117.000,
+    "bearing": 117.47,
     "glideslope": 3.20117
   },
   {
