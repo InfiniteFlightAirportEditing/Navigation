@@ -38667,12 +38667,12 @@
     "airportICAO": "VOCB",
     "identifier": "ICMB",
     "associatedRunwayNumber": "23",
-    "latitude": 11.02266693,
-    "longitude": 77.03472137,
+    "latitude": 11.041198,
+    "longitude": 77.054409,
     "elevation": 1324,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 227.354
+    "bearing": 225.58
   },
   {
     "name": "ILS-cat-I",
