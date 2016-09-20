@@ -7163,9 +7163,9 @@
     "receptionRange": 200, 
     "elevation": 48, 
     "name": "DOHA", 
-    "longitude": 51.57717133, 
+    "longitude": 51.577172, 
     "frequency": 1124000, 
-    "latitude": 25.23363113, 
+    "latitude": 25.233631, 
     "identifier": "DOH", 
     "slavedVariation": 2.0
   }, 
