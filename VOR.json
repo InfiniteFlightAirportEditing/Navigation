@@ -16432,7 +16432,7 @@
   {
     "receptionRange": 130, 
     "elevation": 182, 
-    "name": "LOS", 
+    "name": "LOS ANGELES", 
     "longitude": -118.43199921, 
     "frequency": 1136000, 
     "latitude": 33.9331398, 
@@ -25172,7 +25172,7 @@
   {
     "receptionRange": 40, 
     "elevation": 2090, 
-    "name": "SANTA", 
+    "name": "SANTA CATALINA", 
     "longitude": -118.41991425, 
     "frequency": 1114000, 
     "latitude": 33.37505722, 
