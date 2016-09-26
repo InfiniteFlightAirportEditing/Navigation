@@ -3112,12 +3112,12 @@
     "airportICAO": "EETN",
     "identifier": "IIB",
     "associatedRunwayNumber": "08",
-    "latitude": 59.41313934,
-    "longitude": 24.87302780,
-    "elevation": 131,
+    "latitude": 59.413319,
+    "longitude": 24.805825,
+    "elevation": 129,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 90.330
+    "bearing": 90.30
   },
   {
     "name": "ILS-cat-II",
@@ -3125,12 +3125,12 @@
     "airportICAO": "EETN",
     "identifier": "ILK",
     "associatedRunwayNumber": "26",
-    "latitude": 59.41333389,
-    "longitude": 24.80097198,
-    "elevation": 131,
+    "latitude": 59.413176,
+    "longitude": 24.860118,
+    "elevation": 129,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 270.241
+    "bearing": 270.3
   },
   {
     "name": "ILS-cat-I",
