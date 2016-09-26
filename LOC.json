@@ -20440,13 +20440,13 @@
     "type": 4,
     "airportICAO": "KOUN",
     "identifier": "IBWM",
-    "associatedRunwayNumber": "17",
-    "latitude": 35.23446274,
-    "longitude": -97.47295380,
-    "elevation": 1175,
+    "associatedRunwayNumber": "18",
+    "latitude": 35.256444,
+    "longitude": -97.473120,
+    "elevation": 1181,
     "frequency": 111950,
     "receptionRange": 18,
-    "bearing": 179.651
+    "bearing": 179.64
   },
   {
     "name": "ILS-cat-I",

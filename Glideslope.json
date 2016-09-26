@@ -20387,13 +20387,13 @@
     "name": "GS",
     "airportICAO": "KOUN",
     "identifier": "IBWM",
-    "associatedRunwayNumber": "17",
-    "latitude": 35.25354767,
-    "longitude": -97.47443390,
-    "elevation": 1176,
+    "associatedRunwayNumber": "18",
+    "latitude": 35.256444,
+    "longitude": -97.473120,
+    "elevation": 1181,
     "frequency": 111950,
     "receptionRange": 10,
-    "bearing": 180.562,
+    "bearing": 179.64,
     "glideslope": 3.00179781
   },
   {
