@@ -2903,12 +2903,12 @@
     "airportICAO": "EDLP",
     "identifier": "IPLE",
     "associatedRunwayNumber": "06",
-    "latitude": 51.61136627,
-    "longitude": 8.60610771,
+    "latitude": 51.608697,
+    "longitude": 8.603106,
     "elevation": 699,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 57.562,
+    "bearing": 56.73,
     "glideslope": 3.00057281
   },
   {
@@ -2916,12 +2916,12 @@
     "airportICAO": "EDLP",
     "identifier": "IPLW",
     "associatedRunwayNumber": "24",
-    "latitude": 51.61891937,
-    "longitude": 8.62421894,
-    "elevation": 674,
+    "latitude": 51.619460,
+    "longitude": 8.629524,
+    "elevation": 699,
     "frequency": 108550,
     "receptionRange": 10,
-    "bearing": 237.562,
+    "bearing": 236.73,
     "glideslope": 3.00237281
   },
   {
