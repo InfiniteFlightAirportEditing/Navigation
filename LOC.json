@@ -25211,13 +25211,13 @@
     "type": 4,
     "airportICAO": "LECO",
     "identifier": "LCO",
-    "associatedRunwayNumber": "22",
-    "latitude": 43.29372787,
-    "longitude": -8.38409424,
-    "elevation": 329,
+    "associatedRunwayNumber": "21",
+    "latitude": 43.309726,
+    "longitude": -8.370939,
+    "elevation": 330,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 210.892
+    "bearing": 210.94
   },
   {
     "name": "ILS-cat-I",

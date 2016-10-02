@@ -25145,13 +25145,13 @@
     "name": "GS",
     "airportICAO": "LECO",
     "identifier": "LCO",
-    "associatedRunwayNumber": "22",
-    "latitude": 43.30721664,
-    "longitude": -8.37209988,
-    "elevation": 323,
+    "associatedRunwayNumber": "21",
+    "latitude": 43.309726,
+    "longitude": -8.370939,
+    "elevation": 330,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 211.876,
+    "bearing": 210.94,
     "glideslope": 3.00210938
   },
   {
