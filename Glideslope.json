@@ -34909,12 +34909,12 @@
     "airportICAO": "SCIP",
     "identifier": "IIPA",
     "associatedRunwayNumber": "10",
-    "latitude": -27.15888977,
-    "longitude": -109.43305969,
-    "elevation": 148,
+    "latitude": -27.158033,
+    "longitude": -109.436667,
+    "elevation": 227,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 117.688,
+    "bearing": 117.13,
     "glideslope": 2.50117344
   },
   {
@@ -50081,12 +50081,12 @@
     "airportICAO": "GVAC",
     "identifier": "SL",
     "associatedRunwayNumber": "01",
-    "latitude": 16.72677800,
-    "longitude": -22.94775000,
-    "elevation": 177,
+    "latitude": 16.724020,
+    "longitude": -22.948866,
+    "elevation": 184,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 360.382,
+    "bearing": 359.64,
     "glideslope": 3.00359691
   },
   {

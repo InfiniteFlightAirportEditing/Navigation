@@ -8429,12 +8429,12 @@
     "airportICAO": "GVAC",
     "identifier": "SL",
     "associatedRunwayNumber": "01",
-    "latitude": 16.75394440,
-    "longitude": -22.94908333,
-    "elevation": 177,
+    "latitude": 16.724020,
+    "longitude": -22.948866,
+    "elevation": 184,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 359.579
+    "bearing": 359.64
   },
   {
     "name": "ILS-cat-I",
@@ -35014,12 +35014,12 @@
     "airportICAO": "SCIP",
     "identifier": "IIPA",
     "associatedRunwayNumber": "10",
-    "latitude": -27.16777802,
-    "longitude": -109.41694641,
-    "elevation": 127,
+    "latitude": -27.158033,
+    "longitude": -109.436667,
+    "elevation": 227,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 119.210
+    "bearing": 117.13
   },
   {
     "name": "ILS-cat-I",
