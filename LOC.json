@@ -25641,9 +25641,9 @@
     "airportICAO": "LEXJ",
     "identifier": "STA",
     "associatedRunwayNumber": "29",
-    "latitude": 43.43140411,
-    "longitude": -3.83626103,
-    "elevation": 16,
+    "latitude": 43.42358180,
+    "longitude": -3.80698082,
+    "elevation": 11,
     "frequency": 110900,
     "receptionRange": 18,
     "bearing": 290.191
