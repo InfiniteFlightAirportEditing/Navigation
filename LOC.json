@@ -1915,26 +1915,26 @@
     "type": 4,
     "airportICAO": "EBBR",
     "identifier": "IBX",
-    "associatedRunwayNumber": "02",
-    "latitude": 50.91555786,
-    "longitude": 4.50305605,
+    "associatedRunwayNumber": "01",
+    "latitude":  50.886931,
+    "longitude": 4.491398,
     "elevation": 184,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 14.413
+    "bearing": 14.39
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "EBBR",
     "identifier": "IBM",
-    "associatedRunwayNumber": "20",
-    "latitude": 50.88499832,
-    "longitude": 4.49055576,
+    "associatedRunwayNumber": "19",
+    "latitude":  50.912981,
+    "longitude": 4.501996,
     "elevation": 184,
     "frequency": 111150,
     "receptionRange": 18,
-    "bearing": 194.476
+    "bearing": 194.39
   },
   {
     "name": "ILS-cat-III",
@@ -1942,12 +1942,12 @@
     "airportICAO": "EBBR",
     "identifier": "IBL",
     "associatedRunwayNumber": "25L",
-    "latitude": 50.88852692,
-    "longitude": 4.47819424,
+    "latitude": 50.898964,
+    "longitude": 4.523473,
     "elevation": 184,
     "frequency": 110350,
     "receptionRange": 18,
-    "bearing": 249.887
+    "bearing": 249.93
   },
   {
     "name": "ILS-cat-II",
@@ -1955,12 +1955,12 @@
     "airportICAO": "EBBR",
     "identifier": "IBR",
     "associatedRunwayNumber": "25R",
-    "latitude": 50.89694214,
-    "longitude": 4.44861078,
+    "latitude": 50.912756,
+    "longitude": 4.503257,
     "elevation": 184,
     "frequency": 108900,
     "receptionRange": 18,
-    "bearing": 245.336
+    "bearing": 245.31
   },
   {
     "name": "ILS-cat-I",
