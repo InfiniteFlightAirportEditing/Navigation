@@ -2412,7 +2412,7 @@
     "associatedRunwayNumber": "08L",
     "latitude": 48.362758,
     "longitude": 11.767531,
-    "elevation": 1449,
+    "elevation": 1483,
     "frequency": 109500,
     "receptionRange": 18,
     "bearing": 83.4
@@ -2425,7 +2425,7 @@
     "associatedRunwayNumber": "08R",
     "latitude": 48.340679,
     "longitude": 11.751020,
-    "elevation": 1470,
+    "elevation": 1483,
     "frequency": 109300,
     "receptionRange": 18,
     "bearing": 83.37
@@ -2436,9 +2436,9 @@
     "airportICAO": "EDDM",
     "identifier": "IMSW",
     "associatedRunwayNumber": "26L",
-    "latitude": 48.344815,
+    "latitude": 48.344815,  
     "longitude": 11.804585,
-    "elevation": 1486,
+    "elevation": 1483,
     "frequency": 108300,
     "receptionRange": 18,
     "bearing": 263.37
@@ -2450,8 +2450,8 @@
     "identifier": "IMNW",
     "associatedRunwayNumber": "26R",
     "latitude": 48.366880,
-    "longitude": 11.821116,
-    "elevation": 1467,
+    "longitude": 11.821115,
+    "elevation": 1483,
     "frequency": 108700,
     "receptionRange": 18,
     "bearing": 263.4
