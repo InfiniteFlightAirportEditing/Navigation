@@ -36235,12 +36235,12 @@
     "airportICAO": "UIII",
     "identifier": "ICN",
     "associatedRunwayNumber": "12",
-    "latitude": 52.27333450,
-    "longitude": 104.37999725,
+    "latitude": 52.273527,
+    "longitude": 104.370683,
     "elevation": 1675,
     "frequency": 111300,
     "receptionRange": 10,
-    "bearing": 114.376,
+    "bearing": 113.52,
     "glideslope": 3.30113688
   },
   {
@@ -36248,12 +36248,12 @@
     "airportICAO": "UIII",
     "identifier": "IIR",
     "associatedRunwayNumber": "30",
-    "latitude": 52.26499939,
-    "longitude": 104.41166687,
+    "latitude": 52.260749,
+    "longitude": 104.418661,
     "elevation": 1675,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 294.376,
+    "bearing": 293.52,
     "glideslope": 3.30293688
   },
   {
