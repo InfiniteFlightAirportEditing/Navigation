@@ -37067,12 +37067,12 @@
     "airportICAO": "UNNT",
     "identifier": "IRO",
     "associatedRunwayNumber": "07",
-    "latitude": 55.01234436,
-    "longitude": 82.62744141,
+    "latitude": 55.009967,
+    "longitude": 82.622568,
     "elevation": 345,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 81.062,
+    "bearing": 81.01,
     "glideslope": 2.83081031
   },
   {
@@ -37080,12 +37080,12 @@
     "airportICAO": "UNNT",
     "identifier": "IKT",
     "associatedRunwayNumber": "25",
-    "latitude": 55.01642609,
-    "longitude": 82.67254639,
+    "latitude": 55.015017,
+    "longitude": 82.678246,
     "elevation": 350,
     "frequency": 108500,
     "receptionRange": 10,
-    "bearing": 261.062,
+    "bearing": 261.01,
     "glideslope": 2.67261031
   },
   {
