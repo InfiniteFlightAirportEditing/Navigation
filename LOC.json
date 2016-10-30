@@ -55969,13 +55969,13 @@
     "type": 4,
     "airportICAO": "KBJC",
     "identifier": "IBJC",
-    "associatedRunwayNumber": "29R",
-    "latitude": 39.91590300,
-    "longitude": -105.12960300,
+    "associatedRunwayNumber": "30R",
+    "latitude": 39.901382,
+    "longitude": -105.101921,
     "elevation": 5653,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 304.391
+    "bearing": 304.39
   },
   {
     "name": "ILS-cat-I",

@@ -51939,13 +51939,13 @@
     "name": "GS",
     "airportICAO": "KBJC",
     "identifier": "IBJC",
-    "associatedRunwayNumber": "29R",
-    "latitude": 39.90196900,
-    "longitude": -105.10483900,
+    "associatedRunwayNumber": "30R",
+    "latitude": 39.901382,
+    "longitude": -105.101921,
     "elevation": 5572,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 304.794,
+    "bearing": 304.39,
     "glideslope": 3.00304397
   },
   {
