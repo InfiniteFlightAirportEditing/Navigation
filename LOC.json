@@ -36275,12 +36275,12 @@
     "airportICAO": "UHPP",
     "identifier": "IPR",
     "associatedRunwayNumber": "34R",
-    "latitude": 53.19166565,
-    "longitude": 158.43666077,
+    "latitude": 53.156077,
+    "longitude": 158.463199,
     "elevation": 131,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 335.545
+    "bearing": 337.46
   },
   {
     "name": "ILS-cat-I",

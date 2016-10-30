@@ -36183,12 +36183,12 @@
     "airportICAO": "UHPP",
     "identifier": "IPR",
     "associatedRunwayNumber": "34R",
-    "latitude": 53.15833282,
-    "longitude": 158.46166992,
+    "latitude": 53.156077,
+    "longitude": 158.463199,
     "elevation": 131,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 337.562,
+    "bearing": 337.46,
     "glideslope": 2.70337281
   },
   {
