@@ -37262,12 +37262,12 @@
     "airportICAO": "URSS",
     "identifier": "IAD",
     "associatedRunwayNumber": "02",
-    "latitude": 43.43833160,
-    "longitude": 39.95000076,
+    "latitude": 43.434372,
+    "longitude": 39.944560,
     "elevation": 89,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 29.938,
+    "bearing": 28.62,
     "glideslope": 2.80028969
   },
   {
@@ -37275,12 +37275,12 @@
     "airportICAO": "URSS",
     "identifier": "ISO",
     "associatedRunwayNumber": "06",
-    "latitude": 43.43999863,
+    "latitude":  43.439490,
     "longitude": 39.93166733,
     "elevation": 89,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 65.812,
+    "bearing": 64.76,
     "glideslope": 2.80064906
   },
   {
