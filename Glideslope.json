@@ -36963,12 +36963,12 @@
     "airportICAO": "UMMS",
     "identifier": "IVX",
     "associatedRunwayNumber": "13",
-    "latitude": 53.89179230,
-    "longitude": 28.01383209,
+    "latitude": 53.894740,
+    "longitude": 28.012513,
     "elevation": 669,
     "frequency": 108900,
     "receptionRange": 10,
-    "bearing": 139.562,
+    "bearing": 138.84,
     "glideslope": 2.70138781
   },
   {
@@ -36976,12 +36976,12 @@
     "airportICAO": "UMMS",
     "identifier": "IGH",
     "associatedRunwayNumber": "31",
-    "latitude": 53.87162399,
-    "longitude": 28.04368973,
+    "latitude": 53.870046,
+    "longitude": 28.049138,
     "elevation": 669,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 319.688,
+    "bearing": 318.85,
     "glideslope": 2.70318844
   },
   {
