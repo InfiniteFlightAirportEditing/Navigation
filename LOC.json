@@ -37536,12 +37536,12 @@
     "airportICAO": "USSS",
     "identifier": "IEL",
     "associatedRunwayNumber": "08R",
-    "latitude": 56.74000168,
-    "longitude": 60.84166718,
+    "latitude": 56.742281,
+    "longitude": 60.779637,
     "elevation": 764,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 94.035
+    "bearing": 94.15
   },
   {
     "name": "ILS-cat-I",
@@ -37549,12 +37549,12 @@
     "airportICAO": "USSS",
     "identifier": "IED",
     "associatedRunwayNumber": "26L",
-    "latitude": 56.74166870,
-    "longitude": 60.77333450,
+    "latitude": 56.740319,
+    "longitude": 60.828942,
     "elevation": 764,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 272.260
+    "bearing": 274.15
   },
   {
     "name": "ILS-cat-I",
@@ -37562,12 +37562,12 @@
     "airportICAO": "USSS",
     "identifier": "IKU",
     "associatedRunwayNumber": "26R",
-    "latitude": 56.74499893,
-    "longitude": 60.77000046,
+    "latitude": 56.744730,
+    "longitude": 60.827147,
     "elevation": 764,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 270.478
+    "bearing": 270.21
   },
   {
     "name": "ILS-cat-I",
