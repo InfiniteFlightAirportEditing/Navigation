@@ -7349,12 +7349,12 @@
     "airportICAO": "ETAR",
     "identifier": "IRER",
     "associatedRunwayNumber": "08",
-    "latitude": 49.43186569,
-    "longitude": 7.58350611,
+    "latitude": 49.432555,
+    "longitude": 7.578831,
     "elevation": 757,
     "frequency": 108950,
     "receptionRange": 10,
-    "bearing": 82.562,
+    "bearing": 82.31,
     "glideslope": 3.00082281
   },
   {
@@ -7362,12 +7362,12 @@
     "airportICAO": "ETAR",
     "identifier": "IRWL",
     "associatedRunwayNumber": "26",
-    "latitude": 49.43495178,
-    "longitude": 7.61841917,
+    "latitude": 49.436395,
+    "longitude": 7.622546,
     "elevation": 772,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 262.562,
+    "bearing": 262.31,
     "glideslope": 3.00262281
   },
   {
