@@ -48612,12 +48612,12 @@
     "airportICAO": "EDNY",
     "identifier": "IFHE",
     "associatedRunwayNumber": "06",
-    "latitude": 47.67739400,
-    "longitude": 9.52716700,
-    "elevation": 1366,
+    "latitude":  47.666019,
+    "longitude": 9.497843,
+    "elevation": 1368,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 60.061
+    "bearing": 60.07
   },
   {
     "name": "ILS-cat-II",
@@ -48625,12 +48625,12 @@
     "airportICAO": "EDNY",
     "identifier": "IFHW",
     "associatedRunwayNumber": "24",
-    "latitude": 47.66527500,
-    "longitude": 9.49591400,
-    "elevation": 1333,
+    "latitude": 47.676598,
+    "longitude": 9.525129,
+    "elevation": 1368,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 240.035
+    "bearing": 240.07
   },
   {
     "name": "ILS-cat-I",
