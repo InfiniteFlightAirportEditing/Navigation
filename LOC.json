@@ -32518,12 +32518,12 @@
     "airportICAO": "PHTO",
     "identifier": "IITO",
     "associatedRunwayNumber": "26",
-    "latitude": 19.72136879,
-    "longitude": -155.06077576,
-    "elevation": 37,
+    "latitude":   19.721360,
+    "longitude": -155.029217,
+    "elevation": 38,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 270.014
+    "bearing": 270.04
   },
   {
     "name": "ILS-cat-I",

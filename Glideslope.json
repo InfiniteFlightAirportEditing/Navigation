@@ -32400,12 +32400,12 @@
     "airportICAO": "PHTO",
     "identifier": "IITO",
     "associatedRunwayNumber": "26",
-    "latitude": 19.72246933,
-    "longitude": -155.03280640,
-    "elevation": 37,
+    "latitude":   19.721360,
+    "longitude": -155.029217,
+    "elevation": 38,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 270.062,
+    "bearing": 270.04,
     "glideslope": 2.60270031
   },
   {
