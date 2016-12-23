@@ -85277,7 +85277,7 @@
     "elevation": 20,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 44.84,
+    "bearing": 44.84
   },
   {
 	"name": "ILS-cat-I",
@@ -85290,7 +85290,7 @@
     "elevation": 23,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 224.84,
+    "bearing": 224.84
   },
   {
     "name": "ILS-cat-I",
