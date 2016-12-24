@@ -25750,6 +25750,16 @@
     "slavedVariation": 340.0
   }, 
   {
+	"receptionRange": 130, 
+    "elevation": 23, 
+    "name": "SERDANG", 
+    "longitude": 98.849911, 
+    "frequency": 1122000, 
+    "latitude": 3.617108, 
+    "identifier": "DES", 
+    "slavedVariation": 0.0
+  },
+  {
     "receptionRange": 40, 
     "elevation": 33, 
     "name": "SESTRI", 

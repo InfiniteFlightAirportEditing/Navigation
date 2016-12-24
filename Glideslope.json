@@ -39574,15 +39574,28 @@
   {
     "name": "GS",
     "airportICAO": "WIMM",
-    "identifier": "IMDN",
+    "identifier": "IDES",
     "associatedRunwayNumber": "05",
-    "latitude": 3.55226398,
-    "longitude": 98.66694641,
-    "elevation": 90,
-    "frequency": 110100,
+    "latitude": 3.651706,
+    "longitude": 98.884344,
+    "elevation": 20,
+    "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 47.062,
-    "glideslope": 3.00046531
+    "bearing": 44.84,
+    "glideslope": 3.00
+  },
+  {
+	"name": "GS",
+    "airportICAO": "WIMM",
+    "identifier": "IDEL",
+    "associatedRunwayNumber": "23",
+    "latitude": 3.623978,
+    "longitude": 98.856744,
+    "elevation": 23,
+    "frequency": 110900,
+    "receptionRange": 10,
+    "bearing": 224.84,
+    "glideslope": 3.00
   },
   {
     "name": "GS",
