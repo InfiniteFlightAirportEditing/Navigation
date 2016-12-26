@@ -48638,12 +48638,12 @@
     "airportICAO": "EDOP",
     "identifier": "IPAW",
     "associatedRunwayNumber": "24",
-    "latitude": 53.41996400,
-    "longitude": 11.75815800,
-    "elevation": 147,
+    "latitude": 53.432825,
+    "longitude": 11.803913,
+    "elevation": 166,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 244.957
+    "bearing": 245.01
   },
   {
     "name": "ILS-cat-I",

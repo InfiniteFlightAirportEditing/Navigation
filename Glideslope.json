@@ -44711,12 +44711,12 @@
     "airportICAO": "EDOP",
     "identifier": "IPAW",
     "associatedRunwayNumber": "24",
-    "latitude": 53.42991700,
-    "longitude": 11.80034400,
+    "latitude": 53.432825,
+    "longitude": 11.803913,
     "elevation": 166,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 245.960,
+    "bearing": 245.01,
     "glideslope": 3.0024498
   },
   {
