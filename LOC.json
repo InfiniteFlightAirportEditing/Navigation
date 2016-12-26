@@ -36405,12 +36405,12 @@
     "airportICAO": "UKBB",
     "identifier": "IBI",
     "associatedRunwayNumber": "18L",
-    "latitude": 50.31638336,
-    "longitude": 30.90328407,
-    "elevation": 421,
+    "latitude": 50.360550,
+    "longitude": 30.906494,
+    "elevation": 420,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 182.764
+    "bearing": 182.68
   },
   {
     "name": "ILS-cat-I",
@@ -36418,12 +36418,12 @@
     "airportICAO": "UKBB",
     "identifier": "IKB",
     "associatedRunwayNumber": "18R",
-    "latitude": 50.31221771,
-    "longitude": 30.87878418,
-    "elevation": 417,
+    "latitude": 50.352153,
+    "longitude": 30.881641,
+    "elevation": 420,
     "frequency": 108900,
     "receptionRange": 18,
-    "bearing": 182.664
+    "bearing": 182.63
   },
   {
     "name": "ILS-cat-I",
@@ -36431,12 +36431,12 @@
     "airportICAO": "UKBB",
     "identifier": "IKE",
     "associatedRunwayNumber": "36L",
-    "latitude": 50.36221695,
-    "longitude": 30.88238335,
-    "elevation": 418,
+    "latitude": 50.320723,
+    "longitude": 30.879375,
+    "elevation": 420,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 2.664
+    "bearing": 2.63
   },
   {
     "name": "ILS-cat-III",
@@ -36444,12 +36444,12 @@
     "airportICAO": "UKBB",
     "identifier": "INO",
     "associatedRunwayNumber": "36R",
-    "latitude": 50.36750031,
-    "longitude": 30.90710068,
-    "elevation": 421,
+    "latitude":  50.324650,
+    "longitude":  30.903861,
+    "elevation": 420,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 2.764
+    "bearing": 2.68
   },
   {
     "name": "ILS-cat-I",
