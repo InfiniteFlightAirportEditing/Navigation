@@ -48664,25 +48664,25 @@
     "airportICAO": "EDRZ",
     "identifier": "IZWW",
     "associatedRunwayNumber": "21",
-    "latitude": 49.19495600,
-    "longitude": 7.38781100,
-    "elevation": 1126,
+    "latitude": 49.218881,
+    "longitude": 7.408915,
+    "elevation": 1132,
     "frequency": 109350,
     "receptionRange": 18,
-    "bearing": 209.965
+    "bearing": 209.96
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "EDRZ",
     "identifier": "IZWE",
-    "associatedRunwayNumber": "3",
-    "latitude": 49.22156100,
-    "longitude": 7.41126700,
-    "elevation": 3710,
+    "associatedRunwayNumber": "03",
+    "latitude": 49.198024,
+    "longitude": 7.390516,
+    "elevation": 1132,
     "frequency": 108350,
     "receptionRange": 18,
-    "bearing": 29.971
+    "bearing": 29.96
   },
   {
     "name": "ILS-cat-I",
