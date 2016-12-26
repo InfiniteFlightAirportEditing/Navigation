@@ -7610,12 +7610,12 @@
     "airportICAO": "EYVI",
     "identifier": "IAV",
     "associatedRunwayNumber": "02",
-    "latitude": 54.64849472,
-    "longitude": 25.29572487,
-    "elevation": 646,
+    "latitude": 54.623713,
+    "longitude": 25.278583,
+    "elevation": 645,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 21.881
+    "bearing": 21.87
   },
   {
     "name": "ILS-cat-I",
@@ -7623,12 +7623,12 @@
     "airportICAO": "EYVI",
     "identifier": "IBK",
     "associatedRunwayNumber": "20",
-    "latitude": 54.61649704,
-    "longitude": 25.27355003,
-    "elevation": 646,
+    "latitude": 54.644593,
+    "longitude": 25.293059,
+    "elevation": 645,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 201.867
+    "bearing": 201.87
   },
   {
     "name": "ILS-cat-I",
