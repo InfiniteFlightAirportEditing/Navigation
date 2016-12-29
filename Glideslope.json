@@ -2162,12 +2162,12 @@
     "airportICAO": "EDDC",
     "identifier": "IDRE",
     "associatedRunwayNumber": "04",
-    "latitude": 51.12746048,
-    "longitude": 13.75621700,
-    "elevation": 755,
+    "latitude": 51.124639,
+    "longitude": 13.754647,
+    "elevation": 751,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 41.688,
+    "bearing": 40.83,
     "glideslope": 3.00040844
   },
   {
@@ -2175,12 +2175,12 @@
     "airportICAO": "EDDC",
     "identifier": "IDRW",
     "associatedRunwayNumber": "22",
-    "latitude": 51.14081192,
-    "longitude": 13.77459431,
-    "elevation": 703,
+    "latitude": 51.144048,
+    "longitude": 13.781366,
+    "elevation": 751,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 221.624,
+    "bearing": 220.83,
     "glideslope": 3.00220812
   },
   {
