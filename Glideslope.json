@@ -25042,12 +25042,12 @@
     "airportICAO": "LEAL",
     "identifier": "IAT",
     "associatedRunwayNumber": "10",
-    "latitude": 38.28290939,
-    "longitude": -0.57131100,
-    "elevation": 129,
+    "latitude": 38.284531,
+    "longitude": -0.575036,
+    "elevation": 142,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 100.188,
+    "bearing": 100.10,
     "glideslope": 3.00100094
   },
   {
