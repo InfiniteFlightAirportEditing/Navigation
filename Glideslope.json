@@ -3696,12 +3696,12 @@
     "airportICAO": "EGCC",
     "identifier": "IMM",
     "associatedRunwayNumber": "05L",
-    "latitude": 53.34827805,
-    "longitude": -2.28335309,
+    "latitude": 53.345137,
+    "longitude": -2.292768,
     "elevation": 257,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 51.000,
+    "bearing": 51.010,
     "glideslope": 3.00051
   },
   {
@@ -3709,12 +3709,12 @@
     "airportICAO": "EGCC",
     "identifier": "IMC",
     "associatedRunwayNumber": "05R",
-    "latitude": 53.33290482,
-    "longitude": -2.30574703,
+    "latitude": 53.331955,
+    "longitude": -2.310692,
     "elevation": 257,
     "frequency": 111550,
     "receptionRange": 10,
-    "bearing": 51.000,
+    "bearing": 50.990,
     "glideslope": 3.00051
   },
   {
@@ -3722,12 +3722,12 @@
     "airportICAO": "EGCC",
     "identifier": "INN",
     "associatedRunwayNumber": "23R",
-    "latitude": 53.35867310,
-    "longitude": -2.26183605,
+    "latitude": 53.362347,
+    "longitude": -2.257146,
     "elevation": 257,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 231.000,
+    "bearing": 231.010,
     "glideslope": 3.00231
   },
   {
