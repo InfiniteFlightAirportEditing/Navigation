@@ -31633,12 +31633,12 @@
     "airportICAO": "OMDB",
     "identifier": "IDBL",
     "associatedRunwayNumber": "12L",
-    "latitude": 25.26405525,
-    "longitude": 55.35369492,
+    "latitude": 25.266737,
+    "longitude": 55.346597,
     "elevation": 62,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 122.000,
+    "bearing": 121.530,
     "glideslope": 3.001215
   },
   {
@@ -31646,12 +31646,12 @@
     "airportICAO": "OMDB",
     "identifier": "IDBE",
     "associatedRunwayNumber": "12R",
-    "latitude": 25.26116753,
-    "longitude": 55.35169220,
+    "latitude": 25.256181,
+    "longitude": 55.358297,
     "elevation": 34,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 122.000,
+    "bearing": 121.530,
     "glideslope": 3.001215
   },
   {
@@ -31659,12 +31659,12 @@
     "airportICAO": "OMDB",
     "identifier": "IDBW",
     "associatedRunwayNumber": "30L",
-    "latitude": 25.24633217,
-    "longitude": 55.37841797,
+    "latitude": 25.235278,
+    "longitude": 55.395974,
     "elevation": 34,
     "frequency": 111300,
     "receptionRange": 10,
-    "bearing": 302.000,
+    "bearing": 301.530,
     "glideslope": 3.003015
   },
   {
@@ -31672,12 +31672,12 @@
     "airportICAO": "OMDB",
     "identifier": "IDBR",
     "associatedRunwayNumber": "30R",
-    "latitude": 25.25022125,
-    "longitude": 55.37861252,
+    "latitude": 25.246283,
+    "longitude": 55.383460,
     "elevation": 44,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 302.000,
+    "bearing": 301.530,
     "glideslope": 3.003015
   },
   {
