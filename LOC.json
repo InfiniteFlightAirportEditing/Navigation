@@ -77225,8 +77225,8 @@
     "airportICAO": "OKBK",
     "identifier": "IKIC",
     "associatedRunwayNumber": "15L",
-    "latitude": 29.21016900,
-    "longitude": 47.99987500,
+    "latitude": 29.241190,
+    "longitude": 47.983402,
     "elevation": 222,
     "frequency": 110100,
     "receptionRange": 18,
@@ -77238,12 +77238,12 @@
     "airportICAO": "OKBK",
     "identifier": "IKIB",
     "associatedRunwayNumber": "15R",
-    "latitude": 29.21026400,
-    "longitude": 47.97759200,
+    "latitude": 29.240467,
+    "longitude": 47.961537,
     "elevation": 180,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 155.124
+    "bearing": 155.120
   },
   {
     "name": "ILS-cat-II",
@@ -77251,12 +77251,12 @@
     "airportICAO": "OKBK",
     "identifier": "IKIA",
     "associatedRunwayNumber": "33L",
-    "latitude": 29.24397500,
-    "longitude": 47.95967800,
+    "latitude": 29.212710,
+    "longitude": 47.976289,
     "elevation": 148,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 335.124
+    "bearing": 335.120
   },
   {
     "name": "ILS-cat-II",
@@ -77264,12 +77264,12 @@
     "airportICAO": "OKBK",
     "identifier": "IKID",
     "associatedRunwayNumber": "33R",
-    "latitude": 29.24356400,
-    "longitude": 47.98214400,
+    "latitude": 29.212612,
+    "longitude": 47.998577,
     "elevation": 172,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 335.133
+    "bearing": 335.140
   },
   {
     "name": "ILS-cat-I",
