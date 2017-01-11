@@ -38745,12 +38745,12 @@
     "airportICAO": "VOML",
     "identifier": "IMNG",
     "associatedRunwayNumber": "24",
-    "latitude": 12.94742012,
-    "longitude": 74.87505341,
+    "latitude": 12.960136,
+    "longitude": 74.895931,
     "elevation": 337,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 238.144
+    "bearing": 238.210
   },
   {
     "name": "ILS-cat-I",

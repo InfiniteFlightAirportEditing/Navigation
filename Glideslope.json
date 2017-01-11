@@ -80293,12 +80293,12 @@
     "airportICAO": "VOML",
     "identifier": "IMNG",
     "associatedRunwayNumber": "24",
-    "latitude": 12.95966600,
-    "longitude": 74.89307500,
+    "latitude": 12.960136,
+    "longitude": 74.895931,
     "elevation": 337,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 238.262,
+    "bearing": 238.210,
     "glideslope": 3.00238131
   },
   {
