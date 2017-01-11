@@ -20766,12 +20766,12 @@
     "airportICAO": "KPHL",
     "identifier": "IVII",
     "associatedRunwayNumber": "09L",
-    "latitude": 39.87593842,
-    "longitude": -75.21927643,
+    "latitude": 39.868683,
+    "longitude": -75.255664,
     "elevation": 36,
     "frequency": 108950,
     "receptionRange": 18,
-    "bearing": 75.446
+    "bearing": 75.432
   },
   {
     "name": "ILS-cat-III",
@@ -20779,12 +20779,12 @@
     "airportICAO": "KPHL",
     "identifier": "IPHL",
     "associatedRunwayNumber": "09R",
-    "latitude": 39.86873245,
-    "longitude": -75.23551941,
+    "latitude": 39.860811,
+    "longitude": -75.275193,
     "elevation": 8,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 75.432
+    "bearing": 75.420
   },
   {
     "name": "ILS-cat-I",
@@ -20792,8 +20792,8 @@
     "airportICAO": "KPHL",
     "identifier": "IMMY",
     "associatedRunwayNumber": "17",
-    "latitude": 39.86857986,
-    "longitude": -75.22661591,
+    "latitude": 39.887660,
+    "longitude": -75.236091,
     "elevation": 36,
     "frequency": 108750,
     "receptionRange": 18,
@@ -20805,12 +20805,12 @@
     "airportICAO": "KPHL",
     "identifier": "ILLH",
     "associatedRunwayNumber": "26",
-    "latitude": 39.87844086,
-    "longitude": -75.22550964,
+    "latitude": 39.881773,
+    "longitude": -75.212760,
     "elevation": 36,
     "frequency": 111550,
     "receptionRange": 18,
-    "bearing": 251.177
+    "bearing": 251.460
   },
   {
     "name": "ILS-cat-I",
@@ -20818,12 +20818,12 @@
     "airportICAO": "KPHL",
     "identifier": "IGLC",
     "associatedRunwayNumber": "27L",
-    "latitude": 39.86007690,
-    "longitude": -75.27887726,
+    "latitude": 39.868043,
+    "longitude": -75.238965,
     "elevation": 7,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 255.406
+    "bearing": 255.420
   },
   {
     "name": "ILS-cat-I",
@@ -20831,12 +20831,12 @@
     "airportICAO": "KPHL",
     "identifier": "IPDP",
     "associatedRunwayNumber": "27R",
-    "latitude": 39.86798477,
-    "longitude": -75.25914764,
+    "latitude": 39.875219,
+    "longitude": -75.222900,
     "elevation": 36,
     "frequency": 108950,
     "receptionRange": 18,
-    "bearing": 255.414
+    "bearing": 255.430
   },
   {
     "name": "ILS-cat-I",
