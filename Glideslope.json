@@ -80264,6 +80264,32 @@
   },
   {
     "name": "GS",
+    "airportICAO": "VOBL",
+    "identifier": "IBAN",
+    "associatedRunwayNumber": "09",
+    "latitude": 13.207174,
+    "longitude": 77.686014,
+    "elevation": 3000,
+    "frequency": 109300,
+    "receptionRange": 10,
+    "bearing": 90.50,
+    "glideslope": 3.00264808
+  },
+  {
+    "name": "GS",
+    "airportICAO": "VOBL",
+    "identifier": "IDEV",
+    "associatedRunwayNumber": "27",
+    "latitude": 13.206858,
+    "longitude": 77.722987,
+    "elevation": 3000,
+    "frequency": 108300,
+    "receptionRange": 10,
+    "bearing": 269.500,
+    "glideslope": 3.00264808
+  },
+  {
+    "name": "GS",
     "airportICAO": "VOCB",
     "identifier": "ICMB",
     "associatedRunwayNumber": "23",
