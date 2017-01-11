@@ -30724,12 +30724,12 @@
     "airportICAO": "OBBI",
     "identifier": "IBIB",
     "associatedRunwayNumber": "12L",
-    "latitude": 26.25965691,
-    "longitude": 50.65299988,
+    "latitude": 26.280497,
+    "longitude": 50.616946,
     "elevation": 6,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 122.739
+    "bearing": 122.840
   },
   {
     "name": "ILS-cat-I",
@@ -30737,12 +30737,12 @@
     "airportICAO": "OBBI",
     "identifier": "IBIA",
     "associatedRunwayNumber": "30R",
-    "latitude": 26.28212738,
-    "longitude": 50.61405945,
+    "latitude": 26.261154,
+    "longitude": 50.650371,
     "elevation": 6,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 302.773
+    "bearing": 302.840
   },
   {
     "name": "ILS-cat-I",

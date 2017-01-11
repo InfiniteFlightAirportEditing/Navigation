@@ -72246,12 +72246,12 @@
     "airportICAO": "OBBI",
     "identifier": "IBIB",
     "associatedRunwayNumber": "12L",
-    "latitude": 26.27831100,
-    "longitude": 50.62290800,
+    "latitude": 26.280497,
+    "longitude": 50.616946,
     "elevation": 6,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 123.492,
+    "bearing": 122.840,
     "glideslope": 3.00122746
   },
   {
@@ -72259,12 +72259,12 @@
     "airportICAO": "OBBI",
     "identifier": "IBIA",
     "associatedRunwayNumber": "30R",
-    "latitude": 26.26532200,
-    "longitude": 50.64578600,
+    "latitude": 26.261154,
+    "longitude": 50.650371,
     "elevation": 6,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 303.492,
+    "bearing": 302.840,
     "glideslope": 3.00302746
   },
   {
