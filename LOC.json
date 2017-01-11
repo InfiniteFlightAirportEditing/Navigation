@@ -84318,6 +84318,32 @@
     "bearing": 275.761
   },
   {
+    "name": "ILS-cat-II",
+    "type": 4,
+    "airportICAO": "VOHS",
+    "identifier": "IHBD",
+    "associatedRunwayNumber": "09R",
+    "latitude": 17.228597,
+    "longitude": 78.412820,
+    "elevation": 2024,
+    "frequency": 108500,
+    "receptionRange": 18,
+    "bearing": 89.16
+  },
+  {
+    "name": "ILS-cat-II",
+    "type": 4,
+    "airportICAO": "VOHS",
+    "identifier": "ISAM",
+    "associatedRunwayNumber": "27L",
+    "latitude": 17.229159,
+    "longitude": 78.452913,
+    "elevation": 2024,
+    "frequency": 110900,
+    "receptionRange": 18,
+    "bearing": 269.16
+  },
+  {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "VOHY",

@@ -38650,6 +38650,32 @@
   },
   {
     "name": "GS",
+    "airportICAO": "VOHS",
+    "identifier": "IHBD",
+    "associatedRunwayNumber": "09R",
+    "latitude": 17.228597,
+    "longitude": 78.412820,
+    "elevation": 1969,
+    "frequency": 108500,
+    "receptionRange": 10,
+    "bearing": 89.160,
+    "glideslope": 3.00281062
+  },
+  {
+    "name": "GS",
+    "airportICAO": "VOHS",
+    "identifier": "ISAM",
+    "associatedRunwayNumber": "27L",
+    "latitude": 17.229159,
+    "longitude": 78.452913,
+    "elevation": 1969,
+    "frequency": 110900,
+    "receptionRange": 10,
+    "bearing": 269.160,
+    "glideslope": 3.00281062
+  },
+  {
+    "name": "GS",
     "airportICAO": "VOHY",
     "identifier": "IHYD",
     "associatedRunwayNumber": "27",
