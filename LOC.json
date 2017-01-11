@@ -31733,6 +31733,32 @@
     "bearing": 301.530
   },
   {
+    "name": "ILS-cat-II",
+    "type": 4,
+    "airportICAO": "OMDW",
+    "identifier": "IJEA",
+    "associatedRunwayNumber": "12",
+    "latitude": 24.907165,
+    "longitude": 55.142047,
+    "elevation": 171,
+    "frequency": 111750,
+    "receptionRange": 18,
+    "bearing": 121.400
+  },
+  {
+    "name": "ILS-cat-III",
+    "type": 4,
+    "airportICAO": "OMDW",
+    "identifier": "IJWA",
+    "associatedRunwayNumber": "30",
+    "latitude": 24.886067,
+    "longitude": 55.180150,
+    "elevation": 171,
+    "frequency": 109750,
+    "receptionRange": 18,
+    "bearing": 300.400
+  },
+  {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "OMFJ",
