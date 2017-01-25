@@ -41292,12 +41292,12 @@
     "airportICAO": "ZSQD",
     "identifier": "INX",
     "associatedRunwayNumber": "17",
-    "latitude": 36.27799606,
-    "longitude": 120.36933136,
+    "latitude": 36.28084686,
+    "longitude": 120.36988945,
     "elevation": 33,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 166.250,
+    "bearing": 165.640,
     "glideslope": 3.00165625
   },
   {
@@ -41305,12 +41305,12 @@
     "airportICAO": "ZSQD",
     "identifier": "IPP",
     "associatedRunwayNumber": "35",
-    "latitude": 36.25360870,
-    "longitude": 120.37697601,
+    "latitude": 36.25115084,
+    "longitude": 120.37931863,
     "elevation": 33,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 346.250,
+    "bearing": 345.640,
     "glideslope": 3.00345625
   },
   {

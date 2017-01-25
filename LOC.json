@@ -41345,12 +41345,12 @@
     "airportICAO": "ZSQD",
     "identifier": "INX",
     "associatedRunwayNumber": "17",
-    "latitude": 36.24866486,
-    "longitude": 120.38003540,
+    "latitude": 36.28084686,
+    "longitude": 120.36988945,
     "elevation": 33,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 165.541
+    "bearing": 165.640
   },
   {
     "name": "ILS-cat-I",
@@ -41358,12 +41358,12 @@
     "airportICAO": "ZSQD",
     "identifier": "IPP",
     "associatedRunwayNumber": "35",
-    "latitude": 36.28350449,
-    "longitude": 120.36884308,
+    "latitude": 36.25115084,
+    "longitude": 120.37931863,
     "elevation": 33,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 345.535
+    "bearing": 345.640
   },
   {
     "name": "ILS-cat-I",
