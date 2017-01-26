@@ -51004,12 +51004,12 @@
     "airportICAO": "KALB",
     "identifier": "IDEJ",
     "associatedRunwayNumber": "01",
-    "latitude": 42.74025300,
-    "longitude": -73.80290000,
-    "elevation": 279,
+    "latitude": 42.73717731,
+    "longitude": -073.80424283,
+    "elevation": 285,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 358.344,
+    "bearing": 358.172,
     "glideslope": 3.00358172
   },
   {
@@ -51017,12 +51017,12 @@
     "airportICAO": "KALB",
     "identifier": "IALB",
     "associatedRunwayNumber": "19",
-    "latitude": 42.75406900,
-    "longitude": -73.80349700,
-    "elevation": 279,
+    "latitude": 42.76047355,
+    "longitude": -073.80525674,
+    "elevation": 285,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 178.344,
+    "bearing": 178.172,
     "glideslope": 3.00178172
   },
   {
