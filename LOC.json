@@ -3047,12 +3047,12 @@
     "airportICAO": "EDSB",
     "identifier": "IKBE",
     "associatedRunwayNumber": "03",
-    "latitude": 48.79270554,
-    "longitude": 8.09301662,
-    "elevation": 408,
+    "latitude": 48.76785765,
+    "longitude": 8.06974760,
+    "elevation": 409,
     "frequency": 109950,
     "receptionRange": 18,
-    "bearing": 31.453
+    "bearing": 31.700
   },
   {
     "name": "ILS-cat-I",
@@ -3060,12 +3060,12 @@
     "airportICAO": "EDSB",
     "identifier": "IKBW",
     "associatedRunwayNumber": "21",
-    "latitude": 48.76610565,
-    "longitude": 8.06809235,
-    "elevation": 405,
+    "latitude": 48.79082866,
+    "longitude": 8.09127403,
+    "elevation": 409,
     "frequency": 108750,
     "receptionRange": 18,
-    "bearing": 211.938
+    "bearing": 211.700
   },
   {
     "name": "ILS-cat-I",
