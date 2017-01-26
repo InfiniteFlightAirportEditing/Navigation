@@ -6232,12 +6232,12 @@
     "airportICAO": "ENSG",
     "identifier": "SG",
     "associatedRunwayNumber": "24",
-    "latitude": 61.15673828,
-    "longitude": 7.14304733,
-    "elevation": 1633,
+    "latitude": 61.15832284,
+    "longitude": 7.14523340,
+    "elevation": 1632,
     "frequency": 108100,
     "receptionRange": 18,
-    "bearing": 235.282
+    "bearing": 239.28
   },
   {
     "name": "ILS-cat-I",
