@@ -25277,8 +25277,8 @@
     "airportICAO": "LEIB",
     "identifier": "IBI",
     "associatedRunwayNumber": "06",
-    "latitude": 38.87938690,
-    "longitude": 1.38893080,
+    "latitude": 38.86694697,
+    "longitude": 1.35881405,
     "elevation": 20,
     "frequency": 111100,
     "receptionRange": 18,
@@ -25290,12 +25290,12 @@
     "airportICAO": "LEIB",
     "identifier": "IBZ",
     "associatedRunwayNumber": "24",
-    "latitude": 38.86569977,
-    "longitude": 1.35586905,
-    "elevation": 15,
+    "latitude": 38.87877824,
+    "longitude": 1.38739496,
+    "elevation": 20,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 241.814
+    "bearing": 242.000
   },
   {
     "name": "ILS-cat-I",
