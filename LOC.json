@@ -71102,12 +71102,12 @@
     "airportICAO": "LEPA",
     "identifier": "PLM",
     "associatedRunwayNumber": "06L",
-    "latitude": 39.56351400,
-    "longitude": 2.74533100,
-    "elevation": 24,
+    "latitude": 39.54716037,
+    "longitude": 2.71079403,
+    "elevation": 25,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 58.339
+    "bearing": 58.480
   },
   {
     "name": "ILS-cat-III",
@@ -71115,12 +71115,12 @@
     "airportICAO": "LEPA",
     "identifier": "IPAL",
     "associatedRunwayNumber": "24L",
-    "latitude": 39.54004400,
-    "longitude": 2.72917800,
-    "elevation": 24,
+    "latitude": 39.55535847,
+    "longitude": 2.76155034,
+    "elevation": 25,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 238.628
+    "bearing": 238.510
   },
   {
     "name": "ILS-cat-I",
@@ -71128,12 +71128,12 @@
     "airportICAO": "LEPA",
     "identifier": "PAA",
     "associatedRunwayNumber": "24R",
-    "latitude": 39.54576700,
-    "longitude": 2.70781400,
-    "elevation": 24,
+    "latitude": 39.56256268,
+    "longitude": 2.74331613,
+    "elevation": 25,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 238.597
+    "bearing": 238.48
   },
   {
     "name": "ILS-cat-I",
