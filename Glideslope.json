@@ -11975,27 +11975,14 @@
   {
     "name": "GS",
     "airportICAO": "KCRW",
-    "identifier": "IHCV",
-    "associatedRunwayNumber": "05",
-    "latitude": 38.37215805,
-    "longitude": -81.59914398,
-    "elevation": 947,
-    "frequency": 110300,
-    "receptionRange": 10,
-    "bearing": 47.000,
-    "glideslope": 3.00047
-  },
-  {
-    "name": "GS",
-    "airportICAO": "KCRW",
     "identifier": "ICRW",
     "associatedRunwayNumber": "23",
-    "latitude": 38.38008499,
-    "longitude": -81.58823395,
-    "elevation": 867,
+    "latitude": 38.38228725,
+    "longitude": -081.58431708,
+    "elevation": 980,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 227.000,
+    "bearing": 228.977
     "glideslope": 3.00227
   },
   {
