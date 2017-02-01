@@ -1214,12 +1214,12 @@
     "airportICAO": "CYYT",
     "identifier": "IMP",
     "associatedRunwayNumber": "11",
-    "latitude": 47.62516785,
-    "longitude": -52.73509979,
-    "elevation": 461,
+    "latitude": 47.62363921,
+    "longitude": -52.77154048,
+    "elevation": 459,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 85.898
+    "bearing": 85.92
   },
   {
     "name": "ILS-cat-I",
@@ -1227,12 +1227,12 @@
     "airportICAO": "CYYT",
     "identifier": "IYT",
     "associatedRunwayNumber": "16",
-    "latitude": 47.60913467,
-    "longitude": -52.73246765,
-    "elevation": 461,
+    "latitude": 47.62588691,
+    "longitude": -52.75185287,
+    "elevation": 459,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 139.187
+    "bearing": 139.13
   },
   {
     "name": "ILS-cat-II",
@@ -1240,12 +1240,12 @@
     "airportICAO": "CYYT",
     "identifier": "UYT",
     "associatedRunwayNumber": "29",
-    "latitude": 47.62314987,
-    "longitude": -52.77690125,
-    "elevation": 461,
+    "latitude": 47.62529188,
+    "longitude": -52.73715410,
+    "elevation": 459,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 265.890
+    "bearing": 265.92
   },
   {
     "name": "ILS-cat-I",
