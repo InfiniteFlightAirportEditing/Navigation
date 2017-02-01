@@ -48820,12 +48820,12 @@
     "airportICAO": "EDXW",
     "identifier": "IWES",
     "associatedRunwayNumber": "32",
-    "latitude": 54.92084400,
-    "longitude": 8.33102800,
-    "elevation": 32,
+    "latitude": 54.90382943,
+    "longitude": 8.35211581,
+    "elevation": 49,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 324.519
+    "bearing": 324.54
   },
   {
     "name": "ILS-cat-I",

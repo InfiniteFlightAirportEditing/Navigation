@@ -3176,12 +3176,12 @@
     "airportICAO": "EDXW",
     "identifier": "IWES",
     "associatedRunwayNumber": "32",
-    "latitude": 54.90653229,
-    "longitude": 8.35113907,
-    "elevation": 32,
+    "latitude": 54.90382943,
+    "longitude": 8.35211581,
+    "elevation": 49,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 325.062,
+    "bearing": 324.54,
     "glideslope": 3.00324531
   },
   {
