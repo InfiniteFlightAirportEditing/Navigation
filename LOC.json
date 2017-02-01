@@ -486,12 +486,12 @@
     "airportICAO": "CYOW",
     "identifier": "IOW",
     "associatedRunwayNumber": "07",
-    "latitude": 45.32587051,
-    "longitude": -75.64337158,
-    "elevation": 350,
+    "latitude": 45.31327150,
+    "longitude": -75.67130580,
+    "elevation": 374,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 57.167
+    "bearing": 57.39
   },
   {
     "name": "ILS-cat-I",
@@ -499,12 +499,12 @@
     "airportICAO": "CYOW",
     "identifier": "IRP",
     "associatedRunwayNumber": "32",
-    "latitude": 45.32764053,
-    "longitude": -75.68701172,
-    "elevation": 351,
+    "latitude": 45.31077806,
+    "longitude": -75.65490761,
+    "elevation": 374,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 306.330
+    "bearing": 306.410
   },
   {
     "name": "ILS-cat-I",
