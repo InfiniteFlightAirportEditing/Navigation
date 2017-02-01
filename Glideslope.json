@@ -16969,12 +16969,12 @@
     "airportICAO": "KLBB",
     "identifier": "ILBB",
     "associatedRunwayNumber": "17R",
-    "latitude": 33.67936325,
-    "longitude": -101.83065796,
-    "elevation": 3277,
+    "latitude": 33.68233755,
+    "longitude": -101.82904378,
+    "elevation": 3282,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 180.312,
+    "bearing": 179.66,
     "glideslope": 3.00179656
   },
   {
@@ -16982,12 +16982,12 @@
     "airportICAO": "KLBB",
     "identifier": "ILDT",
     "associatedRunwayNumber": "26",
-    "latitude": 33.66368103,
-    "longitude": -101.80614471,
-    "elevation": 3257,
+    "latitude": 33.66236074,
+    "longitude": -101.79657224,
+    "elevation": 3282,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 270.312,
+    "bearing": 269.66,
     "glideslope": 3.00269656
   },
   {
