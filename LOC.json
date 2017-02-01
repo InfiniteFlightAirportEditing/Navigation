@@ -2106,30 +2106,57 @@
     "bearing": 257.350
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "EDDB",
-    "identifier": "ISSE",
-    "associatedRunwayNumber": "07",
-    "latitude": 52.37907028,
-    "longitude": 13.53301144,
+    "identifier": "IBNE",
+    "associatedRunwayNumber": "07L",
+    "latitude": 52.36768900,
+    "longitude": 13.48502500,
     "elevation": 157,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 68.790
+    "bearing": 68.77
   },
   {
     "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "EDDB",
-    "identifier": "ISSW",
-    "associatedRunwayNumber": "25",
-    "latitude": 52.36605072,
-    "longitude": 13.47811699,
+    "identifier": "IBSE",
+    "associatedRunwayNumber": "07R",
+    "latitude": 52.34541295,
+    "longitude": 13.46844369,
+    "elevation": 157,
+    "frequency": 109700,
+    "receptionRange": 18,
+    "bearing": 68.75
+  },
+  
+  {
+    "name": "ILS-cat-III",
+    "type": 4,
+    "airportICAO": "EDDB",
+    "identifier": "IBSW",
+    "associatedRunwayNumber": "25L",
+    "latitude": 52.35841507,
+    "longitude": 13.52316346,
+    "elevation": 157,
+    "frequency": 109500,
+    "receptionRange": 18,
+    "bearing": 248.75
+  },
+  {
+    "name": "ILS-cat-III",
+    "type": 4,
+    "airportICAO": "EDDB",
+    "identifier": "IBNW",
+    "associatedRunwayNumber": "25R",
+    "latitude": 52.37743100,
+    "longitude": 13.52609700,
     "elevation": 157,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 248.749
+    "bearing": 248.77
   },
   {
     "name": "ILS-cat-II",
