@@ -68151,12 +68151,12 @@
     "airportICAO": "LFMN",
     "identifier": "NI",
     "associatedRunwayNumber": "04L",
-    "latitude": 43.65427900,
-    "longitude": 7.20559200,
+    "latitude": 43.65179763,
+    "longitude": 7.20403975,
     "elevation": 12,
     "frequency": 109950,
     "receptionRange": 27,
-    "bearing": 45.800,
+    "bearing": 44.84,
     "glideslope": 3.000449
   },
   {
@@ -68164,12 +68164,12 @@
     "airportICAO": "LFMN",
     "identifier": "NA",
     "associatedRunwayNumber": "04R",
-    "latitude": 43.64767400,
-    "longitude": 7.20609100,
+    "latitude": 43.64674169,
+    "longitude": 7.20249043,
     "elevation": 12,
     "frequency": 110700,
     "receptionRange": 27,
-    "bearing": 42.000,
+    "bearing": 44.86,
     "glideslope": 3.00042
   },
   {

@@ -72233,12 +72233,12 @@
     "airportICAO": "LFMN",
     "identifier": "NI",
     "associatedRunwayNumber": "04L",
-    "latitude": 43.66944200,
-    "longitude": 7.22826000,
+    "latitude": 43.65179763,
+    "longitude": 7.20403975,
     "elevation": 12,
     "frequency": 109950,
     "receptionRange": 27,
-    "bearing": 44.900
+    "bearing": 44.84
   },
   {
     "name": "ILS-cat-I",
@@ -72246,12 +72246,12 @@
     "airportICAO": "LFMN",
     "identifier": "NA",
     "associatedRunwayNumber": "04R",
-    "latitude": 43.66765600,
-    "longitude": 7.22890400,
+    "latitude": 43.64674169,
+    "longitude": 7.20249043,
     "elevation": 12,
     "frequency": 110700,
     "receptionRange": 27,
-    "bearing": 42.000
+    "bearing": 44.86
   },
   {
     "name": "ILS-cat-I",
