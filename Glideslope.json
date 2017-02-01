@@ -60988,12 +60988,12 @@
     "airportICAO": "KMYF",
     "identifier": "IMYF",
     "associatedRunwayNumber": "28R",
-    "latitude": 32.81447800,
-    "longitude": -117.13724200,
-    "elevation": 423,
+    "latitude": 32.81282749,
+    "longitude": -117.13112576,
+    "elevation": 424,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 295.200,
+    "bearing": 295.06,
     "glideslope": 3.002951
   },
   {

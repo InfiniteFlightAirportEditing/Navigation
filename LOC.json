@@ -65044,12 +65044,12 @@
     "airportICAO": "KMYF",
     "identifier": "IMYF",
     "associatedRunwayNumber": "28R",
-    "latitude": 32.81885600,
-    "longitude": -117.14645000,
-    "elevation": 411,
+    "latitude": 32.81282749,
+    "longitude": -117.13112576,
+    "elevation": 424,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 295.100
+    "bearing": 295.06
   },
   {
     "name": "ILS-cat-I",
