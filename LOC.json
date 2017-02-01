@@ -73494,12 +73494,12 @@
     "airportICAO": "LIBD",
     "identifier": "BAP",
     "associatedRunwayNumber": "07",
-    "latitude": 41.14311111,
-    "longitude": 16.77683333,
-    "elevation": 177,
+    "latitude": 41.13286759,
+    "longitude": 16.74063784,
+    "elevation": 175,
     "frequency": 111350,
     "receptionRange": 18,
-    "bearing": 69.250
+    "bearing": 69.39
   },
   {
     "name": "ILS-cat-I",

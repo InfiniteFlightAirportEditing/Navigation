@@ -69399,12 +69399,12 @@
     "airportICAO": "LIBD",
     "identifier": "BAP",
     "associatedRunwayNumber": "07",
-    "latitude": 41.13683333,
-    "longitude": 16.75036111,
-    "elevation": 177,
+    "latitude": 41.13286759,
+    "longitude": 16.74063784,
+    "elevation": 175,
     "frequency": 111350,
     "receptionRange": 10,
-    "bearing": 69.500,
+    "bearing": 69.39,
     "glideslope": 3.3206925
   },
   {
