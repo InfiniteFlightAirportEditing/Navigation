@@ -7583,12 +7583,12 @@
     "airportICAO": "EVRA",
     "identifier": "IAO",
     "associatedRunwayNumber": "18",
-    "latitude": 56.93230438,
-    "longitude": 23.97063828,
+    "latitude": 56.93507467,
+    "longitude": 23.97297457,
     "elevation": 34,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 185.312,
+    "bearing": 185.12,
     "glideslope": 3.00185156
   },
   {
@@ -7596,12 +7596,12 @@
     "airportICAO": "EVRA",
     "identifier": "IRP",
     "associatedRunwayNumber": "36",
-    "latitude": 56.91547012,
-    "longitude": 23.96786118,
+    "latitude": 56.90646680,
+    "longitude": 23.96827403,
     "elevation": 34,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 5.312,
+    "bearing": 5.12,
     "glideslope": 3.00005156
   },
   {
