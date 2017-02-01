@@ -73729,12 +73729,12 @@
     "airportICAO": "LIEE",
     "identifier": "IEL",
     "associatedRunwayNumber": "32",
-    "latitude": 39.26205600,
-    "longitude": 9.04205600,
-    "elevation": 7,
+    "latitude": 39.24207211,
+    "longitude": 9.06518267,
+    "elevation": 13,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 318.117
+    "bearing": 318.10
   },
   {
     "name": "ILS-cat-I",
