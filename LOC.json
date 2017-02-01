@@ -61248,12 +61248,12 @@
     "airportICAO": "KHSV",
     "identifier": "ITVN",
     "associatedRunwayNumber": "18L",
-    "latitude": 34.62342500,
-    "longitude": -86.76606100,
-    "elevation": 583,
+    "latitude": 34.65307544,
+    "longitude": -86.76546841,
+    "elevation": 628,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 180.948
+    "bearing": 180.95
   },
   {
     "name": "ILS-cat-III",
@@ -61261,12 +61261,12 @@
     "airportICAO": "KHSV",
     "identifier": "IHSV",
     "associatedRunwayNumber": "18R",
-    "latitude": 34.61539700,
-    "longitude": -86.78285000,
-    "elevation": 592,
+    "latitude": 34.65275991,
+    "longitude": -86.78211038,
+    "elevation": 628,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 180.942
+    "bearing": 180.94
   },
   {
     "name": "ILS-cat-I",
@@ -61274,12 +61274,12 @@
     "airportICAO": "KHSV",
     "identifier": "IELL",
     "associatedRunwayNumber": "36L",
-    "latitude": 34.65539400,
-    "longitude": -86.78205000,
-    "elevation": 624,
+    "latitude": 34.61820728,
+    "longitude": -86.78279610,
+    "elevation": 628,
     "frequency": 108500,
     "receptionRange": 18,
-    "bearing": 0.942
+    "bearing": 0.94
   },
   {
     "name": "ILS-cat-I",
@@ -61287,12 +61287,12 @@
     "airportICAO": "KHSV",
     "identifier": "IJJC",
     "associatedRunwayNumber": "36R",
-    "latitude": 34.65576900,
-    "longitude": -86.76541100,
-    "elevation": 607,
+    "latitude": 34.62563505,
+    "longitude": -86.76602146,
+    "elevation": 628,
     "frequency": 109550,
     "receptionRange": 18,
-    "bearing": 0.948
+    "bearing": 1.95
   },
   {
     "name": "ILS-cat-I",
