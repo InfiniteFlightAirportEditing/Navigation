@@ -48404,12 +48404,12 @@
     "airportICAO": "EDDW",
     "identifier": "IBRE",
     "associatedRunwayNumber": "09",
-    "latitude": 53.04744200,
-    "longitude": 8.81273900,
-    "elevation": 13,
+    "latitude": 53.04647089,
+    "longitude": 8.77006533,
+    "elevation": 14,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 87.770
+    "bearing": 87.80
   },
   {
     "name": "ILS-cat-III",
@@ -48417,12 +48417,12 @@
     "airportICAO": "EDDW",
     "identifier": "IBRW",
     "associatedRunwayNumber": "27",
-    "latitude": 53.04640300,
-    "longitude": 8.76694200,
+    "latitude": 53.04737717,
+    "longitude": 8.80931125,
     "elevation": 14,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 267.872
+    "bearing": 267.80
   },
   {
     "name": "ILS-cat-I",
