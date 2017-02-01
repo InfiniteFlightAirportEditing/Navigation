@@ -28253,12 +28253,12 @@
     "airportICAO": "LIPZ",
     "identifier": "VTS",
     "associatedRunwayNumber": "04R",
-    "latitude": 45.49528122,
-    "longitude": 12.34170628,
-    "elevation": 52,
+    "latitude": 45.49412570,
+    "longitude": 12.33772134,
+    "elevation": 5,
     "frequency": 109950,
     "receptionRange": 10,
-    "bearing": 42.000,
+    "bearing": 42.04,
     "glideslope": 3.00042
   },
   {
