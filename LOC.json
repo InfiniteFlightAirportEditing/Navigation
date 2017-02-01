@@ -38589,12 +38589,12 @@
     "airportICAO": "VIDP",
     "identifier": "DEL",
     "associatedRunwayNumber": "10",
-    "latitude": 28.55811119,
-    "longitude": 77.12486267,
+    "latitude": 28.56724121,
+    "longitude": 77.08480736,
     "elevation": 776,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 104.461
+    "bearing": 104.700
   },
   {
     "name": "ILS-cat-I",
@@ -38602,12 +38602,12 @@
     "airportICAO": "VIDP",
     "identifier": "IDLH",
     "associatedRunwayNumber": "27",
-    "latitude": 28.57061005,
-    "longitude": 77.08235931,
-    "elevation": 723,
+    "latitude": 28.56990407,
+    "longitude": 77.11689623,
+    "elevation": 776,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 271.479
+    "bearing": 271.45
   },
   {
     "name": "ILS-cat-I",
@@ -38615,12 +38615,12 @@
     "airportICAO": "VIDP",
     "identifier": "IPLM",
     "associatedRunwayNumber": "28",
-    "latitude": 28.56811142,
-    "longitude": 77.08125305,
-    "elevation": 718,
+    "latitude": 28.55854255,
+    "longitude": 77.12256657,
+    "elevation": 776,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 284.839
+    "bearing": 284.7
   },
   {
     "name": "ILS-cat-I",
