@@ -71103,12 +71103,12 @@
     "airportICAO": "LEMG",
     "identifier": "IMG",
     "associatedRunwayNumber": "12",
-    "latitude": 36.67751694,
-    "longitude": -4.47576666,
-    "elevation": 52,
+    "latitude": 36.69095265,
+    "longitude": -4.50750311,
+    "elevation": 370,
     "frequency": 110550,
     "receptionRange": 15,
-    "bearing": 117.700
+    "bearing": 117.77
   },
   {
     "name": "ILS-cat-I",
@@ -71116,12 +71116,12 @@
     "airportICAO": "LEMG",
     "identifier": "GMM",
     "associatedRunwayNumber": "13",
-    "latitude": 36.66380310,
-    "longitude": -4.48357821,
-    "elevation": 52,
+    "latitude": 36.68451012,
+    "longitude": -4.51234654,
+    "elevation": 370,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 131.702
+    "bearing": 131.70
   },
   {
     "name": "ILS-cat-I",
@@ -71129,12 +71129,12 @@
     "airportICAO": "LEMG",
     "identifier": "GAA",
     "associatedRunwayNumber": "31",
-    "latitude": 36.68588600,
-    "longitude": -4.51448600,
-    "elevation": 52,
+    "latitude": 36.66535544,
+    "longitude": -4.48553527,
+    "elevation": 370,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 311.684
+    "bearing": 311.70
   },
   {
     "name": "ILS-cat-I",
