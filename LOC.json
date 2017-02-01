@@ -2943,12 +2943,12 @@
     "airportICAO": "EDMA",
     "identifier": "AUG",
     "associatedRunwayNumber": "25",
-    "latitude": 48.42280579,
-    "longitude": 10.92094707,
-    "elevation": 1510,
+    "latitude": 48.42753388,
+    "longitude": 10.94216153,
+    "elevation": 1515,
     "frequency": 108500,
     "receptionRange": 18,
-    "bearing": 251.387
+    "bearing": 251.43
   },
   {
     "name": "ILS-cat-I",
