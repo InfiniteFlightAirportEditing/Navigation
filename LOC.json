@@ -5842,12 +5842,12 @@
     "airportICAO": "ELLX",
     "identifier": "ILE",
     "associatedRunwayNumber": "06",
-    "latitude": 49.63861084,
-    "longitude": 6.24388885,
+    "latitude": 49.61750780,
+    "longitude": 6.18750184,
     "elevation": 1158,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 60.206
+    "bearing": 60.16
   },
   {
     "name": "ILS-cat-I",
@@ -5855,12 +5855,12 @@
     "airportICAO": "ELLX",
     "identifier": "ILW",
     "associatedRunwayNumber": "24",
-    "latitude": 49.61639023,
-    "longitude": 6.18444395,
+    "latitude": 49.63538704,
+    "longitude": 6.23560762,
     "elevation": 1158,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 239.941
+    "bearing": 240.16
   },
   {
     "name": "ILS-cat-I",
