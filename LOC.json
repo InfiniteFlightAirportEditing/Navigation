@@ -38928,12 +38928,12 @@
     "airportICAO": "VTBS",
     "identifier": "ISWS",
     "associatedRunwayNumber": "01L",
-    "latitude": 13.70619392,
-    "longitude": 100.74383545,
-    "elevation": 5,
+    "latitude": 13.67128529,
+    "longitude": 100.73467281,
+    "elevation": 4,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 14.402
+    "bearing": 14.35
   },
   {
     "name": "ILS-cat-II",
@@ -38941,12 +38941,12 @@
     "airportICAO": "VTBS",
     "identifier": "ISES",
     "associatedRunwayNumber": "01R",
-    "latitude": 13.69425011,
-    "longitude": 100.76169586,
-    "elevation": 5,
+    "latitude": 13.65669897,
+    "longitude": 100.75185384,
+    "elevation": 4,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 14.318
+    "bearing": 14.33
   },
   {
     "name": "ILS-cat-II",
@@ -38954,12 +38954,12 @@
     "airportICAO": "VTBS",
     "identifier": "ISEN",
     "associatedRunwayNumber": "19L",
-    "latitude": 13.65416718,
-    "longitude": 100.75116730,
-    "elevation": 5,
+    "latitude": 13.69171107,
+    "longitude": 100.76105724,
+    "elevation": 4,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 194.186
+    "bearing": 194.33
   },
   {
     "name": "ILS-cat-II",
@@ -38967,12 +38967,12 @@
     "airportICAO": "VTBS",
     "identifier": "ISWN",
     "associatedRunwayNumber": "19R",
-    "latitude": 13.66874981,
-    "longitude": 100.73400116,
-    "elevation": 5,
+    "latitude": 13.70367239,
+    "longitude": 100.74320173,
+    "elevation": 4,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 194.171
+    "bearing": 194.35
   },
   {
     "name": "ILS-cat-I",
