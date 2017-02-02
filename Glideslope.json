@@ -58115,12 +58115,12 @@
     "airportICAO": "KJAN",
     "identifier": "IJAN",
     "associatedRunwayNumber": "16L",
-    "latitude": 32.32592800,
-    "longitude": -90.07523100,
-    "elevation": 302,
+    "latitude": 32.32817752,
+    "longitude": -90.07770515,
+    "elevation": 346,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 158.160,
+    "bearing": 158.09,
     "glideslope": 3.0015808
   },
   {
@@ -58128,12 +58128,12 @@
     "airportICAO": "KJAN",
     "identifier": "IFRL",
     "associatedRunwayNumber": "34L",
-    "latitude": 32.29667800,
-    "longitude": -90.07666700,
-    "elevation": 327,
+    "latitude": 32.29417273,
+    "longitude": -90.07408224,
+    "elevation": 346,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 338.166,
+    "bearing": 338.09,
     "glideslope": 3.00338083
   },
   {
