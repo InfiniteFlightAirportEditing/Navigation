@@ -28890,12 +28890,12 @@
     "airportICAO": "LPPD",
     "identifier": "NL",
     "associatedRunwayNumber": "30",
-    "latitude": 37.74050140,
-    "longitude": -25.68994522,
-    "elevation": 259,
+    "latitude": 37.73780480,
+    "longitude": -25.68415899,
+    "elevation": 258,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 292.562,
+    "bearing": 291.65,
     "glideslope": 3.00291781
   },
   {

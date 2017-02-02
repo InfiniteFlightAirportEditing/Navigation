@@ -28970,12 +28970,12 @@
     "airportICAO": "LPPD",
     "identifier": "NL",
     "associatedRunwayNumber": "30",
-    "latitude": 37.74676514,
-    "longitude": -25.71257210,
-    "elevation": 259,
+    "latitude": 37.73780480,
+    "longitude": -25.68415899,
+    "elevation": 258,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 291.780
+    "bearing": 291.65
   },
   {
     "name": "ILS-cat-II",
