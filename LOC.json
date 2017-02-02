@@ -53982,12 +53982,12 @@
     "airportICAO": "GABS",
     "identifier": "IBS",
     "associatedRunwayNumber": "06",
-    "latitude": 12.54152500,
-    "longitude": -7.93756900,
+    "latitude": 12.52684370,
+    "longitude": -7.96035129,
     "elevation": 1246,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 56.533
+    "bearing": 56.54
   },
   {
     "name": "ILS-cat-I",

@@ -50003,12 +50003,12 @@
     "airportICAO": "GABS",
     "identifier": "IBS",
     "associatedRunwayNumber": "06",
-    "latitude": 12.52944000,
-    "longitude": -7.95839400,
+    "latitude": 12.52684370,
+    "longitude": -7.96035129,
     "elevation": 1246,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 57.020,
+    "bearing": 56.54,
     "glideslope": 3.0005651
   },
   {
