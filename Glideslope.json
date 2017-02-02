@@ -70439,12 +70439,12 @@
     "airportICAO": "LPAZ",
     "identifier": "MA",
     "associatedRunwayNumber": "18",
-    "latitude": 36.98348600,
-    "longitude": -25.17156100,
-    "elevation": 284,
+    "latitude": 36.98572642,
+    "longitude": -25.17334669,
+    "elevation": 308,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 171.936,
+    "bearing": 171.11,
     "glideslope": 2.75170968
   },
   {

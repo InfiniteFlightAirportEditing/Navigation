@@ -74574,12 +74574,12 @@
     "airportICAO": "LPAZ",
     "identifier": "MA",
     "associatedRunwayNumber": "18",
-    "latitude": 36.95561400,
-    "longitude": -25.16747200,
-    "elevation": 279,
+    "latitude": 36.98572642,
+    "longitude": -25.17334669,
+    "elevation": 308,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 170.948
+    "bearing": 171.11
   },
   {
     "name": "ILS-cat-I",
