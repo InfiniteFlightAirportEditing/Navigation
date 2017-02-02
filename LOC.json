@@ -90525,12 +90525,12 @@
     "airportICAO": "LFKC",
     "identifier": "CLI",
     "associatedRunwayNumber": "18",
-    "latitude": 42.51821400,
-    "longitude": 8.79303600,
-    "elevation": 230,
+    "latitude": 42.54114415,
+    "longitude": 8.79293658,
+    "elevation": 208,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 179.616
+    "bearing": 179.81
   },
   {
     "name": "LOC",
