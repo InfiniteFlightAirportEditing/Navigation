@@ -47727,13 +47727,13 @@
     "name": "GS",
     "airportICAO": "ENAT",
     "identifier": "AT",
-    "associatedRunwayNumber": "11",
-    "latitude": 69.98110000,
-    "longitude": 23.35243100,
-    "elevation": 10,
+    "associatedRunwayNumber": "12",
+    "latitude": 69.98277042,
+    "longitude": 23.33930796,
+    "elevation": 8,
     "frequency": 108900,
     "receptionRange": 10,
-    "bearing": 121.404,
+    "bearing": 121.19,
     "glideslope": 3.70121202
   },
   {

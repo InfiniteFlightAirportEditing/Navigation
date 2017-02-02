@@ -51667,13 +51667,13 @@
     "type": 4,
     "airportICAO": "ENAT",
     "identifier": "AT",
-    "associatedRunwayNumber": "11",
-    "latitude": 69.97190300,
-    "longitude": 23.39170600,
-    "elevation": 9,
+    "associatedRunwayNumber": "12",
+    "latitude": 69.98277042,
+    "longitude": 23.33930796,
+    "elevation": 8,
     "frequency": 108900,
     "receptionRange": 18,
-    "bearing": 121.224
+    "bearing": 121.19
   },
   {
     "name": "ILS-cat-I",
