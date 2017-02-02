@@ -69932,12 +69932,12 @@
     "airportICAO": "LIRA",
     "identifier": "CIA",
     "associatedRunwayNumber": "15",
-    "latitude": 41.80527800,
-    "longitude": 12.58930600,
-    "elevation": 384,
+    "latitude": 41.80802394,
+    "longitude": 12.58884985,
+    "elevation": 425,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 153.590,
+    "bearing": 152.78,
     "glideslope": 3.00152795
   },
   {
