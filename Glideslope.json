@@ -8883,12 +8883,12 @@
     "airportICAO": "HTKJ",
     "identifier": "KK",
     "associatedRunwayNumber": "09",
-    "latitude": -3.42861891,
-    "longitude": 37.05931473,
+    "latitude": -3.43011397,
+    "longitude": 37.05815972,
     "elevation": 2932,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 88.000,
+    "bearing": 87.53,
     "glideslope": 3.000875
   },
   {
