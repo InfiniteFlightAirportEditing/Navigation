@@ -49834,12 +49834,12 @@
     "airportICAO": "FOOL",
     "identifier": "LB",
     "associatedRunwayNumber": "16",
-    "latitude": 0.46816900,
-    "longitude": 9.40556800,
-    "elevation": 54,
+    "latitude": 0.47075673,
+    "longitude": 9.40634682,
+    "elevation": 39,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 154.378,
+    "bearing": 154.26,
     "glideslope": 3.00154189
   },
   {

@@ -53813,12 +53813,12 @@
     "airportICAO": "FOOL",
     "identifier": "LB",
     "associatedRunwayNumber": "16",
-    "latitude": 0.44433800,
-    "longitude": 9.41826200,
+    "latitude": 0.47075673,
+    "longitude": 9.40634682,
     "elevation": 39,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 155.777
+    "bearing": 154.26
   },
   {
     "name": "ILS-cat-II",
