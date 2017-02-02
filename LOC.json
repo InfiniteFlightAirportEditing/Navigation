@@ -39149,12 +39149,12 @@
     "airportICAO": "VTSP",
     "identifier": "IPKT",
     "associatedRunwayNumber": "27",
-    "latitude": 8.11359215,
-    "longitude": 98.30684662,
-    "elevation": 19,
+    "latitude": 8.11449821,
+    "longitude": 98.33040337,
+    "elevation": 82,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 263.454
+    "bearing": 264.57
   },
   {
     "name": "ILS-cat-I",

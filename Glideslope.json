@@ -39069,12 +39069,12 @@
     "airportICAO": "VTSP",
     "identifier": "IPKT",
     "associatedRunwayNumber": "27",
-    "latitude": 8.11340809,
-    "longitude": 98.32839203,
+    "latitude": 8.11449821,
+    "longitude": 98.33040337,
     "elevation": 82,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 263.938,
+    "bearing": 264.57,
     "glideslope": 3.20263469
   },
   {
