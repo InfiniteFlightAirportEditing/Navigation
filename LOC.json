@@ -74600,12 +74600,12 @@
     "airportICAO": "LPFR",
     "identifier": "IIF",
     "associatedRunwayNumber": "28",
-    "latitude": 37.01757200,
-    "longitude": -7.98781900,
-    "elevation": 24,
+    "latitude": 37.01337305,
+    "longitude": -7.95850527,
+    "elevation": 22,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 280.162
+    "bearing": 280.08
   },
   {
     "name": "ILS-cat-I",

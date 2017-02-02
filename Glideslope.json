@@ -28838,12 +28838,12 @@
     "airportICAO": "LPFR",
     "identifier": "IIF",
     "associatedRunwayNumber": "28",
-    "latitude": 37.01242065,
-    "longitude": -7.96255302,
-    "elevation": 24,
+    "latitude": 37.01337305,
+    "longitude": -7.95850527,
+    "elevation": 22,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 280.188,
+    "bearing": 280.08,
     "glideslope": 3.00280094
   },
   {
