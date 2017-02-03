@@ -38783,12 +38783,12 @@
     "airportICAO": "VRMM",
     "identifier": "IML",
     "associatedRunwayNumber": "36",
-    "latitude": 4.18279696,
-    "longitude": 73.52827454,
-    "elevation": 5,
+    "latitude": 4.17735588,
+    "longitude": 73.52938812,
+    "elevation": 3,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 359.124,
+    "bearing": 359.09,
     "glideslope": 3.00359062
   },
   {
