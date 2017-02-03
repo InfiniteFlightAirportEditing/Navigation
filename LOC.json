@@ -28553,13 +28553,13 @@
     "type": 4,
     "airportICAO": "LJMB",
     "identifier": "MAR",
-    "associatedRunwayNumber": "33",
-    "latitude": 46.49166489,
-    "longitude": 15.67464733,
-    "elevation": 876,
+    "associatedRunwayNumber": "32",
+    "latitude": 46.47054360,
+    "longitude": 15.69523983,
+    "elevation": 875,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 326.185
+    "bearing": 326.19
   },
   {
     "name": "ILS-cat-I",

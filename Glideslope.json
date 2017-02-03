@@ -28460,13 +28460,13 @@
     "name": "GS",
     "airportICAO": "LJMB",
     "identifier": "MAR",
-    "associatedRunwayNumber": "33",
-    "latitude": 46.47201920,
-    "longitude": 15.69155312,
-    "elevation": 856,
+    "associatedRunwayNumber": "32",
+    "latitude": 46.47054360,
+    "longitude": 15.69523983,
+    "elevation": 875,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 326.376,
+    "bearing": 326.19,
     "glideslope": 3.00326188
   },
   {
