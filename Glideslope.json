@@ -39485,12 +39485,12 @@
     "airportICAO": "WBGG",
     "identifier": "IKG",
     "associatedRunwayNumber": "25",
-    "latitude": 1.48863304,
-    "longitude": 110.35345459,
-    "elevation": 89,
+    "latitude": 1.49467463,
+    "longitude": 110.37011004,
+    "elevation": 88,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 248.500,
+    "bearing": 248.30,
     "glideslope": 3.0024825
   },
   {

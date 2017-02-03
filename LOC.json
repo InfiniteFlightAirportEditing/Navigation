@@ -39565,12 +39565,12 @@
     "airportICAO": "WBGG",
     "identifier": "IKG",
     "associatedRunwayNumber": "25",
-    "latitude": 1.48024702,
-    "longitude": 110.33580017,
-    "elevation": 89,
+    "latitude": 1.49467463,
+    "longitude": 110.37011004,
+    "elevation": 88,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 248.226
+    "bearing": 248.30
   },
   {
     "name": "ILS-cat-I",
