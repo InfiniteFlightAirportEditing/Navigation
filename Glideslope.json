@@ -49717,12 +49717,12 @@
     "airportICAO": "FIMP",
     "identifier": "IPL",
     "associatedRunwayNumber": "14",
-    "latitude": -20.42500000,
-    "longitude": 57.67500000,
-    "elevation": 186,
+    "latitude": -20.42470109,
+    "longitude": 57.67200898,
+    "elevation": 183,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 117.432,
+    "bearing": 117.12,
     "glideslope": 3.50117216
   },
   {
