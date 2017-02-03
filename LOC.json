@@ -55126,12 +55126,12 @@
     "airportICAO": "KAMA",
     "identifier": "IAMA",
     "associatedRunwayNumber": "04",
-    "latitude": 35.23480600,
-    "longitude": -101.69525800,
-    "elevation": 3607,
+    "latitude": 35.20512248,
+    "longitude": -101.73271144,
+    "elevation": 3606,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 45.869
+    "bearing": 45.87
   },
   {
     "name": "LDA-GS",
@@ -55139,12 +55139,12 @@
     "airportICAO": "KAMA",
     "identifier": "IRIQ",
     "associatedRunwayNumber": "22",
-    "latitude": 35.22000300,
-    "longitude": -101.71108900,
-    "elevation": 3600,
+    "latitude": 35.23090666,
+    "longitude": -101.70018206,
+    "elevation": 3606,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 221.410
+    "bearing": 225.87
   },
   {
     "name": "ILS-cat-I",

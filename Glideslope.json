@@ -51147,12 +51147,12 @@
     "airportICAO": "KAMA",
     "identifier": "IAMA",
     "associatedRunwayNumber": "04",
-    "latitude": 35.20623600,
-    "longitude": -101.72912200,
-    "elevation": 3599,
+    "latitude": 35.20512248,
+    "longitude": -101.73271144,
+    "elevation": 3606,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 46.720,
+    "bearing": 45.87,
     "glideslope": 3.0004586
   },
   {
@@ -51160,12 +51160,12 @@
     "airportICAO": "KAMA",
     "identifier": "IRIQ",
     "associatedRunwayNumber": "22",
-    "latitude": 35.22964400,
-    "longitude": -101.70418100,
-    "elevation": 3601,
+    "latitude": 35.23090666,
+    "longitude": -101.70018206,
+    "elevation": 3606,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 221.820,
+    "bearing": 225.87,
     "glideslope": 3.0022141
   },
   {
