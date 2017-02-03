@@ -3204,12 +3204,12 @@
     "airportICAO": "EFHK",
     "identifier": "HTV",
     "associatedRunwayNumber": "04L",
-    "latitude": 60.33344269,
-    "longitude": 24.94896126,
-    "elevation": 179,
+    "latitude": 60.31310456,
+    "longitude": 24.90419830,
+    "elevation": 180,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 47.467
+    "bearing": 47.45
   },
   {
     "name": "ILS-cat-I",
@@ -3217,12 +3217,12 @@
     "airportICAO": "EFHK",
     "identifier": "HG",
     "associatedRunwayNumber": "04R",
-    "latitude": 60.33189774,
-    "longitude": 24.98175049,
-    "elevation": 147,
+    "latitude": 60.31051042,
+    "longitude": 24.93469699,
+    "elevation": 180,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 47.496
+    "bearing": 47.47
   },
   {
     "name": "ILS-cat-I",
@@ -3230,12 +3230,12 @@
     "airportICAO": "EFHK",
     "identifier": "HL",
     "associatedRunwayNumber": "15",
-    "latitude": 60.30564880,
-    "longitude": 24.98973656,
-    "elevation": 179,
+    "latitude": 60.33029783,
+    "longitude": 24.96442383,
+    "elevation": 180,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 153.102
+    "bearing": 153.05
   },
   {
     "name": "ILS-cat-II",
@@ -3243,12 +3243,12 @@
     "airportICAO": "EFHK",
     "identifier": "HK",
     "associatedRunwayNumber": "22L",
-    "latitude": 60.30767822,
-    "longitude": 24.92842293,
-    "elevation": 151,
+    "latitude": 60.33143996,
+    "longitude": 24.98076524,
+    "elevation": 180,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 227.451
+    "bearing": 227.47
   },
   {
     "name": "ILS-cat-I",
@@ -3256,12 +3256,12 @@
     "airportICAO": "EFHK",
     "identifier": "HUO",
     "associatedRunwayNumber": "22R",
-    "latitude": 60.31088638,
-    "longitude": 24.89933968,
-    "elevation": 179,
+    "latitude": 60.33172775,
+    "longitude": 24.94516681,
+    "elevation": 180,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 227.422
+    "bearing": 227.45
   },
   {
     "name": "ILS-cat-I",
