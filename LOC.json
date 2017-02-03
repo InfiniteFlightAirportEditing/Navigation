@@ -34963,12 +34963,25 @@
     "airportICAO": "SBSP",
     "identifier": "ISP",
     "associatedRunwayNumber": "17R",
-    "latitude": -23.63766670,
-    "longitude": -46.64883423,
-    "elevation": 2631,
+    "latitude": -23.62000850,
+    "longitude": -46.66108904,
+    "elevation": 2625,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 147.029
+    "bearing": 147.63
+  },  
+  {
+    "name": "LOC",
+    "type": 5,
+    "airportICAO": "SBSP",
+    "identifier": "ICO",
+    "associatedRunwayNumber": "35L",
+    "latitude": -23.63475423,
+    "longitude": -46.65088587,
+    "elevation": 2625,
+    "frequency": 110100,
+    "receptionRange": 18,
+    "bearing": 327.63
   },
   {
     "name": "ILS-cat-I",
@@ -45655,19 +45668,6 @@
     "frequency": 109300,
     "receptionRange": 18,
     "bearing": 81.055
-  },
-  {
-    "name": "LOC",
-    "type": 5,
-    "airportICAO": "SBSP",
-    "identifier": "ICO",
-    "associatedRunwayNumber": "35L",
-    "latitude": -23.61933327,
-    "longitude": -46.66149902,
-    "elevation": 2631,
-    "frequency": 110100,
-    "receptionRange": 18,
-    "bearing": 328.143
   },
   {
     "name": "LOC",
@@ -80616,19 +80616,6 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
-    "airportICAO": "SBSP",
-    "identifier": "ISP",
-    "associatedRunwayNumber": "17R",
-    "latitude": -23.63766700,
-    "longitude": -46.64883300,
-    "elevation": 2631,
-    "frequency": 109300,
-    "receptionRange": 18,
-    "bearing": 147.029
-  },
-  {
-    "name": "ILS-cat-I",
-    "type": 4,
     "airportICAO": "SBSV",
     "identifier": "ISV",
     "associatedRunwayNumber": "10",
@@ -91259,19 +91246,6 @@
     "frequency": 109300,
     "receptionRange": 18,
     "bearing": 81.055
-  },
-  {
-    "name": "LOC",
-    "type": 5,
-    "airportICAO": "SBSP",
-    "identifier": "ICO",
-    "associatedRunwayNumber": "35L",
-    "latitude": -23.61933300,
-    "longitude": -46.66150000,
-    "elevation": 2631,
-    "frequency": 110100,
-    "receptionRange": 18,
-    "bearing": 328.143
   },
   {
     "name": "LOC",

@@ -34883,12 +34883,12 @@
     "airportICAO": "SBSP",
     "identifier": "ISP",
     "associatedRunwayNumber": "17R",
-    "latitude": -23.62269211,
-    "longitude": -46.65742874,
-    "elevation": 2631,
+    "latitude": -23.62000850,
+    "longitude": -46.66108904,
+    "elevation": 2625,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 147.750,
+    "bearing": 147.63,
     "glideslope": 2.90147375
   },
   {
@@ -76570,19 +76570,6 @@
     "receptionRange": 10,
     "bearing": 135.252,
     "glideslope": 3.00135126
-  },
-  {
-    "name": "GS",
-    "airportICAO": "SBSP",
-    "identifier": "ISP",
-    "associatedRunwayNumber": "17R",
-    "latitude": -23.62269200,
-    "longitude": -46.65742800,
-    "elevation": 2631,
-    "frequency": 109300,
-    "receptionRange": 10,
-    "bearing": 147.766,
-    "glideslope": 2.90147383
   },
   {
     "name": "GS",
