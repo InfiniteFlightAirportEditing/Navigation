@@ -16451,12 +16451,12 @@
     "airportICAO": "KJAX",
     "identifier": "IJAX",
     "associatedRunwayNumber": "08",
-    "latitude": 30.50631332,
-    "longitude": -81.66694641,
-    "elevation": 26,
+    "latitude": 30.49620491,
+    "longitude": -81.69999364,
+    "elevation": 29,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 70.467
+    "bearing": 70.43
   },
   {
     "name": "ILS-cat-I",
@@ -16464,12 +16464,12 @@
     "airportICAO": "KJAX",
     "identifier": "ICZH",
     "associatedRunwayNumber": "14",
-    "latitude": 30.47679138,
-    "longitude": -81.68009186,
-    "elevation": 23,
+    "latitude": 30.49217437,
+    "longitude": -81.70084089,
+    "elevation": 29,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 130.700
+    "bearing": 130.69
   },
   {
     "name": "ILS-cat-I",
@@ -16477,12 +16477,12 @@
     "airportICAO": "KJAX",
     "identifier": "IPEK",
     "associatedRunwayNumber": "26",
-    "latitude": 30.49477196,
-    "longitude": -81.70468903,
-    "elevation": 30,
+    "latitude": 30.50539160,
+    "longitude": -81.66999711,
+    "elevation": 29,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 250.448
+    "bearing": 250.43
   },
   {
     "name": "ILS-cat-I",
