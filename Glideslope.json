@@ -22845,12 +22845,12 @@
     "airportICAO": "KSHV",
     "identifier": "ISHV",
     "associatedRunwayNumber": "14",
-    "latitude": 32.45055771,
-    "longitude": -93.83355713,
-    "elevation": 251,
+    "latitude": 32.45384740,
+    "longitude": -93.83484979,
+    "elevation": 256,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 143.688,
+    "bearing": 142.84,
     "glideslope": 3.00142844
   },
   {
@@ -22858,12 +22858,12 @@
     "airportICAO": "KSHV",
     "identifier": "IFOG",
     "associatedRunwayNumber": "32",
-    "latitude": 32.43809509,
-    "longitude": -93.82212830,
-    "elevation": 219,
+    "latitude": 32.43559464,
+    "longitude": -93.81845650,
+    "elevation": 256,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 323.688,
+    "bearing": 322.84,
     "glideslope": 3.00322844
   },
   {

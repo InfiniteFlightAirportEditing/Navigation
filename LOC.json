@@ -22873,12 +22873,12 @@
     "airportICAO": "KSHV",
     "identifier": "ISHV",
     "associatedRunwayNumber": "14",
-    "latitude": 32.43410110,
-    "longitude": -93.81714630,
-    "elevation": 257,
+    "latitude": 32.45384740,
+    "longitude": -93.83484979,
+    "elevation": 256,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 142.846
+    "bearing": 142.84
   },
   {
     "name": "ILS-cat-I",
@@ -22886,12 +22886,12 @@
     "airportICAO": "KSHV",
     "identifier": "IFOG",
     "associatedRunwayNumber": "32",
-    "latitude": 32.45639801,
-    "longitude": -93.83717346,
-    "elevation": 270,
+    "latitude": 32.43559464,
+    "longitude": -93.81845650,
+    "elevation": 256,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 322.837
+    "bearing": 322.84
   },
   {
     "name": "ILS-cat-I",
@@ -90173,13 +90173,13 @@
     "type": 5,
     "airportICAO": "KSHV",
     "identifier": "IMWP",
-    "associatedRunwayNumber": "05",
-    "latitude": 32.45495300,
-    "longitude": -93.81195000,
-    "elevation": 257,
+    "associatedRunwayNumber": "06",
+    "latitude": 32.44504355,
+    "longitude": -93.83291150,
+    "elevation": 256,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 60.791
+    "bearing": 60.79
   },
   {
     "name": "LDA",
