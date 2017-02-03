@@ -25549,12 +25549,12 @@
     "airportICAO": "LEST",
     "identifier": "IGO",
     "associatedRunwayNumber": "17",
-    "latitude": 42.90841293,
-    "longitude": -8.41780567,
-    "elevation": 1171,
+    "latitude": 42.91180354,
+    "longitude": -8.42033231,
+    "elevation": 1168,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 166.062,
+    "bearing": 166.20,
     "glideslope": 3.00166031
   },
   {
@@ -25562,12 +25562,12 @@
     "airportICAO": "LEST",
     "identifier": "ISO",
     "associatedRunwayNumber": "35",
-    "latitude": 42.88694382,
-    "longitude": -8.41059208,
-    "elevation": 1196,
+    "latitude": 42.88383692,
+    "longitude": -8.41095647,
+    "elevation": 1168,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 346.062,
+    "bearing": 346.20,
     "glideslope": 3.00346031
   },
   {
