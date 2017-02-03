@@ -79800,12 +79800,12 @@
     "airportICAO": "RPLL",
     "identifier": "IML",
     "associatedRunwayNumber": "06",
-    "latitude": 14.51459200,
-    "longitude": 121.03035300,
-    "elevation": 21,
+    "latitude": 14.49833892,
+    "longitude": 121.00100002,
+    "elevation": 75,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 60.153
+    "bearing": 60.14
   },
   {
     "name": "ILS-cat-I",
@@ -79813,12 +79813,12 @@
     "airportICAO": "RPLL",
     "identifier": "IMA",
     "associatedRunwayNumber": "24",
-    "latitude": 14.49728300,
-    "longitude": 120.99912500,
-    "elevation": 71,
+    "latitude": 14.51361592,
+    "longitude": 121.02849103,
+    "elevation": 75,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 240.243
+    "bearing": 240.14
   },
   {
     "name": "ILS-cat-I",
