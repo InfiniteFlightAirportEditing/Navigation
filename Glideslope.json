@@ -81906,12 +81906,12 @@
     "airportICAO": "YPAD",
     "identifier": "IAD",
     "associatedRunwayNumber": "23",
-    "latitude": -34.94353485,
-    "longitude": 138.54162598,
+    "latitude": -34.94066177,
+    "longitude": 138.54321878,
     "elevation": 20,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 230.268,
+    "bearing": 230.40,
     "glideslope": 3.00230134
   },
   {

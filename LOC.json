@@ -85962,12 +85962,12 @@
     "airportICAO": "YPAD",
     "identifier": "IAD",
     "associatedRunwayNumber": "23",
-    "latitude": -34.95987200,
-    "longitude": 138.51525500,
+    "latitude": -34.94066177,
+    "longitude": 138.54321878,
     "elevation": 20,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 230.125
+    "bearing": 230.04
   },
   {
     "name": "ILS-cat-I",
