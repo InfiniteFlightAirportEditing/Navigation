@@ -35546,12 +35546,12 @@
     "airportICAO": "SVMI",
     "identifier": "IMIQ",
     "associatedRunwayNumber": "10",
-    "latitude": 10.60484695,
-    "longitude": -67.00980377,
-    "elevation": 235,
+    "latitude": 10.60379021,
+    "longitude": -67.01273682,
+    "elevation": 234,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 88.312,
+    "bearing": 88.12,
     "glideslope": 3.00088156
   },
   {

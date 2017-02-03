@@ -35626,12 +35626,12 @@
     "airportICAO": "SVMI",
     "identifier": "IMIQ",
     "associatedRunwayNumber": "10",
-    "latitude": 10.60502529,
-    "longitude": -66.97781372,
-    "elevation": 235,
+    "latitude": 10.60379021,
+    "longitude": -67.01273682,
+    "elevation": 234,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 87.901
+    "bearing": 88.12
   },
   {
     "name": "ILS-cat-I",
