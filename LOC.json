@@ -21989,12 +21989,12 @@
     "airportICAO": "KRND",
     "identifier": "ITRT",
     "associatedRunwayNumber": "14L",
-    "latitude": 29.52010536,
-    "longitude": -98.26102448,
-    "elevation": 72,
+    "latitude": 29.54274700,
+    "longitude": -98.27595000,
+    "elevation": 762,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 150.162
+    "bearing": 150.21
   },
   {
     "name": "ILS-cat-I",
@@ -22002,12 +22002,12 @@
     "airportICAO": "KRND",
     "identifier": "IUNY",
     "associatedRunwayNumber": "14R",
-    "latitude": 29.51230812,
-    "longitude": -98.27828217,
-    "elevation": 74,
+    "latitude": 29.53495000,
+    "longitude": -98.29320800,
+    "elevation": 762,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 150.158
+    "bearing": 150.16
   },
   {
     "name": "ILS-cat-I",
@@ -22015,12 +22015,12 @@
     "airportICAO": "KRND",
     "identifier": "IVQE",
     "associatedRunwayNumber": "32L",
-    "latitude": 29.53805351,
-    "longitude": -98.29525757,
-    "elevation": 73,
+    "latitude": 29.51505600,
+    "longitude": -98.28009200,
+    "elevation": 762,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 330.148
+    "bearing": 330.16
   },
   {
     "name": "ILS-cat-I",
@@ -22028,12 +22028,12 @@
     "airportICAO": "KRND",
     "identifier": "IRND",
     "associatedRunwayNumber": "32R",
-    "latitude": 29.54543114,
-    "longitude": -98.27771759,
-    "elevation": 75,
+    "latitude": 29.52285300,
+    "longitude": -98.26286100,
+    "elevation": 762,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 330.206
+    "bearing": 330.21
   },
   {
     "name": "ILS-cat-I",
