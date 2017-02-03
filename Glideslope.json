@@ -26992,12 +26992,12 @@
     "airportICAO": "LFPM",
     "identifier": "MV",
     "associatedRunwayNumber": "28",
-    "latitude": 48.60451508,
-    "longitude": 2.68432212,
-    "elevation": 302,
+    "latitude": 48.60232961,
+    "longitude": 2.68932193,
+    "elevation": 300,
     "frequency": 111550,
     "receptionRange": 10,
-    "bearing": 284.062,
+    "bearing": 283.54,
     "glideslope": 3.00283531
   },
   {
