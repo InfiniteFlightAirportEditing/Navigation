@@ -39940,12 +39940,12 @@
     "airportICAO": "WMKP",
     "identifier": "IPG",
     "associatedRunwayNumber": "04",
-    "latitude": 5.28797197,
-    "longitude": 100.27038574,
+    "latitude": 5.28594718,
+    "longitude": 100.26669958,
     "elevation": 11,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 42.062,
+    "bearing": 42.06,
     "glideslope": 3.00042031
   },
   {
