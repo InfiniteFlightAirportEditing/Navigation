@@ -77769,19 +77769,6 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
-    "airportICAO": "OTBD",
-    "identifier": "IBD",
-    "associatedRunwayNumber": "33",
-    "latitude": 25.241985,
-    "longitude": 51.573561,
-    "elevation": 38,
-    "frequency": 109500,
-    "receptionRange": 18,
-    "bearing": 338.21
-  },
-  {
-    "name": "ILS-cat-I",
-    "type": 4,
     "airportICAO": "OTBH",
     "identifier": "MBH",
     "associatedRunwayNumber": "34",
