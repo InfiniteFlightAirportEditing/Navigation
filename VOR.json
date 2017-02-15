@@ -14,8 +14,8 @@
     "elevation": 10, 
     "name": "ABADAN", 
     "longitude": 48.21760941, 
-    "frequency": 1145000, 
-    "latitude": 30.38702774, 
+    "frequency": 1145000,
+    "latitude": 30.38702774,
     "identifier": "ABD", 
     "slavedVariation": 3.0
   }, 
@@ -312,8 +312,8 @@
   {
     "receptionRange": 120, 
     "elevation": 896, 
-    "name": "AGEN-Gaudonville", 
-    "longitude": 0.87286103, 
+    "name": "AGEN-Gaudonville",
+    "longitude": 0.87286103,
     "frequency": 1148000, 
     "latitude": 43.88802719, 
     "identifier": "AGN", 
@@ -7156,19 +7156,19 @@
     "longitude": -92.87691498, 
     "frequency": 1094000, 
     "latitude": 37.02347183, 
-    "identifier": "DGD", 
+    "identifier": "DGD",
     "slavedVariation": 6.0
-  }, 
+  },
   {
-    "receptionRange": 200, 
-    "elevation": 48, 
-    "name": "DOHA", 
-    "longitude": 51.577172, 
-    "frequency": 1124000, 
-    "latitude": 25.233631, 
-    "identifier": "DOH", 
-    "slavedVariation": 2.0
-  }, 
+    "receptionRange": 200,
+    "elevation": 39.343,
+    "name": "DOHA",
+    "longitude": 51.60966667,
+    "frequency": 1124000,
+    "latitude": 25.24990556,
+    "identifier": "DOH",
+    "slavedVariation": 2.30
+  },
   {
     "receptionRange": 130, 
     "elevation": 7, 
