@@ -32072,6 +32072,58 @@
     "bearing": 338.148
   },
   {
+    "name": "ILS-cat-III",
+    "type": 4,
+    "airportICAO": "OTHH",
+    "identifier": "IDE",
+    "associatedRunwayNumber": "16L",
+    "latitude": 25.29394444,
+    "longitude": 51.61123056,
+    "elevation": 32.00,
+    "frequency": 108700,
+    "receptionRange": 18,
+    "bearing": 158.17
+  },
+  {
+    "name": "ILS-cat-III",
+    "type": 4,
+    "airportICAO": "OTHH",
+    "identifier": "QAT",
+    "associatedRunwayNumber": "16R",
+    "latitude": 25.28795000,
+    "longitude": 51.58970000,
+    "elevation": 32.47,
+    "frequency": 108100,
+    "receptionRange": 18,
+    "bearing": 158.16
+  },
+  {
+    "name": "ILS-cat-III",
+    "type": 4,
+    "airportICAO": "OTHH",
+    "identifier": "HJJ",
+    "associatedRunwayNumber": "34L",
+    "latitude": 25.25798056,
+    "longitude": 51.60286944,
+    "elevation": 31.54,
+    "frequency": 111900,
+    "receptionRange": 18,
+    "bearing": 338.17
+  },
+  {
+    "name": "ILS-cat-III",
+    "type": 4,
+    "airportICAO": "OTHH",
+    "identifier": "AZM",
+    "associatedRunwayNumber": "34R",
+    "latitude": 25.25848889,
+    "longitude": 51.62682222,
+    "elevation": 31.46,
+    "frequency": 110100,
+    "receptionRange": 18,
+    "bearing": 338.18
+  },
+  {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "OYAA",
