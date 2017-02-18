@@ -67892,12 +67892,12 @@
     "airportICAO": "LFKJ",
     "identifier": "AC",
     "associatedRunwayNumber": "02",
-    "latitude": 41.91365000,
-    "longitude": 8.79812300,
-    "elevation": 18,
+    "latitude": 41.91189593,
+    "longitude": 8.79497461,
+    "elevation": 19,
     "frequency": 110300,
     "receptionRange": 27,
-    "bearing": 25.840,
+    "bearing": 24.85,
     "glideslope": 3.0002492
   },
   {

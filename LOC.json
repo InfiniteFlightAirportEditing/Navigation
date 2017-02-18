@@ -71974,12 +71974,12 @@
     "airportICAO": "LFKJ",
     "identifier": "AC",
     "associatedRunwayNumber": "02",
-    "latitude": 41.93249300,
-    "longitude": 8.80785800,
-    "elevation": 18,
+    "latitude": 41.91189593,
+    "longitude": 8.79497461,
+    "elevation": 19,
     "frequency": 110300,
     "receptionRange": 27,
-    "bearing": 24.920
+    "bearing": 24.85
   },
   {
     "name": "ILS-cat-I",
