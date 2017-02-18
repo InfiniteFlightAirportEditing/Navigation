@@ -71415,12 +71415,12 @@
     "airportICAO": "LUKK",
     "identifier": "IRG",
     "associatedRunwayNumber": "08",
-    "latitude": 46.92642200,
-    "longitude": 28.91202500,
-    "elevation": 399,
+    "latitude": 46.92733608,
+    "longitude": 28.90738010,
+    "elevation": 398,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 88.610,
+    "bearing": 88.31,
     "glideslope": 3.00088305
   },
   {
@@ -71428,12 +71428,12 @@
     "airportICAO": "LUKK",
     "identifier": "ILD",
     "associatedRunwayNumber": "26",
-    "latitude": 46.92721400,
-    "longitude": 28.95121700,
-    "elevation": 399,
+    "latitude": 46.92828604,
+    "longitude": 28.95444166,
+    "elevation": 398,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 268.610,
+    "bearing": 268.31,
     "glideslope": 3.00268305
   },
   {
