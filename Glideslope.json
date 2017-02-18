@@ -25900,12 +25900,12 @@
     "airportICAO": "LFBL",
     "identifier": "LG",
     "associatedRunwayNumber": "03",
-    "latitude": 45.85309219,
-    "longitude": 1.17454898,
+    "latitude": 45.85246904,
+    "longitude": 1.17252879,
     "elevation": 1299,
     "frequency": 109290,
     "receptionRange": 10,
-    "bearing": 33.312,
+    "bearing": 33.19,
     "glideslope": 3.00033156
   },
   {
@@ -25913,12 +25913,12 @@
     "airportICAO": "LFBL",
     "identifier": "LG",
     "associatedRunwayNumber": "21",
-    "latitude": 45.86940765,
-    "longitude": 1.18656898,
-    "elevation": 1271,
+    "latitude": 45.87084557,
+    "longitude": 1.18978855,
+    "elevation": 1299,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 213.312,
+    "bearing": 213.19,
     "glideslope": 3.00213156
   },
   {
