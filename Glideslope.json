@@ -82231,12 +82231,12 @@
     "airportICAO": "ZBHH",
     "identifier": "IFX",
     "associatedRunwayNumber": "08",
-    "latitude": 40.84738900,
-    "longitude": 111.81326100,
+    "latitude": 40.84492562,
+    "longitude": 111.80410666,
     "elevation": 3556,
     "frequency": 108900,
     "receptionRange": 10,
-    "bearing": 72.862,
+    "bearing": 72.70,
     "glideslope": 3.00071931
   },
   {

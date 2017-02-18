@@ -86261,12 +86261,12 @@
     "airportICAO": "ZBHH",
     "identifier": "IFX",
     "associatedRunwayNumber": "08",
-    "latitude": 40.85651100,
-    "longitude": 111.84474700,
+    "latitude": 40.84492562,
+    "longitude": 111.80410666,
     "elevation": 3556,
     "frequency": 108900,
     "receptionRange": 18,
-    "bearing": 71.951
+    "bearing": 72.70
   },
   {
     "name": "ILS-cat-I",
