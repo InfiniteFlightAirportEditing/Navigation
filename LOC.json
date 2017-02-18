@@ -30582,12 +30582,12 @@
     "airportICAO": "NWWW",
     "identifier": "LT",
     "associatedRunwayNumber": "11",
-    "latitude": -22.02326584,
-    "longitude": 166.22917175,
-    "elevation": 52,
+    "latitude": -22.00693782,
+    "longitude": 166.19951726,
+    "elevation": 50,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 120.686
+    "bearing": 121.24
   },
   {
     "name": "ILS-cat-I",
