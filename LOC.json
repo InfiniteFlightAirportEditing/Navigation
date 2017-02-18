@@ -26435,12 +26435,12 @@
     "airportICAO": "LFLS",
     "identifier": "SG",
     "associatedRunwayNumber": "09",
-    "latitude": 45.36266708,
-    "longitude": 5.35201979,
-    "elevation": 1302,
+    "latitude": 45.36299617,
+    "longitude": 5.30990609,
+    "elevation": 1301,
     "frequency": 109300,
     "receptionRange": 27,
-    "bearing": 90.230
+    "bearing": 90.22
   },
   {
     "name": "ILS-cat-I",
