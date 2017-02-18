@@ -17335,12 +17335,12 @@
     "airportICAO": "KLIT",
     "identifier": "ILIT",
     "associatedRunwayNumber": "04L",
-    "latitude": 34.73995590,
-    "longitude": -92.21574402,
-    "elevation": 257,
+    "latitude": 34.72250427,
+    "longitude": -92.23804639,
+    "elevation": 262,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 46.391
+    "bearing": 46.39
   },
   {
     "name": "ILS-cat-I",
@@ -17348,12 +17348,12 @@
     "airportICAO": "KLIT",
     "identifier": "ICNL",
     "associatedRunwayNumber": "04R",
-    "latitude": 34.73687363,
-    "longitude": -92.19888306,
-    "elevation": 254,
+    "latitude": 34.71938176,
+    "longitude": -92.22124311,
+    "elevation": 262,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 46.403
+    "bearing": 46.39
   },
   {
     "name": "ILS-cat-I",
@@ -17361,12 +17361,12 @@
     "airportICAO": "KLIT",
     "identifier": "IBWY",
     "associatedRunwayNumber": "22L",
-    "latitude": 34.71966553,
-    "longitude": -92.22086334,
-    "elevation": 256,
+    "latitude": 34.73499235,
+    "longitude": -92.20130312,
+    "elevation": 262,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 226.386
+    "bearing": 226.39
   },
   {
     "name": "ILS-cat-I",
@@ -17374,12 +17374,12 @@
     "airportICAO": "KLIT",
     "identifier": "IAAY",
     "associatedRunwayNumber": "22R",
-    "latitude": 34.72114182,
-    "longitude": -92.23977661,
-    "elevation": 253,
+    "latitude": 34.73816034,
+    "longitude": -92.21805250,
+    "elevation": 262,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 226.379
+    "bearing": 226.39
   },
   {
     "name": "ILS-cat-I",
