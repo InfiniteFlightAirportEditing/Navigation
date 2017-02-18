@@ -17842,12 +17842,12 @@
     "airportICAO": "KMCI",
     "identifier": "IDOT",
     "associatedRunwayNumber": "01L",
-    "latitude": 39.32490921,
-    "longitude": -94.71998596,
-    "elevation": 1026,
+    "latitude": 39.29335591,
+    "longitude": -94.72931513,
+    "elevation": 1024,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 12.880
+    "bearing": 12.88
   },
   {
     "name": "ILS-cat-I",
@@ -17855,12 +17855,12 @@
     "airportICAO": "KMCI",
     "identifier": "PVL",
     "associatedRunwayNumber": "01R",
-    "latitude": 39.30955505,
-    "longitude": -94.70068359,
-    "elevation": 1026,
+    "latitude": 39.28147502,
+    "longitude": -94.70899630,
+    "elevation": 1024,
     "frequency": 110750,
     "receptionRange": 18,
-    "bearing": 12.900
+    "bearing": 12.90
   },
   {
     "name": "ILS-cat-I",
@@ -17868,12 +17868,12 @@
     "airportICAO": "KMCI",
     "identifier": "IRNI",
     "associatedRunwayNumber": "09",
-    "latitude": 39.28778458,
-    "longitude": -94.68970490,
-    "elevation": 1026,
+    "latitude": 39.29088887,
+    "longitude": -94.72664561,
+    "elevation": 1024,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 96.168
+    "bearing": 96.16
   },
   {
     "name": "ILS-cat-I",
@@ -17881,12 +17881,12 @@
     "airportICAO": "KMCI",
     "identifier": "IDYH",
     "associatedRunwayNumber": "19L",
-    "latitude": 39.27877426,
-    "longitude": -94.70978546,
-    "elevation": 1011,
+    "latitude": 39.30689169,
+    "longitude": -94.70147445,
+    "elevation": 1024,
     "frequency": 109550,
     "receptionRange": 18,
-    "bearing": 192.900
+    "bearing": 192.90
   },
   {
     "name": "ILS-cat-II",
@@ -17894,12 +17894,12 @@
     "airportICAO": "KMCI",
     "identifier": "IPAJ",
     "associatedRunwayNumber": "19R",
-    "latitude": 39.28994370,
-    "longitude": -94.73031616,
-    "elevation": 1026,
+    "latitude": 39.32225880,
+    "longitude": -94.72077362,
+    "elevation": 1024,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 192.880
+    "bearing": 192.88
   },
   {
     "name": "ILS-cat-I",
@@ -17907,12 +17907,12 @@
     "airportICAO": "KMCI",
     "identifier": "IUQY",
     "associatedRunwayNumber": "27",
-    "latitude": 39.29128647,
-    "longitude": -94.73168945,
-    "elevation": 1026,
+    "latitude": 39.28809184,
+    "longitude": -94.69316180,
+    "elevation": 1024,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 276.145
+    "bearing": 276.16
   },
   {
     "name": "ILS-cat-I",
