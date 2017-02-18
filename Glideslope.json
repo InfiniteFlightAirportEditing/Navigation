@@ -68178,12 +68178,12 @@
     "airportICAO": "LFML",
     "identifier": "ML",
     "associatedRunwayNumber": "13L",
-    "latitude": 43.44436000,
-    "longitude": 5.20236400,
+    "latitude": 43.44914403,
+    "longitude": 5.19731010,
     "elevation": 10,
     "frequency": 110300,
     "receptionRange": 27,
-    "bearing": 134.040,
+    "bearing": 134.05,
     "glideslope": 3.0013402
   },
   {
@@ -68191,12 +68191,12 @@
     "airportICAO": "LFML",
     "identifier": "MCE",
     "associatedRunwayNumber": "13R",
-    "latitude": 43.43820833,
-    "longitude": 5.20519197,
+    "latitude": 43.44092717,
+    "longitude": 5.20354855,
     "elevation": 74,
     "frequency": 108300,
     "receptionRange": 10,
-    "bearing": 135.812,
+    "bearing": 134.90,
     "glideslope": 3.00134906
   },
   {
@@ -68204,12 +68204,12 @@
     "airportICAO": "LFML",
     "identifier": "MPV",
     "associatedRunwayNumber": "31R",
-    "latitude": 43.43247500,
-    "longitude": 5.21898700,
+    "latitude": 43.42725591,
+    "longitude": 5.22847601,
     "elevation": 10,
     "frequency": 111150,
     "receptionRange": 27,
-    "bearing": 314.040,
+    "bearing": 314.05,
     "glideslope": 4.0031402
   },
   {
