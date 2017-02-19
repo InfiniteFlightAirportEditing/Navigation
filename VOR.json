@@ -14,8 +14,8 @@
     "elevation": 10, 
     "name": "ABADAN", 
     "longitude": 48.21760941, 
-    "frequency": 1145000, 
-    "latitude": 30.38702774, 
+    "frequency": 1145000,
+    "latitude": 30.38702774,
     "identifier": "ABD", 
     "slavedVariation": 3.0
   }, 
@@ -312,8 +312,8 @@
   {
     "receptionRange": 120, 
     "elevation": 896, 
-    "name": "AGEN-Gaudonville", 
-    "longitude": 0.87286103, 
+    "name": "AGEN-Gaudonville",
+    "longitude": 0.87286103,
     "frequency": 1148000, 
     "latitude": 43.88802719, 
     "identifier": "AGN", 
@@ -6316,7 +6316,7 @@
     "longitude": 70.88567352, 
     "frequency": 1131000, 
     "latitude": 31.91263962, 
-    "identifier": "DI", 
+    "identifier": "DI",
     "slavedVariation": 0.0
   }, 
   {
@@ -6360,9 +6360,9 @@
     "slavedVariation": 351.8
   }, 
   {
-    "receptionRange": 100, 
+    "receptionRange": 100,
     "elevation": 126, 
-    "name": "DAIBA", 
+    "name": "DAIBA",
     "longitude": 139.81758118, 
     "frequency": 1110000, 
     "latitude": 35.60398102, 
@@ -6482,7 +6482,7 @@
   {
     "receptionRange": 130, 
     "elevation": 213, 
-    "name": "DANDONG", 
+    "name": "DANDONG",
     "longitude": 124.28833008, 
     "frequency": 1139000, 
     "latitude": 40.25999832, 
@@ -7132,7 +7132,7 @@
   {
     "receptionRange": 130, 
     "elevation": 2472, 
-    "name": "DO", 
+    "name": "DO",
     "longitude": -51.1886673, 
     "frequency": 1123000, 
     "latitude": -29.19799995, 
@@ -7151,24 +7151,34 @@
   }, 
   {
     "receptionRange": 40, 
-    "elevation": 1600, 
+    "elevation": 1600,
     "name": "DOGWOOD", 
     "longitude": -92.87691498, 
     "frequency": 1094000, 
     "latitude": 37.02347183, 
-    "identifier": "DGD", 
+    "identifier": "DGD",
     "slavedVariation": 6.0
-  }, 
+  },
   {
-    "receptionRange": 200, 
-    "elevation": 48, 
-    "name": "DOHA", 
-    "longitude": 51.577172, 
-    "frequency": 1124000, 
-    "latitude": 25.233631, 
-    "identifier": "DOH", 
-    "slavedVariation": 2.0
-  }, 
+    "receptionRange": 200,
+    "elevation": 39.343,
+    "name": "DOHA",
+    "longitude": 51.60966667,
+    "frequency": 1124000,
+    "latitude": 25.24990556,
+    "identifier": "DOH",
+    "slavedVariation": 2.30
+  },
+  {
+    "receptionRange": 200,
+    "elevation": 48.67,
+    "name": "DOHA INTERNATIONAL",
+    "longitude": 51.57718056,
+    "frequency": 1124000,
+    "latitude": 25.23364167,
+    "identifier": "DIA",
+    "slavedVariation": 2.30
+  },
   {
     "receptionRange": 130, 
     "elevation": 7, 
@@ -7178,7 +7188,7 @@
     "latitude": 25.79997253, 
     "identifier": "DHP", 
     "slavedVariation": 356.0
-  }, 
+  },
   {
     "receptionRange": 150, 
     "elevation": 2057, 
