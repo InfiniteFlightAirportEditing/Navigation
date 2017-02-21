@@ -14213,12 +14213,12 @@
     "airportICAO": "KFOE",
     "identifier": "IFOE",
     "associatedRunwayNumber": "31",
-    "latitude": 38.94131088,
-    "longitude": -95.65106964,
-    "elevation": 1035,
+    "latitude": 38.93981798,
+    "longitude": -95.64736806,
+    "elevation": 1037,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 317.312,
+    "bearing": 317.152,
     "glideslope": 3.00317156
   },
   {
