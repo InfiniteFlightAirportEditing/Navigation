@@ -4775,12 +4775,12 @@
     "airportICAO": "EGTE",
     "identifier": "IET",
     "associatedRunwayNumber": "08",
-    "latitude": 50.73148727,
-    "longitude": -3.42288089,
+    "latitude": 50.732040470,
+    "longitude": -3.428148370,
     "elevation": 50,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 76.188,
+    "bearing": 76.14,
     "glideslope": 3.00076094
   },
   {
@@ -4788,12 +4788,12 @@
     "airportICAO": "EGTE",
     "identifier": "IXR",
     "associatedRunwayNumber": "26",
-    "latitude": 50.73695374,
-    "longitude": -3.40492797,
+    "latitude": 50.736530340,
+    "longitude": -3.399399210,
     "elevation": 58,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 256.188,
+    "bearing": 256.14,
     "glideslope": 3.50256094
   },
   {
