@@ -44149,6 +44149,32 @@
   },
   {
     "name": "GS",
+    "airportICAO": "EDDI",
+    "identifier": "IDBR",
+    "associatedRunwayNumber": "09R",
+    "latitude": 52.47069912,
+    "longitude": 13.38906511,
+    "elevation": 164,
+    "frequency": 109700,
+    "receptionRange": 10,
+    "bearing": 85.89,
+    "glideslope": 3.00
+  },
+  {
+    "name": "GS",
+    "airportICAO": "EDDI",
+    "identifier": "IDLB",
+    "associatedRunwayNumber": "27L",
+    "latitude": 52.47144854,
+    "longitude": 13.42014895,
+    "elevation": 164,
+    "frequency": 109500,
+    "receptionRange": 10,
+    "bearing": 265.89,
+    "glideslope": 3.50
+  },
+  {
+    "name": "GS",
     "airportICAO": "EDDK",
     "identifier": "IKES",
     "associatedRunwayNumber": "14L",
