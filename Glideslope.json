@@ -12001,14 +12001,27 @@
   {
     "name": "GS",
     "airportICAO": "KCRW",
-    "identifier": "ICRW",
-    "associatedRunwayNumber": "23",
-    "latitude": 38.38228725,
-    "longitude": -81.58431708,
-    "elevation": 931,
+    "identifier": "IHCV",
+    "associatedRunwayNumber": "05",
+    "latitude": 38.37215805,
+    "longitude": -81.59914398,
+    "elevation": 947,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 228.977,
+    "bearing": 47.000,
+    "glideslope": 3.00047
+  },
+  {
+    "name": "GS",
+    "airportICAO": "KCRW",
+    "identifier": "ICRW",
+    "associatedRunwayNumber": "23",
+    "latitude": 38.38008499,
+    "longitude": -81.58823395,
+    "elevation": 867,
+    "frequency": 110300,
+    "receptionRange": 10,
+    "bearing": 227.000,
     "glideslope": 3.00227
   },
   {
@@ -14213,12 +14226,12 @@
     "airportICAO": "KFOE",
     "identifier": "IFOE",
     "associatedRunwayNumber": "31",
-    "latitude": 38.93981798,
-    "longitude": -95.64736806,
-    "elevation": 1037,
+    "latitude": 38.94131088,
+    "longitude": -95.65106964,
+    "elevation": 1035,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 317.152,
+    "bearing": 317.312,
     "glideslope": 3.00317156
   },
   {
@@ -31956,15 +31969,15 @@
   {
     "name": "GS",
     "airportICAO": "OTBD",
-    "identifier": "AMD",
-    "associatedRunwayNumber": "15",
-    "latitude": 25.27165278,
-    "longitude": 51.56171389,
-    "elevation": 60,
-    "frequency": 108500,
+    "identifier": "IBD",
+    "associatedRunwayNumber": "34",
+    "latitude": 25.24505615,
+    "longitude": 51.57345581,
+    "elevation": 35,
+    "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 158.15,
-    "glideslope": 3.5
+    "bearing": 338.438,
+    "glideslope": 3.00338219
   },
   {
     "name": "GS",
@@ -44158,7 +44171,7 @@
     "frequency": 109700,
     "receptionRange": 10,
     "bearing": 85.89,
-    "glideslope": 3.00
+    "glideslope": 3.002302
   },
   {
     "name": "GS",
@@ -44171,7 +44184,7 @@
     "frequency": 109500,
     "receptionRange": 10,
     "bearing": 265.89,
-    "glideslope": 3.50
+    "glideslope": 3.502302
   },
   {
     "name": "GS",
@@ -73625,12 +73638,12 @@
     "airportICAO": "OTBD",
     "identifier": "IBD",
     "associatedRunwayNumber": "33",
-    "latitude": 25.24506111,
-    "longitude": 51.57346667,
-    "elevation": 52,
+    "latitude": 25.241985,
+    "longitude": 51.573561,
+    "elevation": 35,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 338.16,
+    "bearing": 338.21,
     "glideslope": 3.00338207
   },
   {
@@ -73651,51 +73664,51 @@
     "airportICAO": "OTHH",
     "identifier": "DOH",
     "associatedRunwayNumber": "16L",
-    "latitude": 25.29394444,
-    "longitude": 51.61123056,
-    "elevation": 55,
+    "latitude": 25.298647,
+    "longitude": 51.607762,
+    "elevation": 13,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 158.17,
+    "bearing": 158.25,
     "glideslope": 3.00338148
   },
-    {
+     {
     "name": "GS",
     "airportICAO": "OTHH",
     "identifier": "DOH",
     "associatedRunwayNumber": "16R",
-    "latitude": 25.28795000,
-    "longitude": 51.58970000,
-    "elevation": 53,
+    "latitude": 25.293524,
+    "longitude": 51.588625,
+    "elevation": 13,
     "frequency": 108100,
     "receptionRange": 10,
-    "bearing": 158.16,
+    "bearing": 158.25,
     "glideslope": 3.00338148
   },
-  {
+     {
     "name": "GS",
     "airportICAO": "OTHH",
     "identifier": "DOH",
     "associatedRunwayNumber": "34L",
-    "latitude": 25.25798056,
-    "longitude": 51.60286944,
-    "elevation": 53,
-    "frequency": 111900,
+    "latitude": 25.252832,
+    "longitude": 51.606577,
+    "elevation": 13,
+    "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 338.17,
+    "bearing": 338.25,
     "glideslope": 3.00338148
   },
-  {
+     {
     "name": "GS",
     "airportICAO": "OTHH",
     "identifier": "DOH",
     "associatedRunwayNumber": "34R",
-    "latitude": 25.25848889,
-    "longitude": 51.62682222,
-    "elevation": 53,
-    "frequency": 110100,
+    "latitude": 25.252921,
+    "longitude": 51.627932,
+    "elevation": 13,
+    "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 338.18,
+    "bearing": 338.25,
     "glideslope": 3.00338148
   },
   {
