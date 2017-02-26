@@ -44171,7 +44171,7 @@
     "frequency": 109700,
     "receptionRange": 10,
     "bearing": 85.89,
-    "glideslope": 3.002301
+    "glideslope": 3.002302
   },
   {
     "name": "GS",
@@ -53757,32 +53757,6 @@
   },
   {
     "name": "GS",
-    "airportICAO": "KCRW",
-    "identifier": "IHCV",
-    "associatedRunwayNumber": "05",
-    "latitude": 38.37215800,
-    "longitude": -81.59914700,
-    "elevation": 947,
-    "frequency": 110300,
-    "receptionRange": 10,
-    "bearing": 47.030,
-    "glideslope": 3.00047015
-  },
-  {
-    "name": "GS",
-    "airportICAO": "KCRW",
-    "identifier": "ICRW",
-    "associatedRunwayNumber": "23",
-    "latitude": 38.38008600,
-    "longitude": -81.58823100,
-    "elevation": 867,
-    "frequency": 110300,
-    "receptionRange": 10,
-    "bearing": 227.030,
-    "glideslope": 3.00227015
-  },
-  {
-    "name": "GS",
     "airportICAO": "KCRX",
     "identifier": "IUUR",
     "associatedRunwayNumber": "17",
@@ -55925,19 +55899,6 @@
     "receptionRange": 10,
     "bearing": 65.848,
     "glideslope": 3.00064924
-  },
-  {
-    "name": "GS",
-    "airportICAO": "KFOE",
-    "identifier": "IFOE",
-    "associatedRunwayNumber": "31",
-    "latitude": 38.94131100,
-    "longitude": -95.65106900,
-    "elevation": 1035,
-    "frequency": 110100,
-    "receptionRange": 10,
-    "bearing": 317.340,
-    "glideslope": 3.0031717
   },
   {
     "name": "GS",
