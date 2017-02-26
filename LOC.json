@@ -29191,12 +29191,12 @@
     "airportICAO": "LROP",
     "identifier": "ILL",
     "associatedRunwayNumber": "08L",
-    "latitude": 44.58027649,
-    "longitude": 26.13243675,
-    "elevation": 314,
+    "latitude": 44.57661242,
+    "longitude": 26.08401518,
+    "elevation": 313,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 83.741
+    "bearing": 83.92
   },
   {
     "name": "ILS-cat-III",
@@ -29204,12 +29204,12 @@
     "airportICAO": "LROP",
     "identifier": "IOP",
     "associatedRunwayNumber": "08R",
-    "latitude": 44.56844330,
-    "longitude": 26.12667274,
-    "elevation": 303,
+    "latitude": 44.56465727,
+    "longitude": 26.07668650,
+    "elevation": 313,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 83.738
+    "bearing": 83.92
   },
   {
     "name": "ILS-cat-III",
@@ -29217,12 +29217,12 @@
     "airportICAO": "LROP",
     "identifier": "IOE",
     "associatedRunwayNumber": "26L",
-    "latitude": 44.56422043,
-    "longitude": 26.07093811,
-    "elevation": 314,
+    "latitude": 44.56799496,
+    "longitude": 26.12064740,
+    "elevation": 313,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 264.107
+    "bearing": 263.92
   },
   {
     "name": "ILS-cat-III",
@@ -29230,12 +29230,12 @@
     "airportICAO": "LROP",
     "identifier": "IRR",
     "associatedRunwayNumber": "26R",
-    "latitude": 44.57623291,
-    "longitude": 26.07899475,
-    "elevation": 314,
+    "latitude": 44.57994796,
+    "longitude": 26.12798631,
+    "elevation": 313,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 264.119
+    "bearing": 263.92
   },
   {
     "name": "ILS-cat-II",
