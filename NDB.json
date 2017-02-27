@@ -64080,6 +64080,15 @@
     "receptionRange": 25
   },
   {
+    "name": "AL KHOR",
+    "identifier": "AK",
+    "latitude": 25.63018947,
+    "longitude": 51.50732839,
+    "elevation": 0,
+    "frequency": 345,
+    "receptionRange": 50
+  },
+  {
     "name": "ALLIANCE",
     "identifier": "ALU",
     "latitude": 42.04322222,

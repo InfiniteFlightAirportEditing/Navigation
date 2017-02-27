@@ -12372,16 +12372,6 @@
   {
     "name": "OM",
     "type": 7,
-    "airportICAO": "OTBD",
-    "associatedRunwayNumber": "34",
-    "latitude": 25.17947578,
-    "longitude": 51.60136795,
-    "elevation": 35,
-    "bearing": 338.207
-  },
-  {
-    "name": "OM",
-    "type": 7,
     "airportICAO": "PACD",
     "associatedRunwayNumber": "14",
     "latitude": 55.29607010,
@@ -27468,16 +27458,6 @@
     "longitude": 74.40666962,
     "elevation": 712,
     "bearing": 0.876
-  },
-  {
-    "name": "MM",
-    "type": 8,
-    "airportICAO": "OTBD",
-    "associatedRunwayNumber": "34",
-    "latitude": 25.23289490,
-    "longitude": 51.57749557,
-    "elevation": 35,
-    "bearing": 338.207
   },
   {
     "name": "MM",
@@ -46772,16 +46752,6 @@
   {
     "name": "OM",
     "type": 7,
-    "airportICAO": "OTBD",
-    "associatedRunwayNumber": "34",
-    "latitude": 25.17947500,
-    "longitude": 51.60136700,
-    "elevation": 35,
-    "bearing": 338.207
-  },
-  {
-    "name": "OM",
-    "type": 7,
     "airportICAO": "PACD",
     "associatedRunwayNumber": "14",
     "latitude": 55.29607100,
@@ -61873,11 +61843,11 @@
     "name": "MM",
     "type": 8,
     "airportICAO": "OTBD",
-    "associatedRunwayNumber": "34",
-    "latitude": 25.23289400,
-    "longitude": 51.57749700,
+    "associatedRunwayNumber": "33",
+    "latitude": 25.23290556,
+    "longitude": 51.57750556,
     "elevation": 35,
-    "bearing": 338.207
+    "bearing": 338.16
   },
   {
     "name": "MM",
@@ -61888,6 +61858,46 @@
     "longitude": 51.32584200,
     "elevation": 109,
     "bearing": 338.148
+  },
+  {
+    "name": "MM",
+    "type": 8,
+    "airportICAO": "OTHH",
+    "associatedRunwayNumber": "16L",
+    "latitude": 25.30414444,
+    "longitude": 51.60533611,
+    "elevation": 26.65,
+    "bearing": 158.17
+  },
+  {
+    "name": "MM",
+    "type": 8,
+    "airportICAO": "OTHH",
+    "associatedRunwayNumber": "16R",
+    "latitude": 25.29901944,
+    "longitude": 51.58619722,
+    "elevation": 26.71,
+    "bearing": 158.16
+  },
+  {
+    "name": "MM",
+    "type": 8,
+    "airportICAO": "OTHH",
+    "associatedRunwayNumber": "34L",
+    "latitude": 25.24716111,
+    "longitude": 51.60904722,
+    "elevation": 23.39,
+    "bearing": 338.17
+  },
+  {
+    "name": "MM",
+    "type": 8,
+    "airportICAO": "OTHH",
+    "associatedRunwayNumber": "34R",
+    "latitude": 25.24741389,
+    "longitude": 51.63032222,
+    "elevation": 30.83,
+    "bearing": 338.18
   },
   {
     "name": "MM",
