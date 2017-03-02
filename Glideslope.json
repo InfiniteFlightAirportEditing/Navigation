@@ -12546,19 +12546,6 @@
   },
   {
     "name": "GS",
-    "airportICAO": "KDCA",
-    "identifier": "IASO",
-    "associatedRunwayNumber": "19",
-    "latitude": 38.85941315,
-    "longitude": -77.03696442,
-    "elevation": 15,
-    "frequency": 109900,
-    "receptionRange": 10,
-    "bearing": 138.000,
-    "glideslope": 3.00138
-  },
-  {
-    "name": "GS",
     "airportICAO": "KDDC",
     "identifier": "IDDC",
     "associatedRunwayNumber": "14",
@@ -54267,26 +54254,13 @@
     "airportICAO": "KDCA",
     "identifier": "IDCA",
     "associatedRunwayNumber": "01",
-    "latitude": 38.84523300,
-    "longitude": -77.03563100,
-    "elevation": 11,
-    "frequency": 109900,
-    "receptionRange": 10,
-    "bearing": 356.020,
-    "glideslope": 3.0035551
-  },
-  {
-    "name": "GS",
-    "airportICAO": "KDCA",
-    "identifier": "IASO",
-    "associatedRunwayNumber": "19",
-    "latitude": 38.85941200,
-    "longitude": -77.03696500,
+    "latitude": 38.84152111,
+    "longitude": -77.03674167,
     "elevation": 15,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 138.000,
-    "glideslope": 3.00138
+    "bearing": 355.510,
+    "glideslope": 3.0035551
   },
   {
     "name": "GS",

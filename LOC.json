@@ -12546,19 +12546,6 @@
     "bearing": 355.500
   },
   {
-    "name": "LDA-GS",
-    "type": 4,
-    "airportICAO": "KDCA",
-    "identifier": "IASO",
-    "associatedRunwayNumber": "19",
-    "latitude": 38.85962677,
-    "longitude": -77.03676605,
-    "elevation": 15,
-    "frequency": 109900,
-    "receptionRange": 18,
-    "bearing": 138.000
-  },
-  {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "KDDC",
@@ -43291,19 +43278,6 @@
     "bearing": 305.59
   },
   {
-    "name": "LDA",
-    "type": 5,
-    "airportICAO": "KDCA",
-    "identifier": "IVWH",
-    "associatedRunwayNumber": "19",
-    "latitude": 38.85593796,
-    "longitude": -77.01580048,
-    "elevation": 9,
-    "frequency": 108500,
-    "receptionRange": 18,
-    "bearing": 136.000
-  },
-  {
     "name": "LOC",
     "type": 5,
     "airportICAO": "KDKX",
@@ -58324,25 +58298,12 @@
     "airportICAO": "KDCA",
     "identifier": "IDCA",
     "associatedRunwayNumber": "01",
-    "latitude": 38.86485800,
-    "longitude": -77.03909400,
-    "elevation": 10,
-    "frequency": 109900,
-    "receptionRange": 18,
-    "bearing": 355.500
-  },
-  {
-    "name": "LDA-GS",
-    "type": 4,
-    "airportICAO": "KDCA",
-    "identifier": "IASO",
-    "associatedRunwayNumber": "19",
-    "latitude": 38.85962700,
-    "longitude": -77.03676800,
+    "latitude": 38.84152111,
+    "longitude": -77.03674167,
     "elevation": 15,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 138.000
+    "bearing": 355.510
   },
   {
     "name": "ILS-cat-I",
@@ -88854,19 +88815,6 @@
     "frequency": 110900,
     "receptionRange": 18,
     "bearing": 306.168
-  },
-  {
-    "name": "LDA",
-    "type": 5,
-    "airportICAO": "KDCA",
-    "identifier": "IVWH",
-    "associatedRunwayNumber": "19",
-    "latitude": 38.85593900,
-    "longitude": -77.01580300,
-    "elevation": 9,
-    "frequency": 108500,
-    "receptionRange": 18,
-    "bearing": 136.000
   },
   {
     "name": "LOC",
