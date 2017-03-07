@@ -17028,7 +17028,17 @@
     "latitude": 10.60947227, 
     "identifier": "MIQ", 
     "slavedVariation": 349.0
-  }, 
+  },
+  {
+    "receptionRange": 60, 
+    "elevation": 1686, 
+    "name": "MAISACH", 
+    "longitude": 11.31194444, 
+    "frequency": 1152000, 
+    "latitude": 48.263333333, 
+    "identifier": "MAH", 
+    "slavedVariation": 1.0
+  },  
   {
     "receptionRange": 200, 
     "elevation": 7403, 
