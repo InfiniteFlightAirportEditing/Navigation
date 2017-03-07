@@ -7052,7 +7052,7 @@
   {
     "receptionRange": 60, 
     "elevation": 1790, 
-    "name": "DINKELSBUHL", 
+    "name": "DINKELSBUEHL", 
     "longitude": 10.23830605, 
     "frequency": 1178000, 
     "latitude": 49.1427536, 
@@ -19248,7 +19248,17 @@
     "latitude": 19.08538818, 
     "identifier": "BBB", 
     "slavedVariation": 359.0
-  }, 
+  },
+  {
+    "receptionRange": 40, 
+    "elevation": 1762, 
+    "name": "MUENCHEN", 
+    "longitude": 11.81601667, 
+    "frequency": 1123000, 
+    "latitude": 48.18032500, 
+    "identifier": "MUN", 
+    "slavedVariation": 1.0
+  },   
   {
     "receptionRange": 40, 
     "elevation": 934, 
@@ -30058,7 +30068,17 @@
     "latitude": 45.40735626, 
     "identifier": "WKE", 
     "slavedVariation": 350.0
-  }, 
+  },
+  {
+    "receptionRange": 60, 
+    "elevation": 1362, 
+    "name": "WALDA", 
+    "longitude": 11.12943611, 
+    "frequency": 1228000, 
+    "latitude": 48.57941944, 
+    "identifier": "WLD", 
+    "slavedVariation": 0.0
+  },  
   {
     "receptionRange": 50, 
     "elevation": 439, 
