@@ -1395,7 +1395,7 @@
     "receptionRange": 50
   },
   {
-    "name": "ALLGAU",
+    "name": "ALLGAEU",
     "identifier": "ALG",
     "latitude": 47.99739838,
     "longitude": 10.26220036,
@@ -37611,7 +37611,7 @@
     "receptionRange": 50
   },
   {
-    "name": "MUNCHEN",
+    "name": "MUENCHEN",
     "identifier": "MNE",
     "latitude": 48.35540390,
     "longitude": 11.67597771,
@@ -37620,7 +37620,7 @@
     "receptionRange": 25
   },
   {
-    "name": "MUNCHEN",
+    "name": "MUENCHEN",
     "identifier": "MSW",
     "latitude": 48.35237885,
     "longitude": 11.90376663,
@@ -37629,7 +37629,7 @@
     "receptionRange": 25
   },
   {
-    "name": "MUNCHEN",
+    "name": "MUENCHEN",
     "identifier": "MNW",
     "latitude": 48.37426758,
     "longitude": 11.91414165,
@@ -37638,7 +37638,7 @@
     "receptionRange": 25
   },
   {
-    "name": "MUNCHEN",
+    "name": "MUENCHEN",
     "identifier": "MSE",
     "latitude": 48.33340836,
     "longitude": 11.65288258,
