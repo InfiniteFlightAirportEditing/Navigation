@@ -46532,26 +46532,26 @@
     "airportICAO": "EGTE",
     "identifier": "IET",
     "associatedRunwayNumber": "08",
-    "latitude": 50.73148600,
-    "longitude": -3.42288100,
-    "elevation": 50,
+    "latitude": 50.73204047,
+    "longitude": -3.42814837,
+    "elevation": 102,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 76.200,
-    "glideslope": 3.000761
+    "bearing": 76.140,
+    "glideslope": 3.00076140
   },
   {
     "name": "GS",
     "airportICAO": "EGTE",
     "identifier": "IXR",
     "associatedRunwayNumber": "26",
-    "latitude": 50.73695300,
-    "longitude": -3.40492800,
-    "elevation": 58,
+    "latitude": 50.73653034,
+    "longitude": -3.39939921,
+    "elevation": 102,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 256.200,
-    "glideslope": 3.502561
+    "bearing": 256.140,
+    "glideslope": 3.50256140
   },
   {
     "name": "GS",
