@@ -70680,7 +70680,7 @@
     "frequency": 110900,
     "receptionRange": 10,
     "bearing": 84.842,
-    "glideslope": 3.00083921
+    "glideslope": 3.00084842
   },
   {
     "name": "GS",
@@ -70693,7 +70693,7 @@
     "frequency": 110300,
     "receptionRange": 10,
     "bearing": 84.810,
-    "glideslope": 2.70083905
+    "glideslope": 2.70084810
   },
   {
     "name": "GS",
@@ -70706,7 +70706,7 @@
     "frequency": 109100,
     "receptionRange": 10,
     "bearing": 264.810,
-    "glideslope": 2.70263905
+    "glideslope": 2.70264810
   },
   {
     "name": "GS",
@@ -70719,7 +70719,7 @@
     "frequency": 110700,
     "receptionRange": 10,
     "bearing": 264.842,
-    "glideslope": 3.00263921
+    "glideslope": 3.00264842
   },
   {
     "name": "GS",
