@@ -74210,26 +74210,26 @@
     "airportICAO": "RCMQ",
     "identifier": "ITCG",
     "associatedRunwayNumber": "18",
-    "latitude": 24.27875000,
-    "longitude": 120.61891700,
-    "elevation": 663,
+    "latitude": 24.28154238,
+    "longitude": 120.61963043,
+    "elevation": 665,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 177.032,
-    "glideslope": 3.00176516
+    "bearing": 176.530,
+    "glideslope": 3.00176530
   },
   {
     "name": "GS",
     "airportICAO": "RCMQ",
     "identifier": "ICCK",
     "associatedRunwayNumber": "36",
-    "latitude": 24.25169400,
-    "longitude": 120.62266700,
-    "elevation": 663,
+    "latitude": 24.24863449,
+    "longitude": 120.62181718,
+    "elevation": 665,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 357.032,
-    "glideslope": 3.00356516
+    "bearing": 356.530,
+    "glideslope": 3.00356530
   },
   {
     "name": "GS",
