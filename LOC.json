@@ -74495,26 +74495,26 @@
     "type": 4,
     "airportICAO": "LOWL",
     "identifier": "OEM",
-    "associatedRunwayNumber": "09",
-    "latitude": 48.23405075,
-    "longitude": 14.20950031,
-    "elevation": 955,
+    "associatedRunwayNumber": "08",
+    "latitude": 48.23250933,
+    "longitude": 14.16727138,
+    "elevation": 978,
     "frequency": 110550,
     "receptionRange": 18,
-    "bearing": 86.633
+    "bearing": 87.040
   },
   {
     "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "LOWL",
     "identifier": "OEL",
-    "associatedRunwayNumber": "27",
-    "latitude": 48.23243100,
-    "longitude": 14.16473600,
+    "associatedRunwayNumber": "26",
+    "latitude": 48.23390478,
+    "longitude": 14.20774842,
     "elevation": 978,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 266.764
+    "bearing": 267.040
   },
   {
     "name": "ILS-cat-III",
