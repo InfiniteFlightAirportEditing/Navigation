@@ -44994,6 +44994,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "EETU",
+    "identifier": "IUM",
+    "associatedRunwayNumber": "26",
+    "latitude": 58.30765893,
+    "longitude": 26.70228364,
+    "elevation": 219,
+    "frequency": 108500,
+    "receptionRange": 10,
+    "bearing": 268.420,
+    "glideslope": 3.00268420
+  },
+  {
+    "name": "GS",
     "airportICAO": "EFET",
     "identifier": "ET",
     "associatedRunwayNumber": "21",

@@ -48985,6 +48985,19 @@
     "bearing": 270.241
   },
   {
+    "name": "ILS-cat-II",
+    "type": 4,
+    "airportICAO": "EETU",
+    "identifier": "IUM",
+    "associatedRunwayNumber": "26",
+    "latitude": 58.30765893,
+    "longitude": 26.70228364,
+    "elevation": 219,
+    "frequency": 108500,
+    "receptionRange": 18,
+    "bearing": 268.420
+  },
+  {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "EFET",
