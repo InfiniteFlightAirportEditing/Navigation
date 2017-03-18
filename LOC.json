@@ -73989,12 +73989,12 @@
     "airportICAO": "LIPK",
     "identifier": "FOR",
     "associatedRunwayNumber": "12",
-    "latitude": 44.18833300,
-    "longitude": 12.08722200,
-    "elevation": 98,
+    "latitude": 44.20011455,
+    "longitude": 12.05631312,
+    "elevation": 97,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 117.633
+    "bearing": 116.980
   },
   {
     "name": "ILS-cat-III",

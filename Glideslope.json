@@ -69803,13 +69803,13 @@
     "airportICAO": "LIPK",
     "identifier": "FOR",
     "associatedRunwayNumber": "12",
-    "latitude": 44.19694400,
-    "longitude": 12.05972200,
-    "elevation": 98,
+    "latitude": 44.20011455,
+    "longitude": 12.05631312,
+    "elevation": 97,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 118.420,
-    "glideslope": 3.3311771
+    "bearing": 116.980,
+    "glideslope": 3.33116980
   },
   {
     "name": "GS",
