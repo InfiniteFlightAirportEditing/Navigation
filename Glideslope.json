@@ -71909,13 +71909,13 @@
     "airportICAO": "MPTO",
     "identifier": "INAT",
     "associatedRunwayNumber": "03R",
-    "latitude": 9.04978600,
-    "longitude": -79.39011700,
-    "elevation": 50,
+    "latitude": 9.04504485,
+    "longitude": -79.39433572,
+    "elevation": 133,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 29.660,
-    "glideslope": 3.0002933
+    "bearing": 29.980,
+    "glideslope": 3.00029980
   },
   {
     "name": "GS",

@@ -76069,12 +76069,12 @@
     "airportICAO": "MPTO",
     "identifier": "INAT",
     "associatedRunwayNumber": "03R",
-    "latitude": 9.07314700,
-    "longitude": -79.37809400,
-    "elevation": 50,
+    "latitude": 9.04504485,
+    "longitude": -79.39433572,
+    "elevation": 133,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 29.330
+    "bearing": 29.980
   },
   {
     "name": "ILS-cat-I",
