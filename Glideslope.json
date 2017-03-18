@@ -70348,14 +70348,14 @@
     "name": "GS",
     "airportICAO": "LOWS",
     "identifier": "OES",
-    "associatedRunwayNumber": "16",
-    "latitude": 47.80089400,
-    "longitude": 13.00110600,
-    "elevation": 1446,
+    "associatedRunwayNumber": "15",
+    "latitude": 47.80561928,
+    "longitude": 12.99616106,
+    "elevation": 1411,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 157.170,
-    "glideslope": 3.00157085
+    "bearing": 156.980,
+    "glideslope": 3.00156980
   },
   {
     "name": "GS",
