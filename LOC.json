@@ -73664,12 +73664,12 @@
     "airportICAO": "LICC",
     "identifier": "CTN",
     "associatedRunwayNumber": "08",
-    "latitude": 37.46808300,
-    "longitude": 15.08200000,
-    "elevation": 25,
+    "latitude": 37.46563131,
+    "longitude": 15.05274848,
+    "elevation": 39,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 83.977
+    "bearing": 83.950
   },
   {
     "name": "ILS-cat-I",

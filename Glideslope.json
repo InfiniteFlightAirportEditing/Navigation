@@ -69517,13 +69517,13 @@
     "airportICAO": "LICC",
     "identifier": "CTN",
     "associatedRunwayNumber": "08",
-    "latitude": 37.46461100,
-    "longitude": 15.05830600,
-    "elevation": 25,
+    "latitude": 37.46563131,
+    "longitude": 15.05274848,
+    "elevation": 39,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 84.890,
-    "glideslope": 3.00083945
+    "bearing": 83.950,
+    "glideslope": 3.00083950
   },
   {
     "name": "GS",
