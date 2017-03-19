@@ -81165,13 +81165,13 @@
     "airportICAO": "WBGS",
     "identifier": "ISU",
     "associatedRunwayNumber": "13",
-    "latitude": 2.26858100,
-    "longitude": 111.97885000,
+    "latitude": 2.26952107,
+    "longitude": 111.97587950,
     "elevation": 122,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 130.884,
-    "glideslope": 3.00130442
+    "bearing": 130.230,
+    "glideslope": 3.00130230
   },
   {
     "name": "GS",

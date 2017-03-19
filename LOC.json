@@ -85247,12 +85247,12 @@
     "airportICAO": "WBGS",
     "identifier": "ISU",
     "associatedRunwayNumber": "13",
-    "latitude": 2.25136700,
-    "longitude": 111.99797200,
+    "latitude": 2.26952107,
+    "longitude": 111.97587950,
     "elevation": 122,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 129.627
+    "bearing": 130.230
   },
   {
     "name": "ILS-cat-I",
