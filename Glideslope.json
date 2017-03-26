@@ -83076,13 +83076,13 @@
     "airportICAO": "ZUBD",
     "identifier": "IOO",
     "associatedRunwayNumber": "14",
-    "latitude": 30.56888390,
-    "longitude": 97.09580231,
+    "latitude": 30.57052710,
+    "longitude": 97.09272685,
     "elevation": 14219,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 140.000,
-    "glideslope": 3.0014
+    "bearing": 140.610,
+    "glideslope": 3.00140610
   },
   {
     "name": "GS",
