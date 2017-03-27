@@ -74857,6 +74857,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "RJNS",
+    "identifier": "ISZ",
+    "associatedRunwayNumber": "30",
+    "latitude": 34.79175333,
+    "longitude": 138.20217757,
+    "elevation": 433,
+    "frequency": 109300,
+    "receptionRange": 10,
+    "bearing": 292.090,
+    "glideslope": 3.00292090
+  },
+  {
+    "name": "GS",
     "airportICAO": "RJNW",
     "identifier": "INT",
     "associatedRunwayNumber": "25",

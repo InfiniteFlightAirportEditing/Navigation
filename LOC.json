@@ -78952,6 +78952,19 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "RJNS",
+    "identifier": "ISZ",
+    "associatedRunwayNumber": "30",
+    "latitude": 34.79175333,
+    "longitude": 138.20217757,
+    "elevation": 433,
+    "frequency": 109300,
+    "receptionRange": 18,
+    "bearing": 292.090
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "RJNW",
     "identifier": "INT",
     "associatedRunwayNumber": "25",
