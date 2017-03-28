@@ -77120,14 +77120,27 @@
     "name": "ILS-cat-II",
     "type": 4,
     "airportICAO": "OIIE",
+    "identifier": "IKIA",
+    "associatedRunwayNumber": "11L",
+    "latitude": 35.42534202,
+    "longitude": 51.12216749,
+    "elevation": 3305,
+    "frequency": 109100,
+    "receptionRange": 18,
+    "bearing": 108.880
+  },
+  {
+    "name": "ILS-cat-II",
+    "type": 4,
+    "airportICAO": "OIIE",
     "identifier": "IIKA",
     "associatedRunwayNumber": "29R",
-    "latitude": 35.42622200,
-    "longitude": 51.11902800,
+    "latitude": 35.41311623,
+    "longitude": 51.16603479,
     "elevation": 3305,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 288.863
+    "bearing": 288.880
   },
   {
     "name": "ILS-cat-I",

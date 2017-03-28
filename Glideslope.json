@@ -72947,15 +72947,28 @@
   {
     "name": "GS",
     "airportICAO": "OIIE",
+    "identifier": "IKIA",
+    "associatedRunwayNumber": "11L",
+    "latitude": 35.42534202,
+    "longitude": 51.12216749,
+    "elevation": 3305,
+    "frequency": 109100,
+    "receptionRange": 10,
+    "bearing": 108.880,
+    "glideslope": 3.00108880
+  },
+  {
+    "name": "GS",
+    "airportICAO": "OIIE",
     "identifier": "IIKA",
     "associatedRunwayNumber": "29R",
-    "latitude": 35.41505600,
-    "longitude": 51.16330600,
-    "elevation": 3257,
+    "latitude": 35.41311623,
+    "longitude": 51.16603479,
+    "elevation": 3305,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 289.752,
-    "glideslope": 3.00288876
+    "bearing": 288.880,
+    "glideslope": 3.00288880
   },
   {
     "name": "GS",
