@@ -85936,12 +85936,12 @@
     "airportICAO": "YMHB",
     "identifier": "IHB",
     "associatedRunwayNumber": "12",
-    "latitude": -42.84611100,
-    "longitude": 147.52527800,
+    "latitude": -42.82895203,
+    "longitude": 147.50206087,
     "elevation": 12,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 135.133
+    "bearing": 135.080
   },
   {
     "name": "ILS-cat-I",
