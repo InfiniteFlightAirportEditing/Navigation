@@ -86313,12 +86313,12 @@
     "airportICAO": "ZBLA",
     "identifier": "IUC",
     "associatedRunwayNumber": "27",
-    "latitude": 49.20327200,
-    "longitude": 119.80110300,
-    "elevation": 2169,
+    "latitude": 49.20737329,
+    "longitude": 119.84730702,
+    "elevation": 2168,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 263.724
+    "bearing": 263.890
   },
   {
     "name": "ILS-cat-I",

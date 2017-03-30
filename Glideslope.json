@@ -82244,13 +82244,13 @@
     "airportICAO": "ZBLA",
     "identifier": "IUC",
     "associatedRunwayNumber": "27",
-    "latitude": 49.20686100,
-    "longitude": 119.83858300,
-    "elevation": 2169,
+    "latitude": 49.20737329,
+    "longitude": 119.84730702,
+    "elevation": 2168,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 264.618,
-    "glideslope": 3.00263809
+    "bearing": 263.890,
+    "glideslope": 3.00263890
   },
   {
     "name": "GS",
