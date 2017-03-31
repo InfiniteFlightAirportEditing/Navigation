@@ -51667,26 +51667,26 @@
     "airportICAO": "KAVP",
     "identifier": "IAVP",
     "associatedRunwayNumber": "04",
-    "latitude": 41.33110000,
-    "longitude": -75.72840600,
-    "elevation": 957,
+    "latitude": 41.32869884,
+    "longitude": -75.73154816,
+    "elevation": 961,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 34.720,
-    "glideslope": 3.0003436
+    "bearing": 32.610,
+    "glideslope": 3.00032610
   },
   {
     "name": "GS",
     "airportICAO": "KAVP",
     "identifier": "IIZK",
     "associatedRunwayNumber": "22",
-    "latitude": 41.34435800,
-    "longitude": -75.71906100,
-    "elevation": 918,
+    "latitude": 41.34602896,
+    "longitude": -75.71678387,
+    "elevation": 961,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 214.720,
-    "glideslope": 3.0021436
+    "bearing": 212.610,
+    "glideslope": 3.00212610
   },
   {
     "name": "GS",

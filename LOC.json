@@ -55698,12 +55698,12 @@
     "airportICAO": "KAVP",
     "identifier": "IAVP",
     "associatedRunwayNumber": "04",
-    "latitude": 41.34257800,
-    "longitude": -75.71841100,
-    "elevation": 962,
+    "latitude": 41.32869884,
+    "longitude": -75.73154816,
+    "elevation": 961,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 34.360
+    "bearing": 32.610
   },
   {
     "name": "ILS-cat-I",
@@ -55711,12 +55711,12 @@
     "airportICAO": "KAVP",
     "identifier": "IIZK",
     "associatedRunwayNumber": "22",
-    "latitude": 41.33156100,
-    "longitude": -75.73028600,
-    "elevation": 962,
+    "latitude": 41.34602896,
+    "longitude": -75.71678387,
+    "elevation": 961,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 214.360
+    "bearing": 212.610
   },
   {
     "name": "ILS-cat-I",
