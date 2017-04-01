@@ -69387,12 +69387,12 @@
     "airportICAO": "KSYR",
     "identifier": "IMRZ",
     "associatedRunwayNumber": "10",
-    "latitude": 43.10941400,
-    "longitude": -76.08920300,
-    "elevation": 421,
+    "latitude": 43.10810008,
+    "longitude": -76.12607110,
+    "elevation": 419,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 87.436
+    "bearing": 87.400
   },
   {
     "name": "ILS-cat-II",
@@ -69400,12 +69400,12 @@
     "airportICAO": "KSYR",
     "identifier": "ISYR",
     "associatedRunwayNumber": "28",
-    "latitude": 43.10803900,
-    "longitude": -76.13101700,
-    "elevation": 421,
+    "latitude": 43.10921877,
+    "longitude": -76.09229371,
+    "elevation": 419,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 267.409
+    "bearing": 267.400
   },
   {
     "name": "ILS-cat-I",

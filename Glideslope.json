@@ -65266,26 +65266,26 @@
     "airportICAO": "KSYR",
     "identifier": "IMRZ",
     "associatedRunwayNumber": "10",
-    "latitude": 43.10722800,
-    "longitude": -76.12226400,
-    "elevation": 421,
+    "latitude": 43.10810008,
+    "longitude": -76.12607110,
+    "elevation": 419,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 87.848,
-    "glideslope": 3.00087424
+    "bearing": 87.400,
+    "glideslope": 3.00087400
   },
   {
     "name": "GS",
     "airportICAO": "KSYR",
     "identifier": "ISYR",
     "associatedRunwayNumber": "28",
-    "latitude": 43.11096400,
-    "longitude": -76.09623100,
-    "elevation": 405,
+    "latitude": 43.10921877,
+    "longitude": -76.09229371,
+    "elevation": 419,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 267.848,
-    "glideslope": 3.00267424
+    "bearing": 267.400,
+    "glideslope": 3.00267400
   },
   {
     "name": "GS",
