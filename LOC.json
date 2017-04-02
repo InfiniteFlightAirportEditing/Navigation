@@ -79202,12 +79202,12 @@
     "airportICAO": "RJSS",
     "identifier": "ISD",
     "associatedRunwayNumber": "27",
-    "latitude": 38.13850000,
-    "longitude": 140.89607200,
+    "latitude": 38.14225827,
+    "longitude": 140.93271389,
     "elevation": 15,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 262.520
+    "bearing": 262.530
   },
   {
     "name": "ILS-cat-I",

@@ -75107,13 +75107,13 @@
     "airportICAO": "RJSS",
     "identifier": "ISD",
     "associatedRunwayNumber": "27",
-    "latitude": 38.14296400,
-    "longitude": 140.92878100,
-    "elevation": 12,
+    "latitude": 38.14225827,
+    "longitude": 140.93271389,
+    "elevation": 15,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 263.058,
-    "glideslope": 3.00262529
+    "bearing": 262.530,
+    "glideslope": 3.00262530
   },
   {
     "name": "GS",
