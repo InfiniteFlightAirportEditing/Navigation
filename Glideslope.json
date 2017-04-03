@@ -49899,13 +49899,13 @@
     "airportICAO": "FQMA",
     "identifier": "IMA",
     "associatedRunwayNumber": "23",
-    "latitude": -25.89801700,
-    "longitude": 32.58524400,
+    "latitude": -25.89580516,
+    "longitude": 32.58784484,
     "elevation": 145,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 209.492,
-    "glideslope": 3.00208746
+    "bearing": 208.740,
+    "glideslope": 3.00208740
   },
   {
     "name": "GS",

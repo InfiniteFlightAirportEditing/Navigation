@@ -53930,12 +53930,12 @@
     "airportICAO": "FQMA",
     "identifier": "IMA",
     "associatedRunwayNumber": "23",
-    "latitude": -25.92796400,
-    "longitude": 32.56825000,
+    "latitude": -25.89580516,
+    "longitude": 32.58784484,
     "elevation": 145,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 208.752
+    "bearing": 208.740
   },
   {
     "name": "ILS-cat-I",
