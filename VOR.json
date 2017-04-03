@@ -5783,9 +5783,9 @@
     "receptionRange": 80, 
     "elevation": 498, 
     "name": "COMPTON", 
-    "longitude": -1.21972203, 
+    "longitude": -1.2197222, 
     "frequency": 1143500, 
-    "latitude": 51.4916687, 
+    "latitude": 51.4916667, 
     "identifier": "CPT", 
     "slavedVariation": 356.0
   }, 
@@ -6613,9 +6613,9 @@
     "receptionRange": 130, 
     "elevation": 600, 
     "name": "DAVENTRY", 
-    "longitude": -1.11388898, 
+    "longitude": -1.1138889, 
     "frequency": 1164000, 
-    "latitude": 52.18027878, 
+    "latitude": 52.1802778, 
     "identifier": "DTY", 
     "slavedVariation": 356.0
   }, 
@@ -11853,9 +11853,9 @@
     "receptionRange": 130, 
     "elevation": 435, 
     "name": "HONILEY", 
-    "longitude": -1.66361105, 
+    "longitude": -1.6636111, 
     "frequency": 1136500, 
-    "latitude": 52.35666656, 
+    "latitude": 52.3566667, 
     "identifier": "HON", 
     "slavedVariation": 356.0
   }, 
@@ -17248,6 +17248,16 @@
     "latitude": 42.86852646, 
     "identifier": "MHT", 
     "slavedVariation": 345.0
+  }, 
+  {
+    "receptionRange": 130, 
+    "elevation": 282, 
+    "name": "MANCHESTER", 
+    "longitude": -2.2622222, 
+    "frequency": 1135500, 
+    "latitude": 53.3569444, 
+    "identifier": "MCT", 
+    "slavedVariation": -5.007
   }, 
   {
     "receptionRange": 100, 
@@ -26673,9 +26683,9 @@
     "receptionRange": 40, 
     "elevation": 66, 
     "name": "SOUTHAMPTON", 
-    "longitude": -1.3450000286102295, 
+    "longitude": -1.3450000, 
     "frequency": 1133500, 
-    "latitude": 50.9552993774414062, 
+    "latitude": 50.9552778, 
     "identifier": "SAM", 
     "slavedVariation": -4.001
   }, 
@@ -30123,9 +30133,9 @@
     "receptionRange": 130, 
     "elevation": 55, 
     "name": "WALLASEY", 
-    "longitude": -3.134444, 
+    "longitude": -3.1344444, 
     "frequency": 1141000, 
-    "latitude": 53.39194489, 
+    "latitude": 53.3919444, 
     "identifier": "WAL", 
     "slavedVariation": 355.0
   }, 
