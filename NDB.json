@@ -52580,8 +52580,8 @@
   {
     "name": "SOUTHAMPTON",
     "identifier": "EAS",
-    "latitude": 50.95502853,
-    "longitude": -1.35611904,
+    "latitude": 50.9550000,
+    "longitude": -1.3561111,
     "elevation": 0,
     "frequency": 391,
     "receptionRange": 15
