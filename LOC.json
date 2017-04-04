@@ -85286,12 +85286,12 @@
     "airportICAO": "WBKK",
     "identifier": "IKKS",
     "associatedRunwayNumber": "02",
-    "latitude": 5.95083572,
-    "longitude": 116.05692106,
-    "elevation": 10,
+    "latitude": 5.91813071,
+    "longitude": 116.04315299,
+    "elevation": 18,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 22.734
+    "bearing": 22.790
   },
   {
     "name": "ILS-cat-I",

@@ -81204,13 +81204,13 @@
     "airportICAO": "WBKK",
     "identifier": "IKKS",
     "associatedRunwayNumber": "02",
-    "latitude": 5.93167369,
-    "longitude": 116.04795185,
-    "elevation": 10,
+    "latitude": 5.91813071,
+    "longitude": 116.04315299,
+    "elevation": 18,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 23.468,
-    "glideslope": 3.00022734
+    "bearing": 22.790,
+    "glideslope": 3.00022790
   },
   {
     "name": "GS",
