@@ -3632,7 +3632,7 @@
   {
     "receptionRange": 80, 
     "elevation": 382, 
-    "name": "BROOKMANS", 
+    "name": "BROOKMANS PARK", 
     "longitude": -0.106667, 
     "frequency": 1175000, 
     "latitude": 51.74972153, 
@@ -6682,7 +6682,7 @@
   {
     "receptionRange": 130, 
     "elevation": 700, 
-    "name": "DEAN", 
+    "name": "DEAN CROSS", 
     "longitude": -3.34055591, 
     "frequency": 1152000, 
     "latitude": 54.7219429, 
@@ -12672,7 +12672,7 @@
   {
     "receptionRange": 130, 
     "elevation": 573, 
-    "name": "ISLE", 
+    "name": "ISLE OF MAN", 
     "longitude": -4.76347494, 
     "frequency": 1122000, 
     "latitude": 54.06686783, 
@@ -15542,7 +15542,7 @@
   {
     "receptionRange": 130, 
     "elevation": 800, 
-    "name": "LANDS", 
+    "name": "LANDS END", 
     "longitude": -5.63698578, 
     "frequency": 1142000, 
     "latitude": 50.13625717, 
@@ -22582,10 +22582,10 @@
   {
     "receptionRange": 150, 
     "elevation": 1400, 
-    "name": "POLE", 
-    "longitude": -2.103333, 
+    "name": "POLE HILL", 
+    "longitude": -2.1033333, 
     "frequency": 1121000, 
-    "latitude": 53.74388885, 
+    "latitude": 53.7438889, 
     "identifier": "POL", 
     "slavedVariation": 356.0
   }, 
@@ -28728,6 +28728,16 @@
     "latitude": 54.51096725, 
     "identifier": "TRT", 
     "slavedVariation": 2.2
+  }, 
+  {
+    "receptionRange": 130, 
+    "elevation": 968, 
+    "name": "TRENT", 
+    "longitude": -1.6700000, 
+    "frequency": 1157000, 
+    "latitude": 53.0538889, 
+    "identifier": "TNT", 
+    "slavedVariation": -1.2
   }, 
   {
     "receptionRange": 40, 

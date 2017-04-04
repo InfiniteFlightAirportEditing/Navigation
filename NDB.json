@@ -61409,8 +61409,8 @@
   {
     "name": "WESTCOTT",
     "identifier": "WCO",
-    "latitude": 51.85305786,
-    "longitude": -0.96249998,
+    "latitude": 51.8530556,
+    "longitude": -0.9625000,
     "elevation": 0,
     "frequency": 335,
     "receptionRange": 30
@@ -61589,8 +61589,8 @@
   {
     "name": "WHITEGATE",
     "identifier": "WHI",
-    "latitude": 53.18500137,
-    "longitude": -2.62305593,
+    "latitude": 53.1850000,
+    "longitude": -2.6230556,
     "elevation": 0,
     "frequency": 368,
     "receptionRange": 25
