@@ -85949,12 +85949,12 @@
     "airportICAO": "YMLT",
     "identifier": "ILT",
     "associatedRunwayNumber": "32L",
-    "latitude": -41.53444400,
-    "longitude": 147.20194400,
+    "latitude": -41.55206560,
+    "longitude": 147.21698795,
     "elevation": 562,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 327.931
+    "bearing": 327.330
   },
   {
     "name": "ILS-cat-I",

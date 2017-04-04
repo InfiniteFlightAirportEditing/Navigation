@@ -81854,13 +81854,13 @@
     "airportICAO": "YMLT",
     "identifier": "ILT",
     "associatedRunwayNumber": "32L",
-    "latitude": -41.54888900,
-    "longitude": 147.21638900,
+    "latitude": -41.55206560,
+    "longitude": 147.21698795,
     "elevation": 562,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 327.800,
-    "glideslope": 3.003274
+    "bearing": 327.330,
+    "glideslope": 3.00327330
   },
   {
     "name": "GS",
