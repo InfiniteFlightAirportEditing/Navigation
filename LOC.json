@@ -74184,25 +74184,25 @@
     "airportICAO": "LIRN",
     "identifier": "NPC",
     "associatedRunwayNumber": "06",
-    "latitude": 40.88688900,
-    "longitude": 14.28988900,
-    "elevation": 294,
+    "latitude": 40.87979891,
+    "longitude": 14.27755360,
+    "elevation": 292,
     "frequency": 110150,
     "receptionRange": 18,
-    "bearing": 52.736
+    "bearing": 58.080
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "LIRN",
-    "identifier": "INPL",
+    "identifier": "INP",
     "associatedRunwayNumber": "24",
-    "latitude": 40.87905600,
-    "longitude": 14.27600000,
-    "elevation": 288,
+    "latitude": 40.89230480,
+    "longitude": 14.30410490,
+    "elevation": 292,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 238.025
+    "bearing": 238.080
   },
   {
     "name": "ILS-cat-I",

@@ -69998,26 +69998,26 @@
     "airportICAO": "LIRN",
     "identifier": "NPC",
     "associatedRunwayNumber": "06",
-    "latitude": 40.88427800,
-    "longitude": 14.28358300,
-    "elevation": 294,
+    "latitude": 40.87979891,
+    "longitude": 14.27755360,
+    "elevation": 292,
     "frequency": 110150,
     "receptionRange": 10,
-    "bearing": 58.078,
-    "glideslope": 3.50058039
+    "bearing": 58.080,
+    "glideslope": 3.50058080
   },
   {
     "name": "GS",
     "airportICAO": "LIRN",
-    "identifier": "INPL",
+    "identifier": "INP",
     "associatedRunwayNumber": "24",
-    "latitude": 40.89116700,
-    "longitude": 14.29894400,
-    "elevation": 250,
+    "latitude": 40.89230480,
+    "longitude": 14.30410490,
+    "elevation": 292,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 238.078,
-    "glideslope": 3.33238039
+    "bearing": 238.080,
+    "glideslope": 3.33238080
   },
   {
     "name": "GS",
