@@ -2560,16 +2560,6 @@
     "slavedVariation": 2.0
   }, 
   {
-    "receptionRange": 200, 
-    "elevation":36, 
-    "name": "BENBECULA", 
-    "longitude": -7.3653000, 
-    "frequency": 1139500, 
-    "latitude": 57.4779361, 
-    "identifier": "BEN", 
-    "slavedVariation": 352.0
-  }, 
-  {
     "receptionRange": 130, 
     "elevation": 50, 
     "name": "BENGKULU", 

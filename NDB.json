@@ -5697,6 +5697,15 @@
     "receptionRange": 40
   },
   {
+    "name": "BENBECULA",
+    "identifier": "BEN",
+    "latitude": 57.28405700,
+    "longitude": -7.21550800,
+    "elevation": 36,
+    "frequency": 114,
+    "receptionRange": 40
+  },
+  {
     "name": "BENDIGO",
     "identifier": "BDG",
     "latitude": -36.74277878,
