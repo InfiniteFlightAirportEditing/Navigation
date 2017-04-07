@@ -20110,16 +20110,6 @@
     "slavedVariation": 11.0
   }, 
   {
-    "receptionRange": 200, 
-    "elevation": 274, 
-    "name": "NEWCASTLE", 
-    "longitude": -1.69836903, 
-    "frequency": 1142500, 
-    "latitude": 55.03844833, 
-    "identifier": "NEW", 
-    "slavedVariation": 355.0
-  }, 
-  {
     "receptionRange": 40, 
     "elevation": 1070, 
     "name": "NEWCOMBE", 

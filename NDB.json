@@ -39249,6 +39249,15 @@
     "receptionRange": 50
   },
   {
+    "name": "NEWCASTLE",
+    "identifier": "NEW",
+    "latitude": 55.03844720,
+    "longitude": -0.27614722,
+    "elevation": 287,
+    "frequency": 114,
+    "receptionRange": 50
+  },
+  {
     "name": "NEWLANDS",
     "identifier": "NL",
     "latitude": -41.22878647,
