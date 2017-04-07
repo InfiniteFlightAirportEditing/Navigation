@@ -6690,16 +6690,6 @@
     "slavedVariation": 23.0
   }, 
   {
-    "receptionRange": 130, 
-    "elevation": 700, 
-    "name": "DEAN CROSS", 
-    "longitude": -3.3406389, 
-    "frequency": 1152000, 
-    "latitude": 54.721911, 
-    "identifier": "DCS", 
-    "slavedVariation": 355.0
-  }, 
-  {
     "receptionRange": 60, 
     "elevation": 497, 
     "name": "DEAUVILLE", 

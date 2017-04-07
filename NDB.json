@@ -14463,6 +14463,15 @@
     "receptionRange": 50
   },
   {
+    "name": "DEAN CROSS",
+    "identifier": "DCS",
+    "latitude": 54.72191110,
+    "longitude": -0.54063888,
+    "elevation": 700,
+    "frequency": 115,
+    "receptionRange": 50
+  },
+  {
     "name": "DEASE",
     "identifier": "YDL",
     "latitude": 58.45377731,
