@@ -71232,13 +71232,13 @@
     "type": 4,
     "airportICAO": "LEPP",
     "identifier": "IPN",
-    "associatedRunwayNumber": "16",
-    "latitude": 42.76032800,
-    "longitude": -1.63925300,
-    "elevation": 1503,
+    "associatedRunwayNumber": "15",
+    "latitude": 42.77955955,
+    "longitude": -1.65325582,
+    "elevation": 1502,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 151.860
+    "bearing": 151.870
   },
   {
     "name": "ILS-cat-I",
