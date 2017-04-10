@@ -46506,26 +46506,26 @@
     "airportICAO": "EGSS",
     "identifier": "ISED",
     "associatedRunwayNumber": "04",
-    "latitude": 51.875032,
-    "longitude": 0.219862,
+    "latitude": 51.87507928,
+    "longitude": 0.21993001,
     "elevation": 348,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 42.810,
-    "glideslope": 3.000428
+    "bearing": 42.800,
+    "glideslope": 3.00042800
   },
   {
     "name": "GS",
     "airportICAO": "EGSS",
     "identifier": "ISX",
     "associatedRunwayNumber": "22",
-    "latitude": 51.895162,
-    "longitude": 0.250062,
+    "latitude": 51.89515893,
+    "longitude": 0.25004804,
     "elevation": 348,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 223.810,
-    "glideslope": 3.002228
+    "bearing": 222.800,
+    "glideslope": 3.00222800
   },
   {
     "name": "GS",
