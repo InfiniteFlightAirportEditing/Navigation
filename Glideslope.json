@@ -42371,26 +42371,26 @@
     "airportICAO": "CYQM",
     "identifier": "IFG",
     "associatedRunwayNumber": "06",
-    "latitude": 46.10860062,
-    "longitude": -64.69342041,
-    "elevation": 232,
+    "latitude": 46.10596018,
+    "longitude": -64.69433114,
+    "elevation": 231,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 63.000,
-    "glideslope": 3.00063
+    "bearing": 42.420,
+    "glideslope": 3.00042420
   },
   {
     "name": "GS",
     "airportICAO": "CYQM",
     "identifier": "IQM",
     "associatedRunwayNumber": "29",
-    "latitude": 46.10878372,
-    "longitude": -64.66718292,
-    "elevation": 232,
+    "latitude": 46.10782313,
+    "longitude": -64.66277075,
+    "elevation": 231,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 288.000,
-    "glideslope": 3.00288
+    "bearing": 267.440,
+    "glideslope": 3.00267440
   },
   {
     "name": "GS",

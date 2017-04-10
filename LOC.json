@@ -46403,12 +46403,12 @@
     "airportICAO": "CYQM",
     "identifier": "IFG",
     "associatedRunwayNumber": "06",
-    "latitude": 46.12106705,
-    "longitude": -64.67476654,
-    "elevation": 232,
+    "latitude": 46.10596018,
+    "longitude": -64.69433114,
+    "elevation": 231,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 42.515
+    "bearing": 42.420
   },
   {
     "name": "ILS-cat-I",
@@ -46416,12 +46416,12 @@
     "airportICAO": "CYQM",
     "identifier": "IQM",
     "associatedRunwayNumber": "29",
-    "latitude": 46.10653305,
-    "longitude": -64.69850159,
-    "elevation": 232,
+    "latitude": 46.10782313,
+    "longitude": -64.66277075,
+    "elevation": 231,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 267.407
+    "bearing": 267.440
   },
   {
     "name": "ILS-cat-I",
