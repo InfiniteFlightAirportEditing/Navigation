@@ -8588,8 +8588,8 @@
   {
     "name": "BURNHAM",
     "identifier": "BUR",
-    "latitude": 51.5183333,
-    "longitude": -0.6766667,
+    "latitude": 51.5188889,
+    "longitude": -0.6772222,
     "elevation": 0,
     "frequency": 421,
     "receptionRange": 30
@@ -11360,8 +11360,8 @@
   {
     "name": "CHILTERN",
     "identifier": "CHT",
-    "latitude": 51.6233333,
-    "longitude": -0.5183333,
+    "latitude": 51.6230556,
+    "longitude": -0.5186111,
     "elevation": 0,
     "frequency": 277,
     "receptionRange": 25
@@ -17003,8 +17003,8 @@
   {
     "name": "EPSOM",
     "identifier": "EPM",
-    "latitude": 51.31944275,
-    "longitude": -0.37194401,
+    "latitude": 51.3194444,
+    "longitude": -0.3719444,
     "elevation": 0,
     "frequency": 316,
     "receptionRange": 25
@@ -62138,8 +62138,8 @@
   {
     "name": "WOODLEY",
     "identifier": "WOD",
-    "latitude": 51.4533333,
-    "longitude": -0.8783333,
+    "latitude": 51.4527778,
+    "longitude": -0.8788889,
     "elevation": 0,
     "frequency": 352,
     "receptionRange": 25
