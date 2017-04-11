@@ -32389,12 +32389,12 @@
     "airportICAO": "PANC",
     "identifier": "ITGN",
     "associatedRunwayNumber": "07L",
-    "latitude": 61.16981506,
-    "longitude": -149.94239807,
-    "elevation": 152,
+    "latitude": 61.16976330,
+    "longitude": -150.00847573,
+    "elevation": 149,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 89.909
+    "bearing": 89.910
   },
   {
     "name": "ILS-cat-I",
@@ -32402,12 +32402,12 @@
     "airportICAO": "PANC",
     "identifier": "IANC",
     "associatedRunwayNumber": "07R",
-    "latitude": 61.16788483,
-    "longitude": -149.96717834,
-    "elevation": 152,
+    "latitude": 61.16779167,
+    "longitude": -150.04309326,
+    "elevation": 149,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 89.881
+    "bearing": 89.840
   },
   {
     "name": "ILS-cat-I",
@@ -32415,12 +32415,12 @@
     "airportICAO": "PANC",
     "identifier": "IBSC",
     "associatedRunwayNumber": "15",
-    "latitude": 61.16662598,
-    "longitude": -149.99600220,
-    "elevation": 152,
+    "latitude": 61.19942028,
+    "longitude": -150.01441400,
+    "elevation": 149,
     "frequency": 111750,
     "receptionRange": 18,
-    "bearing": 164.909
+    "bearing": 164.900
   },
   {
     "name": "ILS-cat-I",
