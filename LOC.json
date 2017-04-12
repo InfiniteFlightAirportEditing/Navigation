@@ -50094,12 +50094,12 @@
     "type": 4,
     "airportICAO": "EGNR",
     "identifier": "IHWD",
-    "associatedRunwayNumber": "05",
-    "latitude": 53.17878100,
-    "longitude": -2.97907200,
+    "associatedRunwayNumber": "04",
+    "latitude": 53.17120683,
+    "longitude": -2.98764685,
     "elevation": 45,
     "frequency": 110350,
-    "receptionRange": 18,
+    "receptionRange": 40.950,
     "bearing": 34.266
   },
   {
@@ -50107,13 +50107,13 @@
     "type": 4,
     "airportICAO": "EGNR",
     "identifier": "IHDN",
-    "associatedRunwayNumber": "23",
-    "latitude": 53.16989200,
-    "longitude": -2.98955300,
+    "associatedRunwayNumber": "22",
+    "latitude": 53.18502537,
+    "longitude": -2.96764447,
     "elevation": 32,
     "frequency": 110350,
-    "receptionRange": 18,
-    "bearing": 220.886
+    "receptionRange": 43,
+    "bearing": 220.950
   },
   {
     "name": "ILS-cat-I",
