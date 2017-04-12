@@ -49990,13 +49990,13 @@
     "airportICAO": "FYWH",
     "identifier": "WD",
     "associatedRunwayNumber": "26",
-    "latitude": -22.47180000,
-    "longitude": 17.48651700,
+    "latitude": -22.47139829,
+    "longitude": 17.48937648,
     "elevation": 5640,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 243.998,
-    "glideslope": 3.00243499
+    "bearing": 243.490,
+    "glideslope": 3.00243490
   },
   {
     "name": "GS",

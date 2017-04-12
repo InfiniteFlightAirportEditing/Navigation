@@ -54021,12 +54021,12 @@
     "airportICAO": "FYWH",
     "identifier": "WD",
     "associatedRunwayNumber": "26",
-    "latitude": -22.49100000,
-    "longitude": 17.44705000,
+    "latitude": -22.47139829,
+    "longitude": 17.48937648,
     "elevation": 5640,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 243.393
+    "bearing": 243.490
   },
   {
     "name": "ILS-cat-I",
