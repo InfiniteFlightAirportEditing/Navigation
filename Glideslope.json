@@ -46107,7 +46107,7 @@
     "longitude": -2.98764685,
     "elevation": 42,
     "frequency": 110350,
-    "receptionRange": 43,
+    "receptionRange": 10,
     "bearing": 40.950,
     "glideslope": 3.50040950
   },
@@ -46120,7 +46120,7 @@
     "longitude": -2.96764447,
     "elevation": 17,
     "frequency": 110350,
-    "receptionRange": 43,
+    "receptionRange": 10,
     "bearing": 220.950,
     "glideslope": 3.00220950
   },
