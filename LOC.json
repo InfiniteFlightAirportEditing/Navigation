@@ -50099,8 +50099,8 @@
     "longitude": -2.98764685,
     "elevation": 45,
     "frequency": 110350,
-    "receptionRange": 40.950,
-    "bearing": 34.266
+    "receptionRange": 18,
+    "bearing": 40.950
   },
   {
     "name": "ILS-cat-I",
@@ -50112,7 +50112,7 @@
     "longitude": -2.96764447,
     "elevation": 32,
     "frequency": 110350,
-    "receptionRange": 43,
+    "receptionRange": 18,
     "bearing": 220.950
   },
   {
