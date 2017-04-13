@@ -50097,7 +50097,7 @@
     "associatedRunwayNumber": "04",
     "latitude": 53.17120683,
     "longitude": -2.98764685,
-    "elevation": 45,
+    "elevation": 43,
     "frequency": 110350,
     "receptionRange": 18,
     "bearing": 40.950
@@ -50110,7 +50110,7 @@
     "associatedRunwayNumber": "22",
     "latitude": 53.18502537,
     "longitude": -2.96764447,
-    "elevation": 32,
+    "elevation": 43,
     "frequency": 110350,
     "receptionRange": 18,
     "bearing": 220.950
