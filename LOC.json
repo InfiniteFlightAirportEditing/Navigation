@@ -42591,19 +42591,6 @@
   {
     "name": "LOC",
     "type": 5,
-    "airportICAO": "ENML",
-    "identifier": "ME",
-    "associatedRunwayNumber": "25",
-    "latitude": 62.74895859,
-    "longitude": 7.28405619,
-    "elevation": 5,
-    "frequency": 109100,
-    "receptionRange": 18,
-    "bearing": 256.009
-  },
-  {
-    "name": "LOC",
-    "type": 5,
     "airportICAO": "ENMS",
     "identifier": "MS",
     "associatedRunwayNumber": "34",
@@ -52006,12 +51993,12 @@
     "airportICAO": "ENML",
     "identifier": "ML",
     "associatedRunwayNumber": "07",
-    "latitude": 62.74886703,
-    "longitude": 7.28833342,
-    "elevation": 4,
+    "latitude": 62.74229218,
+    "longitude": 7.24651624,
+    "elevation": 9,
     "frequency": 109750,
     "receptionRange": 18,
-    "bearing": 71.023
+    "bearing": 70.990
   },
   {
     "name": "ILS-cat-I",
@@ -88191,19 +88178,6 @@
     "frequency": 111500,
     "receptionRange": 18,
     "bearing": 297.000
-  },
-  {
-    "name": "LOC",
-    "type": 5,
-    "airportICAO": "ENML",
-    "identifier": "ME",
-    "associatedRunwayNumber": "25",
-    "latitude": 62.74895859,
-    "longitude": 7.28405619,
-    "elevation": 5,
-    "frequency": 109100,
-    "receptionRange": 18,
-    "bearing": 256.009
   },
   {
     "name": "LOC",

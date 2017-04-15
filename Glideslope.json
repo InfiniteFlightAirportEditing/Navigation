@@ -47975,13 +47975,13 @@
     "airportICAO": "ENML",
     "identifier": "ML",
     "associatedRunwayNumber": "07",
-    "latitude": 62.74274826,
-    "longitude": 7.25559998,
-    "elevation": 8,
+    "latitude": 62.74229218,
+    "longitude": 7.24651624,
+    "elevation": 9,
     "frequency": 109750,
     "receptionRange": 10,
-    "bearing": 71.046,
-    "glideslope": 3.10071023
+    "bearing": 70.990,
+    "glideslope": 3.10070990
   },
   {
     "name": "GS",
