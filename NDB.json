@@ -1146,7 +1146,7 @@
     "name": "ALDERNEY",
     "identifier": "ALD",
     "latitude": 49.7088889,
-    "longitude": -2.1997222,
+    "longitude": -2.19970012,
     "elevation": 331,
     "frequency": 383,
     "receptionRange": 30
@@ -54398,8 +54398,8 @@
   {
     "name": "Southend",
     "identifier": "SND",
-    "latitude": 51.57632828,
-    "longitude": 0.70033002,
+    "latitude": 51.576008333,
+    "longitude": 0.700144444,
     "elevation": 50,
     "frequency": 362,
     "receptionRange": 50
