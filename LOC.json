@@ -46143,12 +46143,12 @@
     "airportICAO": "CYHM",
     "identifier": "IAB",
     "associatedRunwayNumber": "12",
-    "latitude": 43.17174296,
-    "longitude": -79.91545418,
-    "elevation": 780,
+    "latitude": 43.18058315,
+    "longitude": -79.95300183,
+    "elevation": 779,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 107.830
+    "bearing": 107.300
   },
   {
     "name": "ILS-cat-I",

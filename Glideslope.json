@@ -42124,13 +42124,13 @@
     "airportICAO": "CYHM",
     "identifier": "IAB",
     "associatedRunwayNumber": "12",
-    "latitude": 43.17915715,
-    "longitude": -79.94339968,
-    "elevation": 780,
+    "latitude": 43.18058315,
+    "longitude": -79.95300183,
+    "elevation": 779,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 108.636,
-    "glideslope": 3.00107818
+    "bearing": 107.300,
+    "glideslope": 3.00107300
   },
   {
     "name": "GS",
