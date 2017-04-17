@@ -7319,8 +7319,8 @@
   {
     "name": "BOURNEMOUTH",
     "identifier": "BIA",
-    "latitude": 50.77767181,
-    "longitude": -1.84248614,
+    "latitude": 50.7777778,
+    "longitude": -1.8425000,
     "elevation": 30,
     "frequency": 339,
     "receptionRange": 20
