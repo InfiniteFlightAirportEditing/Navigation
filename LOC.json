@@ -78149,12 +78149,12 @@
     "airportICAO": "PGUM",
     "identifier": "IGUM",
     "associatedRunwayNumber": "06L",
-    "latitude": 13.49118259,
-    "longitude": 144.81082248,
-    "elevation": 298,
+    "latitude": 13.47774988,
+    "longitude": 144.78138694,
+    "elevation": 305,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 64.813
+    "bearing": 64.810
   },
   {
     "name": "ILS-cat-I",
@@ -78162,12 +78162,12 @@
     "airportICAO": "PGUM",
     "identifier": "IAWD",
     "associatedRunwayNumber": "06R",
-    "latitude": 13.48943215,
-    "longitude": 144.81165483,
-    "elevation": 298,
+    "latitude": 13.47717811,
+    "longitude": 144.78478605,
+    "elevation": 305,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 64.818
+    "bearing": 64.820
   },
   {
     "name": "ILS-cat-I",

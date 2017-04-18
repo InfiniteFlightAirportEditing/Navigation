@@ -74067,26 +74067,26 @@
     "airportICAO": "PGUM",
     "identifier": "IGUM",
     "associatedRunwayNumber": "06L",
-    "latitude": 13.48077300,
-    "longitude": 144.78635400,
-    "elevation": 680,
+    "latitude": 13.47774988,
+    "longitude": 144.78138694,
+    "elevation": 305,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 65.626,
-    "glideslope": 3.00064813
+    "bearing": 64.810,
+    "glideslope": 3.00064810
   },
   {
     "name": "GS",
     "airportICAO": "PGUM",
     "identifier": "IAWD",
     "associatedRunwayNumber": "06R",
-    "latitude": 13.47758344,
-    "longitude": 144.78772963,
-    "elevation": 298,
+    "latitude": 13.47717811,
+    "longitude": 144.78478605,
+    "elevation": 305,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 65.636,
-    "glideslope": 3.00064818
+    "bearing": 64.820,
+    "glideslope": 3.00064820
   },
   {
     "name": "GS",
