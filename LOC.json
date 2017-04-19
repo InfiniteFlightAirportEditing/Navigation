@@ -70570,12 +70570,12 @@
     "airportICAO": "LBBG",
     "identifier": "IBG",
     "associatedRunwayNumber": "22",
-    "latitude": 42.55725000,
-    "longitude": 27.49819400,
-    "elevation": 135,
+    "latitude": 42.58042547,
+    "longitude": 27.52894056,
+    "elevation": 134,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 224.264
+    "bearing": 224.270
   },
   {
     "name": "ILS-cat-I",

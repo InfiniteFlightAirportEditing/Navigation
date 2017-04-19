@@ -66462,13 +66462,13 @@
     "airportICAO": "LBBG",
     "identifier": "IBG",
     "associatedRunwayNumber": "22",
-    "latitude": 42.57774200,
-    "longitude": 27.52736900,
-    "elevation": 135,
+    "latitude": 42.58042547,
+    "longitude": 27.52894056,
+    "elevation": 134,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 224.570,
-    "glideslope": 3.00224285
+    "bearing": 224.270,
+    "glideslope": 3.00224270
   },
   {
     "name": "GS",
