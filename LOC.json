@@ -46468,12 +46468,12 @@
     "airportICAO": "CYQX",
     "identifier": "IQX",
     "associatedRunwayNumber": "03",
-    "latitude": 48.94965018,
-    "longitude": -54.55986166,
+    "latitude": 48.92085484,
+    "longitude": -54.56777382,
     "elevation": 496,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 10.933
+    "bearing": 10.730
   },
   {
     "name": "ILS-cat-I",
@@ -46481,12 +46481,12 @@
     "airportICAO": "CYQX",
     "identifier": "IGN",
     "associatedRunwayNumber": "13",
-    "latitude": 48.94565947,
-    "longitude": -54.54890356,
+    "latitude": 48.95325209,
+    "longitude": -54.58577841,
     "elevation": 496,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 107.314
+    "bearing": 107.960
   },
   {
     "name": "ILS-cat-I",

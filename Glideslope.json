@@ -42449,26 +42449,26 @@
     "airportICAO": "CYQX",
     "identifier": "IQX",
     "associatedRunwayNumber": "03",
-    "latitude": 48.92337012,
-    "longitude": -54.56631164,
+    "latitude": 48.92085484,
+    "longitude": -54.56777382,
     "elevation": 496,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 11.866,
-    "glideslope": 3.00010933
+    "bearing": 10.730,
+    "glideslope": 3.00010730
   },
   {
     "name": "GS",
     "airportICAO": "CYQX",
     "identifier": "IGN",
     "associatedRunwayNumber": "13",
-    "latitude": 48.95330227,
-    "longitude": -54.58202825,
+    "latitude": 48.95325209,
+    "longitude": -54.58577841,
     "elevation": 496,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 107.628,
-    "glideslope": 3.00107314
+    "bearing": 107.960,
+    "glideslope": 3.00107960
   },
   {
     "name": "GS",
