@@ -73170,12 +73170,12 @@
     "airportICAO": "LFSB",
     "identifier": "MH",
     "associatedRunwayNumber": "15",
-    "latitude": 47.58406900,
-    "longitude": 7.53326400,
-    "elevation": 888,
+    "latitude": 47.61770879,
+    "longitude": 7.50985334,
+    "elevation": 884,
     "frequency": 111550,
     "receptionRange": 18,
-    "bearing": 154.868
+    "bearing": 154.850
   },
   {
     "name": "ILS-cat-I",
@@ -73183,12 +73183,12 @@
     "airportICAO": "LFSB",
     "identifier": "IBLU",
     "associatedRunwayNumber": "33",
-    "latitude": 47.61896476,
-    "longitude": 7.50899051,
-    "elevation": 885,
+    "latitude": 47.58593942,
+    "longitude": 7.53197633,
+    "elevation": 884,
     "frequency": 109350,
     "receptionRange": 18,
-    "bearing": 334.865
+    "bearing": 334.850
   },
   {
     "name": "ILS-cat-I",

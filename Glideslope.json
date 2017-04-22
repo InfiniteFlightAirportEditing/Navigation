@@ -69049,26 +69049,26 @@
     "airportICAO": "LFSB",
     "identifier": "MH",
     "associatedRunwayNumber": "15",
-    "latitude": 47.61470800,
-    "longitude": 7.51018100,
-    "elevation": 860,
+    "latitude": 47.61770879,
+    "longitude": 7.50985334,
+    "elevation": 884,
     "frequency": 111550,
     "receptionRange": 10,
-    "bearing": 155.736,
-    "glideslope": 3.00154868
+    "bearing": 154.850,
+    "glideslope": 3.00154850
   },
   {
     "name": "GS",
     "airportICAO": "LFSB",
     "identifier": "IBLU",
     "associatedRunwayNumber": "33",
-    "latitude": 47.58808372,
-    "longitude": 7.52912406,
-    "elevation": 885,
+    "latitude": 47.58593942,
+    "longitude": 7.53197633,
+    "elevation": 884,
     "frequency": 109350,
     "receptionRange": 10,
-    "bearing": 335.730,
-    "glideslope": 3.50334865
+    "bearing": 334.850,
+    "glideslope": 3.50334850
   },
   {
     "name": "GS",
