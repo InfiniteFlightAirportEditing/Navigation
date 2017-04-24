@@ -55737,12 +55737,12 @@
     "airportICAO": "KAZO",
     "identifier": "IAZO",
     "associatedRunwayNumber": "35",
-    "latitude": 42.24407800,
-    "longitude": -85.55230300,
+    "latitude": 42.22399832,
+    "longitude": -85.54793251,
     "elevation": 874,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 351.150
+    "bearing": 351.140
   },
   {
     "name": "ILS-cat-I",

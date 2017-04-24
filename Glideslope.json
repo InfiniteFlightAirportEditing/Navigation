@@ -51719,13 +51719,13 @@
     "airportICAO": "KAZO",
     "identifier": "IAZO",
     "associatedRunwayNumber": "35",
-    "latitude": 42.22811700,
-    "longitude": -85.54744400,
-    "elevation": 866,
+    "latitude": 42.22399832,
+    "longitude": -85.54793251,
+    "elevation": 874,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 351.268,
-    "glideslope": 2.98351134
+    "bearing": 351.140,
+    "glideslope": 3.00351140
   },
   {
     "name": "GS",
