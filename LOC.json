@@ -54138,12 +54138,12 @@
     "airportICAO": "GCXO",
     "identifier": "INOR",
     "associatedRunwayNumber": "12",
-    "latitude": 28.47697800,
-    "longitude": -16.32442500,
-    "elevation": 3356,
+    "latitude": 28.48805922,
+    "longitude": -16.35782449,
+    "elevation": 2076,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 110.688
+    "bearing": 110.680
   },
   {
     "name": "ILS-cat-I",
@@ -54151,12 +54151,12 @@
     "airportICAO": "GCXO",
     "identifier": "ITF",
     "associatedRunwayNumber": "30",
-    "latitude": 28.48928900,
-    "longitude": -16.36154400,
-    "elevation": 2025,
+    "latitude": 28.47725278,
+    "longitude": -16.32525684,
+    "elevation": 2076,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 290.666
+    "bearing": 290.680
   },
   {
     "name": "ILS-cat-II",

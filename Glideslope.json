@@ -50120,26 +50120,26 @@
     "airportICAO": "GCXO",
     "identifier": "INOR",
     "associatedRunwayNumber": "12",
-    "latitude": 28.48618600,
-    "longitude": -16.35538100,
-    "elevation": 2070,
+    "latitude": 28.48805922,
+    "longitude": -16.35782449,
+    "elevation": 2076,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 111.364,
-    "glideslope": 3.00110682
+    "bearing": 110.680,
+    "glideslope": 3.00110680
   },
   {
     "name": "GS",
     "airportICAO": "GCXO",
     "identifier": "ITF",
     "associatedRunwayNumber": "30",
-    "latitude": 28.47728300,
-    "longitude": -16.32847200,
-    "elevation": 2025,
+    "latitude": 28.47725278,
+    "longitude": -16.32525684,
+    "elevation": 2076,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 291.364,
-    "glideslope": 3.00290682
+    "bearing": 290.680,
+    "glideslope": 3.00290680
   },
   {
     "name": "GS",
