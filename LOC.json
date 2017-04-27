@@ -67775,12 +67775,12 @@
     "airportICAO": "KROC",
     "identifier": "IMCU",
     "associatedRunwayNumber": "04",
-    "latitude": 43.12797800,
-    "longitude": -77.66995800,
-    "elevation": 557,
+    "latitude": 43.10686609,
+    "longitude": -77.68771924,
+    "elevation": 558,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 31.563
+    "bearing": 31.560
   },
   {
     "name": "ILS-cat-I",
@@ -67788,12 +67788,12 @@
     "airportICAO": "KROC",
     "identifier": "IMWD",
     "associatedRunwayNumber": "22",
-    "latitude": 43.10529200,
-    "longitude": -77.68904400,
-    "elevation": 521,
+    "latitude": 43.12556723,
+    "longitude": -77.67198291,
+    "elevation": 558,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 211.546
+    "bearing": 211.560
   },
   {
     "name": "ILS-cat-I",
@@ -67801,12 +67801,12 @@
     "airportICAO": "KROC",
     "identifier": "IROC",
     "associatedRunwayNumber": "28",
-    "latitude": 43.12272800,
-    "longitude": -77.67932500,
-    "elevation": 550,
+    "latitude": 43.12349852,
+    "longitude": -77.65365798,
+    "elevation": 558,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 267.656
+    "bearing": 267.650
   },
   {
     "name": "ILS-cat-I",
