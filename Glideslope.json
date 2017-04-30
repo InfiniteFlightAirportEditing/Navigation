@@ -31956,15 +31956,28 @@
   {
     "name": "GS",
     "airportICAO": "OTBD",
+    "identifier": "AMD",
+    "associatedRunwayNumber": "15",
+    "latitude": 25.28019038,
+    "longitude": 51.55667364,
+    "elevation": 37,
+    "frequency": 108500,
+    "receptionRange": 10,
+    "bearing": 158.210,
+    "glideslope": 3.00158210
+  },
+  {
+    "name": "GS",
+    "airportICAO": "OTBD",
     "identifier": "IBD",
-    "associatedRunwayNumber": "34",
-    "latitude": 25.24505615,
-    "longitude": 51.57345581,
-    "elevation": 35,
+    "associatedRunwayNumber": "33",
+    "latitude": 25.24198532,
+    "longitude": 51.57356141,
+    "elevation": 37,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 338.438,
-    "glideslope": 3.00338219
+    "bearing": 338.210,
+    "glideslope": 3.00338210
   },
   {
     "name": "GS",

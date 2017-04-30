@@ -32059,17 +32059,17 @@
     "bearing": 176.628
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "OTBD",
     "identifier": "AMD",
-    "associatedRunwayNumber": "34",
-    "latitude": 25.24505615,
-    "longitude": 51.57345581,
-    "elevation": 35,
-    "frequency": 109500,
+    "associatedRunwayNumber": "15",
+    "latitude": 25.28019038,
+    "longitude": 51.55667364,
+    "elevation": 37,
+    "frequency": 108500,
     "receptionRange": 18,
-    "bearing": 338.43
+    "bearing": 158.210
   },
   {
     "name": "ILS-cat-III",
@@ -32077,12 +32077,12 @@
     "airportICAO": "OTBD",
     "identifier": "IBD",
     "associatedRunwayNumber": "33",
-    "latitude": 25.241985,
-    "longitude": 51.573561,
-    "elevation": 35,
+    "latitude": 25.24198532,
+    "longitude": 51.57356141,
+    "elevation": 37,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 338.21
+    "bearing": 338.210
   },
   {
     "name": "ILS-cat-I",
