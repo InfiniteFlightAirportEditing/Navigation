@@ -80346,26 +80346,26 @@
     "airportICAO": "VOBL",
     "identifier": "IBAN",
     "associatedRunwayNumber": "09",
-    "latitude": 13.207174,
-    "longitude": 77.686014,
-    "elevation": 3000,
+    "latitude": 13.20717439,
+    "longitude": 77.68601431,
+    "elevation": 3001,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 90.50,
-    "glideslope": 3.00264808
+    "bearing": 90.500,
+    "glideslope": 3.00090500
   },
   {
     "name": "GS",
     "airportICAO": "VOBL",
     "identifier": "IDEV",
     "associatedRunwayNumber": "27",
-    "latitude": 13.206858,
-    "longitude": 77.722987,
-    "elevation": 3000,
+    "latitude": 13.20685753,
+    "longitude": 77.72298694,
+    "elevation": 3001,
     "frequency": 108300,
     "receptionRange": 10,
-    "bearing": 269.500,
-    "glideslope": 3.00264808
+    "bearing": 270.500,
+    "glideslope": 3.00270500
   },
   {
     "name": "GS",
