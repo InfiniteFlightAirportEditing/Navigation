@@ -56205,12 +56205,12 @@
     "airportICAO": "KBKL",
     "identifier": "IBFT",
     "associatedRunwayNumber": "24R",
-    "latitude": 41.51349167,
-    "longitude": -81.69341389,
-    "elevation": 586,
+    "latitude": 41.52377141,
+    "longitude": -81.67161825,
+    "elevation": 583,
     "frequency": 109750,
     "receptionRange": 18,
-    "bearing": 237.812
+    "bearing": 237.820
   },
   {
     "name": "ILS-cat-I",

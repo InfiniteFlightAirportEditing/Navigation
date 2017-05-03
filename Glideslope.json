@@ -52187,13 +52187,13 @@
     "airportICAO": "KBKL",
     "identifier": "IBFT",
     "associatedRunwayNumber": "24R",
-    "latitude": 41.52253333,
-    "longitude": -81.67663667,
-    "elevation": 586,
+    "latitude": 41.52377141,
+    "longitude": -81.67161825,
+    "elevation": 583,
     "frequency": 109750,
     "receptionRange": 18,
-    "bearing": 238.624,
-    "glideslope": 3.00237812
+    "bearing": 237.820,
+    "glideslope": 3.00237820
   },
   {
     "name": "GS",
