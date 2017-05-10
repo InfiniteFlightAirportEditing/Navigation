@@ -75718,12 +75718,12 @@
     "airportICAO": "LZTT",
     "identifier": "TT",
     "associatedRunwayNumber": "27",
-    "latitude": 49.07468900,
-    "longitude": 20.21800000,
-    "elevation": 2279,
+    "latitude": 49.07276292,
+    "longitude": 20.25900640,
+    "elevation": 2355,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 274.208
+    "bearing": 274.180
   },
   {
     "name": "ILS-cat-I",

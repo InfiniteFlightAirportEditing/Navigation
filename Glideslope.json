@@ -71584,13 +71584,13 @@
     "airportICAO": "LZTT",
     "identifier": "TT",
     "associatedRunwayNumber": "27",
-    "latitude": 49.07192800,
-    "longitude": 20.25483900,
-    "elevation": 2279,
+    "latitude": 49.07276292,
+    "longitude": 20.25900640,
+    "elevation": 2355,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 274.398,
-    "glideslope": 3.50274199
+    "bearing": 274.180,
+    "glideslope": 3.50274180
   },
   {
     "name": "GS",
