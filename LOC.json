@@ -75978,12 +75978,12 @@
     "airportICAO": "MMTJ",
     "identifier": "ITIJ",
     "associatedRunwayNumber": "09",
-    "latitude": 32.53838100,
-    "longitude": -116.95078100,
-    "elevation": 489,
+    "latitude": 32.54311468,
+    "longitude": -116.98562235,
+    "elevation": 485,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 99.124
+    "bearing": 98.910
   },
   {
     "name": "ILS-cat-I",

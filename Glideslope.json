@@ -71844,13 +71844,13 @@
     "airportICAO": "MMTJ",
     "identifier": "ITIJ",
     "associatedRunwayNumber": "09",
-    "latitude": 32.54341100,
-    "longitude": -116.98141900,
-    "elevation": 489,
+    "latitude": 32.54311468,
+    "longitude": -116.98562235,
+    "elevation": 485,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 99.710,
-    "glideslope": 3.00098855
+    "bearing": 98.910,
+    "glideslope": 3.00098910
   },
   {
     "name": "GS",
