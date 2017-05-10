@@ -63901,13 +63901,13 @@
     "airportICAO": "KSAN",
     "identifier": "ISAN",
     "associatedRunwayNumber": "09",
-    "latitude": 32.73617200,
-    "longitude": -117.19722800,
-    "elevation": 13,
+    "latitude": 32.73710876,
+    "longitude": -117.20436410,
+    "elevation": 17,
     "frequency": 111550,
     "receptionRange": 10,
-    "bearing": 106.152,
-    "glideslope": 3.22106076
+    "bearing": 106.080,
+    "glideslope": 3.10106080
   },
   {
     "name": "GS",

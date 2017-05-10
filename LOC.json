@@ -44554,19 +44554,6 @@
   {
     "name": "LOC",
     "type": 5,
-    "airportICAO": "KSAN",
-    "identifier": "IUBR",
-    "associatedRunwayNumber": "27",
-    "latitude": 32.73734283,
-    "longitude": -117.20529175,
-    "elevation": 13,
-    "frequency": 110900,
-    "receptionRange": 18,
-    "bearing": 286.067
-  },
-  {
-    "name": "LOC",
-    "type": 5,
     "airportICAO": "KSBO",
     "identifier": "ISBO",
     "associatedRunwayNumber": "13",
@@ -67983,12 +67970,12 @@
     "airportICAO": "KSAN",
     "identifier": "ISAN",
     "associatedRunwayNumber": "09",
-    "latitude": 32.72978900,
-    "longitude": -117.17411400,
+    "latitude": 32.73710876,
+    "longitude": -117.20436410,
     "elevation": 17,
     "frequency": 111550,
     "receptionRange": 18,
-    "bearing": 106.076
+    "bearing": 106.080
   },
   {
     "name": "ILS-cat-I",
@@ -90102,19 +90089,6 @@
     "frequency": 109300,
     "receptionRange": 18,
     "bearing": 48.645
-  },
-  {
-    "name": "LOC",
-    "type": 5,
-    "airportICAO": "KSAN",
-    "identifier": "IUBR",
-    "associatedRunwayNumber": "27",
-    "latitude": 32.73734400,
-    "longitude": -117.20528900,
-    "elevation": 13,
-    "frequency": 110900,
-    "receptionRange": 18,
-    "bearing": 286.067
   },
   {
     "name": "LOC",
