@@ -74275,12 +74275,12 @@
     "airportICAO": "LKMT",
     "identifier": "OSV",
     "associatedRunwayNumber": "22",
-    "latitude": 49.68215800,
-    "longitude": 18.08814700,
-    "elevation": 807,
+    "latitude": 49.70710389,
+    "longitude": 18.12841218,
+    "elevation": 842,
     "frequency": 110950,
     "receptionRange": 18,
-    "bearing": 226.260
+    "bearing": 226.270
   },
   {
     "name": "ILS-cat-I",

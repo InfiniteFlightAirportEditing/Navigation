@@ -70115,13 +70115,13 @@
     "airportICAO": "LKMT",
     "identifier": "OSV",
     "associatedRunwayNumber": "22",
-    "latitude": 49.70446700,
-    "longitude": 18.12657800,
-    "elevation": 807,
+    "latitude": 49.70710389,
+    "longitude": 18.12841218,
+    "elevation": 842,
     "frequency": 110950,
     "receptionRange": 10,
-    "bearing": 226.600,
-    "glideslope": 3.002263
+    "bearing": 226.270,
+    "glideslope": 3.00226270
   },
   {
     "name": "GS",
