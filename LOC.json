@@ -29997,12 +29997,12 @@
     "airportICAO": "LZKZ",
     "identifier": "KE",
     "associatedRunwayNumber": "01",
-    "latitude": 48.68121719,
-    "longitude": 21.24751091,
-    "elevation": 739,
+    "latitude": 48.64944700,
+    "longitude": 48.64944700,
+    "elevation": 754,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 13.001
+    "bearing": 13.050
   },
   {
     "name": "ILS-cat-I",
@@ -75666,12 +75666,12 @@
     "airportICAO": "LZKZ",
     "identifier": "KE",
     "associatedRunwayNumber": "01",
-    "latitude": 48.68121700,
-    "longitude": 21.24751100,
-    "elevation": 739,
+    "latitude": 48.64944700,
+    "longitude": 21.23640600,
+    "elevation": 754,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 13.001
+    "bearing": 13.050
   },
   {
     "name": "ILS-cat-I",

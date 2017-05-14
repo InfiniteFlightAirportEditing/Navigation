@@ -71545,13 +71545,13 @@
     "airportICAO": "LZKZ",
     "identifier": "KE",
     "associatedRunwayNumber": "01",
-    "latitude": 48.65232200,
-    "longitude": 21.23573900,
-    "elevation": 739,
+    "latitude": 48.64944700,
+    "longitude": 48.64944700,
+    "elevation": 754,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 13.002,
-    "glideslope": 3.00013001
+    "bearing": 13.050,
+    "glideslope": 3.00013050
   },
   {
     "name": "GS",
