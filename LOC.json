@@ -63342,12 +63342,12 @@
     "airportICAO": "KLUK",
     "identifier": "ILUK",
     "associatedRunwayNumber": "21L",
-    "latitude": 39.09014200,
-    "longitude": -84.42076400,
-    "elevation": 480,
+    "latitude": 39.10834513,
+    "longitude": -84.40968514,
+    "elevation": 481,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 200.918
+    "bearing": 20.930 
   },
   {
     "name": "ILS-cat-I",

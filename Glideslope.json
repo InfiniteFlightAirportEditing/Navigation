@@ -59298,13 +59298,13 @@
     "airportICAO": "KLUK",
     "identifier": "ILUK",
     "associatedRunwayNumber": "21L",
-    "latitude": 39.10604400,
-    "longitude": -84.41141900,
-    "elevation": 474,
+    "latitude": 39.10834513,
+    "longitude": -84.40968514,
+    "elevation":  481,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 201.804,
-    "glideslope": 3.00200902
+    "bearing": 20.930,
+    "glideslope": 3.0020930 
   },
   {
     "name": "GS",
