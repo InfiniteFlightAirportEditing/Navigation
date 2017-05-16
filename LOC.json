@@ -64187,12 +64187,12 @@
     "airportICAO": "KMIA",
     "identifier": "IMFA",
     "associatedRunwayNumber": "08R",
-    "latitude": 25.80213600,
-    "longitude": -80.26668100,
-    "elevation": 11,
+    "latitude": 25.80069895,
+    "longitude": -80.30146923,
+    "elevation": 4,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 87.381
+    "bearing": 87.370
   },
   {
     "name": "ILS-cat-I",
@@ -64200,12 +64200,12 @@
     "airportICAO": "KMIA",
     "identifier": "IBUL",
     "associatedRunwayNumber": "09",
-    "latitude": 25.78782800,
-    "longitude": -80.27307800,
-    "elevation": 8,
+    "latitude": 25.78609412,
+    "longitude": -80.31492641,
+    "elevation": 4,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 87.367
+    "bearing": 87.370
   },
   {
     "name": "ILS-cat-I",
@@ -64213,12 +64213,12 @@
     "airportICAO": "KMIA",
     "identifier": "IGEM",
     "associatedRunwayNumber": "12",
-    "latitude": 25.78601100,
-    "longitude": -80.27633600,
-    "elevation": 8,
+    "latitude": 25.79929086,
+    "longitude": -80.30230337,
+    "elevation": 4,
     "frequency": 108900,
     "receptionRange": 18,
-    "bearing": 119.601
+    "bearing": 119.600
   },
   {
     "name": "ILS-cat-I",
@@ -64226,12 +64226,12 @@
     "airportICAO": "KMIA",
     "identifier": "IVIN",
     "associatedRunwayNumber": "26L",
-    "latitude": 25.80060000,
-    "longitude": -80.30382500,
-    "elevation": 7,
+    "latitude": 25.80201915,
+    "longitude": -80.26949637,
+    "elevation": 4,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 267.363
+    "bearing": 267.370
   },
   {
     "name": "ILS-cat-I",
@@ -64239,12 +64239,12 @@
     "airportICAO": "KMIA",
     "identifier": "IMIA",
     "associatedRunwayNumber": "27",
-    "latitude": 25.78596900,
-    "longitude": -80.31786700,
-    "elevation": 7,
+    "latitude": 25.78773388,
+    "longitude": -80.27531985,
+    "elevation": 4,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 267.356
+    "bearing": 267.370
   },
   {
     "name": "ILS-cat-I",
@@ -64252,12 +64252,12 @@
     "airportICAO": "KMIA",
     "identifier": "IDCX",
     "associatedRunwayNumber": "30",
-    "latitude": 25.79996413,
-    "longitude": -80.30361615,
-    "elevation": 8,
+    "latitude": 25.78661615,
+    "longitude": -80.27752621,
+    "elevation": 4,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 299.601
+    "bearing": 299.600
   },
   {
     "name": "ILS-cat-I",
@@ -89589,12 +89589,12 @@
     "airportICAO": "KMIA",
     "identifier": "IROY",
     "associatedRunwayNumber": "08L",
-    "latitude": 25.80410300,
-    "longitude": -80.27240300,
-    "elevation": 9,
+    "latitude": 25.80289579,
+    "longitude": -80.30157323,
+    "elevation": 4,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 87.374
+    "bearing": 87.360
   },
   {
     "name": "LOC",
@@ -89602,12 +89602,12 @@
     "airportICAO": "KMIA",
     "identifier": "ICNV",
     "associatedRunwayNumber": "26R",
-    "latitude": 25.80277200,
-    "longitude": -80.30456900,
-    "elevation": 9,
+    "latitude": 25.80398221,
+    "longitude": -80.27540165,
+    "elevation": 4,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 267.355
+    "bearing": 267.360
   },
   {
     "name": "LOC",
