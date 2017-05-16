@@ -75718,12 +75718,12 @@
     "airportICAO": "LZZI",
     "identifier": "ZNA",
     "associatedRunwayNumber": "06",
-    "latitude": 49.23558426,
-    "longitude": 18.62053299,
+    "latitude": 49.23121009,
+    "longitude": 18.60642088,
     "elevation": 1020,
     "frequency": 108150,
     "receptionRange": 30,
-    "bearing": 64.589
+    "bearing": 64.610
   },
   {
     "name": "ILS-cat-I",

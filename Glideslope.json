@@ -71597,13 +71597,13 @@
     "airportICAO": "LZZI",
     "identifier": "ZNA",
     "associatedRunwayNumber": "06",
-    "latitude": 49.23101807,
-    "longitude": 18.60733414,
+    "latitude": 49.23121009,
+    "longitude": 18.60642088,
     "elevation": 1020,
     "frequency": 108150,
     "receptionRange": 15,
-    "bearing": 61.000,
-    "glideslope": 3.00061
+    "bearing": 64.610,
+    "glideslope": 3.50064610
   },
   {
     "name": "GS",
