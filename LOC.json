@@ -57453,12 +57453,12 @@
     "airportICAO": "KCMH",
     "identifier": "ICBP",
     "associatedRunwayNumber": "10L",
-    "latitude": 40.00138900,
-    "longitude": -82.87556400,
-    "elevation": 799,
+    "latitude": 40.00320771,
+    "longitude": -82.90763900,
+    "elevation": 813,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 94.233
+    "bearing": 94.210
   },
   {
     "name": "ILS-cat-I",
@@ -57466,12 +57466,12 @@
     "airportICAO": "KCMH",
     "identifier": "IAQI",
     "associatedRunwayNumber": "10R",
-    "latitude": 39.99332800,
-    "longitude": -82.86931400,
-    "elevation": 815,
-    "frequency": 108700,
+    "latitude": 39.99365987,
+    "longitude": -82.90917764,
+    "elevation": 813,
+    "frequency": 111.750,
     "receptionRange": 18,
-    "bearing": 94.235
+    "bearing": 94.230
   },
   {
     "name": "ILS-cat-I",
@@ -57479,12 +57479,12 @@
     "airportICAO": "KCMH",
     "identifier": "ICMH",
     "associatedRunwayNumber": "28L",
-    "latitude": 39.99577200,
-    "longitude": -82.91256100,
-    "elevation": 804,
-    "frequency": 108700,
+    "latitude": 39.99162062,
+    "longitude": -82.87318917,
+    "elevation": 813,
+    "frequency": 111.750,
     "receptionRange": 18,
-    "bearing": 274.205
+    "bearing": 274.230
   },
   {
     "name": "ILS-cat-I",
@@ -57492,12 +57492,12 @@
     "airportICAO": "KCMH",
     "identifier": "IONB",
     "associatedRunwayNumber": "28R",
-    "latitude": 40.00340800,
-    "longitude": -82.91126700,
-    "elevation": 808,
+    "latitude": 40.00160189,
+    "longitude": -82.87916052,
+    "elevation": 813,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 274.212
+    "bearing": 274.210
   },
   {
     "name": "ILS-cat-I",
