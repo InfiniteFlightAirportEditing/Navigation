@@ -71610,13 +71610,13 @@
     "airportICAO": "LZSL",
     "identifier": "FS",
     "associatedRunwayNumber": "36",
-    "latitude": 48.62958300,
-    "longitude": 19.13178300,
+    "latitude": 48.62728705,
+    "longitude": 19.13360317,
     "elevation": 1042,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 2.870,
-    "glideslope": 3.50001935
+    "bearing": 1.920,
+    "glideslope": 3.50001920
   },
   {
     "name": "GS",

@@ -75731,12 +75731,12 @@
     "airportICAO": "LZSL",
     "identifier": "FS",
     "associatedRunwayNumber": "36",
-    "latitude": 48.65217800,
-    "longitude": 19.13484700,
+    "latitude": 48.62728705,
+    "longitude": 19.13360317,
     "elevation": 1042,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 1.944
+    "bearing": 1.920
   },
   {
     "name": "ILS-cat-I",
