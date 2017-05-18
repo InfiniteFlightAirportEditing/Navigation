@@ -52344,12 +52344,12 @@
     "airportICAO": "EPWR",
     "identifier": "WRO",
     "associatedRunwayNumber": "30",
-    "latitude": 51.11037200,
-    "longitude": 16.86069700,
-    "elevation": 404,
+    "latitude": 51.09894356,
+    "longitude": 16.89801053,
+    "elevation": 403,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 295.984
+    "bearing": 296.010
   },
   {
     "name": "ILS-cat-I",

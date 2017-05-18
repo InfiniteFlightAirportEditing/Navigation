@@ -48352,13 +48352,13 @@
     "airportICAO": "EPWR",
     "identifier": "WRO",
     "associatedRunwayNumber": "30",
-    "latitude": 51.09895300,
-    "longitude": 16.89308900,
-    "elevation": 404,
+    "latitude": 51.09894356,
+    "longitude": 16.89801053,
+    "elevation": 403,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 296.000,
-    "glideslope": 3.00296
+    "bearing": 296.010,
+    "glideslope": 3.00296010
   },
   {
     "name": "GS",
