@@ -76079,6 +76079,19 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "MPSM",
+    "identifier": "IRHT",
+    "associatedRunwayNumber": "35",
+    "latitude": 8.36975557,
+    "longitude": -80.13067107,
+    "elevation": 104,
+    "frequency": 116500,
+    "receptionRange": 18,
+    "bearing": 344.400
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "MPTO",
     "identifier": "INAT",
     "associatedRunwayNumber": "03R",
