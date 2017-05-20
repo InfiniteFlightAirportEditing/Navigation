@@ -81372,13 +81372,13 @@
     "type": 4,
     "airportICAO": "TFFF",
     "identifier": "FF",
-    "associatedRunwayNumber": "09",
-    "latitude": 14.59391100,
-    "longitude": -60.98651700,
+    "associatedRunwayNumber": "10",
+    "latitude": 14.58867221,
+    "longitude": -61.01690721,
     "elevation": 16,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 79.904
+    "bearing": 79.930
   },
   {
     "name": "ILS-cat-I",

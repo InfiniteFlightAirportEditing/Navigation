@@ -77316,14 +77316,14 @@
     "name": "GS",
     "airportICAO": "TFFF",
     "identifier": "FF",
-    "associatedRunwayNumber": "09",
-    "latitude": 14.59004400,
-    "longitude": -61.01546400,
+    "associatedRunwayNumber": "10",
+    "latitude": 14.58867221,
+    "longitude": -61.01690721,
     "elevation": 16,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 80.864,
-    "glideslope": 3.00079932
+    "bearing": 79.930,
+    "glideslope": 3.00079930
   },
   {
     "name": "GS",
