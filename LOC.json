@@ -74261,13 +74261,13 @@
     "type": 4,
     "airportICAO": "LJLJ",
     "identifier": "LJB",
-    "associatedRunwayNumber": "31",
-    "latitude": 46.23453900,
-    "longitude": 14.43638900,
-    "elevation": 1282,
+    "associatedRunwayNumber": "30",
+    "latitude": 46.21485435,
+    "longitude": 14.47486014,
+    "elevation": 1271,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 306.465
+    "bearing": 306.490
   },
   {
     "name": "ILS-cat-I",

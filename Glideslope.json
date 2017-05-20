@@ -70114,14 +70114,14 @@
     "name": "GS",
     "airportICAO": "LJLJ",
     "identifier": "LJB",
-    "associatedRunwayNumber": "31",
-    "latitude": 46.21567200,
-    "longitude": 14.47065000,
-    "elevation": 1198,
+    "associatedRunwayNumber": "30",
+    "latitude": 46.21485435,
+    "longitude": 14.47486014,
+    "elevation": 1271,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 306.958,
-    "glideslope": 3.00306479
+    "bearing": 306.490,
+    "glideslope": 3.00306490
   },
   {
     "name": "GS",
