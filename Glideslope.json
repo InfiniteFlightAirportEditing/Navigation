@@ -64629,65 +64629,65 @@
     "airportICAO": "KSLC",
     "identifier": "IMOY",
     "associatedRunwayNumber": "16L",
-    "latitude": 40.80494400,
-    "longitude": -111.97519400,
+    "latitude": 40.80746273,
+    "longitude": -111.97693495,
     "elevation": 4227,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 175.950,
-    "glideslope": 3.00174975
+    "bearing": 174.980,
+    "glideslope": 3.00174980 
   },
   {
     "name": "GS",
     "airportICAO": "KSLC",
     "identifier": "IUAT",
     "associatedRunwayNumber": "16R",
-    "latitude": 40.80480300,
-    "longitude": -112.00044400,
+    "latitude": 40.80777750,
+    "longitude": -111.99928630,
     "elevation": 4227,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 175.940,
-    "glideslope": 3.0017497
+    "bearing": 174.970,
+    "glideslope": 3.00174970 
   },
   {
     "name": "GS",
     "airportICAO": "KSLC",
     "identifier": "IBNT",
     "associatedRunwayNumber": "17",
-    "latitude": 40.79603600,
-    "longitude": -111.96387500,
-    "elevation": 4219,
+    "latitude": 40.79892205,
+    "longitude": -111.96207506,
+    "elevation": 4227,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 180.984,
-    "glideslope": 3.00179992
+    "bearing": 179.990,
+    "glideslope": 3.00179990 
   },
   {
     "name": "GS",
     "airportICAO": "KSLC",
     "identifier": "IUUH",
     "associatedRunwayNumber": "34L",
-    "latitude": 40.77743900,
-    "longitude": -111.99806700,
+    "latitude": 40.77498485,
+    "longitude": -111.99547480,
     "elevation": 4227,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 355.940,
-    "glideslope": 3.0035497
+    "bearing": 354.970,
+    "glideslope": 3.00354970
   },
   {
     "name": "GS",
     "airportICAO": "KSLC",
     "identifier": "ISLC",
     "associatedRunwayNumber": "34R",
-    "latitude": 40.77758900,
-    "longitude": -111.97202200,
-    "elevation": 4222,
+    "latitude": 40.77466985,
+    "longitude": -111.97312699,
+    "elevation": 4227,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 355.950,
-    "glideslope": 3.00354975
+    "bearing": 354.980,
+    "glideslope": 3.00354980
   },
   {
     "name": "GS",
@@ -64696,11 +64696,11 @@
     "associatedRunwayNumber": "35",
     "latitude": 40.77642500,
     "longitude": -111.96351100,
-    "elevation": 4222,
-    "frequency": 110100,
+    "elevation": 4227,
+    "frequency": 111.500,
     "receptionRange": 10,
-    "bearing": 360.984,
-    "glideslope": 3.00359992
+    "bearing": 359.990,
+    "glideslope": 3.00359990
   },
   {
     "name": "GS",

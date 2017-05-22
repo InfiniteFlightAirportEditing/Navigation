@@ -68711,12 +68711,12 @@
     "airportICAO": "KSLC",
     "identifier": "IMOY",
     "associatedRunwayNumber": "16L",
-    "latitude": 40.77180300,
-    "longitude": -111.97279400,
+    "latitude": 40.80746273,
+    "longitude": -111.97693495,
     "elevation": 4227,
     "frequency": 109500,
     "receptionRange": 35,
-    "bearing": 174.975
+    "bearing": 174.980
   },
   {
     "name": "ILS-cat-III",
@@ -68724,8 +68724,8 @@
     "airportICAO": "KSLC",
     "identifier": "IUAT",
     "associatedRunwayNumber": "16R",
-    "latitude": 40.77220300,
-    "longitude": -111.99514400,
+    "latitude": 40.80777750,
+    "longitude": -111.99928630,
     "elevation": 4227,
     "frequency": 111900,
     "receptionRange": 35,
@@ -68737,12 +68737,12 @@
     "airportICAO": "KSLC",
     "identifier": "IBNT",
     "associatedRunwayNumber": "17",
-    "latitude": 40.76946100,
-    "longitude": -111.96206700,
+    "latitude": 40.79892205,
+    "longitude": -111.96207506,
     "elevation": 4227,
     "frequency": 111500,
     "receptionRange": 35,
-    "bearing": 179.992
+    "bearing": 179.990
   },
   {
     "name": "ILS-cat-III",
@@ -68750,12 +68750,12 @@
     "airportICAO": "KSLC",
     "identifier": "IUUH",
     "associatedRunwayNumber": "34L",
-    "latitude": 40.81023900,
-    "longitude": -112.00037800,
+    "latitude": 40.77498485,
+    "longitude": -111.99547480,
     "elevation": 4227,
     "frequency": 111900,
     "receptionRange": 35,
-    "bearing": 353.983
+    "bearing": 354.970
   },
   {
     "name": "ILS-cat-III",
@@ -68763,25 +68763,12 @@
     "airportICAO": "KSLC",
     "identifier": "ISLC",
     "associatedRunwayNumber": "34R",
-    "latitude": 40.81018100,
-    "longitude": -111.97725300,
+    "latitude": 40.77466985,
+    "longitude": -111.97312699,
     "elevation": 4227,
     "frequency": 109500,
     "receptionRange": 35,
-    "bearing": 354.975
-  },
-  {
-    "name": "ILS-cat-I",
-    "type": 4,
-    "airportICAO": "KSLC",
-    "identifier": "IUTJ",
-    "associatedRunwayNumber": "35",
-    "latitude": 40.80173900,
-    "longitude": -111.96207200,
-    "elevation": 4227,
-    "frequency": 110100,
-    "receptionRange": 35,
-    "bearing": 359.992
+    "bearing": 354.980
   },
   {
     "name": "ILS-cat-I",
