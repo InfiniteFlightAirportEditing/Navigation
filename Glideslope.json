@@ -35572,13 +35572,13 @@
     "airportICAO": "TBPB",
     "identifier": "IBGI",
     "associatedRunwayNumber": "09",
-    "latitude": 13.07051373,
-    "longitude": -59.50403214,
+    "latitude": 13.07093205,
+    "longitude": -59.50709308,
     "elevation": 168,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 76.688,
-    "glideslope": 3.00075844
+    "bearing": 75.850,
+    "glideslope": 3.00075850
   },
   {
     "name": "GS",

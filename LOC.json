@@ -81347,12 +81347,12 @@
     "airportICAO": "TBPB",
     "identifier": "IBGI",
     "associatedRunwayNumber": "09",
-    "latitude": 13.07875000,
-    "longitude": -59.47506700,
+    "latitude": 13.07093205,
+    "longitude": -59.50709308,
     "elevation": 168,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 75.973
+    "bearing": 75.850
   },
   {
     "name": "ILS-cat-I",
