@@ -56465,12 +56465,12 @@
     "airportICAO": "KBOS",
     "identifier": "IBOS",
     "associatedRunwayNumber": "04R",
-    "latitude": 42.38221500,
-    "longitude": -70.99672000,
-    "elevation": 18,
+    "latitude": 42.35107275,
+    "longitude": -71.01179574,
+    "elevation": 20,
     "frequency": 110300,
     "receptionRange": 40,
-    "bearing": 19.682
+    "bearing": 19.680
   },
   {
     "name": "ILS-cat-I",
@@ -56478,12 +56478,12 @@
     "airportICAO": "KBOS",
     "identifier": "IMDC",
     "associatedRunwayNumber": "15R",
-    "latitude": 42.35731100,
-    "longitude": -70.99361900,
-    "elevation": 10,
+    "latitude": 42.37428791,
+    "longitude": -71.01790150,
+    "elevation": 20,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 133.408
+    "bearing": 135.280
   },
   {
     "name": "ILS-cat-I",
@@ -56491,12 +56491,12 @@
     "airportICAO": "KBOS",
     "identifier": "ILQN",
     "associatedRunwayNumber": "22L",
-    "latitude": 42.35003800,
-    "longitude": -71.01228800,
-    "elevation": 19,
+    "latitude": 42.37691628,
+    "longitude": -70.99928539,
+    "elevation": 20,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 199.663
+    "bearing": 199.680
   },
   {
     "name": "ILS-cat-I",
@@ -56504,12 +56504,12 @@
     "airportICAO": "KBOS",
     "identifier": "IDGU",
     "associatedRunwayNumber": "27",
-    "latitude": 42.35512700,
-    "longitude": -71.01639500,
-    "elevation": 18,
+    "latitude": 42.36023103,
+    "longitude": -70.98766253,
+    "elevation": 20,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 256.514
+    "bearing": 256.520
   },
   {
     "name": "ILS-cat-I",
@@ -56517,12 +56517,12 @@
     "airportICAO": "KBOS",
     "identifier": "ILIP",
     "associatedRunwayNumber": "33L",
-    "latitude": 42.37710200,
-    "longitude": -71.02169100,
-    "elevation": 19,
+    "latitude": 42.35463826,
+    "longitude": -70.99156109,
+    "elevation": 20,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 315.261
+    "bearing": 315.280
   },
   {
     "name": "ILS-cat-I",
