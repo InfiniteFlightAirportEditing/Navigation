@@ -67151,12 +67151,12 @@
     "airportICAO": "KPVD",
     "identifier": "IPVD",
     "associatedRunwayNumber": "05",
-    "latitude": 41.73186700,
-    "longitude": -71.41981100,
-    "elevation": 47,
+    "latitude": 41.71383542,
+    "longitude": -71.43495679,
+    "elevation": 55.1,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 32.077
+    "bearing": 32.080
   },
   {
     "name": "ILS-cat-I",
@@ -67164,12 +67164,12 @@
     "airportICAO": "KPVD",
     "identifier": "IARJ",
     "associatedRunwayNumber": "23",
-    "latitude": 41.71161900,
-    "longitude": -71.43680800,
-    "elevation": 49,
+    "latitude": 41.73048853,
+    "longitude": -71.42097304,
+    "elevation": 55.1,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 212.062
+    "bearing": 212.080
   },
   {
     "name": "ILS-cat-I",
@@ -67177,12 +67177,12 @@
     "airportICAO": "KPVD",
     "identifier": "IUNQ",
     "associatedRunwayNumber": "34",
-    "latitude": 41.73231900,
-    "longitude": -71.43287800,
-    "elevation": 54,
+    "latitude": 41.71857191,
+    "longitude": -71.41831835,
+    "elevation": 55.1,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 321.683
+    "bearing": 321.690
   },
   {
     "name": "ILS-cat-I",
