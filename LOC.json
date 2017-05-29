@@ -67153,7 +67153,7 @@
     "associatedRunwayNumber": "05",
     "latitude": 41.71383542,
     "longitude": -71.43495679,
-    "elevation": 55.1,
+    "elevation": 55,
     "frequency": 109300,
     "receptionRange": 18,
     "bearing": 32.080
@@ -67166,7 +67166,7 @@
     "associatedRunwayNumber": "23",
     "latitude": 41.73048853,
     "longitude": -71.42097304,
-    "elevation": 55.1,
+    "elevation": 55,
     "frequency": 109300,
     "receptionRange": 18,
     "bearing": 212.080
@@ -67179,7 +67179,7 @@
     "associatedRunwayNumber": "34",
     "latitude": 41.71857191,
     "longitude": -71.41831835,
-    "elevation": 55.1,
+    "elevation": 55,
     "frequency": 111500,
     "receptionRange": 18,
     "bearing": 321.690
