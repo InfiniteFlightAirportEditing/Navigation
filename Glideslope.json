@@ -66501,13 +66501,13 @@
     "airportICAO": "KZZV",
     "identifier": "ITNF",
     "associatedRunwayNumber": "22",
-    "latitude": 39.94831100,
-    "longitude": -81.88690800,
-    "elevation": 872,
+    "latitude": 39.95045300,
+    "longitude": -81.88592200,
+    "elevation": 896,
     "frequency": 109950,
     "receptionRange": 10,
-    "bearing": 214.462,
-    "glideslope": 3.00213731
+    "bearing": 213.730,
+    "glideslope": 3.00213730
   },
   {
     "name": "GS",

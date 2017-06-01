@@ -70570,12 +70570,12 @@
     "airportICAO": "KZZV",
     "identifier": "ITNF",
     "associatedRunwayNumber": "22",
-    "latitude": 39.93674700,
-    "longitude": -81.89785800,
-    "elevation": 875,
+    "latitude": 39.95045300,
+    "longitude": -81.88592200,
+    "elevation": 896,
     "frequency": 109950,
     "receptionRange": 18,
-    "bearing": 213.731
+    "bearing": 213.730
   },
   {
     "name": "ILS-cat-I",
