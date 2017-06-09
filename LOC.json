@@ -74405,12 +74405,12 @@
     "airportICAO": "LKVO",
     "identifier": "VO",
     "associatedRunwayNumber": "28",
-    "latitude": 50.22007908,
-    "longitude": 14.37678990,
-    "elevation": 919,
+    "latitude": 50.21379401,
+    "longitude": 14.41247871,
+    "elevation": 918,
     "frequency": 110750,
     "receptionRange": 18,
-    "bearing": 285.394
+    "bearing": 284.920
   },
   {
     "name": "ILS-cat-I",
