@@ -71597,13 +71597,13 @@
     "airportICAO": "LZPP",
     "identifier": "CN",
     "associatedRunwayNumber": "01",
-    "latitude": 48.61862200,
-    "longitude": 17.82787800,
-    "elevation": 535,
+    "latitude": 48.61635800,
+    "longitude": 17.82539542,
+    "elevation": 544,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 14.430,
-    "glideslope": 3.00013715
+    "bearing": 13.590,
+    "glideslope": 3.00013590
   },
   {
     "name": "GS",

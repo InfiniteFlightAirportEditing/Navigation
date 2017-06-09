@@ -75705,12 +75705,12 @@
     "airportICAO": "LZPP",
     "identifier": "CN",
     "associatedRunwayNumber": "01",
-    "latitude": 48.63647500,
-    "longitude": 17.83273300,
-    "elevation": 535,
+    "latitude": 48.61635800,
+    "longitude": 17.82539542,
+    "elevation": 544,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 13.975
+    "bearing": 13.590
   },
   {
     "name": "ILS-cat-I",
