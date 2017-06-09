@@ -48246,15 +48246,15 @@
   {
     "name": "GS",
     "airportICAO": "EPKT",
-    "identifier": "KAT",
+    "identifier": "IKTO",
     "associatedRunwayNumber": "27",
-    "latitude": 50.47557800,
-    "longitude": 19.08914700,
+    "latitude": 50.47421274,
+    "longitude": 19.09698043,
     "elevation": 995,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 270.400,
-    "glideslope": 3.202702
+    "bearing": 270.200,
+    "glideslope": 3.00270200
   },
   {
     "name": "GS",

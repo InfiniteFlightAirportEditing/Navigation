@@ -52238,14 +52238,14 @@
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "EPKT",
-    "identifier": "KAT",
+    "identifier": "IKTO",
     "associatedRunwayNumber": "27",
-    "latitude": 50.47431700,
-    "longitude": 19.04901100,
+    "latitude": 50.47421274,
+    "longitude": 19.09698043,
     "elevation": 995,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 270.178
+    "bearing": 270.200
   },
   {
     "name": "ILS-cat-I",
