@@ -50563,12 +50563,12 @@
     "airportICAO": "EGTK",
     "identifier": "IOXF",
     "associatedRunwayNumber": "19",
-    "latitude": 51.82871841,
-    "longitude": -1.32246641,
+    "latitude": 51.84335664,
+    "longitude": -1.31799375,
     "elevation": 270,
     "frequency": 108350,
     "receptionRange": 18,
-    "bearing": 190.662
+    "bearing": 190.660
   },
   {
     "name": "ILS-cat-I",

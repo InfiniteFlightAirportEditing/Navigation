@@ -46610,13 +46610,13 @@
     "airportICAO": "EGTK",
     "identifier": "IOXF",
     "associatedRunwayNumber": "19",
-    "latitude": 51.83993901,
-    "longitude": -1.31769198,
+    "latitude": 51.84335664,
+    "longitude": -1.31799375,
     "elevation": 270,
     "frequency": 108350,
     "receptionRange": 10,
-    "bearing": 191.324,
-    "glideslope": 3.00190662
+    "bearing": 190.660,
+    "glideslope": 3.00190660
   },
   {
     "name": "GS",
