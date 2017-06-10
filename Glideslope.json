@@ -70257,14 +70257,14 @@
     "name": "GS",
     "airportICAO": "LKTB",
     "identifier": "BO",
-    "associatedRunwayNumber": "28",
-    "latitude": 49.14868100,
-    "longitude": 16.70761400,
-    "elevation": 771,
+    "associatedRunwayNumber": "27",
+    "latitude": 49.14975522,
+    "longitude": 16.71190535,
+    "elevation": 776,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 278.066,
-    "glideslope": 3.00277533
+    "bearing": 277.530,
+    "glideslope": 3.00277530
   },
   {
     "name": "GS",

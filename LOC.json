@@ -74391,13 +74391,13 @@
     "type": 4,
     "airportICAO": "LKTB",
     "identifier": "BO",
-    "associatedRunwayNumber": "28",
-    "latitude": 49.15331100,
-    "longitude": 16.67075800,
-    "elevation": 771,
+    "associatedRunwayNumber": "27",
+    "latitude": 49.14975522,
+    "longitude": 16.71190535,
+    "elevation": 776,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 277.511
+    "bearing": 277.530
   },
   {
     "name": "ILS-cat-I",
