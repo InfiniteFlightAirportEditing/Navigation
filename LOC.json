@@ -75702,6 +75702,19 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "LZMC",
+    "identifier": "RP",
+    "associatedRunwayNumber": "20",
+    "latitude": 48.41269480,
+    "longitude": 17.12339211,
+    "elevation": 679,
+    "frequency": 111550,
+    "receptionRange": 18,
+    "bearing": 197.370
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "LZPP",
     "identifier": "CN",
     "associatedRunwayNumber": "01",

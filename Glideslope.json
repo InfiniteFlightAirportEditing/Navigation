@@ -71594,6 +71594,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "LZMC",
+    "identifier": "RP",
+    "associatedRunwayNumber": "20",
+    "latitude": 48.41269480,
+    "longitude": 17.12339211,
+    "elevation": 679,
+    "frequency": 111550,
+    "receptionRange": 10,
+    "bearing": 197.370,
+    "glideslope": 2.75197370
+  },
+  {
+    "name": "GS",
     "airportICAO": "LZPP",
     "identifier": "CN",
     "associatedRunwayNumber": "01",
