@@ -64187,12 +64187,12 @@
     "airportICAO": "KMHT",
     "identifier": "IMJE",
     "associatedRunwayNumber": "06",
-    "latitude": 42.94486700,
-    "longitude": -71.42844400,
-    "elevation": 248,
+    "latitude": 42.92828714,
+    "longitude": -71.44906985,
+    "elevation": 266,
     "frequency": 109950,
     "receptionRange": 18,
-    "bearing": 42.340
+    "bearing": 42.330
   },
   {
     "name": "ILS-cat-I",
@@ -64200,12 +64200,12 @@
     "airportICAO": "KMHT",
     "identifier": "IMNA",
     "associatedRunwayNumber": "17",
-    "latitude": 42.91595300,
-    "longitude": -71.42431100,
-    "elevation": 277,
+    "latitude": 42.94177716,
+    "longitude": -71.43956372,
+    "elevation": 266,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 156.574
+    "bearing": 156.620
   },
   {
     "name": "ILS-cat-I",
@@ -64213,12 +64213,12 @@
     "airportICAO": "KMHT",
     "identifier": "IMHT",
     "associatedRunwayNumber": "35",
-    "latitude": 42.94542200,
-    "longitude": -71.44173100,
-    "elevation": 216,
+    "latitude": 42.91849143,
+    "longitude": -71.42581035,
+    "elevation": 266,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 336.625
+    "bearing": 336.620
   },
   {
     "name": "ILS-cat-I",
