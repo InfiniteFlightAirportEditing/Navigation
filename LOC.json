@@ -55815,38 +55815,38 @@
     "airportICAO": "KBDL",
     "identifier": "IBDL",
     "associatedRunwayNumber": "06",
-    "latitude": 41.95495800,
-    "longitude": -72.66650300,
-    "elevation": 149,
+    "latitude": 41.93200353,
+    "longitude": -72.69661057,
+    "elevation": 173,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 44.287
+    "bearing": 44.290
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "KBDL",
-    "identifier": "IMYG",
+    "identifier": "IMYQ",
     "associatedRunwayNumber": "24",
-    "latitude": 41.92990600,
-    "longitude": -72.69934200,
-    "elevation": 170,
+    "latitude": 41.95067854,
+    "longitude": -72.67212261,
+    "elevation": 173,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 224.266
+    "bearing": 224.290
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "KBDL",
-    "identifier": "IIKK",
+    "identifier": "IIKX",
     "associatedRunwayNumber": "33",
-    "latitude": 41.94435000,
-    "longitude": -72.69592500,
-    "elevation": 168,
+    "latitude": 41.92924805,
+    "longitude": -72.67525302,
+    "elevation": 173,
     "frequency": 108550,
     "receptionRange": 18,
-    "bearing": 314.484
+    "bearing": 314.490
   },
   {
     "name": "ILS-cat-I",
