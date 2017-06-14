@@ -3588,7 +3588,47 @@
     "latitude": 50.36294556, 
     "identifier": "YDR", 
     "slavedVariation": 7.0
-  }, 
+  },
+  {
+    "receptionRange": 130, 
+    "elevation": 103, 
+    "name": "FLORENCE", 
+    "longitude": -79.657161, 
+    "frequency": 1152000, 
+    "latitude": 34.232969, 
+    "identifier": "FLO", 
+    "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130, 
+    "elevation": 827, 
+    "name": "LIBERTY", 
+    "longitude": -79.612592, 
+    "frequency": 1130000, 
+    "latitude": 35.811622, 
+    "identifier": "LIB", 
+    "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130, 
+    "elevation": 566, 
+    "name": "NASHVILLE", 
+    "longitude": -86.684772, 
+    "frequency": 1141000, 
+    "latitude": 36.136961, 
+    "identifier": "BNA", 
+    "slavedVariation": 2.0
+  },
+  {
+    "receptionRange": 130, 
+    "elevation": 3071, 
+    "name": "ROANOKE", 
+    "longitude": -80.070397, 
+    "frequency": 1094000, 
+    "latitude": 37.343464, 
+    "identifier": "ROA", 
+    "slavedVariation": 4.0
+  },  
   {
     "receptionRange": 40, 
     "elevation": 1050, 
