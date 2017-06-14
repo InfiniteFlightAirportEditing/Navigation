@@ -57868,13 +57868,13 @@
     "airportICAO": "KIMT",
     "identifier": "IIMT",
     "associatedRunwayNumber": "01",
-    "latitude": 45.81326700,
-    "longitude": -88.11302800,
-    "elevation": 1130,
+    "latitude": 45.81051840,
+    "longitude": -88.11515103,
+    "elevation": 1182,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 8.294,
-    "glideslope": 2.98007647
+    "bearing": 7.660,
+    "glideslope": 2.98007660
   },
   {
     "name": "GS",

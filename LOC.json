@@ -61912,12 +61912,12 @@
     "airportICAO": "KIMT",
     "identifier": "IIMT",
     "associatedRunwayNumber": "01",
-    "latitude": 45.83253100,
-    "longitude": -88.11090000,
+    "latitude": 45.81051840,
+    "longitude": -88.11515103,
     "elevation": 1182,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 7.647
+    "bearing": 7.660
   },
   {
     "name": "ILS-cat-I",
