@@ -76055,14 +76055,14 @@
     "name": "GS",
     "airportICAO": "SANT",
     "identifier": "TU",
-    "associatedRunwayNumber": "01",
-    "latitude": -26.85105600,
-    "longitude": -65.10547200,
-    "elevation": 1496,
+    "associatedRunwayNumber": "02",
+    "latitude": -26.85372138,
+    "longitude": -65.10730002,
+    "elevation": 1494,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 10.598,
-    "glideslope": 3.00009799
+    "bearing": 9.720,
+    "glideslope": 3.00009720
   },
   {
     "name": "GS",

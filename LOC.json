@@ -80098,13 +80098,13 @@
     "type": 4,
     "airportICAO": "SANT",
     "identifier": "TU",
-    "associatedRunwayNumber": "01",
-    "latitude": -26.82583300,
-    "longitude": -65.10191700,
-    "elevation": 1439,
+    "associatedRunwayNumber": "02",
+    "latitude": -26.85372138,
+    "longitude": -65.10730002,
+    "elevation": 1494,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 9.416
+    "bearing": 9.720
   },
   {
     "name": "ILS-cat-I",
