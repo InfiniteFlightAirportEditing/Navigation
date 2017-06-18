@@ -49860,13 +49860,13 @@
     "airportICAO": "FNLU",
     "identifier": "ILD",
     "associatedRunwayNumber": "23",
-    "latitude": -8.85743192,
-    "longitude": 13.23598130,
+    "latitude": -8.85395850,
+    "longitude": 13.23832733,
     "elevation": 243,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 227.246,
-    "glideslope": 3.00226623
+    "bearing": 226.590,
+    "glideslope": 3.00226590
   },
   {
     "name": "GS",

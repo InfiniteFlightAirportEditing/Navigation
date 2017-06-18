@@ -53852,12 +53852,12 @@
     "airportICAO": "FNLU",
     "identifier": "ILD",
     "associatedRunwayNumber": "23",
-    "latitude": -8.87791428,
-    "longitude": 13.21283030,
+    "latitude": -8.85395850,
+    "longitude": 13.23832733,
     "elevation": 243,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 226.623
+    "bearing": 226.590
   },
   {
     "name": "ILS-cat-II",
