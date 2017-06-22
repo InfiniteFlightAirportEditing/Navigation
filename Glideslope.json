@@ -76693,13 +76693,13 @@
     "airportICAO": "SCCI",
     "identifier": "INAS",
     "associatedRunwayNumber": "25",
-    "latitude": -52.99750137,
-    "longitude": -70.83750153,
+    "latitude": -53.00060799,
+    "longitude": -70.83379865,
     "elevation": 139,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 255.000,
-    "glideslope": 2.70255
+    "bearing": 268.780,
+    "glideslope": 3.00268780
   },
   {
     "name": "GS",

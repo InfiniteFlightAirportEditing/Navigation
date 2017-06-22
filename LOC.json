@@ -80723,12 +80723,12 @@
     "airportICAO": "SCCI",
     "identifier": "INAS",
     "associatedRunwayNumber": "25",
-    "latitude": -53.00455093,
-    "longitude": -70.87733459,
+    "latitude": -53.00060799,
+    "longitude": -70.83379865,
     "elevation": 139,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 255.079
+    "bearing": 268.780
   },
   {
     "name": "ILS-cat-I",
