@@ -76303,13 +76303,13 @@
     "airportICAO": "SAZS",
     "identifier": "BR",
     "associatedRunwayNumber": "29",
-    "latitude": -41.15538900,
-    "longitude": -71.14905600,
-    "elevation": 2776,
+    "latitude": -41.15548362,
+    "longitude": -71.14513568,
+    "elevation": 2775,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 295.378,
-    "glideslope": 3.00294689
+    "bearing": 294.810,
+    "glideslope": 3.00294810
   },
   {
     "name": "GS",

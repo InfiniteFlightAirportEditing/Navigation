@@ -80333,12 +80333,12 @@
     "airportICAO": "SAZS",
     "identifier": "BR",
     "associatedRunwayNumber": "29",
-    "latitude": -41.14555600,
-    "longitude": -71.17363900,
-    "elevation": 2776,
+    "latitude": -41.15548362,
+    "longitude": -71.14513568,
+    "elevation": 2775,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 294.794
+    "bearing": 294.810
   },
   {
     "name": "ILS-cat-I",
