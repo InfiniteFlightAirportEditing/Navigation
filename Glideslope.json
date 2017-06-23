@@ -76160,13 +76160,13 @@
     "airportICAO": "SASA",
     "identifier": "SA",
     "associatedRunwayNumber": "02",
-    "latitude": -24.87107500,
-    "longitude": -65.49093100,
-    "elevation": 4088,
+    "latitude": -24.87284313,
+    "longitude": -65.48993822,
+    "elevation": 4087,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 11.454,
-    "glideslope": 3.00011227
+    "bearing": 11.230,
+    "glideslope": 3.00011230
   },
   {
     "name": "GS",

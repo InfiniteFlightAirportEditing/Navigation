@@ -80203,12 +80203,12 @@
     "airportICAO": "SASA",
     "identifier": "SA",
     "associatedRunwayNumber": "02",
-    "latitude": -24.84465300,
-    "longitude": -65.48388300,
-    "elevation": 4088,
+    "latitude": -24.87284313,
+    "longitude": -65.48993822,
+    "elevation": 4087,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 11.027
+    "bearing": 11.230
   },
   {
     "name": "ILS-cat-I",
