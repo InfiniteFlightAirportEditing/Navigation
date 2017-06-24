@@ -77160,14 +77160,14 @@
     "name": "GS",
     "airportICAO": "SPQU",
     "identifier": "IARB",
-    "associatedRunwayNumber": "09",
-    "latitude": -16.34094400,
-    "longitude": -71.58261100,
+    "associatedRunwayNumber": "10",
+    "latitude": -16.33983712,
+    "longitude": -71.58475446,
     "elevation": 8405,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 93.334,
-    "glideslope": 3.00093167
+    "bearing": 93.170,
+    "glideslope": 3.00093170
   },
   {
     "name": "GS",

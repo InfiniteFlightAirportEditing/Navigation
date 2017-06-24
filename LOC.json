@@ -81203,13 +81203,13 @@
     "type": 4,
     "airportICAO": "SPQU",
     "identifier": "IARB",
-    "associatedRunwayNumber": "09",
-    "latitude": -16.34144400,
-    "longitude": -71.55451400,
+    "associatedRunwayNumber": "10",
+    "latitude": -16.33983712,
+    "longitude": -71.58475446,
     "elevation": 8405,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 93.167
+    "bearing": 93.170
   },
   {
     "name": "ILS-cat-I",
