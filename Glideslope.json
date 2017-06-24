@@ -67905,13 +67905,13 @@
     "airportICAO": "LFKF",
     "identifier": "GR",
     "associatedRunwayNumber": "23",
-    "latitude": 41.50871400,
-    "longitude": 9.10450500,
-    "elevation": 87,
+    "latitude": 41.50981325,
+    "longitude": 9.10794456,
+    "elevation": 86,
     "frequency": 110500,
     "receptionRange": 27,
-    "bearing": 229.000,
-    "glideslope": 3.50229
+    "bearing": 227.440,
+    "glideslope": 3.50227440
   },
   {
     "name": "GS",

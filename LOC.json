@@ -71987,12 +71987,12 @@
     "airportICAO": "LFKF",
     "identifier": "GR",
     "associatedRunwayNumber": "23",
-    "latitude": 41.49476100,
-    "longitude": 9.08475500,
-    "elevation": 87,
+    "latitude": 41.50981325,
+    "longitude": 9.10794456,
+    "elevation": 86,
     "frequency": 110500,
     "receptionRange": 27,
-    "bearing": 229.000
+    "bearing": 227.440
   },
   {
     "name": "ILS-cat-I",
