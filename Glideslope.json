@@ -55255,26 +55255,26 @@
     "airportICAO": "KELM",
     "identifier": "IUEK",
     "associatedRunwayNumber": "06",
-    "latitude": 42.15710600,
-    "longitude": -76.89938600,
-    "elevation": 938,
+    "latitude": 42.15361380,
+    "longitude": -76.90334719,
+    "elevation": 954,
     "frequency": 109100,
     "receptionRange": 10,
-    "bearing": 50.580,
-    "glideslope": 3.0005029
+    "bearing": 50.310,
+    "glideslope": 3.00050310
   },
   {
     "name": "GS",
     "airportICAO": "KELM",
     "identifier": "IELM",
     "associatedRunwayNumber": "24",
-    "latitude": 42.16543100,
-    "longitude": -76.88559700,
-    "elevation": 949,
+    "latitude": 42.16690812,
+    "longitude": -76.88173730,
+    "elevation": 954,
     "frequency": 109100,
     "receptionRange": 10,
-    "bearing": 230.580,
-    "glideslope": 3.0023029
+    "bearing": 230.310,
+    "glideslope": 3.00230310
   },
   {
     "name": "GS",

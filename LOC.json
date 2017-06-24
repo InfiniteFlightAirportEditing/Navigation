@@ -59247,12 +59247,12 @@
     "airportICAO": "KELM",
     "identifier": "IUEK",
     "associatedRunwayNumber": "06",
-    "latitude": 42.16786900,
-    "longitude": -76.88019400,
+    "latitude": 42.15361380,
+    "longitude": -76.90334719,
     "elevation": 954,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 50.299
+    "bearing": 50.310
   },
   {
     "name": "ILS-cat-I",
@@ -59260,12 +59260,12 @@
     "airportICAO": "KELM",
     "identifier": "IELM",
     "associatedRunwayNumber": "24",
-    "latitude": 42.15296100,
-    "longitude": -76.90441100,
+    "latitude": 42.16690812,
+    "longitude": -76.88173730,
     "elevation": 954,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 230.282
+    "bearing": 230.310
   },
   {
     "name": "ILS-cat-I",
