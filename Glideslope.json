@@ -70791,13 +70791,13 @@
     "airportICAO": "LRSB",
     "identifier": "ISB",
     "associatedRunwayNumber": "27",
-    "latitude": 45.78461838,
-    "longitude": 24.09828377,
-    "elevation": 1495,
+    "latitude": 45.78561048,
+    "longitude": 24.10254955,
+    "elevation": 1496,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 272.000,
-    "glideslope": 3.00272
+    "bearing": 271.340,
+    "glideslope": 3.00271340
   },
   {
     "name": "GS",

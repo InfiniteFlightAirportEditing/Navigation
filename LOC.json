@@ -74925,12 +74925,12 @@
     "airportICAO": "LRSB",
     "identifier": "ISB",
     "associatedRunwayNumber": "27",
-    "latitude": 45.78613281,
-    "longitude": 24.06299973,
-    "elevation": 1495,
+    "latitude": 45.78561048,
+    "longitude": 24.10254955,
+    "elevation": 1496,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 271.239
+    "bearing": 271.340
   },
   {
     "name": "ILS-cat-I",
