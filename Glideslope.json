@@ -75016,13 +75016,13 @@
     "airportICAO": "RJOK",
     "identifier": "IKR",
     "associatedRunwayNumber": "32",
-    "latitude": 33.53955800,
+    "latitude": 33.53869723,
     "longitude": 133.67646100,
-    "elevation": 51,
+    "elevation": 41,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 311.270,
-    "glideslope": 3.00310635
+    "bearing": 310.640,
+    "glideslope": 3.00310640
   },
   {
     "name": "GS",

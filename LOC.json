@@ -79059,12 +79059,12 @@
     "airportICAO": "RJOK",
     "identifier": "IKR",
     "associatedRunwayNumber": "32",
-    "latitude": 33.55469400,
-    "longitude": 133.65728900,
-    "elevation": 35,
+    "latitude": 33.53869723,
+    "longitude": 133.67963733,
+    "elevation": 41,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 310.649
+    "bearing": 310.640
   },
   {
     "name": "ILS-cat-I",
