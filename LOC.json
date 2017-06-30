@@ -74274,13 +74274,13 @@
     "type": 4,
     "airportICAO": "LKKB",
     "identifier": "KD",
-    "associatedRunwayNumber": "24R",
-    "latitude": 50.11601900,
-    "longitude": 14.52777500,
-    "elevation": 916,
+    "associatedRunwayNumber": "24",
+    "latitude": 50.12553900,
+    "longitude": 14.55604929,
+    "elevation": 938,
     "frequency": 108350,
     "receptionRange": 18,
-    "bearing": 242.311
+    "bearing": 242.310
   },
   {
     "name": "ILS-cat-I",
