@@ -46363,26 +46363,26 @@
     "airportICAO": "EGPF",
     "identifier": "IUU",
     "associatedRunwayNumber": "05",
-    "latitude": 55.86657800,
-    "longitude": -4.44680000,
-    "elevation": 52,
+    "latitude": 55.86257662,
+    "longitude": -4.45087084,
+    "elevation": 24,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 46.712,
-    "glideslope": 3.00046356
+    "bearing": 46.430,
+    "glideslope": 3.00046430
   },
   {
     "name": "GS",
     "airportICAO": "EGPF",
     "identifier": "IOO",
     "associatedRunwayNumber": "23",
-    "latitude": 55.87724700,
-    "longitude": -4.42679200,
-    "elevation": 50,
+    "latitude": 55.87995149,
+    "longitude": -4.41832122,
+    "elevation": 24,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 226.712,
-    "glideslope": 3.00226356
+    "bearing": 226.430,
+    "glideslope": 3.00226430
   },
   {
     "name": "GS",

@@ -50316,12 +50316,12 @@
     "airportICAO": "EGPF",
     "identifier": "IUU",
     "associatedRunwayNumber": "05",
-    "latitude": 55.88094400,
-    "longitude": -4.41642500,
-    "elevation": 26,
+    "latitude": 55.86257662,
+    "longitude": -4.45087084,
+    "elevation": 24,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 46.369
+    "bearing": 46.430
   },
   {
     "name": "ILS-cat-I",
@@ -50329,12 +50329,12 @@
     "airportICAO": "EGPF",
     "identifier": "IOO",
     "associatedRunwayNumber": "23",
-    "latitude": 55.86063600,
-    "longitude": -4.45436400,
-    "elevation": 26,
+    "latitude": 55.87995149,
+    "longitude": -4.41832122,
+    "elevation": 24,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 226.333
+    "bearing": 226.430
   },
   {
     "name": "ILS-cat-I",
