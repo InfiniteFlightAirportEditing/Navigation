@@ -50368,12 +50368,12 @@
     "airportICAO": "EGPK",
     "identifier": "IPP",
     "associatedRunwayNumber": "12",
-    "latitude": 55.50006400,
-    "longitude": -4.56761400,
-    "elevation": 66,
+    "latitude": 55.51638965,
+    "longitude": -4.61483706,
+    "elevation": 64,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 121.423
+    "bearing": 121.400
   },
   {
     "name": "ILS-cat-I",
@@ -50381,12 +50381,12 @@
     "airportICAO": "EGPK",
     "identifier": "IKK",
     "associatedRunwayNumber": "30",
-    "latitude": 55.51714700,
-    "longitude": -4.61703100,
-    "elevation": 38,
+    "latitude": 55.50241311,
+    "longitude": -4.57440190,
+    "elevation": 64,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 301.381
+    "bearing": 301.400
   },
   {
     "name": "ILS-cat-I",
