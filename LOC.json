@@ -73780,26 +73780,26 @@
     "type": 4,
     "airportICAO": "LIEO",
     "identifier": "ISM",
-    "associatedRunwayNumber": "06",
-    "latitude": 40.90590800,
-    "longitude": 9.53147500,
-    "elevation": 36,
+    "associatedRunwayNumber": "05",
+    "latitude": 40.89241151,
+    "longitude": 9.50569532,
+    "elevation": 37,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 55.310
+    "bearing": 55.300
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "LIEO",
     "identifier": "IOL",
-    "associatedRunwayNumber": "24",
-    "latitude": 40.89155000,
-    "longitude": 9.50403000,
-    "elevation": 36,
+    "associatedRunwayNumber": "23",
+    "latitude": 40.90493850,
+    "longitude": 9.52962691,
+    "elevation": 37,
     "frequency": 111300,
     "receptionRange": 20,
-    "bearing": 235.310
+    "bearing": 235.300
   },
   {
     "name": "ILS-cat-I",
