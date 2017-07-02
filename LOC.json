@@ -29994,6 +29994,32 @@
   {
     "name": "ILS-cat-II",
     "type": 4,
+    "airportICAO": "LZIB",
+    "identifier": "OKR",
+    "associatedRunwayNumber": "22",
+    "latitude": 48.17960450,
+    "longitude": 17.22646977,
+    "elevation": 436,
+    "frequency": 108300,
+    "receptionRange": 18,
+    "bearing": 223.840
+  },
+  {
+    "name": "ILS-cat-II",
+    "type": 4,
+    "airportICAO": "LZIB",
+    "identifier": "OB",
+    "associatedRunwayNumber": "31",
+    "latitude": 48.15727749,
+    "longitude": 17.23256243,
+    "elevation": 436,
+    "frequency": 110700,
+    "receptionRange": 18,
+    "bearing": 314.010
+  },
+  {
+    "name": "ILS-cat-II",
+    "type": 4,
     "airportICAO": "LZKZ",
     "identifier": "KE",
     "associatedRunwayNumber": "01",

@@ -71571,26 +71571,26 @@
     "airportICAO": "LZIB",
     "identifier": "OKR",
     "associatedRunwayNumber": "22",
-    "latitude": 48.17664400,
-    "longitude": 17.22477800,
+    "latitude": 48.17960450,
+    "longitude": 17.22646977,
     "elevation": 436,
     "frequency": 108300,
     "receptionRange": 10,
-    "bearing": 224.654,
-    "glideslope": 3.00223827
+    "bearing": 223.840,
+    "glideslope": 3.00223840
   },
   {
     "name": "GS",
     "airportICAO": "LZIB",
     "identifier": "OB",
     "associatedRunwayNumber": "31",
-    "latitude": 48.16030800,
-    "longitude": 17.23096400,
-    "elevation": 433,
+    "latitude": 48.15727749,
+    "longitude": 17.23256243,
+    "elevation": 436,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 314.974,
-    "glideslope": 3.00313987
+    "bearing": 314.010,
+    "glideslope": 3.00314010
   },
   {
     "name": "GS",
