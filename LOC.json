@@ -81230,12 +81230,12 @@
     "airportICAO": "SPTN",
     "identifier": "ICSR",
     "associatedRunwayNumber": "02",
-    "latitude": -18.04068300,
-    "longitude": -70.27116100,
+    "latitude": -18.06383665,
+    "longitude": -70.27971529,
     "elevation": 1538,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 19.365
+    "bearing": 19.360
   },
   {
     "name": "ILS-cat-I",

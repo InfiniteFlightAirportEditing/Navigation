@@ -77187,13 +77187,13 @@
     "airportICAO": "SPTN",
     "identifier": "ICSR",
     "associatedRunwayNumber": "02",
-    "latitude": -18.06222200,
-    "longitude": -70.27792200,
+    "latitude": -18.06383665,
+    "longitude": -70.27971529,
     "elevation": 1538,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 19.730,
-    "glideslope": 2.50019365
+    "bearing": 19.360,
+    "glideslope": 2.50019360
   },
   {
     "name": "GS",
