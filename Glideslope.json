@@ -48258,6 +48258,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "EPLB",
+    "identifier": "ISWI",
+    "associatedRunwayNumber": "25",
+    "latitude": 51.24271010,
+    "longitude": 22.73117180,
+    "elevation": 632,
+    "frequency": 111950,
+    "receptionRange": 10,
+    "bearing": 257.070,
+    "glideslope": 3.00257070
+  },
+  {
+    "name": "GS",
     "airportICAO": "EPLL",
     "identifier": "ILOD",
     "associatedRunwayNumber": "25R",

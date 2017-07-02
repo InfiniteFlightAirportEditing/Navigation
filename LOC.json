@@ -52248,6 +52248,19 @@
     "bearing": 270.200
   },
   {
+    "name": "ILS-cat-II",
+    "type": 4,
+    "airportICAO": "EPLB",
+    "identifier": "ISWI",
+    "associatedRunwayNumber": "25",
+    "latitude": 51.24271010,
+    "longitude": 22.73117180,
+    "elevation": 632,
+    "frequency": 111950,
+    "receptionRange": 18,
+    "bearing": 257.070
+  },
+  {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "EPLL",
