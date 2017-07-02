@@ -54346,12 +54346,12 @@
     "airportICAO": "HBBA",
     "identifier": "BJ",
     "associatedRunwayNumber": "17",
-    "latitude": -3.34257800,
-    "longitude": 29.32143300,
+    "latitude": -3.30800445,
+    "longitude": 29.31598827,
     "elevation": 2582,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 171.098
+    "bearing": 171.110
   },
   {
     "name": "ILS-cat-I",

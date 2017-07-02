@@ -50328,13 +50328,13 @@
     "airportICAO": "HBBA",
     "identifier": "BJ",
     "associatedRunwayNumber": "17",
-    "latitude": -3.31106100,
-    "longitude": 29.31493600,
+    "latitude": -3.30800445,
+    "longitude": 29.31598827,
     "elevation": 2582,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 171.196,
-    "glideslope": 3.20171098
+    "bearing": 171.110,
+    "glideslope": 3.20171110
   },
   {
     "name": "GS",
