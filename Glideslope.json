@@ -30164,12 +30164,12 @@
     "airportICAO": "MMMX",
     "identifier": "IMWX",
     "associatedRunwayNumber": "05R",
-    "latitude": 19.42934990,
-    "longitude": -99.07889557,
-    "elevation": 7316,
+    "latitude":  19.426549,
+    "longitude":  -99.086680,
+    "elevation": 7313,
     "frequency": 109100,
     "receptionRange": 10,
-    "bearing": 59.562,
+    "bearing": 59.24,
     "glideslope": 3.00059281
   },
   {
@@ -30177,12 +30177,12 @@
     "airportICAO": "MMMX",
     "identifier": "IMEX",
     "associatedRunwayNumber": "23L",
-    "latitude": 19.44454384,
-    "longitude": -99.05736542,
-    "elevation": 7316,
+    "latitude":  19.445375,
+    "longitude":  -99.053135,
+    "elevation": 7313,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 239.562,
+    "bearing": 239.24,
     "glideslope": 3.00239281
   },
   {

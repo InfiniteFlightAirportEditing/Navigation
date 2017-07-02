@@ -75991,12 +75991,12 @@
     "airportICAO": "MMMX",
     "identifier": "IMWX",
     "associatedRunwayNumber": "05R",
-    "latitude": 19.44625000,
-    "longitude": -99.05155800,
-    "elevation": 7316,
+    "latitude":  19.426550,
+    "longitude":  -99.086681,
+    "elevation": 7313,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 59.256
+    "bearing": 59.24 
   },
   {
     "name": "ILS-cat-I",
@@ -76004,12 +76004,12 @@
     "airportICAO": "MMMX",
     "identifier": "IMEX",
     "associatedRunwayNumber": "23L",
-    "latitude": 19.42533100,
-    "longitude": -99.08885600,
-    "elevation": 7316,
+    "latitude":  19.445375,
+    "longitude":  -99.053137,
+    "elevation": 7313,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 239.270
+    "bearing": 239.24 
   },
   {
     "name": "ILS-cat-I",
