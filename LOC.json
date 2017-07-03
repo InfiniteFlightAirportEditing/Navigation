@@ -30257,12 +30257,12 @@
     "airportICAO": "MMMD",
     "identifier": "IMID",
     "associatedRunwayNumber": "10",
-    "latitude": 20.92981720,
-    "longitude": -89.62709045,
-    "elevation": 38,
+    "latitude":  20.937674,
+    "longitude":  -89.660234,
+    "elevation": 38.1,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 104.164
+    "bearing": 105.42 
   },
   {
     "name": "ILS-cat-I",

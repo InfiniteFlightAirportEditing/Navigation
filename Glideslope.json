@@ -30151,12 +30151,12 @@
     "airportICAO": "MMMD",
     "identifier": "IMID",
     "associatedRunwayNumber": "10",
-    "latitude": 20.93713188,
-    "longitude": -89.65424347,
-    "elevation": 38,
+    "latitude":  20.937673,
+    "longitude":  -89.660234,
+    "elevation": 38.1,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 105.812,
+    "bearing": 105.42,
     "glideslope": 3.00105406
   },
   {
