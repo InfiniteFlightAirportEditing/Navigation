@@ -21319,20 +21319,20 @@
     "bearing": 329.562,
     "glideslope": 3.00329281
   },
-  {
-    "name": "GS",
+   {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "KPTK",
     "identifier": "IPTK",
     "associatedRunwayNumber": "09R",
-    "latitude": 42.66563416,
-    "longitude": -83.42923737,
-    "elevation": 979,
+    "latitude":  42.664618,
+    "longitude":  -83.434379,
+    "elevation": 298.4,
     "frequency": 111100,
-    "receptionRange": 10,
-    "bearing": 88.312,
-    "glideslope": 3.00087656
+    "receptionRange": 18,
+    "bearing": 87.64
   },
-  {
+{
     "name": "GS",
     "airportICAO": "KPTN",
     "identifier": "IPTN",

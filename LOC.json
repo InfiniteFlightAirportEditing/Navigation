@@ -21365,12 +21365,12 @@
     "airportICAO": "KPTK",
     "identifier": "IPTK",
     "associatedRunwayNumber": "09R",
-    "latitude": 42.66552353,
-    "longitude": -83.40430450,
-    "elevation": 980,
+    "latitude":  42.664618,
+    "longitude":  -83.434379,
+    "elevation": 298.4,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 87.661
+    "bearing": 87.64
   },
   {
     "name": "ILS-cat-I",
