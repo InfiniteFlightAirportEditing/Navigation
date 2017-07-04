@@ -30361,12 +30361,12 @@
     "airportICAO": "MMUN",
     "identifier": "INCP",
     "associatedRunwayNumber": "12L",
-    "latitude": 21.054476,
-    "longitude": -86.880940,
-    "elevation": 20,
+    "latitude":  21.054745,
+    "longitude":  -86.881384,
+    "elevation": 22,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 123.900
+    "bearing": 123.84
   },
   {
     "name": "ILS-cat-I",
@@ -30374,12 +30374,12 @@
     "airportICAO": "MMUN",
     "identifier": "ICUN",
     "associatedRunwayNumber": "12R",
-    "latitude": 21.045345,
-    "longitude": -86.891048,
-    "elevation": 20,
+    "latitude":  21.045368,
+    "longitude":  -86.891060,
+    "elevation": 22,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 123.830
+    "bearing": 123.85
   },
   {
     "name": "ILS-cat-I",
