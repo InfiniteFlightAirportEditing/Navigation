@@ -30244,12 +30244,12 @@
     "airportICAO": "MMLP",
     "identifier": "ILAP",
     "associatedRunwayNumber": "18",
-    "latitude": 24.05940628,
-    "longitude": -110.36506653,
-    "elevation": 69,
+    "latitude":  24.083972,
+    "longitude": -110.360923,
+    "elevation": 67.9,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 188.871
+    "bearing": 187.56
   },
   {
     "name": "ILS-cat-I",
