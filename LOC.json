@@ -30296,12 +30296,12 @@
     "airportICAO": "MMMY",
     "identifier": "IMTY",
     "associatedRunwayNumber": "29",
-    "latitude": 25.78446770,
-    "longitude": -100.11771393,
-    "elevation": 1278,
+    "latitude":  25.770121,
+    "longitude": -100.091623,
+    "elevation": 1276.9,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 301.385
+    "bearing": 301.42
   },
   {
     "name": "ILS-cat-I",
