@@ -61470,12 +61470,12 @@
     "airportICAO": "KHVN",
     "identifier": "IHVN",
     "associatedRunwayNumber": "02",
-    "latitude": 41.27373100,
-    "longitude": -72.88705600,
-    "elevation": 15,
+    "latitude": 41.25606513,
+    "longitude": -72.88824732,
+    "elevation": 12,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 2.896
+    "bearing":  2.900
   },
   {
     "name": "ILS-cat-I",

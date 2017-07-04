@@ -57400,13 +57400,13 @@
     "airportICAO": "KHVN",
     "identifier": "IHVN",
     "associatedRunwayNumber": "02",
-    "latitude": 41.25883900,
-    "longitude": -72.88900800,
-    "elevation": 3,
+    "latitude": 41.25606513,
+    "longitude": -72.88824732,
+    "elevation": 12,
     "frequency": 109100,
     "receptionRange": 10,
-    "bearing": 3.792,
-    "glideslope": 3.00002896
+    "bearing":  2.900,
+    "glideslope": 3.002900
   },
   {
     "name": "GS",
