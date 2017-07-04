@@ -21320,17 +21320,17 @@
     "glideslope": 3.00329281
   },
    {
-    "name": "ILS-cat-I",
-    "type": 4,
+    "name": "GS",
     "airportICAO": "KPTK",
     "identifier": "IPTK",
     "associatedRunwayNumber": "09R",
     "latitude":  42.664618,
     "longitude":  -83.434379,
-    "elevation": 298.4,
+    "elevation": 979,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 87.64
+    "bearing": 87.64,
+    "glideslope": 3.00087656	
   },
 {
     "name": "GS",
