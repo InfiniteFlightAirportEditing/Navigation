@@ -21365,12 +21365,12 @@
     "airportICAO": "KPTK",
     "identifier": "IPTK",
     "associatedRunwayNumber": "09R",
-    "latitude":  42.664618,
-    "longitude":  -83.434379,
-    "elevation": 979,
+    "latitude": 42.66552353,
+    "longitude": -83.40430450,
+    "elevation": 980,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 87.64
+    "bearing": 87.661
   },
   {
     "name": "ILS-cat-I",
@@ -30166,12 +30166,12 @@
     "airportICAO": "MMAA",
     "identifier": "IAIA",
     "associatedRunwayNumber": "10",
-    "latitude":  16.759989,
-    "longitude":  -99.763076,
-    "elevation": 16.1,
+    "latitude": 16.75009346,
+    "longitude": -99.73084259,
+    "elevation": 13,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 108.10
+    "bearing": 107.656
   },
   {
     "name": "ILS-cat-I",
@@ -30179,12 +30179,12 @@
     "airportICAO": "MMAA",
     "identifier": "IACA",
     "associatedRunwayNumber": "28",
-    "latitude":  16.750772,
-    "longitude":  -99.733627,
-    "elevation": 16.1,
+    "latitude": 16.76106834,
+    "longitude": -99.76525116,
+    "elevation": 13,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 288.10
+    "bearing": 288.904
   },
   {
     "name": "ILS-cat-I",
@@ -30192,12 +30192,12 @@
     "airportICAO": "MMCU",
     "identifier": "ICUU",
     "associatedRunwayNumber": "36R",
-    "latitude":  28.691594,
-    "longitude": -105.965911,
-    "elevation": 4461,
+    "latitude": 28.71652412,
+    "longitude": -105.96059418,
+    "elevation": 4462,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 10.73
+    "bearing": 10.597
   },
   {
     "name": "ILS-cat-I",
@@ -30205,12 +30205,12 @@
     "airportICAO": "MMGL",
     "identifier": "IAIG",
     "associatedRunwayNumber": "10",
-    "latitude":  20.528770,
-    "longitude": -103.327696,
-    "elevation": 5016.1,
+    "latitude": 20.51311684,
+    "longitude": -103.29001617,
+    "elevation": 5016,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 114.14
+    "bearing": 113.868
   },
   {
     "name": "ILS-cat-I",
@@ -30218,12 +30218,12 @@
     "airportICAO": "MMGL",
     "identifier": "IGDL",
     "associatedRunwayNumber": "28",
-    "latitude":  20.514030,
-    "longitude": -103.292577,
-    "elevation": 5016.1,
+    "latitude": 20.53002167,
+    "longitude": -103.33065033,
+    "elevation": 5016,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 294.14
+    "bearing": 294.200
   },
   {
     "name": "ILS-cat-I",
@@ -30244,12 +30244,12 @@
     "airportICAO": "MMLP",
     "identifier": "ILAP",
     "associatedRunwayNumber": "18",
-    "latitude":  24.083972,
-    "longitude": -110.360923,
-    "elevation": 67.9,
+    "latitude": 24.05940628,
+    "longitude": -110.36506653,
+    "elevation": 69,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 187.56
+    "bearing": 188.871
   },
   {
     "name": "ILS-cat-I",
@@ -30257,12 +30257,12 @@
     "airportICAO": "MMMD",
     "identifier": "IMID",
     "associatedRunwayNumber": "10",
-    "latitude":  20.937674,
-    "longitude":  -89.660234,
-    "elevation": 38.1,
+    "latitude": 20.92981720,
+    "longitude": -89.62709045,
+    "elevation": 38,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 105.42 
+    "bearing": 104.164
   },
   {
     "name": "ILS-cat-I",
@@ -30296,12 +30296,12 @@
     "airportICAO": "MMMY",
     "identifier": "IMTY",
     "associatedRunwayNumber": "29",
-    "latitude":  25.770121,
-    "longitude": -100.091623,
-    "elevation": 1276.9,
+    "latitude": 25.78446770,
+    "longitude": -100.11771393,
+    "elevation": 1278,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 301.42
+    "bearing": 301.385
   },
   {
     "name": "ILS-cat-I",
@@ -30309,12 +30309,12 @@
     "airportICAO": "MMMZ",
     "identifier": "IMZT",
     "associatedRunwayNumber": "26",
-    "latitude":  23.160845,
-    "longitude": -106.251360,
-    "elevation": 38.1,
+    "latitude": 23.16241646,
+    "longitude": -106.28043365,
+    "elevation": 38,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 272.96
+    "bearing": 273.726
   },
   {
     "name": "ILS-cat-I",
@@ -30348,12 +30348,12 @@
     "airportICAO": "MMTO",
     "identifier": "ITLC",
     "associatedRunwayNumber": "15",
-    "latitude":  19.354497,
-    "longitude":  -99.573881,
-    "elevation": 8464.9,
+    "latitude": 19.31846619,
+    "longitude": -99.55763245,
+    "elevation": 8466,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 156.93
+    "bearing": 156.952
   },
   {
     "name": "ILS-cat-I",
@@ -30361,12 +30361,12 @@
     "airportICAO": "MMUN",
     "identifier": "INCP",
     "associatedRunwayNumber": "12L",
-    "latitude":  21.054745,
-    "longitude":  -86.881384,
-    "elevation": 22,
+    "latitude": 21.054476,
+    "longitude": -86.880940,
+    "elevation": 20,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 123.84
+    "bearing": 123.900
   },
   {
     "name": "ILS-cat-I",
@@ -30374,12 +30374,12 @@
     "airportICAO": "MMUN",
     "identifier": "ICUN",
     "associatedRunwayNumber": "12R",
-    "latitude":  21.045368,
-    "longitude":  -86.891060,
-    "elevation": 22,
+    "latitude": 21.045345,
+    "longitude": -86.891048,
+    "elevation": 20,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 123.85
+    "bearing": 123.830
   },
   {
     "name": "ILS-cat-I",
@@ -56985,12 +56985,12 @@
     "airportICAO": "KCAK",
     "identifier": "ICAK",
     "associatedRunwayNumber": "01",
-    "latitude":  40.907188,
-    "longitude":  -81.441357,
-    "elevation": 1228,
+    "latitude": 40.93267200,
+    "longitude": -81.43990300,
+    "elevation": 1204,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 2.46
+    "bearing": 2.462
   },
   {
     "name": "ILS-cat-I",
@@ -56998,12 +56998,12 @@
     "airportICAO": "KCAK",
     "identifier": "IRGO",
     "associatedRunwayNumber": "19",
-    "latitude":  40.928020,
-    "longitude":  -81.440173,
-    "elevation": 1228,
+    "latitude": 40.90238300,
+    "longitude": -81.44162500,
+    "elevation": 1215,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 182.46
+    "bearing": 182.462
   },
   {
     "name": "ILS-cat-I",
@@ -57011,12 +57011,12 @@
     "airportICAO": "KCAK",
     "identifier": "IGGZ",
     "associatedRunwayNumber": "23",
-    "latitude":  40.920324,
-    "longitude":  -81.435313,
-    "elevation": 1228,
+    "latitude": 40.90685300,
+    "longitude": -81.45468300,
+    "elevation": 1183,
     "frequency": 108300,
     "receptionRange": 18,
-    "bearing": 227.38
+    "bearing": 227.357
   },
   {
     "name": "ILS-cat-I",
@@ -75991,12 +75991,12 @@
     "airportICAO": "MMMX",
     "identifier": "IMWX",
     "associatedRunwayNumber": "05R",
-    "latitude":  19.426550,
-    "longitude":  -99.086681,
-    "elevation": 7313,
+    "latitude": 19.44625000,
+    "longitude": -99.05155800,
+    "elevation": 7316,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 59.24 
+    "bearing": 59.256
   },
   {
     "name": "ILS-cat-I",
@@ -76004,12 +76004,12 @@
     "airportICAO": "MMMX",
     "identifier": "IMEX",
     "associatedRunwayNumber": "23L",
-    "latitude":  19.445375,
-    "longitude":  -99.053137,
-    "elevation": 7313,
+    "latitude": 19.42533100,
+    "longitude": -99.08885600,
+    "elevation": 7316,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 239.24 
+    "bearing": 239.270
   },
   {
     "name": "ILS-cat-I",
