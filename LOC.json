@@ -30205,12 +30205,12 @@
     "airportICAO": "MMGL",
     "identifier": "IAIG",
     "associatedRunwayNumber": "10",
-    "latitude": 20.51311684,
-    "longitude": -103.29001617,
-    "elevation": 5016,
+    "latitude":  20.528770,
+    "longitude": -103.327696,
+    "elevation": 5016.1,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 113.868
+    "bearing": 114.14
   },
   {
     "name": "ILS-cat-I",
@@ -30218,12 +30218,12 @@
     "airportICAO": "MMGL",
     "identifier": "IGDL",
     "associatedRunwayNumber": "28",
-    "latitude": 20.53002167,
-    "longitude": -103.33065033,
-    "elevation": 5016,
+    "latitude":  20.514030,
+    "longitude": -103.292577,
+    "elevation": 5016.1,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 294.200
+    "bearing": 294.14
   },
   {
     "name": "ILS-cat-I",
