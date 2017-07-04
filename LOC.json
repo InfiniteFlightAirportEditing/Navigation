@@ -30348,12 +30348,12 @@
     "airportICAO": "MMTO",
     "identifier": "ITLC",
     "associatedRunwayNumber": "15",
-    "latitude": 19.31846619,
-    "longitude": -99.55763245,
-    "elevation": 8466,
+    "latitude":  19.354497,
+    "longitude":  -99.573881,
+    "elevation": 8464.9,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 156.952
+    "bearing": 156.93
   },
   {
     "name": "ILS-cat-I",
