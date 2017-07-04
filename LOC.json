@@ -45077,12 +45077,12 @@
     "airportICAO": "LFPB",
     "identifier": "LBW",
     "associatedRunwayNumber": "25",
-    "latitude": 48.97568893,
-    "longitude": 2.44630003,
+    "latitude": 48.973999,
+    "longitude": 2.458254,
     "elevation": 148,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 270.500
+    "bearing": 247.78
   },
   {
     "name": "LOC",
@@ -72637,12 +72637,12 @@
     "airportICAO": "LFPB",
     "identifier": "RGE",
     "associatedRunwayNumber": "25",
-    "latitude": 48.974103,
-    "longitude": 2.458190,
+    "latitude": 48.973999,
+    "longitude": 2.458258,
     "elevation": 218,
     "frequency": 110550,
     "receptionRange": 18,
-    "bearing": 254.597
+    "bearing": 247.78
   },
   {
     "name": "ILS-cat-I",
@@ -90686,7 +90686,7 @@
     "elevation": 148,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 270.500
+    "bearing": 254.597
   },
   {
     "name": "LOC",
