@@ -30086,12 +30086,12 @@
     "airportICAO": "MMCU",
     "identifier": "ICUU",
     "associatedRunwayNumber": "36R",
-    "latitude": 28.69452858,
-    "longitude": -105.96414185,
-    "elevation": 4462,
+    "latitude":  28.691594,
+    "longitude": -105.965910,
+    "elevation": 4461,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 11.438,
+    "bearing": 10.73,
     "glideslope": 3.00010719
   },
   {
