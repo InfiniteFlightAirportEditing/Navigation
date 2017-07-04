@@ -30309,12 +30309,12 @@
     "airportICAO": "MMMZ",
     "identifier": "IMZT",
     "associatedRunwayNumber": "26",
-    "latitude": 23.16241646,
-    "longitude": -106.28043365,
-    "elevation": 38,
+    "latitude":  23.160845,
+    "longitude": -106.251360,
+    "elevation": 38.1,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 273.726
+    "bearing": 272.96
   },
   {
     "name": "ILS-cat-I",

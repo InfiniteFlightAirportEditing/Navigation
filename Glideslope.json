@@ -30203,12 +30203,12 @@
     "airportICAO": "MMMZ",
     "identifier": "IMZT",
     "associatedRunwayNumber": "26",
-    "latitude": 23.16028214,
-    "longitude": -106.25471497,
-    "elevation": 38,
+    "latitude":  23.160845,
+    "longitude": -106.251360,
+    "elevation": 38.1,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 273.376,
+    "bearing": 272.96,
     "glideslope": 3.00273188
   },
   {
