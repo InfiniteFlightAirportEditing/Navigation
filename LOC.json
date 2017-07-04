@@ -56985,12 +56985,12 @@
     "airportICAO": "KCAK",
     "identifier": "ICAK",
     "associatedRunwayNumber": "01",
-    "latitude": 40.93267200,
-    "longitude": -81.43990300,
-    "elevation": 1204,
+    "latitude":  40.907188,
+    "longitude":  -81.441358,
+    "elevation": 1228,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 2.462
+    "bearing": 2.46
   },
   {
     "name": "ILS-cat-I",
@@ -56998,12 +56998,12 @@
     "airportICAO": "KCAK",
     "identifier": "IRGO",
     "associatedRunwayNumber": "19",
-    "latitude": 40.90238300,
-    "longitude": -81.44162500,
-    "elevation": 1215,
+    "latitude":  40.928020,
+    "longitude":  -81.440173,
+    "elevation": 1228,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 182.462
+    "bearing": 182.46
   },
   {
     "name": "ILS-cat-I",
@@ -57011,12 +57011,12 @@
     "airportICAO": "KCAK",
     "identifier": "IGGZ",
     "associatedRunwayNumber": "23",
-    "latitude": 40.90685300,
-    "longitude": -81.45468300,
-    "elevation": 1183,
+    "latitude":   40.920324,
+    "longitude":  -81.435313,
+    "elevation": 1228,
     "frequency": 108300,
     "receptionRange": 18,
-    "bearing": 227.357
+    "bearing": 227.38
   },
   {
     "name": "ILS-cat-I",
