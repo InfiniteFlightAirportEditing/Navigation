@@ -30166,12 +30166,12 @@
     "airportICAO": "MMAA",
     "identifier": "IAIA",
     "associatedRunwayNumber": "10",
-    "latitude": 16.75009346,
-    "longitude": -99.73084259,
-    "elevation": 13,
+    "latitude":  16.759989,
+    "longitude":  -99.763076,
+    "elevation": 16.1,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 107.656
+    "bearing": 108.10
   },
   {
     "name": "ILS-cat-I",
@@ -30179,12 +30179,12 @@
     "airportICAO": "MMAA",
     "identifier": "IACA",
     "associatedRunwayNumber": "28",
-    "latitude": 16.76106834,
-    "longitude": -99.76525116,
-    "elevation": 13,
+    "latitude":  16.750772,
+    "longitude":  -99.733627,
+    "elevation": 16.1,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 288.904
+    "bearing": 288.10
   },
   {
     "name": "ILS-cat-I",
