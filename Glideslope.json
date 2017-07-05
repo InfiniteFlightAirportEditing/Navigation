@@ -71792,26 +71792,26 @@
     "airportICAO": "MMGL",
     "identifier": "IAIG",
     "associatedRunwayNumber": "10",
-    "latitude": 20.52651900,
-    "longitude": -103.32508600,
+    "latitude": 20.52876999,
+    "longitude": -103.32769631,
     "elevation": 5016,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 114.262,
-    "glideslope": 3.00114131
+    "bearing": 114.140,
+    "glideslope": 3.00114140
   },
   {
     "name": "GS",
     "airportICAO": "MMGL",
     "identifier": "IGDL",
     "associatedRunwayNumber": "28",
-    "latitude": 20.51455300,
-    "longitude": -103.29702800,
+    "latitude": 20.51403006,
+    "longitude": -103.29257516,
     "elevation": 5016,
     "frequency": 111300,
     "receptionRange": 10,
-    "bearing": 294.262,
-    "glideslope": 2.80294131
+    "bearing": 294.140,
+    "glideslope": 2.80294140
   },
   {
     "name": "GS",
