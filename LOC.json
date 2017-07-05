@@ -56049,12 +56049,12 @@
     "airportICAO": "KBGR",
     "identifier": "IJVH",
     "associatedRunwayNumber": "15",
-    "latitude": 44.79454700,
-    "longitude": -68.80949700,
-    "elevation": 166,
+    "latitude": 44.81842092,
+    "longitude": -68.84398636,
+    "elevation": 191,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 134.293
+    "bearing": 134.320
   },
   {
     "name": "ILS-cat-I",
@@ -56062,12 +56062,12 @@
     "airportICAO": "KBGR",
     "identifier": "IBGR",
     "associatedRunwayNumber": "33",
-    "latitude": 44.82045000,
-    "longitude": -68.84693900,
-    "elevation": 182,
+    "latitude": 44.79649760,
+    "longitude": -68.81233493,
+    "elevation": 191,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 314.264
+    "bearing": 314.320
   },
   {
     "name": "ILS-cat-I",

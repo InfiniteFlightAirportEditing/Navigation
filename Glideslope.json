@@ -52031,26 +52031,26 @@
     "airportICAO": "KBGR",
     "identifier": "IJVH",
     "associatedRunwayNumber": "15",
-    "latitude": 44.81727200,
-    "longitude": -68.83957800,
-    "elevation": 190,
+    "latitude": 44.81842092,
+    "longitude": -68.84398636,
+    "elevation": 191,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 134.560,
-    "glideslope": 3.0013428
+    "bearing": 134.320,
+    "glideslope": 3.00134320 
   },
   {
     "name": "GS",
     "airportICAO": "KBGR",
     "identifier": "IBGR",
     "associatedRunwayNumber": "33",
-    "latitude": 44.79825000,
-    "longitude": -68.81658600,
-    "elevation": 149,
+    "latitude": 44.79649760,
+    "longitude": -68.81233493,
+    "elevation": 191,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 314.560,
-    "glideslope": 3.0031428
+    "bearing": 314.320,
+    "glideslope": 3.00314320
   },
   {
     "name": "GS",
