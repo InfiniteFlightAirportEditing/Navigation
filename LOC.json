@@ -50017,9 +50017,9 @@
     "airportICAO": "EGNH",
     "identifier": "IBPL",
     "associatedRunwayNumber": "28",
-    "latitude": 53.77242800,
-    "longitude": -3.04662500,
-    "elevation": 55,
+    "latitude": 53.77087171,
+    "longitude": -3.01443901,
+    "elevation": 34.0,
     "frequency": 108150,
     "receptionRange": 18,
     "bearing": 274.645
