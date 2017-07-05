@@ -56373,13 +56373,13 @@
     "airportICAO": "KGON",
     "identifier": "IGON",
     "associatedRunwayNumber": "05",
-    "latitude": 41.32644400,
-    "longitude": -72.04561900,
-    "elevation": 4,
+    "latitude": 41.32503064,
+    "longitude": -72.04803011,
+    "elevation": 7,
     "frequency": 111300,
     "receptionRange": 10,
-    "bearing": 34.750,
-    "glideslope": 3.00033875
+    "bearing": 33.880,
+    "glideslope": 3.00033880 
   },
   {
     "name": "GS",

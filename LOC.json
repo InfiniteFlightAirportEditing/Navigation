@@ -60417,12 +60417,12 @@
     "airportICAO": "KGON",
     "identifier": "IGON",
     "associatedRunwayNumber": "05",
-    "latitude": 41.33768300,
-    "longitude": -72.03671900,
-    "elevation": 8,
+    "latitude": 41.32503064,
+    "longitude": -72.04803011,
+    "elevation": 7,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 33.875
+    "bearing": 33.880
   },
   {
     "name": "ILS-cat-I",
