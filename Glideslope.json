@@ -46038,13 +46038,13 @@
     "airportICAO": "EGNH",
     "identifier": "IBPL",
     "associatedRunwayNumber": "28",
-    "latitude": 53.76992500,
-    "longitude": -3.01881700,
-    "elevation": 55,
+    "latitude": 53.77087171,
+    "longitude": -3.01443901,
+    "elevation": 34.0,
     "frequency": 108150,
     "receptionRange": 10,
-    "bearing": 275.322,
-    "glideslope": 3.00274661
+    "bearing": 274.66,
+    "glideslope": 3.0027466
   },
   {
     "name": "GS",
