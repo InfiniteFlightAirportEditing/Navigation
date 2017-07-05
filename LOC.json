@@ -67268,12 +67268,12 @@
     "airportICAO": "KPWM",
     "identifier": "IPWM",
     "associatedRunwayNumber": "11",
-    "latitude": 43.64387800,
-    "longitude": -70.29670000,
-    "elevation": 37,
+    "latitude": 43.64587176,
+    "longitude": -70.32611673,
+    "elevation": 77,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 95.339
+    "bearing": 95.330
   },
   {
     "name": "ILS-cat-I",
@@ -67281,12 +67281,12 @@
     "airportICAO": "KPWM",
     "identifier": "IGCS",
     "associatedRunwayNumber": "29",
-    "latitude": 43.64611700,
-    "longitude": -70.32987500,
-    "elevation": 65,
+    "latitude": 43.64403623,
+    "longitude": -70.29893717,
+    "elevation": 77,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 275.317
+    "bearing": 275.330
   },
   {
     "name": "ILS-cat-I",

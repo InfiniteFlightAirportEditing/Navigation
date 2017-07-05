@@ -63172,26 +63172,26 @@
     "airportICAO": "KPWM",
     "identifier": "IPWM",
     "associatedRunwayNumber": "11",
-    "latitude": 43.64446700,
-    "longitude": -70.32218100,
-    "elevation": 68,
+    "latitude": 43.64587176,
+    "longitude": -70.32611673,
+    "elevation": 77,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 95.658,
-    "glideslope": 3.00095329
+    "bearing": 95.330,
+    "glideslope": 3.00095330
   },
   {
     "name": "GS",
     "airportICAO": "KPWM",
     "identifier": "IGCS",
     "associatedRunwayNumber": "29",
-    "latitude": 43.64504700,
-    "longitude": -70.30218100,
-    "elevation": 42,
+    "latitude": 43.64403623,
+    "longitude": -70.29893717,
+    "elevation": 77,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 275.658,
-    "glideslope": 3.00275329
+    "bearing": 275.330,
+    "glideslope": 3.00275330
   },
   {
     "name": "GS",
