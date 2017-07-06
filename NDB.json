@@ -1145,11 +1145,11 @@
   {
     "name": "ALDERNEY",
     "identifier": "ALD",
-    "latitude": 49.7088889,
-    "longitude": -2.19970012,
+    "latitude": 49.708869444,
+    "longitude": -2.199772222,
     "elevation": 331,
     "frequency": 383,
-    "receptionRange": 30
+    "receptionRange": 15
   },
   {
     "name": "ALEKSANDROVKA",
@@ -4817,8 +4817,8 @@
   {
     "name": "BARRA",
     "identifier": "BRR",
-    "latitude": 57.02562714,
-    "longitude": -7.44892216,
+    "latitude": 57.025627778,
+    "longitude": -7.448922222,
     "elevation": 0,
     "frequency": 316,
     "receptionRange": 15
@@ -6302,11 +6302,11 @@
   {
     "name": "BIRMINGHAM",
     "identifier": "BHX",
-    "latitude": 52.45454788,
-    "longitude": -1.75238597,
+    "latitude": 52.454547222,
+    "longitude": -1.752386111,
     "elevation": 325,
     "frequency": 406,
-    "receptionRange": 20
+    "receptionRange": 15
   },
   {
     "name": "BIRYUCHA",
@@ -6473,11 +6473,11 @@
   {
     "name": "BLACKBUSHE",
     "identifier": "BLK",
-    "latitude": 51.32328796,
-    "longitude": -0.84479398,
+    "latitude": 51.323288889,
+    "longitude": -0.844794444,
     "elevation": 0,
     "frequency": 328,
-    "receptionRange": 15
+    "receptionRange": 25
   },
   {
     "name": "BLACKFOOT",
@@ -6491,8 +6491,8 @@
   {
     "name": "BLACKPOOL",
     "identifier": "BPL",
-    "latitude": 53.77277756,
-    "longitude": -3.02777791,
+    "latitude": 53.772877778,
+    "longitude": -3.027850000,
     "elevation": 34,
     "frequency": 318,
     "receptionRange": 15
@@ -7319,11 +7319,11 @@
   {
     "name": "BOURNEMOUTH",
     "identifier": "BIA",
-    "latitude": 50.7777778,
-    "longitude": -1.8425000,
+    "latitude": 50.777672222,
+    "longitude": -1.842486111,
     "elevation": 30,
     "frequency": 339,
-    "receptionRange": 20
+    "receptionRange": 15
   },
   {
     "name": "BOUTN",
@@ -7787,8 +7787,8 @@
   {
     "name": "BRISTOL",
     "identifier": "BRI",
-    "latitude": 51.38144302,
-    "longitude": -2.71754408,
+    "latitude": 51.381441667,
+    "longitude": -2.717544444,
     "elevation": 0,
     "frequency": 414,
     "receptionRange": 25
@@ -7821,13 +7821,13 @@
     "receptionRange": 25
   },
   {
-    "name": "BRIZE",
+    "name": "BRIZE NORTON",
     "identifier": "BZ",
-    "latitude": 51.74923325,
-    "longitude": -1.60161698,
+    "latitude": 51.749466667,
+    "longitude": -1.601722222,
     "elevation": 288,
     "frequency": 386,
-    "receptionRange": 20
+    "receptionRange": 15
   },
   {
     "name": "BRNO",
@@ -8588,11 +8588,11 @@
   {
     "name": "BURNHAM",
     "identifier": "BUR",
-    "latitude": 51.5188889,
-    "longitude": -0.6772222,
+    "latitude": 51.519011111,
+    "longitude": -0.677191667,
     "elevation": 0,
     "frequency": 421,
-    "receptionRange": 30
+    "receptionRange": 25
   },
   {
     "name": "BURNS",
@@ -9362,8 +9362,8 @@
   {
     "name": "CAMBRIDGE",
     "identifier": "CAM",
-    "latitude": 52.21084976,
-    "longitude": 0.18279199,
+    "latitude": 52.210850000,
+    "longitude": 0.182791667,
     "elevation": 0,
     "frequency": 332,
     "receptionRange": 15
@@ -9506,11 +9506,11 @@
   {
     "name": "CAMPBELTOWN",
     "identifier": "CBL",
-    "latitude": 55.43563080,
-    "longitude": -5.68807220,
+    "latitude": 55.435630556,
+    "longitude": -5.688072222,
     "elevation": 44,
     "frequency": 380,
-    "receptionRange": 15
+    "receptionRange": 25
   },
   {
     "name": "CAMPINA",
@@ -9898,6 +9898,15 @@
     "elevation": 625,
     "frequency": 260,
     "receptionRange": 75
+  },
+  {
+    "name": "CARLISLE",
+    "identifier": "CL",
+    "latitude": 54.940288889,
+    "longitude": -2.805463889,
+    "elevation": 0,
+    "frequency": 328,
+    "receptionRange": 25
   },
   {
     "name": "CARLYLE",
@@ -11360,8 +11369,8 @@
   {
     "name": "CHILTERN",
     "identifier": "CHT",
-    "latitude": 51.6230556,
-    "longitude": -0.5186111,
+    "latitude": 51.623141667,
+    "longitude": -0.518577778,
     "elevation": 0,
     "frequency": 277,
     "receptionRange": 25
@@ -12125,8 +12134,8 @@
   {
     "name": "CLONMEL",
     "identifier": "CML",
-    "latitude": 52.45375061,
-    "longitude": -7.48007488,
+    "latitude": 52.453750000,
+    "longitude": -7.480055556,
     "elevation": 0,
     "frequency": 387,
     "receptionRange": 50
@@ -13527,6 +13536,15 @@
     "receptionRange": 100
   },
   {
+    "name": "CULDROSE",
+    "identifier": "CUL",
+    "latitude": 50.082486111,
+    "longitude": -5.248622222,
+    "elevation": 0,
+    "frequency": 370,
+    "receptionRange": 15
+  },
+  {
     "name": "CULTUS",
     "identifier": "LU",
     "latitude": 49.02116776,
@@ -13709,11 +13727,11 @@
   {
     "name": "Cardiff",
     "identifier": "CDF",
-    "latitude": 51.39337921,
-    "longitude": -3.33790302,
+    "latitude": 51.393377778,
+    "longitude": -3.337908333,
     "elevation": 0,
     "frequency": 388,
-    "receptionRange": 20
+    "receptionRange": 25
   },
   {
     "name": "Casablanca",
@@ -15329,8 +15347,8 @@
   {
     "name": "DONEGAL",
     "identifier": "CFN",
-    "latitude": 55.04400635,
-    "longitude": -8.33927536,
+    "latitude": 55.044000000,
+    "longitude": -8.339277778,
     "elevation": 0,
     "frequency": 361,
     "receptionRange": 25
