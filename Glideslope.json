@@ -71857,26 +71857,26 @@
     "airportICAO": "MMMX",
     "identifier": "IMWX",
     "associatedRunwayNumber": "05R",
-    "latitude": 19.42935000,
-    "longitude": -99.07889200,
+    "latitude": 19.42655117,
+    "longitude": -99.08668164,
     "elevation": 7316,
     "frequency": 109100,
     "receptionRange": 10,
-    "bearing": 59.540,
-    "glideslope": 3.0005927
+    "bearing": 59.240,
+    "glideslope": 3.00059240
   },
   {
     "name": "GS",
     "airportICAO": "MMMX",
     "identifier": "IMEX",
     "associatedRunwayNumber": "23L",
-    "latitude": 19.44454400,
-    "longitude": -99.05736700,
+    "latitude": 19.44537254,
+    "longitude": -99.05314484,
     "elevation": 7316,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 239.540,
-    "glideslope": 3.0023927
+    "bearing": 239.240,
+    "glideslope": 3.00239240
   },
   {
     "name": "GS",
