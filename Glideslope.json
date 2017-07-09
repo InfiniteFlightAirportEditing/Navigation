@@ -71831,13 +71831,13 @@
     "airportICAO": "MMLP",
     "identifier": "ILAP",
     "associatedRunwayNumber": "18",
-    "latitude": 24.08124400,
-    "longitude": -110.36204200,
-    "elevation": 69,
+    "latitude": 24.08397166,
+    "longitude": -110.36092343,
+    "elevation": 67,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 187.824,
-    "glideslope": 3.00187412
+    "bearing": 187.560,
+    "glideslope": 2.90187560
   },
   {
     "name": "GS",
