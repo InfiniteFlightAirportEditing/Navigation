@@ -70193,13 +70193,13 @@
     "airportICAO": "LKPD",
     "identifier": "PK",
     "associatedRunwayNumber": "27",
-    "latitude": 50.01196400,
-    "longitude": 15.75186100,
-    "elevation": 732,
+    "latitude": 50.01291607,
+    "longitude": 15.75601485,
+    "elevation": 741,
     "frequency": 109350,
     "receptionRange": 10,
-    "bearing": 273.600,
-    "glideslope": 3.002728
+    "bearing": 272.77,
+    "glideslope": 3.0027277
   },
   {
     "name": "GS",

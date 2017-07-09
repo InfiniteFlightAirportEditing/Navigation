@@ -74353,12 +74353,12 @@
     "airportICAO": "LKPD",
     "identifier": "PK",
     "associatedRunwayNumber": "27",
-    "latitude": 50.01414200,
-    "longitude": 15.71653900,
-    "elevation": 780,
+    "latitude": 50.01291607,
+    "longitude": 15.75601485,
+    "elevation": 741,
     "frequency": 109350,
     "receptionRange": 18,
-    "bearing": 272.755
+    "bearing": 272.77
   },
   {
     "name": "ILS-cat-I",
