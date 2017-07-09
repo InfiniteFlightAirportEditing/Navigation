@@ -71844,13 +71844,13 @@
     "airportICAO": "MMMD",
     "identifier": "IMID",
     "associatedRunwayNumber": "10",
-    "latitude": 20.93713100,
-    "longitude": -89.65424700,
+    "latitude": 20.93767315,
+    "longitude": -89.66023370,
     "elevation": 38,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 105.834,
-    "glideslope": 3.00105417
+    "bearing": 105.420,
+    "glideslope": 3.20105420
   },
   {
     "name": "GS",
