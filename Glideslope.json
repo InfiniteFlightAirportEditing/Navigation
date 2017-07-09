@@ -71935,13 +71935,13 @@
     "airportICAO": "MMTO",
     "identifier": "ITLC",
     "associatedRunwayNumber": "15",
-    "latitude": 19.35065800,
-    "longitude": -99.57341400,
-    "elevation": 8466,
+    "latitude": 19.35421141,
+    "longitude": -99.57375196,
+    "elevation": 8464,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 157.814,
-    "glideslope": 3.00156907
+    "bearing": 156.930,
+    "glideslope": 3.00156930
   },
   {
     "name": "GS",
