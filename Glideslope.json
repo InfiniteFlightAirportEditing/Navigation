@@ -71883,13 +71883,13 @@
     "airportICAO": "MMMY",
     "identifier": "IMTY",
     "associatedRunwayNumber": "29",
-    "latitude": 25.77278900,
-    "longitude": -100.09366100,
-    "elevation": 1278,
+    "latitude": 25.77012116,
+    "longitude": -100.09162295,
+    "elevation": 1276,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 301.578,
-    "glideslope": 3.00301289
+    "bearing": 301.420,
+    "glideslope": 3.00301420
   },
   {
     "name": "GS",

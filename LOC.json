@@ -76017,12 +76017,12 @@
     "airportICAO": "MMMY",
     "identifier": "IMTY",
     "associatedRunwayNumber": "29",
-    "latitude": 25.78446700,
-    "longitude": -100.11771700,
-    "elevation": 1278,
+    "latitude": 25.77012116,
+    "longitude": -100.09162295,
+    "elevation": 1276,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 301.385
+    "bearing": 301.420
   },
   {
     "name": "ILS-cat-I",
