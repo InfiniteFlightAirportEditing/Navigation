@@ -76030,12 +76030,12 @@
     "airportICAO": "MMMZ",
     "identifier": "IMZT",
     "associatedRunwayNumber": "26",
-    "latitude": 23.16241700,
-    "longitude": -106.28043100,
+    "latitude": 23.16084456,
+    "longitude": -106.25135977,
     "elevation": 38,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 273.726
+    "bearing": 272.960
   },
   {
     "name": "ILS-cat-I",

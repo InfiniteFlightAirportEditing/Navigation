@@ -71896,13 +71896,13 @@
     "airportICAO": "MMMZ",
     "identifier": "IMZT",
     "associatedRunwayNumber": "26",
-    "latitude": 23.16028300,
-    "longitude": -106.25471400,
+    "latitude": 23.16084456,
+    "longitude": -106.25135977,
     "elevation": 38,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 273.348,
-    "glideslope": 3.00273174
+    "bearing": 272.960,
+    "glideslope": 3.00272960
   },
   {
     "name": "GS",
