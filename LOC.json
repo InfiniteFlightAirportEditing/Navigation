@@ -75965,12 +75965,12 @@
     "airportICAO": "MMLP",
     "identifier": "ILAP",
     "associatedRunwayNumber": "18",
-    "latitude": 24.05940600,
-    "longitude": -110.36506400,
-    "elevation": 69,
+    "latitude": 24.08397166,
+    "longitude": -110.36092343,
+    "elevation": 67,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 188.871
+    "bearing": 187.560
   },
   {
     "name": "ILS-cat-I",
@@ -76069,12 +76069,12 @@
     "airportICAO": "MMTO",
     "identifier": "ITLC",
     "associatedRunwayNumber": "15",
-    "latitude": 19.31846700,
-    "longitude": -99.55763300,
-    "elevation": 8466,
+    "latitude": 19.35421141,
+    "longitude": -99.57375196,
+    "elevation": 8464,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 156.952
+    "bearing": 156.930
   },
   {
     "name": "ILS-cat-I",
