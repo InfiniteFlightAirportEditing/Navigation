@@ -75041,13 +75041,13 @@
     "type": 4,
     "airportICAO": "LSGS",
     "identifier": "ISI",
-    "associatedRunwayNumber": "25L",
-    "latitude": 46.21583000,
-    "longitude": 7.31166600,
-    "elevation": 1609,
+    "associatedRunwayNumber": "25",
+    "latitude": 46.22199886,
+    "longitude": 7.33942521,
+    "elevation": 1584,
     "frequency": 110700,
     "receptionRange": 45,
-    "bearing": 246.478
+    "bearing": 252.870
   },
   {
     "name": "ILS-cat-I",

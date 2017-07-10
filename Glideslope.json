@@ -70881,14 +70881,14 @@
     "name": "GS",
     "airportICAO": "LSGS",
     "identifier": "ISI",
-    "associatedRunwayNumber": "25L",
-    "latitude": 46.22120600,
-    "longitude": 7.33825200,
-    "elevation": 1595,
+    "associatedRunwayNumber": "25",
+    "latitude": 46.22199886,
+    "longitude": 7.33942521,
+    "elevation": 1584,
     "frequency": 110700,
     "receptionRange": 45,
-    "bearing": 246.956,
-    "glideslope": 6.00246478
+    "bearing": 252.870,
+    "glideslope": 6.00252870
   },
   {
     "name": "GS",
