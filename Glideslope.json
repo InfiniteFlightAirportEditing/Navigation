@@ -71753,26 +71753,26 @@
     "airportICAO": "MMAA",
     "identifier": "IAIA",
     "associatedRunwayNumber": "10",
-    "latitude": 16.75797500,
-    "longitude": -99.76028600,
-    "elevation": 13,
+    "latitude": 16.75998882,
+    "longitude": -99.76307610,
+    "elevation": 16,
     "frequency": 111900,
     "receptionRange": 10,
-    "bearing": 108.200,
-    "glideslope": 3.001081
+    "bearing": 108.100,
+    "glideslope": 3.10108100
   },
   {
     "name": "GS",
     "airportICAO": "MMAA",
     "identifier": "IACA",
     "associatedRunwayNumber": "28",
-    "latitude": 16.75076900,
-    "longitude": -99.73714200,
-    "elevation": 13,
+    "latitude": 16.75077182,
+    "longitude": -99.73362610,
+    "elevation": 16,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 288.200,
-    "glideslope": 3.002881
+    "bearing": 288.100,
+    "glideslope": 3.00288100
   },
   {
     "name": "GS",
