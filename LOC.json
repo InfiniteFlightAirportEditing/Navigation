@@ -75913,12 +75913,12 @@
     "airportICAO": "MMCU",
     "identifier": "ICUU",
     "associatedRunwayNumber": "36R",
-    "latitude": 28.71652500,
-    "longitude": -105.96059400,
-    "elevation": 4462,
+    "latitude": 28.69159350,
+    "longitude": -105.96590968,
+    "elevation": 4460,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 10.597
+    "bearing": 10.730
   },
   {
     "name": "ILS-cat-I",
