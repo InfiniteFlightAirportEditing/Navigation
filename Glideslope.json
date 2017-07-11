@@ -52993,13 +52993,13 @@
     "airportICAO": "KCBF",
     "identifier": "ICBF",
     "associatedRunwayNumber": "36",
-    "latitude": 41.25616837,
-    "longitude": -95.75908661,
-    "elevation": 1253,
+    "latitude": 41.25351802,
+    "longitude": -95.75795386,
+    "elevation": 1251,
     "frequency": 111350,
     "receptionRange": 50,
-    "bearing": 357.000,
-    "glideslope": 3.00357
+    "bearing": 361.530,
+    "glideslope": 3.00361530
   },
   {
     "name": "GS",

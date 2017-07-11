@@ -57021,6 +57021,19 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "KCBF",
+    "identifier": "ICBF",
+    "associatedRunwayNumber": "36",
+    "latitude": 41.25351802,
+    "longitude": -95.75795386,
+    "elevation": 1251,
+    "frequency": 111350,
+    "receptionRange": 50,
+    "bearing": 361.530
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "KCBM",
     "identifier": "ICBM",
     "associatedRunwayNumber": "13C",
