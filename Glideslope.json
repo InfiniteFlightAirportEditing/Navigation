@@ -52057,13 +52057,13 @@
     "airportICAO": "KBHB",
     "identifier": "IBHB",
     "associatedRunwayNumber": "22",
-    "latitude": 44.45503600,
-    "longitude": -68.36158300,
-    "elevation": 72,
+    "latitude": 44.45683878,
+    "longitude": -68.35900936,
+    "elevation": 83,
     "frequency": 108300,
     "receptionRange": 10,
-    "bearing": 205.088,
-    "glideslope": 3.00204544
+    "bearing": 204.550,
+    "glideslope": 3.00204550
   },
   {
     "name": "GS",

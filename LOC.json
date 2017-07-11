@@ -56075,12 +56075,12 @@
     "airportICAO": "KBHB",
     "identifier": "IBHB",
     "associatedRunwayNumber": "22",
-    "latitude": 44.44224400,
-    "longitude": -68.36833300,
-    "elevation": 62,
+    "latitude": 44.45683878,
+    "longitude": -68.35900936,
+    "elevation": 83,
     "frequency": 108300,
     "receptionRange": 18,
-    "bearing": 204.562
+    "bearing": 204.550
   },
   {
     "name": "ILS-cat-II",
