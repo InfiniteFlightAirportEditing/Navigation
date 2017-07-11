@@ -74990,13 +74990,13 @@
     "airportICAO": "RJOA",
     "identifier": "IHG",
     "associatedRunwayNumber": "10",
-    "latitude": 34.43494400,
-    "longitude": 132.90666100,
-    "elevation": 1094,
+    "latitude": 34.43605744,
+    "longitude": 132.90307707,
+    "elevation": 1085,
     "frequency": 108700,
     "receptionRange": 10,
     "bearing": 90.000,
-    "glideslope": 3.0009
+    "glideslope": 3.00090000
   },
   {
     "name": "GS",

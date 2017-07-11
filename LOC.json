@@ -79072,9 +79072,9 @@
     "airportICAO": "RJOA",
     "identifier": "IHG",
     "associatedRunwayNumber": "10",
-    "latitude": 34.43602800,
-    "longitude": 132.93831900,
-    "elevation": 1094,
+    "latitude": 34.43605744,
+    "longitude": 132.90307707,
+    "elevation": 1085,
     "frequency": 108700,
     "receptionRange": 18,
     "bearing": 90.000
