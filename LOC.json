@@ -76017,12 +76017,12 @@
     "airportICAO": "MMMY",
     "identifier": "IMTY",
     "associatedRunwayNumber": "29",
-    "latitude": 25.78446700,
-    "longitude": -100.11771700,
-    "elevation": 1278,
+    "latitude": 25.77012116,
+    "longitude": -100.09162295,
+    "elevation": 1276,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 301.385
+    "bearing": 301.420
   },
   {
     "name": "ILS-cat-I",
@@ -76030,12 +76030,12 @@
     "airportICAO": "MMMZ",
     "identifier": "IMZT",
     "associatedRunwayNumber": "26",
-    "latitude": 23.16241700,
-    "longitude": -106.28043100,
+    "latitude": 23.16084456,
+    "longitude": -106.25135977,
     "elevation": 38,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 273.726
+    "bearing": 272.960
   },
   {
     "name": "ILS-cat-I",
