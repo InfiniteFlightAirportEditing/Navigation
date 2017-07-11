@@ -67006,14 +67006,14 @@
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "KPQI",
-    "identifier": "IPGI",
+    "identifier": "IPQI",
     "associatedRunwayNumber": "01",
-    "latitude": 46.70266700,
-    "longitude": -68.05354400,
+    "latitude": 46.68122607,
+    "longitude": -68.04557365,
     "elevation": 534,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 345.714
+    "bearing": 345.720
   },
   {
     "name": "ILS-cat-I",

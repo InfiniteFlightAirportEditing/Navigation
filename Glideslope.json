@@ -62897,15 +62897,15 @@
   {
     "name": "GS",
     "airportICAO": "KPQI",
-    "identifier": "IPGI",
+    "identifier": "IPQI",
     "associatedRunwayNumber": "01",
-    "latitude": 46.68360800,
-    "longitude": -68.04516900,
-    "elevation": 460,
+    "latitude": 46.68122607,
+    "longitude": -68.04557365,
+    "elevation": 534,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 346.454,
-    "glideslope": 3.00345727
+    "bearing": 345.720,
+    "glideslope": 3.00345720 
   },
   {
     "name": "GS",
