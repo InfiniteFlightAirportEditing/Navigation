@@ -67671,12 +67671,12 @@
     "airportICAO": "KRKD",
     "identifier": "IRMZ",
     "associatedRunwayNumber": "13",
-    "latitude": 44.05598300,
-    "longitude": -69.08828900,
-    "elevation": 54,
+    "latitude": 44.06153526,
+    "longitude": -69.10840032,
+    "elevation": 56,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 110.989
+    "bearing": 110.990
   },
   {
     "name": "ILS-cat-I",

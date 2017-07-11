@@ -63562,13 +63562,13 @@
     "airportICAO": "KRKD",
     "identifier": "IRMZ",
     "associatedRunwayNumber": "13",
-    "latitude": 44.05982800,
-    "longitude": -69.10542500,
-    "elevation": 43,
+    "latitude": 44.06153526,
+    "longitude": -69.10840032,
+    "elevation": 56,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 111.978,
-    "glideslope": 3.00110989
+    "bearing": 110.990,
+    "glideslope": 3.00110990 
   },
   {
     "name": "GS",
