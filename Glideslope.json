@@ -61027,13 +61027,13 @@
     "airportICAO": "KMVY",
     "identifier": "IMVY",
     "associatedRunwayNumber": "24",
-    "latitude": 41.39592200,
-    "longitude": -70.61021700,
-    "elevation": 61,
+    "latitude": 41.39813380,
+    "longitude": -70.60626506,
+    "elevation": 67,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 221.006,
-    "glideslope": 3.00220503
+    "bearing": 220.520,
+    "glideslope": 3.00220520
   },
   {
     "name": "GS",

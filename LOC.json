@@ -65136,12 +65136,12 @@
     "airportICAO": "KMVY",
     "identifier": "IMVY",
     "associatedRunwayNumber": "24",
-    "latitude": 41.38498300,
-    "longitude": -70.62122800,
-    "elevation": 68,
+    "latitude": 41.39813380,
+    "longitude": -70.60626506,
+    "elevation": 67,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 220.482
+    "bearing": 220.520
   },
   {
     "name": "ILS-cat-I",
