@@ -50263,13 +50263,13 @@
     "airportICAO": "GMTT",
     "identifier": "TAG",
     "associatedRunwayNumber": "28",
-    "latitude": 35.73166700,
-    "longitude": -5.91000000,
-    "elevation": 52,
+    "latitude": 35.72994549,
+    "longitude": -5.90174469,
+    "elevation": 62,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 276.046,
-    "glideslope": 2.99276023
+    "bearing": 276.540,
+    "glideslope": 3.00276540
   },
   {
     "name": "GS",

@@ -54281,12 +54281,12 @@
     "airportICAO": "GMTT",
     "identifier": "TAG",
     "associatedRunwayNumber": "28",
-    "latitude": 35.73361100,
-    "longitude": -5.94277800,
+    "latitude": 35.72994549,
+    "longitude": -5.90174469,
     "elevation": 62,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 276.224
+    "bearing": 276.540
   },
   {
     "name": "ILS-cat-I",
