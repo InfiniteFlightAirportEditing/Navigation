@@ -62028,26 +62028,26 @@
     "airportICAO": "KORH",
     "identifier": "IRSR",
     "associatedRunwayNumber": "11",
-    "latitude": 42.26621400,
-    "longitude": -71.88774700,
-    "elevation": 980,
+    "latitude": 42.26733503,
+    "longitude": -71.89076480,
+    "elevation": 1009,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 94.724,
-    "glideslope": 3.00093862
+    "bearing": 93.860,
+    "glideslope": 3.00093860
   },
   {
     "name": "GS",
     "airportICAO": "KORH",
     "identifier": "IEKW",
     "associatedRunwayNumber": "29",
-    "latitude": 42.26693300,
-    "longitude": -71.86854700,
-    "elevation": 991,
+    "latitude": 42.26604603,
+    "longitude": -71.86496180,
+    "elevation": 1009,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 274.724,
-    "glideslope": 3.00273862
+    "bearing": 273.860,
+    "glideslope": 3.00273860
   },
   {
     "name": "GS",

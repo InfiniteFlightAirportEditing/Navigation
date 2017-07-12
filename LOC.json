@@ -66137,12 +66137,12 @@
     "airportICAO": "KORH",
     "identifier": "IRSR",
     "associatedRunwayNumber": "11",
-    "latitude": 42.26598600,
-    "longitude": -71.86388900,
+    "latitude": 42.26733503,
+    "longitude": -71.89076480,
     "elevation": 1009,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 93.874
+    "bearing": 93.860
   },
   {
     "name": "ILS-cat-I",
@@ -66150,12 +66150,12 @@
     "airportICAO": "KORH",
     "identifier": "IEKW",
     "associatedRunwayNumber": "29",
-    "latitude": 42.26743300,
-    "longitude": -71.89288600,
+    "latitude": 42.26604603,
+    "longitude": -71.86496180,
     "elevation": 1009,
     "frequency": 110900,
     "receptionRange": 18,
-    "bearing": 273.845
+    "bearing": 273.860
   },
   {
     "name": "ILS-cat-I",
