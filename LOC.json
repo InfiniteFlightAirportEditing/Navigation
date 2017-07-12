@@ -88822,12 +88822,12 @@
     "airportICAO": "KBVY",
     "identifier": "IBVY",
     "associatedRunwayNumber": "16",
-    "latitude": 42.58147200,
-    "longitude": -70.91029400,
-    "elevation": 75,
+    "latitude": 42.59196086,
+    "longitude": -70.92191832,
+    "elevation": 107,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 140.738
+    "bearing": 140.750
   },
   {
     "name": "LOC",
