@@ -59858,12 +59858,12 @@
     "airportICAO": "KFMH",
     "identifier": "IFMH",
     "associatedRunwayNumber": "23",
-    "latitude": 41.64799400,
-    "longitude": -70.53258300,
-    "elevation": 130,
-    "frequency": 110100,
+    "latitude": 41.66720842,
+    "longitude": -70.51164913,
+    "elevation": 131,
+    "frequency": 109550,
     "receptionRange": 18,
-    "bearing": 218.592
+    "bearing": 218.840
   },
   {
     "name": "ILS-cat-I",
@@ -59871,12 +59871,12 @@
     "airportICAO": "KFMH",
     "identifier": "IBNX",
     "associatedRunwayNumber": "32",
-    "latitude": 41.66955000,
-    "longitude": -70.54280600,
-    "elevation": 130,
-    "frequency": 109900,
+    "latitude": 41.65157665,
+    "longitude": -70.51064544,
+    "elevation": 131,
+    "frequency": 110750,
     "receptionRange": 18,
-    "bearing": 307.397
+    "bearing": 307.540
   },
   {
     "name": "ILS-cat-I",
