@@ -63081,13 +63081,13 @@
     "airportICAO": "KPVC",
     "identifier": "IVQO",
     "associatedRunwayNumber": "07",
-    "latitude": 42.07019200,
-    "longitude": -70.22330300,
+    "latitude": 42.06983100,
+    "longitude": -70.22628100,
     "elevation": 9,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 59.462,
-    "glideslope": 3.00059231
+    "bearing": 59.230,
+    "glideslope": 3.00059230
   },
   {
     "name": "GS",

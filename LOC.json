@@ -67190,12 +67190,12 @@
     "airportICAO": "KPVC",
     "identifier": "IVQO",
     "associatedRunwayNumber": "07",
-    "latitude": 42.07558600,
-    "longitude": -70.21326700,
-    "elevation": 8,
+    "latitude": 42.06983100,
+    "longitude": -70.22628100,
+    "elevation": 9,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 59.220
+    "bearing": 59.230
   },
   {
     "name": "ILS-cat-III",
