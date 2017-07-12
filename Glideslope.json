@@ -50809,26 +50809,26 @@
     "airportICAO": "KACK",
     "identifier": "IRNE",
     "associatedRunwayNumber": "06",
-    "latitude": 41.24929400,
-    "longitude": -70.06794700,
-    "elevation": 32,
+    "latitude": 41.24694168,
+    "longitude": -70.07253627,
+    "elevation": 48,
     "frequency": 109100,
     "receptionRange": 10,
-    "bearing": 45.796,
-    "glideslope": 3.00044898
+    "bearing": 44.910,
+    "glideslope": 3.00044910
   },
   {
     "name": "GS",
     "airportICAO": "KACK",
     "identifier": "IACK",
     "associatedRunwayNumber": "24",
-    "latitude": 41.25660300,
-    "longitude": -70.05765800,
-    "elevation": 46,
+    "latitude": 41.25917451,
+    "longitude": -70.05631852,
+    "elevation": 48,
     "frequency": 109100,
     "receptionRange": 10,
-    "bearing": 225.796,
-    "glideslope": 3.00224898
+    "bearing": 224.910,
+    "glideslope": 3.00224910
   },
   {
     "name": "GS",

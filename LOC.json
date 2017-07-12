@@ -54827,12 +54827,12 @@
     "airportICAO": "KACK",
     "identifier": "IRNE",
     "associatedRunwayNumber": "06",
-    "latitude": 41.26143100,
-    "longitude": -70.05331900,
-    "elevation": 54,
+    "latitude": 41.24694168,
+    "longitude": -70.07253627,
+    "elevation": 48,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 44.911
+    "bearing": 44.910
   },
   {
     "name": "ILS-cat-I",
@@ -54840,12 +54840,12 @@
     "airportICAO": "KACK",
     "identifier": "IACK",
     "associatedRunwayNumber": "24",
-    "latitude": 41.24606900,
-    "longitude": -70.07367800,
+    "latitude": 41.25917451,
+    "longitude": -70.05631852,
     "elevation": 48,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 224.881
+    "bearing": 224.910
   },
   {
     "name": "ILS-cat-I",
