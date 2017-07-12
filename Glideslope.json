@@ -51888,26 +51888,26 @@
     "airportICAO": "KBED",
     "identifier": "IBED",
     "associatedRunwayNumber": "11",
-    "latitude": 42.47255300,
-    "longitude": -71.29633600,
-    "elevation": 128,
+    "latitude": 42.47183809,
+    "longitude": -71.30038978,
+    "elevation": 132,
     "frequency": 111150,
     "receptionRange": 10,
-    "bearing": 97.340,
-    "glideslope": 3.0009717
+    "bearing": 97.170,
+    "glideslope": 3.00097170
   },
   {
     "name": "GS",
     "airportICAO": "KBED",
     "identifier": "IULJ",
     "associatedRunwayNumber": "29",
-    "latitude": 42.47064400,
-    "longitude": -71.27794400,
-    "elevation": 126,
+    "latitude": 42.46943778,
+    "longitude": -71.27452146,
+    "elevation": 132,
     "frequency": 111150,
     "receptionRange": 10,
-    "bearing": 277.340,
-    "glideslope": 3.0027717
+    "bearing": 277.170,
+    "glideslope": 3.00277170
   },
   {
     "name": "GS",

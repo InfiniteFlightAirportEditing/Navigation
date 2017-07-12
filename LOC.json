@@ -55906,9 +55906,9 @@
     "airportICAO": "KBED",
     "identifier": "IBED",
     "associatedRunwayNumber": "11",
-    "latitude": 42.46886400,
-    "longitude": -71.26840000,
-    "elevation": 133,
+    "latitude": 42.47183809,
+    "longitude": -71.30038978,
+    "elevation": 132,
     "frequency": 111150,
     "receptionRange": 18,
     "bearing": 97.170
@@ -55919,12 +55919,12 @@
     "airportICAO": "KBED",
     "identifier": "IULJ",
     "associatedRunwayNumber": "29",
-    "latitude": 42.47216700,
-    "longitude": -71.30404400,
-    "elevation": 133,
+    "latitude": 42.46943778,
+    "longitude": -71.27452146,
+    "elevation": 132,
     "frequency": 111150,
     "receptionRange": 18,
-    "bearing": 277.159
+    "bearing": 277.170
   },
   {
     "name": "ILS-cat-I",
