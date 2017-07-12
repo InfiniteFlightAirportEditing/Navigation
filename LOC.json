@@ -71428,9 +71428,9 @@
     "airportICAO": "LEVX",
     "identifier": "VIG",
     "associatedRunwayNumber": "20",
-    "latitude": 42.22008300,
-    "longitude": -8.62998300,
-    "elevation": 855,
+    "latitude": 42.24241901,
+    "longitude": -8.62389256,
+    "elevation": 854,
     "frequency": 110900,
     "receptionRange": 18,
     "bearing": 191.380

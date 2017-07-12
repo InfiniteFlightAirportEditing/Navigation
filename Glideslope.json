@@ -67320,13 +67320,13 @@
     "airportICAO": "LEVX",
     "identifier": "VIG",
     "associatedRunwayNumber": "20",
-    "latitude": 42.23980300,
-    "longitude": -8.62377500,
-    "elevation": 855,
+    "latitude": 42.24241901,
+    "longitude": -8.62389256,
+    "elevation": 854,
     "frequency": 110900,
     "receptionRange": 10,
-    "bearing": 191.760,
-    "glideslope": 3.0019138
+    "bearing": 191.380,
+    "glideslope": 3.00191380
   },
   {
     "name": "GS",
