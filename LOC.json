@@ -59520,12 +59520,12 @@
     "airportICAO": "KEWB",
     "identifier": "IEWB",
     "associatedRunwayNumber": "05",
-    "latitude": 41.68420800,
-    "longitude": -70.95125600,
+    "latitude": 41.67168022,
+    "longitude": -70.96453035,
     "elevation": 80,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 38.354
+    "bearing": 38.360
   },
   {
     "name": "ILS-cat-I",

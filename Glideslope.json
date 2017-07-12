@@ -55489,13 +55489,13 @@
     "airportICAO": "KEWB",
     "identifier": "IEWB",
     "associatedRunwayNumber": "05",
-    "latitude": 41.67276100,
-    "longitude": -70.96190600,
-    "elevation": 64,
+    "latitude": 41.67168022,
+    "longitude": -70.96453035,
+    "elevation": 80,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 38.696,
-    "glideslope": 3.00038348
+    "bearing": 38.360,
+    "glideslope": 3.00038360
   },
   {
     "name": "GS",
