@@ -66917,13 +66917,13 @@
     "airportICAO": "LEGE",
     "identifier": "IGN",
     "associatedRunwayNumber": "20",
-    "latitude": 41.91316900,
-    "longitude": 2.76407500,
-    "elevation": 403,
+    "latitude": 41.91572073,
+    "longitude": 2.76613100,
+    "elevation": 469,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 196.000,
-    "glideslope": 3.001955
+    "bearing": 195.730,
+    "glideslope": 3.00195730
   },
   {
     "name": "GS",

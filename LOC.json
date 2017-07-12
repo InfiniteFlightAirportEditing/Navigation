@@ -71025,12 +71025,12 @@
     "airportICAO": "LEGE",
     "identifier": "IGN",
     "associatedRunwayNumber": "20",
-    "latitude": 41.89230600,
-    "longitude": 2.75726900,
-    "elevation": 468,
+    "latitude": 41.91572073,
+    "longitude": 2.76613100,
+    "elevation": 469,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 195.596
+    "bearing": 195.730
   },
   {
     "name": "ILS-cat-I",
