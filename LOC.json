@@ -61509,12 +61509,12 @@
     "airportICAO": "KHYA",
     "identifier": "IBCU",
     "associatedRunwayNumber": "15",
-    "latitude": 41.66313100,
-    "longitude": -70.27876700,
-    "elevation": 40,
+    "latitude": 41.67478433,
+    "longitude": -70.29191183,
+    "elevation": 55,
     "frequency": 108950,
     "receptionRange": 18,
-    "bearing": 139.901
+    "bearing": 139.890
   },
   {
     "name": "ILS-cat-I",
@@ -61522,12 +61522,12 @@
     "airportICAO": "KHYA",
     "identifier": "IHYA",
     "associatedRunwayNumber": "24",
-    "latitude": 41.66405000,
-    "longitude": -70.28363300,
-    "elevation": 43,
+    "latitude": 41.67422712,
+    "longitude": -70.26757875,
+    "elevation": 55,
     "frequency": 109150,
     "receptionRange": 18,
-    "bearing": 229.686
+    "bearing": 229.710
   },
   {
     "name": "ILS-cat-I",

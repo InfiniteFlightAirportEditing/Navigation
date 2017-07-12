@@ -57426,26 +57426,26 @@
     "airportICAO": "KHYA",
     "identifier": "IBCU",
     "associatedRunwayNumber": "15",
-    "latitude": 41.67317500,
-    "longitude": -70.28846700,
-    "elevation": 49,
+    "latitude": 41.67478433,
+    "longitude": -70.29191183,
+    "elevation": 55,
     "frequency": 108950,
     "receptionRange": 10,
-    "bearing": 140.758,
-    "glideslope": 3.00139879
+    "bearing": 139.890,
+    "glideslope": 3.10139890
   },
   {
     "name": "GS",
     "airportICAO": "KHYA",
     "identifier": "IHYA",
     "associatedRunwayNumber": "24",
-    "latitude": 41.67201100,
-    "longitude": -70.26962200,
-    "elevation": 38,
+    "latitude": 41.67422712,
+    "longitude": -70.26757875,
+    "elevation": 55,
     "frequency": 109150,
     "receptionRange": 10,
-    "bearing": 230.414,
-    "glideslope": 3.00229707
+    "bearing": 229.710,
+    "glideslope": 3.00229710
   },
   {
     "name": "GS",
