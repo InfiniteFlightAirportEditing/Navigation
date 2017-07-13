@@ -38941,12 +38941,25 @@
     "airportICAO": "VOMM",
     "identifier": "IMAS",
     "associatedRunwayNumber": "07",
-    "latitude": 12.984139,
-    "longitude": 80.152930,
+    "latitude": 12.98413890,
+    "longitude": 80.15293019,
     "elevation": 52,
     "frequency": 110300,
     "receptionRange": 18,
     "bearing": 68.920
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "VOMM",
+    "identifier": "ICHN",
+    "associatedRunwayNumber": "25",
+    "latitude": 12.99597692,
+    "longitude": 80.18445377,
+    "elevation": 52,
+    "frequency": 109700,
+    "receptionRange": 18,
+    "bearing": 248.920
   },
   {
     "name": "ILS-cat-I",
@@ -50019,7 +50032,7 @@
     "associatedRunwayNumber": "28",
     "latitude": 53.77087171,
     "longitude": -3.01443901,
-    "elevation": 34.0,
+    "elevation": 34,
     "frequency": 108150,
     "receptionRange": 18,
     "bearing": 274.66
@@ -84584,12 +84597,25 @@
     "airportICAO": "VOMM",
     "identifier": "IMAS",
     "associatedRunwayNumber": "07",
-    "latitude": 12.99730600,
-    "longitude": 80.18755600,
+    "latitude": 12.98413890,
+    "longitude": 80.15293019,
     "elevation": 52,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 68.673
+    "bearing": 68.920
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "VOMM",
+    "identifier": "ICHN",
+    "associatedRunwayNumber": "25",
+    "latitude": 12.99597692,
+    "longitude": 80.18445377,
+    "elevation": 52,
+    "frequency": 109700,
+    "receptionRange": 18,
+    "bearing": 248.920
   },
   {
     "name": "ILS-cat-I",
