@@ -24030,12 +24030,12 @@
     "airportICAO": "KTOL",
     "identifier": "ITOL",
     "associatedRunwayNumber": "07",
-    "latitude": 41.59418869,
-    "longitude": -83.79019165,
-    "elevation": 659,
+    "latitude": 41.58138600,
+    "longitude": -83.83070300,
+    "elevation": 684,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 67.106
+    "bearing": 67.100
   },
   {
     "name": "ILS-cat-I",
@@ -24043,12 +24043,12 @@
     "airportICAO": "KTOL",
     "identifier": "IBQE",
     "associatedRunwayNumber": "25",
-    "latitude": 41.58031082,
-    "longitude": -83.83410645,
-    "elevation": 677,
+    "latitude": 41.59267200,
+    "longitude": -83.79499200,
+    "elevation": 684,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 247.080
+    "bearing": 247.100
   },
   {
     "name": "ILS-cat-I",
@@ -69777,12 +69777,12 @@
     "airportICAO": "KTOL",
     "identifier": "ITOL",
     "associatedRunwayNumber": "07",
-    "latitude": 41.59418900,
-    "longitude": -83.79019400,
-    "elevation": 659,
+    "latitude": 41.58138600,
+    "longitude": -83.83070300,
+    "elevation": 684,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 67.106
+    "bearing": 67.100
   },
   {
     "name": "ILS-cat-I",
@@ -69790,12 +69790,12 @@
     "airportICAO": "KTOL",
     "identifier": "IBQE",
     "associatedRunwayNumber": "25",
-    "latitude": 41.58031100,
-    "longitude": -83.83410300,
-    "elevation": 677,
+    "latitude": 41.59267200,
+    "longitude": -83.79499200,
+    "elevation": 684,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 247.080
+    "bearing": 247.100
   },
   {
     "name": "ILS-cat-I",
