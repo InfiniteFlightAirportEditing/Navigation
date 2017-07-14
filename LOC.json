@@ -40771,6 +40771,32 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "ZBOW",
+    "identifier": "IXX",
+    "associatedRunwayNumber": "13",
+    "latitude": 40.56723596,
+    "longitude": 109.98543171,
+    "elevation": 3320,
+    "frequency": 110500,
+    "receptionRange": 18,
+    "bearing": 128.620
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "ZBOW",
+    "identifier": "IZZ",
+    "associatedRunwayNumber": "31",
+    "latitude": 40.55150980,
+    "longitude": 110.01134639,
+    "elevation": 3320,
+    "frequency": 108500,
+    "receptionRange": 18,
+    "bearing": 308.620
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "ZBSJ",
     "identifier": "IOO",
     "associatedRunwayNumber": "15",
@@ -50019,7 +50045,7 @@
     "associatedRunwayNumber": "28",
     "latitude": 53.77087171,
     "longitude": -3.01443901,
-    "elevation": 34.0,
+    "elevation": 34,
     "frequency": 108150,
     "receptionRange": 18,
     "bearing": 274.66
@@ -86397,6 +86423,32 @@
     "frequency": 110300,
     "receptionRange": 18,
     "bearing": 263.890
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "ZBOW",
+    "identifier": "IXX",
+    "associatedRunwayNumber": "13",
+    "latitude": 40.56723596,
+    "longitude": 109.98543171,
+    "elevation": 3320,
+    "frequency": 110500,
+    "receptionRange": 18,
+    "bearing": 128.620
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "ZBOW",
+    "identifier": "IZZ",
+    "associatedRunwayNumber": "31",
+    "latitude": 40.55150980,
+    "longitude": 110.01134639,
+    "elevation": 3320,
+    "frequency": 108500,
+    "receptionRange": 18,
+    "bearing": 308.620
   },
   {
     "name": "ILS-cat-I",
