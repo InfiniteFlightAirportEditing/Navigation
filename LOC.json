@@ -1188,12 +1188,12 @@
     "airportICAO": "CYYJ",
     "identifier": "IKH",
     "associatedRunwayNumber": "09",
-    "latitude": 48.64574051,
-    "longitude": -123.41040039,
-    "elevation": 63,
+    "latitude": 48.65183487,
+    "longitude": -123.43960462,
+    "elevation": 62,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 105.298
+    "bearing": 106.060
   },
   {
     "name": "ILS-cat-I",
@@ -1201,12 +1201,12 @@
     "airportICAO": "CYYJ",
     "identifier": "IYJ",
     "associatedRunwayNumber": "27",
-    "latitude": 48.65134811,
-    "longitude": -123.44139862,
+    "latitude": 48.64655256,
+    "longitude": -123.41183036,
     "elevation": 62,
-    "frequency": 108700,
+    "frequency": 109950,
     "receptionRange": 18,
-    "bearing": 285.243
+    "bearing": 286.060
   },
   {
     "name": "ILS-cat-I",
@@ -47027,12 +47027,12 @@
     "airportICAO": "CYYJ",
     "identifier": "IKH",
     "associatedRunwayNumber": "09",
-    "latitude": 48.64574100,
-    "longitude": -123.41040000,
-    "elevation": 63,
+    "latitude": 48.65183487,
+    "longitude": -123.43960462,
+    "elevation": 62,
     "frequency": 108700,
     "receptionRange": 18,
-    "bearing": 105.298
+    "bearing": 106.060
   },
   {
     "name": "ILS-cat-I",
@@ -47040,12 +47040,12 @@
     "airportICAO": "CYYJ",
     "identifier": "IYJ",
     "associatedRunwayNumber": "27",
-    "latitude": 48.65134800,
-    "longitude": -123.44139900,
+    "latitude": 48.64655256,
+    "longitude": -123.41183036,
     "elevation": 62,
-    "frequency": 108700,
+    "frequency": 109950,
     "receptionRange": 18,
-    "bearing": 285.243
+    "bearing": 286.060
   },
   {
     "name": "ILS-cat-I",
