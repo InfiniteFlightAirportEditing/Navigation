@@ -18672,26 +18672,26 @@
     "airportICAO": "KMKG",
     "identifier": "ICJH",
     "associatedRunwayNumber": "24",
-    "latitude": 43.17076874,
-    "longitude": -86.23481750,
-    "elevation": 628,
+    "latitude": 43.17150395,
+    "longitude": -86.23059862,
+    "elevation": 627,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 236.562,
-    "glideslope": 3.00236281
+    "bearing": 236.300,
+    "glideslope": 3.00236300
   },
   {
     "name": "GS",
     "airportICAO": "KMKG",
     "identifier": "IMKG",
     "associatedRunwayNumber": "32",
-    "latitude": 43.16750717,
-    "longitude": -86.23013306,
-    "elevation": 626,
+    "latitude": 43.16269184,
+    "longitude": -86.22204851,
+    "elevation": 627,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 318.000,
-    "glideslope": 3.003175
+    "bearing": 317.500,
+    "glideslope": 3.00317500
   },
   {
     "name": "GS",
@@ -60403,26 +60403,26 @@
     "airportICAO": "KMKG",
     "identifier": "ICJH",
     "associatedRunwayNumber": "24",
-    "latitude": 43.17076900,
-    "longitude": -86.23481900,
-    "elevation": 628,
+    "latitude": 43.17150395,
+    "longitude": -86.23059862,
+    "elevation": 627,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 236.566,
-    "glideslope": 3.00236283
+    "bearing": 236.300,
+    "glideslope": 3.00236300
   },
   {
     "name": "GS",
     "airportICAO": "KMKG",
     "identifier": "IMKG",
     "associatedRunwayNumber": "32",
-    "latitude": 43.16750800,
-    "longitude": -86.23013300,
-    "elevation": 626,
+    "latitude": 43.16269184,
+    "longitude": -86.22204851,
+    "elevation": 627,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 317.980,
-    "glideslope": 3.0031749
+    "bearing": 317.500,
+    "glideslope": 3.00317500
   },
   {
     "name": "GS",
