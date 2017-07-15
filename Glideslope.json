@@ -51992,13 +51992,13 @@
     "airportICAO": "KBFM",
     "identifier": "IRUJ",
     "associatedRunwayNumber": "32",
-    "latitude": 30.61454400,
-    "longitude": -88.06283300,
-    "elevation": 21,
+    "latitude": 30.61320175,
+    "longitude": -88.05978388,
+    "elevation": 25,
     "frequency": 108500,
     "receptionRange": 10,
-    "bearing": 319.778,
-    "glideslope": 3.00318889
+    "bearing": 318.900,
+    "glideslope": 3.00318900
   },
   {
     "name": "GS",

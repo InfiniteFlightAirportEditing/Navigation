@@ -56010,12 +56010,12 @@
     "airportICAO": "KBFM",
     "identifier": "IRUJ",
     "associatedRunwayNumber": "32",
-    "latitude": 30.63547200,
-    "longitude": -88.08236400,
-    "elevation": 26,
+    "latitude": 30.61320175,
+    "longitude": -88.05978388,
+    "elevation": 25,
     "frequency": 108500,
     "receptionRange": 18,
-    "bearing": 318.889
+    "bearing": 318.900
   },
   {
     "name": "ILS-cat-I",
