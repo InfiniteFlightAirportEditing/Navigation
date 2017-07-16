@@ -23976,26 +23976,26 @@
     "airportICAO": "KTOL",
     "identifier": "ITOL",
     "associatedRunwayNumber": "07",
-    "latitude": 41.58157349,
-    "longitude": -83.82634735,
-    "elevation": 682,
+    "latitude": 41.58138600,
+    "longitude": -83.83070300,
+    "elevation": 684,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 67.188,
-    "glideslope": 2.75067094
+    "bearing": 67.100,
+    "glideslope": 3.00067100
   },
   {
     "name": "GS",
     "airportICAO": "KTOL",
     "identifier": "IBQE",
     "associatedRunwayNumber": "25",
-    "latitude": 41.59069824,
-    "longitude": -83.79745483,
-    "elevation": 665,
+    "latitude": 41.59267200,
+    "longitude": -83.79499200,
+    "elevation": 684,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 247.188,
-    "glideslope": 3.00247094
+    "bearing": 247.100,
+    "glideslope": 3.00247100
   },
   {
     "name": "GS",
@@ -65669,26 +65669,26 @@
     "airportICAO": "KTOL",
     "identifier": "ITOL",
     "associatedRunwayNumber": "07",
-    "latitude": 41.58157500,
-    "longitude": -83.82634400,
-    "elevation": 682,
+    "latitude": 41.58138600,
+    "longitude": -83.83070300,
+    "elevation": 684,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 67.188,
-    "glideslope": 2.75067094
+    "bearing": 67.100,
+    "glideslope": 3.00067100
   },
   {
     "name": "GS",
     "airportICAO": "KTOL",
     "identifier": "IBQE",
     "associatedRunwayNumber": "25",
-    "latitude": 41.59070000,
-    "longitude": -83.79745800,
-    "elevation": 665,
+    "latitude": 41.59267200,
+    "longitude": -83.79499200,
+    "elevation": 684,
     "frequency": 108700,
     "receptionRange": 10,
-    "bearing": 247.188,
-    "glideslope": 3.00247094
+    "bearing": 247.100,
+    "glideslope": 3.00247100
   },
   {
     "name": "GS",
