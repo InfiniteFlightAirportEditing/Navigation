@@ -38663,7 +38663,7 @@
     "bearing": 250.681
   },
   {
-    "name": "IGS",
+    "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "VHXX",
     "identifier": "KL",
@@ -38673,7 +38673,7 @@
     "elevation": 387,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 87.000
+    "bearing": 88.000
   },
   {
     "name": "ILS-cat-I",
