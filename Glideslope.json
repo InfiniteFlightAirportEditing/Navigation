@@ -45777,26 +45777,26 @@
     "airportICAO": "EGJB",
     "identifier": "IUY",
     "associatedRunwayNumber": "09",
-    "latitude": 49.43576900,
-    "longitude": -2.60811700,
-    "elevation": 336,
+    "latitude": 49.43462780,
+    "longitude": -2.61369623,
+    "elevation": 334,
     "frequency": 108100,
     "receptionRange": 10,
-    "bearing": 88.134,
-    "glideslope": 3.00087567
+    "bearing": 87.57,
+    "glideslope": 3.0008757
   },
   {
     "name": "GS",
     "airportICAO": "EGJB",
     "identifier": "IGH",
     "associatedRunwayNumber": "27",
-    "latitude": 49.43415300,
-    "longitude": -2.59519700,
-    "elevation": 336,
+    "latitude": 49.43522855,
+    "longitude": -2.59192460,
+    "elevation": 334,
     "frequency": 108100,
     "receptionRange": 10,
-    "bearing": 268.134,
-    "glideslope": 3.00267567
+    "bearing": 267.57,
+    "glideslope": 3.0026757
   },
   {
     "name": "GS",
