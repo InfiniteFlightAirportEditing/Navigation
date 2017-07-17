@@ -62952,12 +62952,12 @@
     "airportICAO": "KLEB",
     "identifier": "IDVR",
     "associatedRunwayNumber": "18",
-    "latitude": 43.61619200,
-    "longitude": -72.30506900,
-    "elevation": 600,
+    "latitude": 43.62931191,
+    "longitude": -72.30735736,
+    "elevation": 603,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 170.000
+    "bearing": 168.020
   },
   {
     "name": "ILS-cat-I",
