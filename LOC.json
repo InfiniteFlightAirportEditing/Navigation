@@ -59416,12 +59416,12 @@
     "airportICAO": "KESC",
     "identifier": "IESC",
     "associatedRunwayNumber": "09",
-    "latitude": 45.72051100,
-    "longitude": -87.08336900,
-    "elevation": 609,
+    "latitude": 45.72081817,
+    "longitude": -87.11196827,
+    "elevation": 608,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 90.903
+    "bearing": 90.89
   },
   {
     "name": "ILS-cat-I",

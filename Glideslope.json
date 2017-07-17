@@ -55372,13 +55372,13 @@
     "airportICAO": "KESC",
     "identifier": "IESC",
     "associatedRunwayNumber": "09",
-    "latitude": 45.72186700,
-    "longitude": -87.10713600,
-    "elevation": 601,
+    "latitude": 45.72081817,
+    "longitude": -87.11196827,
+    "elevation": 608,
     "frequency": 109300,
     "receptionRange": 10,
-    "bearing": 91.774,
-    "glideslope": 3.00090887
+    "bearing": 90.89,
+    "glideslope": 3.0009089
   },
   {
     "name": "GS",
