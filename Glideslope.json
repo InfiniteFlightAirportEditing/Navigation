@@ -62977,26 +62977,26 @@
     "airportICAO": "KPSM",
     "identifier": "IPGQ",
     "associatedRunwayNumber": "16",
-    "latitude": 43.08669400,
-    "longitude": -70.83154400,
-    "elevation": 99,
+    "latitude": 43.09130125,
+    "longitude": -70.83423351,
+    "elevation": 100,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 149.576,
-    "glideslope": 3.00149288
+    "bearing": 149.200,
+    "glideslope": 3.00149200
   },
   {
     "name": "GS",
     "airportICAO": "KPSM",
     "identifier": "IPSM",
     "associatedRunwayNumber": "34",
-    "latitude": 43.06680800,
-    "longitude": -70.81640000,
-    "elevation": 78,
+    "latitude": 43.06462710,
+    "longitude": -70.81245731,
+    "elevation": 100,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 329.576,
-    "glideslope": 3.00329288
+    "bearing": 329.200,
+    "glideslope": 3.00329200
   },
   {
     "name": "GS",
