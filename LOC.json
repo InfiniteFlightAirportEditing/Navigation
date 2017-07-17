@@ -90574,6 +90574,19 @@
   {
     "name": "LOC",
     "type": 5,
+    "airportICAO": "KWST",
+    "identifier": "IRLS",
+    "associatedRunwayNumber": "07",
+    "latitude": 41.34560095,
+    "longitude": -71.81060447,
+    "elevation": 81,
+    "frequency": 108900,
+    "receptionRange": 18,
+    "bearing": 53.130
+  },
+  {
+    "name": "LOC",
+    "type": 5,
     "airportICAO": "KWVI",
     "identifier": "IAYN",
     "associatedRunwayNumber": "02",
