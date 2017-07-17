@@ -5503,39 +5503,39 @@
     "airportICAO": "EIDW",
     "identifier": "IDE",
     "associatedRunwayNumber": "10",
-    "latitude": 53.42097092,
-    "longitude": -6.28485823,
+    "latitude": 53.42243515,
+    "longitude": -6.29006754,
     "elevation": 242,
     "frequency": 108900,
     "receptionRange": 10,
-    "bearing": 95.562,
-    "glideslope": 3.00095281
+    "bearing": 95.260,
+    "glideslope": 3.00095260
   },
   {
     "name": "GS",
     "airportICAO": "EIDW",
     "identifier": "IAC",
     "associatedRunwayNumber": "16",
-    "latitude": 53.43407822,
-    "longitude": -6.26200294,
+    "latitude": 53.43699002,
+    "longitude": -6.26197743,
     "elevation": 242,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 157.250,
-    "glideslope": 3.00156625
+    "bearing": 156.640,
+    "glideslope": 3.00156640
   },
   {
     "name": "GS",
     "airportICAO": "EIDW",
     "identifier": "IDW",
     "associatedRunwayNumber": "28",
-    "latitude": 53.41933823,
-    "longitude": -6.25511694,
+    "latitude": 53.42026790,
+    "longitude": -6.25057386,
     "elevation": 242,
     "frequency": 111350,
     "receptionRange": 10,
-    "bearing": 275.562,
-    "glideslope": 3.00275281
+    "bearing": 275.260,
+    "glideslope": 3.00275260
   },
   {
     "name": "GS",
@@ -47286,39 +47286,39 @@
     "airportICAO": "EIDW",
     "identifier": "IDE",
     "associatedRunwayNumber": "10",
-    "latitude": 53.42097200,
-    "longitude": -6.28485800,
+    "latitude": 53.42243515,
+    "longitude": -6.29006754,
     "elevation": 242,
     "frequency": 108900,
     "receptionRange": 10,
-    "bearing": 95.536,
-    "glideslope": 3.00095268
+    "bearing": 95.260,
+    "glideslope": 3.00095260
   },
   {
     "name": "GS",
     "airportICAO": "EIDW",
     "identifier": "IAC",
     "associatedRunwayNumber": "16",
-    "latitude": 53.43407800,
-    "longitude": -6.26200300,
+    "latitude": 53.43699002,
+    "longitude": -6.26197743,
     "elevation": 242,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 157.280,
-    "glideslope": 3.0015664
+    "bearing": 156.640,
+    "glideslope": 3.00156640
   },
   {
     "name": "GS",
     "airportICAO": "EIDW",
     "identifier": "IDW",
     "associatedRunwayNumber": "28",
-    "latitude": 53.41933900,
-    "longitude": -6.25511700,
+    "latitude": 53.42026790,
+    "longitude": -6.25057386,
     "elevation": 242,
     "frequency": 111350,
     "receptionRange": 10,
-    "bearing": 275.536,
-    "glideslope": 3.00275268
+    "bearing": 275.260,
+    "glideslope": 3.00275260
   },
   {
     "name": "GS",
