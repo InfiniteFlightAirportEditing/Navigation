@@ -19059,30 +19059,17 @@
     "bearing": 130.563
   },
   {
-    "name": "ILS-cat-I",
-    "type": 4,
-    "airportICAO": "KMSP",
-    "identifier": "IAPL",
-    "associatedRunwayNumber": "04",
-    "latitude": 44.89447784,
-    "longitude": -93.20705414,
-    "elevation": 841,
-    "frequency": 109300,
-    "receptionRange": 18,
-    "bearing": 44.923
-  },
-  {
     "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "KMSP",
     "identifier": "IPJL",
     "associatedRunwayNumber": "12L",
-    "latitude": 44.88064575,
-    "longitude": -93.19256592,
-    "elevation": 841,
+    "latitude": 44.89296433,
+    "longitude": -93.22101985,
+    "elevation": 839,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 121.437
+    "bearing": 121.430
   },
   {
     "name": "ILS-cat-III",
@@ -19090,25 +19077,25 @@
     "airportICAO": "KMSP",
     "identifier": "IHKZ",
     "associatedRunwayNumber": "12R",
-    "latitude": 44.87242889,
-    "longitude": -93.19866180,
-    "elevation": 841,
+    "latitude": 44.88781501,
+    "longitude": -93.23418563,
+    "elevation": 839,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 121.447
+    "bearing": 121.440
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-II",
     "type": 4,
     "airportICAO": "KMSP",
     "identifier": "IMSP",
     "associatedRunwayNumber": "30L",
-    "latitude": 44.88878632,
-    "longitude": -93.23643494,
-    "elevation": 841,
+    "latitude": 44.87350852,
+    "longitude": -93.20115696,
+    "elevation": 839,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 301.423
+    "bearing": 301.440
   },
   {
     "name": "ILS-cat-I",
@@ -19116,12 +19103,12 @@
     "airportICAO": "KMSP",
     "identifier": "IINN",
     "associatedRunwayNumber": "30R",
-    "latitude": 44.89439011,
-    "longitude": -93.22431183,
-    "elevation": 841,
+    "latitude": 44.88123968,
+    "longitude": -93.19393291,
+    "elevation": 839,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 301.413
+    "bearing": 301.430
   },
   {
     "name": "ILS-cat-III",
@@ -19129,12 +19116,12 @@
     "airportICAO": "KMSP",
     "identifier": "IBMA",
     "associatedRunwayNumber": "35",
-    "latitude": 44.89047623,
-    "longitude": -93.24295807,
-    "elevation": 840,
+    "latitude": 44.86618576,
+    "longitude": -93.23663905,
+    "elevation": 839,
     "frequency": 110950,
     "receptionRange": 18,
-    "bearing": 349.693
+    "bearing": 349.540
   },
   {
     "name": "ILS-cat-I",
@@ -44217,14 +44204,27 @@
     "name": "LOC",
     "type": 5,
     "airportICAO": "KMSP",
+    "identifier": "IAPL",
+    "associatedRunwayNumber": "04",
+    "latitude": 44.87214377,
+    "longitude": -93.23850261,
+    "elevation": 839,
+    "frequency": 109300,
+    "receptionRange": 18,
+    "bearing": 44.910
+  },
+  {
+    "name": "LOC",
+    "type": 5,
+    "airportICAO": "KMSP",
     "identifier": "ITJZ",
     "associatedRunwayNumber": "17",
-    "latitude": 44.86343765,
-    "longitude": -93.23593140,
-    "elevation": 830,
+    "latitude": 44.88776142,
+    "longitude": -93.24226000,
+    "elevation": 839,
     "frequency": 110950,
     "receptionRange": 18,
-    "bearing": 169.297
+    "bearing": 169.540
   },
   {
     "name": "LOC",
@@ -44232,12 +44232,12 @@
     "airportICAO": "KMSP",
     "identifier": "ISIJ",
     "associatedRunwayNumber": "22",
-    "latitude": 44.87030411,
-    "longitude": -93.24106598,
-    "elevation": 841,
+    "latitude": 44.89352777,
+    "longitude": -93.20842051,
+    "elevation": 839,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 224.896
+    "bearing": 224.910
   },
   {
     "name": "LOC",
@@ -64858,30 +64858,17 @@
     "bearing": 130.563
   },
   {
-    "name": "ILS-cat-I",
-    "type": 4,
-    "airportICAO": "KMSP",
-    "identifier": "IAPL",
-    "associatedRunwayNumber": "04",
-    "latitude": 44.89447800,
-    "longitude": -93.20705600,
-    "elevation": 841,
-    "frequency": 109300,
-    "receptionRange": 18,
-    "bearing": 44.923
-  },
-  {
     "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "KMSP",
     "identifier": "IPJL",
     "associatedRunwayNumber": "12L",
-    "latitude": 44.88064700,
-    "longitude": -93.19256900,
-    "elevation": 841,
+    "latitude": 44.89296433,
+    "longitude": -93.22101985,
+    "elevation": 839,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 121.437
+    "bearing": 121.430
   },
   {
     "name": "ILS-cat-III",
@@ -64889,25 +64876,25 @@
     "airportICAO": "KMSP",
     "identifier": "IHKZ",
     "associatedRunwayNumber": "12R",
-    "latitude": 44.87242800,
-    "longitude": -93.19865800,
-    "elevation": 841,
+    "latitude": 44.88781501,
+    "longitude": -93.23418563,
+    "elevation": 839,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 121.447
+    "bearing": 121.440
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-II",
     "type": 4,
     "airportICAO": "KMSP",
     "identifier": "IMSP",
     "associatedRunwayNumber": "30L",
-    "latitude": 44.88878600,
-    "longitude": -93.23643300,
-    "elevation": 841,
+    "latitude": 44.87350852,
+    "longitude": -93.20115696,
+    "elevation": 839,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 301.423
+    "bearing": 301.440
   },
   {
     "name": "ILS-cat-I",
@@ -64915,12 +64902,12 @@
     "airportICAO": "KMSP",
     "identifier": "IINN",
     "associatedRunwayNumber": "30R",
-    "latitude": 44.89439200,
-    "longitude": -93.22431400,
-    "elevation": 841,
+    "latitude": 44.88123968,
+    "longitude": -93.19393291,
+    "elevation": 839,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 301.413
+    "bearing": 301.430
   },
   {
     "name": "ILS-cat-III",
@@ -64928,12 +64915,12 @@
     "airportICAO": "KMSP",
     "identifier": "IBMA",
     "associatedRunwayNumber": "35",
-    "latitude": 44.89047800,
-    "longitude": -93.24295800,
-    "elevation": 840,
+    "latitude": 44.86618576,
+    "longitude": -93.23663905,
+    "elevation": 839,
     "frequency": 110950,
     "receptionRange": 18,
-    "bearing": 349.693
+    "bearing": 349.540
   },
   {
     "name": "ILS-cat-I",
@@ -89834,14 +89821,27 @@
     "name": "LOC",
     "type": 5,
     "airportICAO": "KMSP",
+    "identifier": "IAPL",
+    "associatedRunwayNumber": "04",
+    "latitude": 44.87214377,
+    "longitude": -93.23850261,
+    "elevation": 839,
+    "frequency": 109300,
+    "receptionRange": 18,
+    "bearing": 44.910
+  },
+  {
+    "name": "LOC",
+    "type": 5,
+    "airportICAO": "KMSP",
     "identifier": "ITJZ",
     "associatedRunwayNumber": "17",
-    "latitude": 44.86343900,
-    "longitude": -93.23593300,
-    "elevation": 830,
+    "latitude": 44.88776142,
+    "longitude": -93.24226000,
+    "elevation": 839,
     "frequency": 110950,
     "receptionRange": 18,
-    "bearing": 169.297
+    "bearing": 169.540
   },
   {
     "name": "LOC",
@@ -89849,12 +89849,12 @@
     "airportICAO": "KMSP",
     "identifier": "ISIJ",
     "associatedRunwayNumber": "22",
-    "latitude": 44.87030600,
-    "longitude": -93.24106400,
-    "elevation": 841,
+    "latitude": 44.89352777,
+    "longitude": -93.20842051,
+    "elevation": 839,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 224.896
+    "bearing": 224.910
   },
   {
     "name": "LOC",
