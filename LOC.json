@@ -90044,12 +90044,12 @@
     "airportICAO": "KOWD",
     "identifier": "IOWD",
     "associatedRunwayNumber": "35",
-    "latitude": 42.19591400,
-    "longitude": -71.17921400,
-    "elevation": 45,
+    "latitude": 42.18384525,
+    "longitude": -71.17157083,
+    "elevation": 49,
     "frequency": 108300,
     "receptionRange": 18,
-    "bearing": 334.855
+    "bearing": 334.860
   },
   {
     "name": "LOC",
