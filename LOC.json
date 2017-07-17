@@ -49770,12 +49770,12 @@
     "airportICAO": "EGJB",
     "identifier": "IUY",
     "associatedRunwayNumber": "09",
-    "latitude": 49.43528100,
-    "longitude": -2.59000000,
-    "elevation": 336,
+    "latitude": 49.43462780,
+    "longitude": -2.61369623,
+    "elevation": 334,
     "frequency": 108100,
     "receptionRange": 18,
-    "bearing": 87.592
+    "bearing": 87.57
   },
   {
     "name": "ILS-cat-I",
@@ -49783,12 +49783,12 @@
     "airportICAO": "EGJB",
     "identifier": "IGH",
     "associatedRunwayNumber": "27",
-    "latitude": 49.43451100,
-    "longitude": -2.61445400,
-    "elevation": 336,
+    "latitude": 49.43522855,
+    "longitude": -2.59192460,
+    "elevation": 334,
     "frequency": 108100,
     "receptionRange": 18,
-    "bearing": 267.567
+    "bearing": 267.57
   },
   {
     "name": "ILS-cat-I",
