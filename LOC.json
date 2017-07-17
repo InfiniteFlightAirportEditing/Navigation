@@ -56725,12 +56725,12 @@
     "airportICAO": "KBTV",
     "identifier": "IBTV",
     "associatedRunwayNumber": "15",
-    "latitude": 44.46466700,
-    "longitude": -73.13999400,
-    "elevation": 331,
+    "latitude": 44.48067745,
+    "longitude": -73.16587858,
+    "elevation": 335,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 130.920
+    "bearing": 130.950
   },
   {
     "name": "ILS-cat-I",
@@ -56738,12 +56738,12 @@
     "airportICAO": "KBTV",
     "identifier": "IVOE",
     "associatedRunwayNumber": "33",
-    "latitude": 44.48229400,
-    "longitude": -73.16850300,
-    "elevation": 294,
+    "latitude": 44.46572020,
+    "longitude": -73.14171878,
+    "elevation": 335,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 310.905
+    "bearing": 310.950
   },
   {
     "name": "ILS-cat-I",

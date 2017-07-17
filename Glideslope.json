@@ -52694,26 +52694,26 @@
     "airportICAO": "KBTV",
     "identifier": "IBTV",
     "associatedRunwayNumber": "15",
-    "latitude": 44.47842800,
-    "longitude": -73.16429700,
-    "elevation": 308,
+    "latitude": 44.48067745,
+    "longitude": -73.16587858,
+    "elevation": 335,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 131.840,
-    "glideslope": 3.0013092
+    "bearing": 130.950,
+    "glideslope": 3.00130950
   },
   {
     "name": "GS",
     "airportICAO": "KBTV",
     "identifier": "IVOE",
     "associatedRunwayNumber": "33",
-    "latitude": 44.46911900,
-    "longitude": -73.14528900,
-    "elevation": 334,
+    "latitude": 44.46572020,
+    "longitude": -73.14171878,
+    "elevation": 335,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 311.840,
-    "glideslope": 3.2031092
+    "bearing": 310.950,
+    "glideslope": 3.20310950
   },
   {
     "name": "GS",
