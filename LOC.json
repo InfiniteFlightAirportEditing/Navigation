@@ -84114,14 +84114,14 @@
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "VDPP",
-    "identifier": "IPNP",
+    "identifier": "PNP",
     "associatedRunwayNumber": "23",
-    "latitude": 11.53575300,
-    "longitude": 104.83288300,
+    "latitude": 11.55597665,
+    "longitude": 104.85396209,
     "elevation": 40,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 225.620
+    "bearing": 225.570
   },
   {
     "name": "ILS-cat-I",

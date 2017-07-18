@@ -80032,15 +80032,15 @@
   {
     "name": "GS",
     "airportICAO": "VDPP",
-    "identifier": "IPNP",
+    "identifier": "PNP",
     "associatedRunwayNumber": "23",
-    "latitude": 11.55411100,
-    "longitude": 104.85008900,
-    "elevation": 37,
+    "latitude": 11.55597665,
+    "longitude": 104.85396209,
+    "elevation": 40,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 226.214,
-    "glideslope": 3.00225607
+    "bearing": 225.570,
+    "glideslope": 3.00225570
   },
   {
     "name": "GS",
