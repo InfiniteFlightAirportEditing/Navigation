@@ -44554,19 +44554,6 @@
   {
     "name": "LOC",
     "type": 5,
-    "airportICAO": "KRUT",
-    "identifier": "IRUT",
-    "associatedRunwayNumber": "19",
-    "latitude": 43.52929306,
-    "longitude": -72.94776154,
-    "elevation": 787,
-    "frequency": 111700,
-    "receptionRange": 18,
-    "bearing": 170.193
-  },
-  {
-    "name": "LOC",
-    "type": 5,
     "airportICAO": "KRVL",
     "identifier": "IRVL",
     "associatedRunwayNumber": "06",
@@ -67967,6 +67954,19 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "KRUT",
+    "identifier": "IRUT",
+    "associatedRunwayNumber": "19",
+    "latitude": 43.53861941,
+    "longitude": -72.94999751,
+    "elevation": 787,
+    "frequency": 111700,
+    "receptionRange": 18,
+    "bearing": 178.500
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "KRVS",
     "identifier": "IRVS",
     "associatedRunwayNumber": "01L",
@@ -90180,19 +90180,6 @@
     "frequency": 111500,
     "receptionRange": 18,
     "bearing": 230.622
-  },
-  {
-    "name": "LOC",
-    "type": 5,
-    "airportICAO": "KRUT",
-    "identifier": "IRUT",
-    "associatedRunwayNumber": "19",
-    "latitude": 43.52929200,
-    "longitude": -72.94775800,
-    "elevation": 787,
-    "frequency": 111700,
-    "receptionRange": 18,
-    "bearing": 170.193
   },
   {
     "name": "LOC",
