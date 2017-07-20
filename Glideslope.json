@@ -70921,13 +70921,13 @@
     "airportICAO": "LSZB",
     "identifier": "IBE",
     "associatedRunwayNumber": "14",
-    "latitude": 46.91691800,
-    "longitude": 7.49457000,
-    "elevation": 1664,
+    "latitude": 46.91935439,
+    "longitude": 7.49077134,
+    "elevation": 1670,
     "frequency": 110100,
     "receptionRange": 10,
-    "bearing": 140.474,
-    "glideslope": 4.00140237
+    "bearing": 140.200,
+    "glideslope": 4.00140200
   },
   {
     "name": "GS",

@@ -75094,12 +75094,12 @@
     "airportICAO": "LSZB",
     "identifier": "IBE",
     "associatedRunwayNumber": "14",
-    "latitude": 46.90622000,
-    "longitude": 7.50681800,
-    "elevation": 1702,
+    "latitude": 46.91935439,
+    "longitude": 7.49077134,
+    "elevation": 1670,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 140.237
+    "bearing": 140.200
   },
   {
     "name": "ILS-cat-III",
