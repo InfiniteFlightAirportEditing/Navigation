@@ -1145,11 +1145,11 @@
   {
     "name": "ALDERNEY",
     "identifier": "ALD",
-    "latitude": 49.70887756,
-    "longitude": -2.19970012,
+    "latitude": 49.708869444,
+    "longitude": -2.199772222,
     "elevation": 331,
     "frequency": 383,
-    "receptionRange": 30
+    "receptionRange": 15
   },
   {
     "name": "ALEKSANDROVKA",
@@ -1395,7 +1395,7 @@
     "receptionRange": 50
   },
   {
-    "name": "ALLGAU",
+    "name": "ALLGAEU",
     "identifier": "ALG",
     "latitude": 47.99739838,
     "longitude": 10.26220036,
@@ -4817,8 +4817,8 @@
   {
     "name": "BARRA",
     "identifier": "BRR",
-    "latitude": 57.02562714,
-    "longitude": -7.44892216,
+    "latitude": 57.025627778,
+    "longitude": -7.448922222,
     "elevation": 0,
     "frequency": 316,
     "receptionRange": 15
@@ -5544,6 +5544,15 @@
     "receptionRange": 50
   },
   {
+    "name": "BELFAST CITY",
+    "identifier": "HB",
+    "latitude": 54.621136111,
+    "longitude": -5.871908333,
+    "elevation": 0,
+    "frequency": 420,
+    "receptionRange": 25
+  },
+  {
     "name": "BELGOROD",
     "identifier": "AN",
     "latitude": 50.66500092,
@@ -5694,6 +5703,15 @@
     "longitude": -7.36925316,
     "elevation": 0,
     "frequency": 401,
+    "receptionRange": 40
+  },
+  {
+    "name": "BENBECULA",
+    "identifier": "BEN",
+    "latitude": 57.47793610,
+    "longitude": -1.24307777,
+    "elevation": 36,
+    "frequency": 114,
     "receptionRange": 40
   },
   {
@@ -6293,11 +6311,11 @@
   {
     "name": "BIRMINGHAM",
     "identifier": "BHX",
-    "latitude": 52.45454788,
-    "longitude": -1.75238597,
+    "latitude": 52.454547222,
+    "longitude": -1.752386111,
     "elevation": 325,
     "frequency": 406,
-    "receptionRange": 20
+    "receptionRange": 15
   },
   {
     "name": "BIRYUCHA",
@@ -6464,11 +6482,11 @@
   {
     "name": "BLACKBUSHE",
     "identifier": "BLK",
-    "latitude": 51.32328796,
-    "longitude": -0.84479398,
+    "latitude": 51.323288889,
+    "longitude": -0.844794444,
     "elevation": 0,
     "frequency": 328,
-    "receptionRange": 15
+    "receptionRange": 25
   },
   {
     "name": "BLACKFOOT",
@@ -6482,8 +6500,8 @@
   {
     "name": "BLACKPOOL",
     "identifier": "BPL",
-    "latitude": 53.77277756,
-    "longitude": -3.02777791,
+    "latitude": 53.772877778,
+    "longitude": -3.027850000,
     "elevation": 34,
     "frequency": 318,
     "receptionRange": 15
@@ -7310,11 +7328,11 @@
   {
     "name": "BOURNEMOUTH",
     "identifier": "BIA",
-    "latitude": 50.77767181,
-    "longitude": -1.84248614,
+    "latitude": 50.777672222,
+    "longitude": -1.842486111,
     "elevation": 30,
     "frequency": 339,
-    "receptionRange": 20
+    "receptionRange": 15
   },
   {
     "name": "BOUTN",
@@ -7778,8 +7796,8 @@
   {
     "name": "BRISTOL",
     "identifier": "BRI",
-    "latitude": 51.38144302,
-    "longitude": -2.71754408,
+    "latitude": 51.381441667,
+    "longitude": -2.717544444,
     "elevation": 0,
     "frequency": 414,
     "receptionRange": 25
@@ -7812,13 +7830,13 @@
     "receptionRange": 25
   },
   {
-    "name": "BRIZE",
+    "name": "BRIZE NORTON",
     "identifier": "BZ",
-    "latitude": 51.74923325,
-    "longitude": -1.60161698,
+    "latitude": 51.749466667,
+    "longitude": -1.601722222,
     "elevation": 288,
     "frequency": 386,
-    "receptionRange": 20
+    "receptionRange": 15
   },
   {
     "name": "BRNO",
@@ -8579,11 +8597,11 @@
   {
     "name": "BURNHAM",
     "identifier": "BUR",
-    "latitude": 51.5183333,
-    "longitude": -0.6766667,
+    "latitude": 51.519011111,
+    "longitude": -0.677191667,
     "elevation": 0,
     "frequency": 421,
-    "receptionRange": 30
+    "receptionRange": 25
   },
   {
     "name": "BURNS",
@@ -9353,8 +9371,8 @@
   {
     "name": "CAMBRIDGE",
     "identifier": "CAM",
-    "latitude": 52.21084976,
-    "longitude": 0.18279199,
+    "latitude": 52.210850000,
+    "longitude": 0.182791667,
     "elevation": 0,
     "frequency": 332,
     "receptionRange": 15
@@ -9497,11 +9515,11 @@
   {
     "name": "CAMPBELTOWN",
     "identifier": "CBL",
-    "latitude": 55.43563080,
-    "longitude": -5.68807220,
+    "latitude": 55.435630556,
+    "longitude": -5.688072222,
     "elevation": 44,
     "frequency": 380,
-    "receptionRange": 15
+    "receptionRange": 25
   },
   {
     "name": "CAMPINA",
@@ -9889,6 +9907,15 @@
     "elevation": 625,
     "frequency": 260,
     "receptionRange": 75
+  },
+  {
+    "name": "CARLISLE",
+    "identifier": "CL",
+    "latitude": 54.940288889,
+    "longitude": -2.805463889,
+    "elevation": 0,
+    "frequency": 328,
+    "receptionRange": 25
   },
   {
     "name": "CARLYLE",
@@ -11351,8 +11378,8 @@
   {
     "name": "CHILTERN",
     "identifier": "CHT",
-    "latitude": 51.6233333,
-    "longitude": -0.5183333,
+    "latitude": 51.623141667,
+    "longitude": -0.518577778,
     "elevation": 0,
     "frequency": 277,
     "receptionRange": 25
@@ -12116,8 +12143,8 @@
   {
     "name": "CLONMEL",
     "identifier": "CML",
-    "latitude": 52.45375061,
-    "longitude": -7.48007488,
+    "latitude": 52.453750000,
+    "longitude": -7.480055556,
     "elevation": 0,
     "frequency": 387,
     "receptionRange": 50
@@ -12728,11 +12755,11 @@
   {
     "name": "CONNAUGHT",
     "identifier": "KNK",
-    "latitude": 53.89650345,
-    "longitude": -8.93700027,
+    "latitude": 53.896500000,
+    "longitude": -8.937000000,
     "elevation": 0,
     "frequency": 364,
-    "receptionRange": 10
+    "receptionRange": 15
   },
   {
     "name": "CONNERSVILLE",
@@ -13286,8 +13313,8 @@
   {
     "name": "CRANWELL",
     "identifier": "CWL",
-    "latitude": 53.02627945,
-    "longitude": -0.48898301,
+    "latitude": 53.026316667,
+    "longitude": -0.489063889,
     "elevation": 0,
     "frequency": 423,
     "receptionRange": 25
@@ -13518,6 +13545,15 @@
     "receptionRange": 100
   },
   {
+    "name": "CULDROSE",
+    "identifier": "CUL",
+    "latitude": 50.082486111,
+    "longitude": -5.248622222,
+    "elevation": 0,
+    "frequency": 370,
+    "receptionRange": 15
+  },
+  {
     "name": "CULTUS",
     "identifier": "LU",
     "latitude": 49.02116776,
@@ -13700,11 +13736,11 @@
   {
     "name": "Cardiff",
     "identifier": "CDF",
-    "latitude": 51.39337921,
-    "longitude": -3.33790302,
+    "latitude": 51.393377778,
+    "longitude": -3.337908333,
     "elevation": 0,
     "frequency": 388,
-    "receptionRange": 20
+    "receptionRange": 25
   },
   {
     "name": "Casablanca",
@@ -14451,6 +14487,15 @@
     "longitude": -88.02670288,
     "elevation": 699,
     "frequency": 350,
+    "receptionRange": 50
+  },
+  {
+    "name": "DEAN CROSS",
+    "identifier": "DCS",
+    "latitude": 54.72191110,
+    "longitude": -0.54063888,
+    "elevation": 700,
+    "frequency": 115,
     "receptionRange": 50
   },
   {
@@ -15293,11 +15338,11 @@
   {
     "name": "DONCASTER",
     "identifier": "FNY",
-    "latitude": 53.47482300,
-    "longitude": -1.00172496,
+    "latitude": 53.474822222,
+    "longitude": -1.001727778,
     "elevation": 0,
     "frequency": 338,
-    "receptionRange": 25
+    "receptionRange": 50
   },
   {
     "name": "DONDO",
@@ -15311,8 +15356,8 @@
   {
     "name": "DONEGAL",
     "identifier": "CFN",
-    "latitude": 55.04400635,
-    "longitude": -8.33927536,
+    "latitude": 55.044000000,
+    "longitude": -8.339277778,
     "elevation": 0,
     "frequency": 361,
     "receptionRange": 25
@@ -16175,8 +16220,8 @@
   {
     "name": "EDINBURGH",
     "identifier": "EDN",
-    "latitude": 55.97840118,
-    "longitude": -3.28412199,
+    "latitude": 55.978483333,
+    "longitude": -3.285452778,
     "elevation": 0,
     "frequency": 341,
     "receptionRange": 35
@@ -16895,8 +16940,8 @@
   {
     "name": "ENNIS",
     "identifier": "ENS",
-    "latitude": 52.90515137,
-    "longitude": -8.92777157,
+    "latitude": 52.905152778,
+    "longitude": -8.927772222,
     "elevation": 0,
     "frequency": 352,
     "receptionRange": 25
@@ -16985,8 +17030,8 @@
   {
     "name": "EPSOM",
     "identifier": "EPM",
-    "latitude": 51.31944275,
-    "longitude": -0.37194401,
+    "latitude": 51.319566667,
+    "longitude": -0.371977778,
     "elevation": 0,
     "frequency": 316,
     "receptionRange": 25
@@ -17325,22 +17370,22 @@
     "receptionRange": 50
   },
   {
-    "name": "East",
+    "name": "EAST MIDLANDS",
     "identifier": "EME",
-    "latitude": 52.83283234,
-    "longitude": -1.19449997,
+    "latitude": 52.832675000,
+    "longitude": -1.194555556,
     "elevation": 280,
     "frequency": 353,
-    "receptionRange": 50
+    "receptionRange": 25
   },
   {
-    "name": "East",
+    "name": "EAST MIDLANDS",
     "identifier": "EMW",
-    "latitude": 52.82866669,
-    "longitude": -1.45449996,
+    "latitude": 52.828652778,
+    "longitude": -1.454430556,
     "elevation": 280,
     "frequency": 393,
-    "receptionRange": 50
+    "receptionRange": 25
   },
   {
     "name": "Epinal",
@@ -17390,8 +17435,8 @@
   {
     "name": "Exeter",
     "identifier": "EX",
-    "latitude": 50.75215149,
-    "longitude": -3.29504704,
+    "latitude": 50.75215277,
+    "longitude": -3.29504722,
     "elevation": 25,
     "frequency": 337,
     "receptionRange": 15
@@ -17444,11 +17489,11 @@
   {
     "name": "FAIROAKS",
     "identifier": "FOS",
-    "latitude": 51.34741211,
-    "longitude": -0.56542897,
+    "latitude": 51.346938889,
+    "longitude": -0.563736111,
     "elevation": 80,
     "frequency": 348,
-    "receptionRange": 10
+    "receptionRange": 25
   },
   {
     "name": "FAIRVIEW",
@@ -18650,8 +18695,8 @@
   {
     "name": "FOYNES",
     "identifier": "FOY",
-    "latitude": 52.56625748,
-    "longitude": -9.19541073,
+    "latitude": 52.566255556,
+    "longitude": -9.195411111,
     "elevation": 0,
     "frequency": 395,
     "receptionRange": 50
@@ -20171,11 +20216,11 @@
   {
     "name": "GLOUCESTERSHIRE",
     "identifier": "GST",
-    "latitude": 51.89195251,
-    "longitude": -2.16790295,
+    "latitude": 51.891952778,
+    "longitude": -2.167902778,
     "elevation": 111,
     "frequency": 331,
-    "receptionRange": 25
+    "receptionRange": 15
   },
   {
     "name": "GOA",
@@ -20495,11 +20540,11 @@
   {
     "name": "GORMANSTON",
     "identifier": "GMN",
-    "latitude": 53.64810944,
-    "longitude": -6.22666883,
+    "latitude": 53.648111111,
+    "longitude": -6.226666667,
     "elevation": 100,
     "frequency": 334,
-    "receptionRange": 30
+    "receptionRange": 25
   },
   {
     "name": "GORNA",
@@ -22322,11 +22367,11 @@
   {
     "name": "HAVERFORDWEST",
     "identifier": "HAV",
-    "latitude": 51.83187866,
-    "longitude": -4.96808910,
+    "latitude": 51.831877778,
+    "longitude": -4.968088889,
     "elevation": 0,
     "frequency": 328,
-    "receptionRange": 10
+    "receptionRange": 15
   },
   {
     "name": "HAVRE",
@@ -22691,11 +22736,11 @@
   {
     "name": "HENTON",
     "identifier": "HEN",
-    "latitude": 51.75972366,
-    "longitude": -0.79027802,
+    "latitude": 51.759741667,
+    "longitude": -0.790291667,
     "elevation": 0,
     "frequency": 433,
-    "receptionRange": 30
+    "receptionRange": 25
   },
   {
     "name": "HERBB",
@@ -23762,8 +23807,8 @@
   {
     "name": "HUMBERSIDE",
     "identifier": "KIM",
-    "latitude": 53.57666779,
-    "longitude": -0.35166699,
+    "latitude": 53.574025000,
+    "longitude": -0.353780556,
     "elevation": 0,
     "frequency": 365,
     "receptionRange": 15
@@ -23949,13 +23994,13 @@
     "receptionRange": 50
   },
   {
-    "name": "Hawarden",
+    "name": "HAWARDEN",
     "identifier": "HAW",
-    "latitude": 53.17909622,
-    "longitude": -2.97954893,
+    "latitude": 53.179166667,
+    "longitude": -2.979536111,
     "elevation": 32,
     "frequency": 340,
-    "receptionRange": 25
+    "receptionRange": 15
   },
   {
     "name": "Hemavan",
@@ -25965,10 +26010,10 @@
     "receptionRange": 50
   },
   {
-    "name": "Jersey",
+    "name": "JERSEY",
     "identifier": "JW",
-    "latitude": 49.20591354,
-    "longitude": -2.21992493,
+    "latitude": 49.205913889,
+    "longitude": -2.219925000,
     "elevation": 288,
     "frequency": 329,
     "receptionRange": 25
@@ -27515,11 +27560,11 @@
   {
     "name": "KERRY",
     "identifier": "KER",
-    "latitude": 52.18215561,
-    "longitude": -9.52448940,
+    "latitude": 52.182166667,
+    "longitude": -9.524500000,
     "elevation": 0,
     "frequency": 334,
-    "receptionRange": 25
+    "receptionRange": 15
   },
   {
     "name": "KESHOD",
@@ -27965,8 +28010,8 @@
   {
     "name": "KILLINEY",
     "identifier": "KLY",
-    "latitude": 53.26956177,
-    "longitude": -6.10644388,
+    "latitude": 53.269555556,
+    "longitude": -6.106444444,
     "elevation": 0,
     "frequency": 378,
     "receptionRange": 50
@@ -28226,11 +28271,11 @@
   {
     "name": "KIRKWALL",
     "identifier": "KW",
-    "latitude": 58.95962143,
-    "longitude": -2.91158104,
+    "latitude": 58.959266667,
+    "longitude": -2.899302778,
     "elevation": 0,
     "frequency": 395,
-    "receptionRange": 40
+    "receptionRange": 25
   },
   {
     "name": "KIROV",
@@ -32245,6 +32290,15 @@
     "elevation": 0,
     "frequency": 263,
     "receptionRange": 50
+  },
+  {
+    "name": "LONDONDERRY",
+    "identifier": "EGT",
+    "latitude": 55.045544444,
+    "longitude": -7.156030556,
+    "elevation": 0,
+    "frequency": 341,
+    "receptionRange": 25
   },
   {
     "name": "LONDRINA",
@@ -37611,7 +37665,7 @@
     "receptionRange": 50
   },
   {
-    "name": "MUNCHEN",
+    "name": "MUENCHEN",
     "identifier": "MNE",
     "latitude": 48.35540390,
     "longitude": 11.67597771,
@@ -37620,7 +37674,7 @@
     "receptionRange": 25
   },
   {
-    "name": "MUNCHEN",
+    "name": "MUENCHEN",
     "identifier": "MSW",
     "latitude": 48.35237885,
     "longitude": 11.90376663,
@@ -37629,7 +37683,7 @@
     "receptionRange": 25
   },
   {
-    "name": "MUNCHEN",
+    "name": "MUENCHEN",
     "identifier": "MNW",
     "latitude": 48.37426758,
     "longitude": 11.91414165,
@@ -37638,7 +37692,7 @@
     "receptionRange": 25
   },
   {
-    "name": "MUNCHEN",
+    "name": "MUENCHEN",
     "identifier": "MSE",
     "latitude": 48.33340836,
     "longitude": 11.65288258,
@@ -39228,6 +39282,15 @@
     "longitude": 29.99444389,
     "elevation": 4105,
     "frequency": 415,
+    "receptionRange": 50
+  },
+  {
+    "name": "NEWCASTLE",
+    "identifier": "NEW",
+    "latitude": 55.03844720,
+    "longitude": -0.27614722,
+    "elevation": 287,
+    "frequency": 114,
     "receptionRange": 50
   },
   {
@@ -52580,8 +52643,8 @@
   {
     "name": "SOUTHAMPTON",
     "identifier": "EAS",
-    "latitude": 50.95502853,
-    "longitude": -1.35611904,
+    "latitude": 50.955027778,
+    "longitude": -1.356119444,
     "elevation": 0,
     "frequency": 391,
     "receptionRange": 15
@@ -54371,8 +54434,8 @@
   {
     "name": "Southend",
     "identifier": "SND",
-    "latitude": 51.57632828,
-    "longitude": 0.70033002,
+    "latitude": 51.576008333,
+    "longitude": 0.700144444,
     "elevation": 50,
     "frequency": 362,
     "receptionRange": 50
@@ -61409,8 +61472,8 @@
   {
     "name": "WESTCOTT",
     "identifier": "WCO",
-    "latitude": 51.85305786,
-    "longitude": -0.96249998,
+    "latitude": 51.8530556,
+    "longitude": -0.9625000,
     "elevation": 0,
     "frequency": 335,
     "receptionRange": 30
@@ -61589,8 +61652,8 @@
   {
     "name": "WHITEGATE",
     "identifier": "WHI",
-    "latitude": 53.18500137,
-    "longitude": -2.62305593,
+    "latitude": 53.1850000,
+    "longitude": -2.6230556,
     "elevation": 0,
     "frequency": 368,
     "receptionRange": 25
@@ -62111,8 +62174,8 @@
   {
     "name": "WOODLEY",
     "identifier": "WOD",
-    "latitude": 51.4533333,
-    "longitude": -0.8783333,
+    "latitude": 51.4527778,
+    "longitude": -0.8788889,
     "elevation": 0,
     "frequency": 352,
     "receptionRange": 25
@@ -64078,6 +64141,15 @@
     "elevation": 0,
     "frequency": 254,
     "receptionRange": 25
+  },
+  {
+    "name": "AL KHOR",
+    "identifier": "AK",
+    "latitude": 25.63018947,
+    "longitude": 51.50732839,
+    "elevation": 0,
+    "frequency": 345,
+    "receptionRange": 50
   },
   {
     "name": "ALLIANCE",
@@ -66755,8 +66827,8 @@
   {
     "name": "DONCASTER",
     "identifier": "FNY",
-    "latitude": 53.47482200,
-    "longitude": -1.00172500,
+    "latitude": 53.4747222,
+    "longitude": -1.0016667,
     "elevation": 0,
     "frequency": 338,
     "receptionRange": 25

@@ -14,8 +14,8 @@
     "elevation": 10, 
     "name": "ABADAN", 
     "longitude": 48.21760941, 
-    "frequency": 1145000, 
-    "latitude": 30.38702774, 
+    "frequency": 1145000,
+    "latitude": 30.38702774,
     "identifier": "ABD", 
     "slavedVariation": 3.0
   }, 
@@ -50,12 +50,12 @@
     "slavedVariation": 0.0
   }, 
   {
-    "receptionRange": 200, 
+    "receptionRange": 130, 
     "elevation": 600, 
     "name": "ABERDEEN", 
-    "longitude": -2.26722193, 
+    "longitude": -2.2672083, 
     "frequency": 1143000, 
-    "latitude": 57.3105545, 
+    "latitude": 57.3104500, 
     "identifier": "ADN", 
     "slavedVariation": 355.0
   }, 
@@ -312,8 +312,8 @@
   {
     "receptionRange": 120, 
     "elevation": 896, 
-    "name": "AGEN-Gaudonville", 
-    "longitude": 0.87286103, 
+    "name": "AGEN-Gaudonville",
+    "longitude": 0.87286103,
     "frequency": 1148000, 
     "latitude": 43.88802719, 
     "identifier": "AGN", 
@@ -1373,7 +1373,7 @@
     "receptionRange": 130, 
     "elevation": 1535, 
     "name": "ATHINAI", 
-    "longitude": 23.81444359, 
+    "longitude": 23.804497, 
     "frequency": 1144000, 
     "latitude": 37.88861084, 
     "identifier": "ATV", 
@@ -2103,9 +2103,9 @@
     "receptionRange": 40, 
     "elevation": 486, 
     "name": "BARKWAY", 
-    "longitude": 0.061944, 
+    "longitude": 0.0619444, 
     "frequency": 1162500, 
-    "latitude": 51.98972321, 
+    "latitude": 51.9897222, 
     "identifier": "BKY", 
     "slavedVariation": 356.0
   }, 
@@ -2491,6 +2491,16 @@
   }, 
   {
     "receptionRange": 130, 
+    "elevation": 224, 
+    "name": "BELFAST", 
+    "longitude": -6.2299083, 
+    "frequency": 1172000, 
+    "latitude": 54.6611444, 
+    "identifier": "BEL", 
+    "slavedVariation": 3.32
+  }, 
+  {
+    "receptionRange": 130, 
     "elevation": 2488, 
     "name": "BELGAUM", 
     "longitude": 74.61694336, 
@@ -2548,16 +2558,6 @@
     "latitude": 32.01311111, 
     "identifier": "BGN", 
     "slavedVariation": 2.0
-  }, 
-  {
-    "receptionRange": 200, 
-    "elevation": 130, 
-    "name": "BENBECULA", 
-    "longitude": -7.36530018, 
-    "frequency": 1139500, 
-    "latitude": 57.47793579, 
-    "identifier": "BEN", 
-    "slavedVariation": 352.0
   }, 
   {
     "receptionRange": 130, 
@@ -2642,10 +2642,10 @@
   {
     "receptionRange": 85, 
     "elevation": 215, 
-    "name": "BERRY", 
-    "longitude": -3.4936111, 
+    "name": "BERRY HEAD", 
+    "longitude": -3.4937389, 
     "frequency": 1120500, 
-    "latitude": 50.39860916, 
+    "latitude": 50.3986056, 
     "identifier": "BHD", 
     "slavedVariation": 355.0
   }, 
@@ -2768,6 +2768,16 @@
     "latitude": 64.0043869, 
     "identifier": "BIG", 
     "slavedVariation": 23.0
+  }, 
+  {
+    "receptionRange": 130, 
+    "elevation": 590, 
+    "name": "BIGGIN", 
+    "longitude": 0.0347222, 
+    "frequency": 1151000, 
+    "latitude": 51.3308333, 
+    "identifier": "BIG", 
+    "slavedVariation": 0.43
   }, 
   {
     "receptionRange": 130, 
@@ -3323,9 +3333,9 @@
     "receptionRange": 130, 
     "elevation": 500, 
     "name": "BOVINGDON", 
-    "longitude": -0.54972202, 
+    "longitude": -0.5497222, 
     "frequency": 1137500, 
-    "latitude": 51.72611237, 
+    "latitude": 51.7261111, 
     "identifier": "BNN", 
     "slavedVariation": 356.0
   }, 
@@ -3481,6 +3491,16 @@
   }, 
   {
     "receptionRange": 60, 
+    "elevation": 1450, 
+    "name": "BRECON", 
+    "longitude": -3.2630333, 
+    "frequency": 1174500, 
+    "latitude": 51.7255250, 
+    "identifier": "BCN", 
+    "slavedVariation": 0.68
+  }, 
+  {
+    "receptionRange": 60, 
     "elevation": 40, 
     "name": "BREMEN", 
     "longitude": 8.78213882, 
@@ -3568,7 +3588,47 @@
     "latitude": 50.36294556, 
     "identifier": "YDR", 
     "slavedVariation": 7.0
-  }, 
+  },
+  {
+    "receptionRange": 130, 
+    "elevation": 103, 
+    "name": "FLORENCE", 
+    "longitude": -79.657161, 
+    "frequency": 1152000, 
+    "latitude": 34.232969, 
+    "identifier": "FLO", 
+    "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130, 
+    "elevation": 827, 
+    "name": "LIBERTY", 
+    "longitude": -79.612592, 
+    "frequency": 1130000, 
+    "latitude": 35.811622, 
+    "identifier": "LIB", 
+    "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130, 
+    "elevation": 566, 
+    "name": "NASHVILLE", 
+    "longitude": -86.684772, 
+    "frequency": 1141000, 
+    "latitude": 36.136961, 
+    "identifier": "BNA", 
+    "slavedVariation": 2.0
+  },
+  {
+    "receptionRange": 130, 
+    "elevation": 3071, 
+    "name": "ROANOKE", 
+    "longitude": -80.070397, 
+    "frequency": 1094000, 
+    "latitude": 37.343464, 
+    "identifier": "ROA", 
+    "slavedVariation": 4.0
+  },  
   {
     "receptionRange": 40, 
     "elevation": 1050, 
@@ -3622,10 +3682,10 @@
   {
     "receptionRange": 80, 
     "elevation": 382, 
-    "name": "BROOKMANS", 
-    "longitude": -0.106667, 
+    "name": "BROOKMANS PARK", 
+    "longitude": -0.1067361, 
     "frequency": 1175000, 
-    "latitude": 51.74972153, 
+    "latitude": 51.7497361, 
     "identifier": "BPK", 
     "slavedVariation": 356.0
   }, 
@@ -5443,9 +5503,9 @@
     "receptionRange": 100, 
     "elevation": 100, 
     "name": "CLACTON", 
-    "longitude": 1.14761102, 
+    "longitude": 1.1475889, 
     "frequency": 1145500, 
-    "latitude": 51.84841537, 
+    "latitude": 51.8484722, 
     "identifier": "CLN", 
     "slavedVariation": 357.0
   }, 
@@ -5773,9 +5833,9 @@
     "receptionRange": 80, 
     "elevation": 498, 
     "name": "COMPTON", 
-    "longitude": -1.21972203, 
+    "longitude": -1.2197222, 
     "frequency": 1143500, 
-    "latitude": 51.4916687, 
+    "latitude": 51.4916667, 
     "identifier": "CPT", 
     "slavedVariation": 356.0
   }, 
@@ -6316,7 +6376,7 @@
     "longitude": 70.88567352, 
     "frequency": 1131000, 
     "latitude": 31.91263962, 
-    "identifier": "DI", 
+    "identifier": "DI",
     "slavedVariation": 0.0
   }, 
   {
@@ -6360,9 +6420,9 @@
     "slavedVariation": 351.8
   }, 
   {
-    "receptionRange": 100, 
+    "receptionRange": 100,
     "elevation": 126, 
-    "name": "DAIBA", 
+    "name": "DAIBA",
     "longitude": 139.81758118, 
     "frequency": 1110000, 
     "latitude": 35.60398102, 
@@ -6482,7 +6542,7 @@
   {
     "receptionRange": 130, 
     "elevation": 213, 
-    "name": "DANDONG", 
+    "name": "DANDONG",
     "longitude": 124.28833008, 
     "frequency": 1139000, 
     "latitude": 40.25999832, 
@@ -6603,9 +6663,9 @@
     "receptionRange": 130, 
     "elevation": 600, 
     "name": "DAVENTRY", 
-    "longitude": -1.11388898, 
+    "longitude": -1.1138889, 
     "frequency": 1164000, 
-    "latitude": 52.18027878, 
+    "latitude": 52.1802778, 
     "identifier": "DTY", 
     "slavedVariation": 356.0
   }, 
@@ -6668,16 +6728,6 @@
     "latitude": 70.19919586, 
     "identifier": "SCC", 
     "slavedVariation": 23.0
-  }, 
-  {
-    "receptionRange": 130, 
-    "elevation": 700, 
-    "name": "DEAN", 
-    "longitude": -3.34055591, 
-    "frequency": 1152000, 
-    "latitude": 54.7219429, 
-    "identifier": "DCS", 
-    "slavedVariation": 355.0
   }, 
   {
     "receptionRange": 60, 
@@ -6863,9 +6913,9 @@
     "receptionRange": 130, 
     "elevation": 645, 
     "name": "DETLING", 
-    "longitude": 0.59722197, 
+    "longitude": 0.597275, 
     "frequency": 1173000, 
-    "latitude": 51.30389023, 
+    "latitude": 51.3040028, 
     "identifier": "DET", 
     "slavedVariation": 357.0
   }, 
@@ -7052,7 +7102,7 @@
   {
     "receptionRange": 60, 
     "elevation": 1790, 
-    "name": "DINKELSBUHL", 
+    "name": "DINKELSBUEHL", 
     "longitude": 10.23830605, 
     "frequency": 1178000, 
     "latitude": 49.1427536, 
@@ -7132,7 +7182,7 @@
   {
     "receptionRange": 130, 
     "elevation": 2472, 
-    "name": "DO", 
+    "name": "DO",
     "longitude": -51.1886673, 
     "frequency": 1123000, 
     "latitude": -29.19799995, 
@@ -7151,24 +7201,34 @@
   }, 
   {
     "receptionRange": 40, 
-    "elevation": 1600, 
+    "elevation": 1600,
     "name": "DOGWOOD", 
     "longitude": -92.87691498, 
     "frequency": 1094000, 
     "latitude": 37.02347183, 
-    "identifier": "DGD", 
+    "identifier": "DGD",
     "slavedVariation": 6.0
-  }, 
+  },
   {
-    "receptionRange": 200, 
-    "elevation": 48, 
-    "name": "DOHA", 
-    "longitude": 51.57717133, 
-    "frequency": 1124000, 
-    "latitude": 25.23363113, 
-    "identifier": "DOH", 
-    "slavedVariation": 2.0
-  }, 
+    "receptionRange": 200,
+    "elevation": 39.343,
+    "name": "DOHA",
+    "longitude": 51.60966667,
+    "frequency": 1124000,
+    "latitude": 25.24990556,
+    "identifier": "DOH",
+    "slavedVariation": 2.30
+  },
+  {
+    "receptionRange": 200,
+    "elevation": 48.67,
+    "name": "DOHA INTERNATIONAL",
+    "longitude": 51.57718056,
+    "frequency": 1124000,
+    "latitude": 25.23364167,
+    "identifier": "DIA",
+    "slavedVariation": 2.30
+  },
   {
     "receptionRange": 130, 
     "elevation": 7, 
@@ -7178,7 +7238,7 @@
     "latitude": 25.79997253, 
     "identifier": "DHP", 
     "slavedVariation": 356.0
-  }, 
+  },
   {
     "receptionRange": 150, 
     "elevation": 2057, 
@@ -7303,9 +7363,9 @@
     "receptionRange": 130, 
     "elevation": 315, 
     "name": "DOVER", 
-    "longitude": 1.35916698, 
+    "longitude": 1.3590889, 
     "frequency": 1149500, 
-    "latitude": 51.16249847, 
+    "latitude": 51.1626222, 
     "identifier": "DVR", 
     "slavedVariation": 357.0
   }, 
@@ -9501,11 +9561,11 @@
   }, 
   {
     "receptionRange": 130, 
-    "elevation": 121, 
+    "elevation": 115, 
     "name": "GAMSTON", 
-    "longitude": -0.94722199, 
+    "longitude": -0.9471639, 
     "frequency": 1128000, 
-    "latitude": 53.28138733, 
+    "latitude": 53.2814667, 
     "identifier": "GAM", 
     "slavedVariation": 356.0
   }, 
@@ -10023,9 +10083,9 @@
     "receptionRange": 130, 
     "elevation": 37, 
     "name": "GLASGOW", 
-    "longitude": -4.44572496, 
+    "longitude": -4.4457250, 
     "frequency": 1154000, 
-    "latitude": 55.87050247, 
+    "latitude": 55.8705028, 
     "identifier": "GOW", 
     "slavedVariation": 354.0
   }, 
@@ -10163,9 +10223,9 @@
     "receptionRange": 130, 
     "elevation": 113, 
     "name": "GOODWOOD", 
-    "longitude": -0.75666702, 
+    "longitude": -0.7567361, 
     "frequency": 1147500, 
-    "latitude": 50.85527802, 
+    "latitude": 50.8552167, 
     "identifier": "GWC", 
     "slavedVariation": 357.0
   }, 
@@ -11833,9 +11893,9 @@
     "receptionRange": 130, 
     "elevation": 435, 
     "name": "HONILEY", 
-    "longitude": -1.66361105, 
+    "longitude": -1.6637250, 
     "frequency": 1136500, 
-    "latitude": 52.35666656, 
+    "latitude": 52.3566778, 
     "identifier": "HON", 
     "slavedVariation": 356.0
   }, 
@@ -12333,9 +12393,9 @@
     "receptionRange": 130, 
     "elevation": -18, 
     "name": "IMPERIAL", 
-    "longitude": -115.50858307, 
+    "longitude": -115.5085819, 
     "frequency": 1159000, 
-    "latitude": 32.74885941, 
+    "latitude": 32.7488667, 
     "identifier": "IPL", 
     "slavedVariation": 14.0
   }, 
@@ -12553,9 +12613,9 @@
     "receptionRange": 130, 
     "elevation": 111, 
     "name": "IRAKLION", 
-    "longitude": 25.18527794, 
+    "longitude": 25.185144, 
     "frequency": 1088000, 
-    "latitude": 35.34083176, 
+    "latitude": 35.340744, 
     "identifier": "IRA", 
     "slavedVariation": 3.2
   }, 
@@ -12652,10 +12712,10 @@
   {
     "receptionRange": 130, 
     "elevation": 573, 
-    "name": "ISLE", 
-    "longitude": -4.76347494, 
+    "name": "ISLE OF MAN", 
+    "longitude": -4.7634750, 
     "frequency": 1122000, 
-    "latitude": 54.06686783, 
+    "latitude": 54.0668667, 
     "identifier": "IOM", 
     "slavedVariation": 354.0
   }, 
@@ -13061,11 +13121,11 @@
   }, 
   {
     "receptionRange": 130, 
-    "elevation": 276, 
+    "elevation": 264, 
     "name": "JERSEY", 
-    "longitude": -2.04611111, 
+    "longitude": -2.0461528, 
     "frequency": 1122000, 
-    "latitude": 49.2211113, 
+    "latitude": 49.2211028, 
     "identifier": "JSY", 
     "slavedVariation": 356.0
   }, 
@@ -13673,7 +13733,7 @@
     "receptionRange": 25, 
     "elevation": 290, 
     "name": "KANCHEEPURAM", 
-    "longitude": 79.71311188, 
+    "longitude": 79.713097, 
     "frequency": 1154000, 
     "latitude": 12.78494358, 
     "identifier": "KKP", 
@@ -15463,9 +15523,9 @@
     "receptionRange": 110, 
     "elevation": 200, 
     "name": "LAMBOURNE", 
-    "longitude": 0.151667, 
+    "longitude": 0.1516667, 
     "frequency": 1156000, 
-    "latitude": 51.64611053, 
+    "latitude": 51.6461111, 
     "identifier": "LAM", 
     "slavedVariation": 357.0
   }, 
@@ -15522,10 +15582,10 @@
   {
     "receptionRange": 130, 
     "elevation": 800, 
-    "name": "LANDS", 
-    "longitude": -5.63698578, 
+    "name": "LANDS END", 
+    "longitude": -5.6369333, 
     "frequency": 1142000, 
-    "latitude": 50.13625717, 
+    "latitude": 50.1362833, 
     "identifier": "LND", 
     "slavedVariation": 355.0
   }, 
@@ -16363,9 +16423,9 @@
     "receptionRange": 130, 
     "elevation": 110, 
     "name": "LONDON", 
-    "longitude": -0.466667, 
+    "longitude": -0.4665389, 
     "frequency": 1136000, 
-    "latitude": 51.48722076, 
+    "latitude": 51.4872472, 
     "identifier": "LON", 
     "slavedVariation": 357.0
   }, 
@@ -16432,7 +16492,7 @@
   {
     "receptionRange": 130, 
     "elevation": 182, 
-    "name": "LOS", 
+    "name": "LOS ANGELES", 
     "longitude": -118.43199921, 
     "frequency": 1136000, 
     "latitude": 33.9331398, 
@@ -16713,9 +16773,9 @@
     "receptionRange": 130, 
     "elevation": 30, 
     "name": "LYDD", 
-    "longitude": 0.87861103, 
+    "longitude": 0.8786611, 
     "frequency": 1140500, 
-    "latitude": 50.99972153, 
+    "latitude": 50.9996861, 
     "identifier": "LYD", 
     "slavedVariation": 357.0
   }, 
@@ -17018,7 +17078,17 @@
     "latitude": 10.60947227, 
     "identifier": "MIQ", 
     "slavedVariation": 349.0
-  }, 
+  },
+  {
+    "receptionRange": 60, 
+    "elevation": 1686, 
+    "name": "MAISACH", 
+    "longitude": 11.31194444, 
+    "frequency": 1152000, 
+    "latitude": 48.263333333, 
+    "identifier": "MAH", 
+    "slavedVariation": 1.0
+  },  
   {
     "receptionRange": 200, 
     "elevation": 7403, 
@@ -17218,6 +17288,16 @@
     "latitude": 42.86852646, 
     "identifier": "MHT", 
     "slavedVariation": 345.0
+  }, 
+  {
+    "receptionRange": 130, 
+    "elevation": 282, 
+    "name": "MANCHESTER", 
+    "longitude": -2.2622889, 
+    "frequency": 1135500, 
+    "latitude": 53.3570250, 
+    "identifier": "MCT", 
+    "slavedVariation": 358.0
   }, 
   {
     "receptionRange": 100, 
@@ -17823,9 +17903,9 @@
     "receptionRange": 130, 
     "elevation": 360, 
     "name": "MAYFIELD", 
-    "longitude": 0.116111, 
+    "longitude": 0.1161222, 
     "frequency": 1179000, 
-    "latitude": 51.01722336, 
+    "latitude": 51.0171833, 
     "identifier": "MAY", 
     "slavedVariation": 357.0
   }, 
@@ -18291,11 +18371,11 @@
   },
   {
     "receptionRange": 130, 
-    "elevation": 207, 
+    "elevation": 200, 
     "name": "MIDHURST", 
-    "longitude": -0.625, 
+    "longitude": -0.6250028, 
     "frequency": 114000, 
-    "latitude": 51.0538889, 
+    "latitude": 51.0539528, 
     "identifier": "MID", 
     "slavedVariation": 350.0
   }, 
@@ -18392,7 +18472,7 @@
   {
     "receptionRange": 60, 
     "elevation": 1526, 
-    "name": "MILLDORF", 
+    "name": "MUEHLDORF", 
     "longitude": 12.33741856, 
     "frequency": 1170000, 
     "latitude": 48.23469543, 
@@ -19238,7 +19318,17 @@
     "latitude": 19.08538818, 
     "identifier": "BBB", 
     "slavedVariation": 359.0
-  }, 
+  },
+  {
+    "receptionRange": 40, 
+    "elevation": 1762, 
+    "name": "MUENCHEN", 
+    "longitude": 11.81601667, 
+    "frequency": 1123000, 
+    "latitude": 48.18032500, 
+    "identifier": "MUN", 
+    "slavedVariation": 1.0
+  },   
   {
     "receptionRange": 40, 
     "elevation": 934, 
@@ -20060,16 +20150,6 @@
     "slavedVariation": 11.0
   }, 
   {
-    "receptionRange": 200, 
-    "elevation": 274, 
-    "name": "NEWCASTLE", 
-    "longitude": -1.69836903, 
-    "frequency": 1142500, 
-    "latitude": 55.03844833, 
-    "identifier": "NEW", 
-    "slavedVariation": 355.0
-  }, 
-  {
     "receptionRange": 40, 
     "elevation": 1070, 
     "name": "NEWCOMBE", 
@@ -20713,9 +20793,9 @@
     "receptionRange": 70, 
     "elevation": 200, 
     "name": "OCKHAM", 
-    "longitude": -0.44722199, 
+    "longitude": -0.4471833, 
     "frequency": 1153000, 
-    "latitude": 51.30500031, 
+    "latitude": 51.3050472, 
     "identifier": "OCK", 
     "slavedVariation": 356.0
   }, 
@@ -21093,9 +21173,9 @@
     "receptionRange": 100, 
     "elevation": 0, 
     "name": "OTTRINGHAM", 
-    "longitude": -0.103611, 
+    "longitude": -0.1037361, 
     "frequency": 1139000, 
-    "latitude": 53.69833374, 
+    "latitude": 53.6982139, 
     "identifier": "OTR", 
     "slavedVariation": 356.0
   }, 
@@ -22030,12 +22110,12 @@
     "slavedVariation": 359.0
   }, 
   {
-    "receptionRange": 80, 
+    "receptionRange": 130, 
     "elevation": 0, 
     "name": "PERTH", 
-    "longitude": -3.3686111, 
+    "longitude": -3.3686000, 
     "frequency": 1104000, 
-    "latitude": 56.44250107, 
+    "latitude": 56.4423972, 
     "identifier": "PTH", 
     "slavedVariation": 354.0
   }, 
@@ -22532,10 +22612,10 @@
   {
     "receptionRange": 150, 
     "elevation": 1400, 
-    "name": "POLE", 
-    "longitude": -2.103333, 
+    "name": "POLE HILL", 
+    "longitude": -2.1033278, 
     "frequency": 1121000, 
-    "latitude": 53.74388885, 
+    "latitude": 53.7437667, 
     "identifier": "POL", 
     "slavedVariation": 356.0
   }, 
@@ -25172,7 +25252,7 @@
   {
     "receptionRange": 40, 
     "elevation": 2090, 
-    "name": "SANTA", 
+    "name": "SANTA CATALINA", 
     "longitude": -118.41991425, 
     "frequency": 1114000, 
     "latitude": 33.37505722, 
@@ -25623,9 +25703,9 @@
     "receptionRange": 120, 
     "elevation": 300, 
     "name": "SEAFORD", 
-    "longitude": 0.1219440028071404, 
+    "longitude": 0.1219139, 
     "frequency": 1170000, 
-    "latitude": 50.7606010437011719, 
+    "latitude": 50.7606917, 
     "identifier": "SFD", 
     "slavedVariation": -2.049
   }, 
@@ -25749,6 +25829,16 @@
     "identifier": "YZV", 
     "slavedVariation": 340.0
   }, 
+  {
+	"receptionRange": 130, 
+    "elevation": 23, 
+    "name": "SERDANG", 
+    "longitude": 98.849911, 
+    "frequency": 1122000, 
+    "latitude": 3.617108, 
+    "identifier": "DES", 
+    "slavedVariation": 0.0
+  },
   {
     "receptionRange": 40, 
     "elevation": 33, 
@@ -26623,9 +26713,9 @@
     "receptionRange": 40, 
     "elevation": 66, 
     "name": "SOUTHAMPTON", 
-    "longitude": -1.3450000286102295, 
+    "longitude": -1.3450556, 
     "frequency": 1133500, 
-    "latitude": 50.9552993774414062, 
+    "latitude": 50.9552500, 
     "identifier": "SAM", 
     "slavedVariation": -4.001
   }, 
@@ -26872,10 +26962,10 @@
   {
     "receptionRange": 50, 
     "elevation": 760, 
-    "name": "ST.", 
-    "longitude": -2.20638895, 
+    "name": "ST ABBIS", 
+    "longitude": -2.2063361, 
     "frequency": 1125000, 
-    "latitude": 55.90750122, 
+    "latitude": 55.9075111, 
     "identifier": "SAB", 
     "slavedVariation": 355.0
   }, 
@@ -26971,6 +27061,16 @@
   }, 
   {
     "receptionRange": 130, 
+    "elevation": 250, 
+    "name": "STORNOWAY", 
+    "longitude": -6.1830472, 
+    "frequency": 1151000, 
+    "latitude": 58.2069472, 
+    "identifier": "STN", 
+    "slavedVariation": 4.05
+  }, 
+  {
+    "receptionRange": 130, 
     "elevation": 958, 
     "name": "STORUMAN", 
     "longitude": 17.70825005, 
@@ -26993,9 +27093,9 @@
     "receptionRange": 85, 
     "elevation": 600, 
     "name": "STRUMBLE", 
-    "longitude": -5.04027796, 
+    "longitude": -5.0401917, 
     "frequency": 1131000, 
-    "latitude": 51.99472046, 
+    "latitude": 51.9946889, 
     "identifier": "STU", 
     "slavedVariation": 354.0
   }, 
@@ -27078,6 +27178,16 @@
     "latitude": 33.19855499, 
     "identifier": "SLR", 
     "slavedVariation": 8.0
+  }, 
+  {
+    "receptionRange": 130, 
+    "elevation": 84, 
+    "name": "SUMBURGH", 
+    "longitude": -1.2865333, 
+    "frequency": 11735000, 
+    "latitude": 59.8787556, 
+    "identifier": "SUM", 
+    "slavedVariation": 2.13
   }, 
   {
     "receptionRange": 100, 
@@ -27403,9 +27513,9 @@
     "receptionRange": 130, 
     "elevation": 2786, 
     "name": "TALLA", 
-    "longitude": -3.35277796, 
+    "longitude": -3.3528333, 
     "frequency": 1138000, 
-    "latitude": 55.4991684, 
+    "latitude": 55.4991444, 
     "identifier": "TLA", 
     "slavedVariation": 355.0
   }, 
@@ -28263,9 +28373,9 @@
     "receptionRange": 130, 
     "elevation": 36, 
     "name": "TIREE", 
-    "longitude": -6.87555599, 
+    "longitude": -6.8755889, 
     "frequency": 1177000, 
-    "latitude": 56.49316788, 
+    "latitude": 56.4932111, 
     "identifier": "TIR", 
     "slavedVariation": 353.0
   }, 
@@ -28670,6 +28780,16 @@
     "slavedVariation": 2.2
   }, 
   {
+    "receptionRange": 130, 
+    "elevation": 968, 
+    "name": "TRENT", 
+    "longitude": -1.6700000, 
+    "frequency": 1157000, 
+    "latitude": 53.0538889, 
+    "identifier": "TNT", 
+    "slavedVariation": -1.2
+  }, 
+  {
     "receptionRange": 40, 
     "elevation": 675, 
     "name": "TRES", 
@@ -28938,6 +29058,16 @@
     "latitude": 39.09000015, 
     "identifier": "LBA", 
     "slavedVariation": 4.0
+  }, 
+  {
+    "receptionRange": 130, 
+    "elevation": 600, 
+    "name": "TURNBERRY", 
+    "longitude": -4.7838583, 
+    "frequency": 1175000, 
+    "latitude": 55.3134111, 
+    "identifier": "TRN", 
+    "slavedVariation": 2.85
   }, 
   {
     "receptionRange": 130, 
@@ -29281,11 +29411,11 @@
   }, 
   {
     "receptionRange": 130, 
-    "elevation": 400, 
-    "name": "V", 
-    "longitude": -61.80016708, 
+    "elevation": 62, 
+    "name": "BIRD", 
+    "longitude": -61.80016700, 
     "frequency": 1145000, 
-    "latitude": 17.12588882, 
+    "latitude": 17.12584800, 
     "identifier": "ANU", 
     "slavedVariation": 347.0
   }, 
@@ -30038,7 +30168,17 @@
     "latitude": 45.40735626, 
     "identifier": "WKE", 
     "slavedVariation": 350.0
-  }, 
+  },
+  {
+    "receptionRange": 60, 
+    "elevation": 1362, 
+    "name": "WALDA", 
+    "longitude": 11.12943611, 
+    "frequency": 1228000, 
+    "latitude": 48.57941944, 
+    "identifier": "WLD", 
+    "slavedVariation": 0.0
+  },  
   {
     "receptionRange": 50, 
     "elevation": 439, 
@@ -30063,9 +30203,9 @@
     "receptionRange": 130, 
     "elevation": 55, 
     "name": "WALLASEY", 
-    "longitude": -3.134444, 
+    "longitude": -3.1344611, 
     "frequency": 1141000, 
-    "latitude": 53.39194489, 
+    "latitude": 53.3919361, 
     "identifier": "WAL", 
     "slavedVariation": 355.0
   }, 
@@ -30531,11 +30671,11 @@
   }, 
   {
     "receptionRange": 130, 
-    "elevation": 110, 
+    "elevation": 145, 
     "name": "WICK", 
-    "longitude": -3.1002779, 
+    "longitude": -3.1003694, 
     "frequency": 1136000, 
-    "latitude": 58.45888901, 
+    "latitude": 58.4588167, 
     "identifier": "WIK", 
     "slavedVariation": 354.0
   }, 
