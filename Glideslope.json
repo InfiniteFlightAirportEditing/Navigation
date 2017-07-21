@@ -45881,26 +45881,26 @@
     "airportICAO": "EGLC",
     "identifier": "ILST",
     "associatedRunwayNumber": "09",
-    "latitude": 51.50601100,
-    "longitude": 0.04740300,
-    "elevation": 35,
+    "latitude": 51.50555932,
+    "longitude": 0.04437490,
+    "elevation": 19,
     "frequency": 111150,
     "receptionRange": 10,
-    "bearing": 93.806,
-    "glideslope": 5.50092903
+    "bearing": 92.87,
+    "glideslope": 5.5009287
   },
   {
     "name": "GS",
     "airportICAO": "EGLC",
     "identifier": "ILSR",
     "associatedRunwayNumber": "27",
-    "latitude": 51.50551400,
-    "longitude": 0.06335000,
-    "elevation": 35,
+    "latitude": 51.50488505,
+    "longitude": 0.06598650,
+    "elevation": 19,
     "frequency": 111150,
     "receptionRange": 10,
-    "bearing": 273.806,
-    "glideslope": 5.50272903
+    "bearing": 272.87,
+    "glideslope": 5.5027287
   },
   {
     "name": "GS",
