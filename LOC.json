@@ -18687,12 +18687,12 @@
     "airportICAO": "KMKG",
     "identifier": "ICJH",
     "associatedRunwayNumber": "24",
-    "latitude": 43.16011047,
-    "longitude": -86.25402069,
-    "elevation": 628,
+    "latitude": 43.17150395,
+    "longitude": -86.23059862,
+    "elevation": 627,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 236.276
+    "bearing": 236.300
   },
   {
     "name": "ILS-cat-I",
@@ -18700,12 +18700,12 @@
     "airportICAO": "KMKG",
     "identifier": "IMKG",
     "associatedRunwayNumber": "32",
-    "latitude": 43.17705154,
-    "longitude": -86.24008942,
-    "elevation": 628,
+    "latitude": 43.16269184,
+    "longitude": -86.22204851,
+    "elevation": 627,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 317.495
+    "bearing": 317.500
   },
   {
     "name": "ILS-cat-I",
@@ -64460,12 +64460,12 @@
     "airportICAO": "KMKG",
     "identifier": "ICJH",
     "associatedRunwayNumber": "24",
-    "latitude": 43.16011100,
-    "longitude": -86.25401700,
-    "elevation": 628,
+    "latitude": 43.17150395,
+    "longitude": -86.23059862,
+    "elevation": 627,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 236.276
+    "bearing": 236.300
   },
   {
     "name": "ILS-cat-I",
@@ -64473,12 +64473,12 @@
     "airportICAO": "KMKG",
     "identifier": "IMKG",
     "associatedRunwayNumber": "32",
-    "latitude": 43.17705000,
-    "longitude": -86.24008900,
-    "elevation": 628,
+    "latitude": 43.16269184,
+    "longitude": -86.22204851,
+    "elevation": 627,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 317.495
+    "bearing": 317.500
   },
   {
     "name": "ILS-cat-I",
@@ -89686,6 +89686,19 @@
     "frequency": 111500,
     "receptionRange": 18,
     "bearing": 251.626
+  },
+  {
+    "name": "LOC",
+    "type": 5,
+    "airportICAO": "KMKG",
+    "identifier": "IMKG",
+    "associatedRunwayNumber": "14",
+    "latitude": 43.17501139,
+    "longitude": -86.23753061,
+    "elevation": 627,
+    "frequency": 109900,
+    "receptionRange": 18,
+    "bearing": 137.500
   },
   {
     "name": "LOC",
