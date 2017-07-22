@@ -39275,28 +39275,41 @@
   {
     "name": "GS",
     "airportICAO": "VVTS",
+    "identifier": "ITS",
+    "associatedRunwayNumber": "07R",
+    "latitude": 10.81135891,
+    "longitude": 106.63682534,
+    "elevation": 33,
+    "frequency": 111700,
+    "receptionRange": 10,
+    "bearing": 68.940,
+    "glideslope": 3.00068940
+  },
+  {
+    "name": "GS",
+    "airportICAO": "VVTS",
     "identifier": "SGN",
     "associatedRunwayNumber": "25L",
-    "latitude": 10.82369995,
-    "longitude": 106.66660309,
-    "elevation": 49,
+    "latitude": 10.82371629,
+    "longitude": 106.66950134,
+    "elevation": 33,
     "frequency": 108300,
     "receptionRange": 10,
-    "bearing": 249.812,
-    "glideslope": 3.00248906
+    "bearing": 248.940,
+    "glideslope": 3.00248940
   },
   {
     "name": "GS",
     "airportICAO": "VVTS",
     "identifier": "HCM",
     "associatedRunwayNumber": "25R",
-    "latitude": 10.82486057,
-    "longitude": 106.66012573,
-    "elevation": 32,
+    "latitude": 10.82485004,
+    "longitude": 106.66311292,
+    "elevation": 33,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 249.000,
-    "glideslope": 3.00249
+    "bearing": 248.940,
+    "glideslope": 3.00248940
   },
   {
     "name": "GS",
@@ -81059,28 +81072,41 @@
   {
     "name": "GS",
     "airportICAO": "VVTS",
+    "identifier": "ITS",
+    "associatedRunwayNumber": "07R",
+    "latitude": 10.81135891,
+    "longitude": 106.63682534,
+    "elevation": 33,
+    "frequency": 111700,
+    "receptionRange": 10,
+    "bearing": 68.940,
+    "glideslope": 3.00068940
+  },
+  {
+    "name": "GS",
+    "airportICAO": "VVTS",
     "identifier": "SGN",
     "associatedRunwayNumber": "25L",
-    "latitude": 10.82370000,
-    "longitude": 106.66660300,
-    "elevation": 49,
+    "latitude": 10.82371629,
+    "longitude": 106.66950134,
+    "elevation": 33,
     "frequency": 108300,
     "receptionRange": 10,
-    "bearing": 249.800,
-    "glideslope": 3.002489
+    "bearing": 248.940,
+    "glideslope": 3.00248940
   },
   {
     "name": "GS",
     "airportICAO": "VVTS",
     "identifier": "HCM",
     "associatedRunwayNumber": "25R",
-    "latitude": 10.82486100,
-    "longitude": 106.66012200,
-    "elevation": 32,
+    "latitude": 10.82485004,
+    "longitude": 106.66311292,
+    "elevation": 33,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 249.000,
-    "glideslope": 3.00249
+    "bearing": 248.940,
+    "glideslope": 3.00248940
   },
   {
     "name": "GS",

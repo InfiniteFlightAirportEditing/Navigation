@@ -39459,14 +39459,27 @@
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "VVTS",
+    "identifier": "ITS",
+    "associatedRunwayNumber": "07R",
+    "latitude": 10.81135891,
+    "longitude": 106.63682534,
+    "elevation": 33,
+    "frequency": 111700,
+    "receptionRange": 18,
+    "bearing": 68.940
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "VVTS",
     "identifier": "SGN",
     "associatedRunwayNumber": "25L",
-    "latitude": 10.81048584,
-    "longitude": 106.63451385,
-    "elevation": 24,
+    "latitude": 10.82371629,
+    "longitude": 106.66950134,
+    "elevation": 33,
     "frequency": 108300,
     "receptionRange": 18,
-    "bearing": 248.964
+    "bearing": 248.940
   },
   {
     "name": "ILS-cat-I",
@@ -39474,12 +39487,12 @@
     "airportICAO": "VVTS",
     "identifier": "HCM",
     "associatedRunwayNumber": "25R",
-    "latitude": 10.81393147,
-    "longitude": 106.63423920,
-    "elevation": 25,
+    "latitude": 10.82485004,
+    "longitude": 106.66311292,
+    "elevation": 33,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 248.990
+    "bearing": 248.940
   },
   {
     "name": "ILS-cat-I",
@@ -85141,14 +85154,27 @@
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "VVTS",
+    "identifier": "ITS",
+    "associatedRunwayNumber": "07R",
+    "latitude": 10.81135891,
+    "longitude": 106.63682534,
+    "elevation": 33,
+    "frequency": 111700,
+    "receptionRange": 18,
+    "bearing": 68.940
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "VVTS",
     "identifier": "SGN",
     "associatedRunwayNumber": "25L",
-    "latitude": 10.81048600,
-    "longitude": 106.63451400,
-    "elevation": 24,
+    "latitude": 10.82371629,
+    "longitude": 106.66950134,
+    "elevation": 33,
     "frequency": 108300,
     "receptionRange": 18,
-    "bearing": 248.964
+    "bearing": 248.940
   },
   {
     "name": "ILS-cat-I",
@@ -85156,12 +85182,12 @@
     "airportICAO": "VVTS",
     "identifier": "HCM",
     "associatedRunwayNumber": "25R",
-    "latitude": 10.81393100,
-    "longitude": 106.63424200,
-    "elevation": 25,
+    "latitude": 10.82485004,
+    "longitude": 106.66311292,
+    "elevation": 33,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 248.990
+    "bearing": 248.940
   },
   {
     "name": "ILS-cat-I",
