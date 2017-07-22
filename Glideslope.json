@@ -38744,13 +38744,26 @@
     "airportICAO": "VOMM",
     "identifier": "IMAS",
     "associatedRunwayNumber": "07",
-    "latitude": 12.984139,
-    "longitude":  80.152930,
+    "latitude": 12.98413890,
+    "longitude": 80.15293019,
     "elevation": 52,
     "frequency": 110300,
     "receptionRange": 10,
     "bearing": 68.920,
-    "glideslope": 3.00068875
+    "glideslope": 3.00068920
+  },
+  {
+    "name": "GS",
+    "airportICAO": "VOMM",
+    "identifier": "ICHN",
+    "associatedRunwayNumber": "25",
+    "latitude": 12.99597692,
+    "longitude": 80.18445377,
+    "elevation": 52,
+    "frequency": 109700,
+    "receptionRange": 10,
+    "bearing": 248.920,
+    "glideslope": 3.00248920
   },
   {
     "name": "GS",
@@ -80489,13 +80502,26 @@
     "airportICAO": "VOMM",
     "identifier": "IMAS",
     "associatedRunwayNumber": "07",
-    "latitude": 12.98636100,
-    "longitude": 80.15491700,
+    "latitude": 12.98413890,
+    "longitude": 80.15293019,
     "elevation": 52,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 69.756,
-    "glideslope": 3.00068878
+    "bearing": 68.920,
+    "glideslope": 3.00068920
+  },
+  {
+    "name": "GS",
+    "airportICAO": "VOMM",
+    "identifier": "ICHN",
+    "associatedRunwayNumber": "25",
+    "latitude": 12.99597692,
+    "longitude": 80.18445377,
+    "elevation": 52,
+    "frequency": 109700,
+    "receptionRange": 10,
+    "bearing": 248.920,
+    "glideslope": 3.00248920
   },
   {
     "name": "GS",
