@@ -27915,26 +27915,26 @@
     "airportICAO": "LICJ",
     "identifier": "ITO",
     "associatedRunwayNumber": "20",
-    "latitude": 38.18141556,
-    "longitude": 13.09252834,
-    "elevation": 65,
+    "latitude": 38.18326745,
+    "longitude": 13.09529745,
+    "elevation": 64,
     "frequency": 110550,
     "receptionRange": 10,
-    "bearing": 204.624,
-    "glideslope": 3.00203812
+    "bearing": 203.920,
+    "glideslope": 3.00203920
   },
   {
     "name": "GS",
     "airportICAO": "LICJ",
     "identifier": "RAI",
     "associatedRunwayNumber": "25",
-    "latitude": 38.18327332,
-    "longitude": 13.11681938,
-    "elevation": 65,
+    "latitude": 38.18606944,
+    "longitude": 13.12148249,
+    "elevation": 64,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 247.688,
-    "glideslope": 3.00246844
+    "bearing": 246.800,
+    "glideslope": 3.00246800
   },
   {
     "name": "GS",
@@ -69634,26 +69634,26 @@
     "airportICAO": "LICJ",
     "identifier": "ITO",
     "associatedRunwayNumber": "20",
-    "latitude": 38.18141700,
-    "longitude": 13.09252800,
-    "elevation": 65,
+    "latitude": 38.18326745,
+    "longitude": 13.09529745,
+    "elevation": 64,
     "frequency": 110550,
     "receptionRange": 10,
-    "bearing": 204.618,
-    "glideslope": 3.00203809
+    "bearing": 203.920,
+    "glideslope": 3.00203920
   },
   {
     "name": "GS",
     "airportICAO": "LICJ",
     "identifier": "RAI",
     "associatedRunwayNumber": "25",
-    "latitude": 38.18327200,
-    "longitude": 13.11681900,
-    "elevation": 65,
+    "latitude": 38.18606944,
+    "longitude": 13.12148249,
+    "elevation": 64,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 247.670,
-    "glideslope": 3.00246835
+    "bearing": 246.800,
+    "glideslope": 3.00246800
   },
   {
     "name": "GS",
