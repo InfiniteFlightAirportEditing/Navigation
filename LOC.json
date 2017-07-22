@@ -17946,25 +17946,25 @@
     "airportICAO": "KMCO",
     "identifier": "IARK",
     "associatedRunwayNumber": "17L",
-    "latitude": 28.41605759,
-    "longitude": -81.28229523,
-    "elevation": 94,
+    "latitude": 28.44370475,
+    "longitude": -81.28257263,
+    "elevation": 96,
     "frequency": 110950,
     "receptionRange": 18,
-    "bearing": 179.485
+    "bearing": 179.460
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-II",
     "type": 4,
     "airportICAO": "KMCO",
     "identifier": "IDIZ",
     "associatedRunwayNumber": "17R",
-    "latitude": 28.40521431,
-    "longitude": -81.29556274,
+    "latitude": 28.43560480,
+    "longitude": -81.29588064,
     "elevation": 96,
     "frequency": 111750,
     "receptionRange": 18,
-    "bearing": 179.470
+    "bearing": 179.510
   },
   {
     "name": "ILS-cat-I",
@@ -17972,25 +17972,25 @@
     "airportICAO": "KMCO",
     "identifier": "ITFE",
     "associatedRunwayNumber": "18R",
-    "latitude": 28.41182709,
-    "longitude": -81.32658386,
-    "elevation": 87,
+    "latitude": 28.44830681,
+    "longitude": -81.32697275,
+    "elevation": 96,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 179.457
+    "bearing": 179.500
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "KMCO",
     "identifier": "IDDO",
     "associatedRunwayNumber": "35L",
-    "latitude": 28.43849945,
-    "longitude": -81.29590607,
-    "elevation": 87,
+    "latitude": 28.40817601,
+    "longitude": -81.29561230,
+    "elevation": 96,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 359.476
+    "bearing": 359.510
   },
   {
     "name": "ILS-cat-II",
@@ -17998,25 +17998,25 @@
     "airportICAO": "KMCO",
     "identifier": "ICER",
     "associatedRunwayNumber": "35R",
-    "latitude": 28.44658279,
-    "longitude": -81.28260803,
-    "elevation": 90,
+    "latitude": 28.41901183,
+    "longitude": -81.28230680,
+    "elevation": 96,
     "frequency": 111150,
     "receptionRange": 18,
-    "bearing": 359.485
+    "bearing": 359.460
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "KMCO",
     "identifier": "IOJP",
     "associatedRunwayNumber": "36R",
-    "latitude": 28.45040321,
-    "longitude": -81.32232666,
-    "elevation": 91,
+    "latitude": 28.41541205,
+    "longitude": -81.32195350,
+    "elevation": 96,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 359.466
+    "bearing": 359.500
   },
   {
     "name": "ILS-cat-I",
@@ -63732,25 +63732,25 @@
     "airportICAO": "KMCO",
     "identifier": "IARK",
     "associatedRunwayNumber": "17L",
-    "latitude": 28.41605800,
-    "longitude": -81.28229700,
-    "elevation": 94,
+    "latitude": 28.44370475,
+    "longitude": -81.28257263,
+    "elevation": 96,
     "frequency": 110950,
     "receptionRange": 18,
-    "bearing": 179.485
+    "bearing": 179.460
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-II",
     "type": 4,
     "airportICAO": "KMCO",
     "identifier": "IDIZ",
     "associatedRunwayNumber": "17R",
-    "latitude": 28.40521400,
-    "longitude": -81.29556100,
+    "latitude": 28.43560480,
+    "longitude": -81.29588064,
     "elevation": 96,
     "frequency": 111750,
     "receptionRange": 18,
-    "bearing": 179.470
+    "bearing": 179.510
   },
   {
     "name": "ILS-cat-I",
@@ -63758,25 +63758,25 @@
     "airportICAO": "KMCO",
     "identifier": "ITFE",
     "associatedRunwayNumber": "18R",
-    "latitude": 28.41182800,
-    "longitude": -81.32658300,
-    "elevation": 87,
+    "latitude": 28.44830681,
+    "longitude": -81.32697275,
+    "elevation": 96,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 179.457
+    "bearing": 179.500
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "KMCO",
     "identifier": "IDDO",
     "associatedRunwayNumber": "35L",
-    "latitude": 28.43850000,
-    "longitude": -81.29590800,
-    "elevation": 87,
+    "latitude": 28.40817601,
+    "longitude": -81.29561230,
+    "elevation": 96,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 359.476
+    "bearing": 359.510
   },
   {
     "name": "ILS-cat-II",
@@ -63784,25 +63784,25 @@
     "airportICAO": "KMCO",
     "identifier": "ICER",
     "associatedRunwayNumber": "35R",
-    "latitude": 28.44658300,
-    "longitude": -81.28261100,
-    "elevation": 90,
+    "latitude": 28.41901183,
+    "longitude": -81.28230680,
+    "elevation": 96,
     "frequency": 111150,
     "receptionRange": 18,
-    "bearing": 359.485
+    "bearing": 359.460
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "KMCO",
     "identifier": "IOJP",
     "associatedRunwayNumber": "36R",
-    "latitude": 28.45040300,
-    "longitude": -81.32232800,
-    "elevation": 91,
+    "latitude": 28.41541205,
+    "longitude": -81.32195350,
+    "elevation": 96,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 359.466
+    "bearing": 359.500
   },
   {
     "name": "ILS-cat-I",
