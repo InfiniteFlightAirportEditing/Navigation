@@ -48181,28 +48181,28 @@
   {
     "name": "GS",
     "airportICAO": "ENTO",
-    "identifier": "TP",
+    "identifier": "TRP",
     "associatedRunwayNumber": "18",
-    "latitude": 59.19510800,
-    "longitude": 10.25580800,
-    "elevation": 286,
+    "latitude": 59.19891471,
+    "longitude": 10.25834603,
+    "elevation": 285,
     "frequency": 108300,
     "receptionRange": 10,
-    "bearing": 179.794,
-    "glideslope": 3.00179397
+    "bearing": 179.320,
+    "glideslope": 3.00179320
   },
   {
     "name": "GS",
     "airportICAO": "ENTO",
     "identifier": "SFJ",
     "associatedRunwayNumber": "36",
-    "latitude": 59.17849700,
-    "longitude": 10.25988300,
-    "elevation": 254,
+    "latitude": 59.17463042,
+    "longitude": 10.25890871,
+    "elevation": 285,
     "frequency": 110950,
     "receptionRange": 25,
-    "bearing": 359.656,
-    "glideslope": 3.00359328
+    "bearing": 359.320,
+    "glideslope": 3.00359320
   },
   {
     "name": "GS",

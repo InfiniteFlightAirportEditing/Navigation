@@ -52186,14 +52186,14 @@
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "ENTO",
-    "identifier": "TP",
+    "identifier": "TRP",
     "associatedRunwayNumber": "18",
-    "latitude": 59.17255600,
-    "longitude": 10.25895000,
-    "elevation": 312,
+    "latitude": 59.19891471,
+    "longitude": 10.25834603,
+    "elevation": 285,
     "frequency": 108300,
     "receptionRange": 18,
-    "bearing": 179.328
+    "bearing": 179.320
   },
   {
     "name": "ILS-cat-I",
@@ -52201,12 +52201,12 @@
     "airportICAO": "ENTO",
     "identifier": "SFJ",
     "associatedRunwayNumber": "36",
-    "latitude": 59.20026700,
-    "longitude": 10.25831100,
-    "elevation": 268,
+    "latitude": 59.17463042,
+    "longitude": 10.25890871,
+    "elevation": 285,
     "frequency": 110950,
     "receptionRange": 25,
-    "bearing": 359.328
+    "bearing": 359.320
   },
   {
     "name": "ILS-cat-I",
