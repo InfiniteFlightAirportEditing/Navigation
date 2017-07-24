@@ -70570,12 +70570,12 @@
     "airportICAO": "KXNA",
     "identifier": "IXNA",
     "associatedRunwayNumber": "16",
-    "latitude": 36.26791700,
-    "longitude": -94.30045000,
-    "elevation": 1261,
-    "frequency": 110550,
+    "latitude": 36.29319756,
+    "longitude": -94.31198800,
+    "elevation": 1287,
+    "frequency": 111550,
     "receptionRange": 18,
-    "bearing": 159.815
+    "bearing": 159.820
   },
   {
     "name": "ILS-cat-I",
@@ -70583,12 +70583,12 @@
     "airportICAO": "KXNA",
     "identifier": "IFBS",
     "associatedRunwayNumber": "34",
-    "latitude": 36.29581100,
-    "longitude": -94.31317200,
+    "latitude": 36.27054346,
+    "longitude": -94.30165803,
     "elevation": 1287,
-    "frequency": 110550,
+    "frequency": 111550,
     "receptionRange": 18,
-    "bearing": 339.815
+    "bearing": 339.820
   },
   {
     "name": "ILS-cat-I",

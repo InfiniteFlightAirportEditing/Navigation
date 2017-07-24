@@ -66449,26 +66449,26 @@
     "airportICAO": "KXNA",
     "identifier": "IXNA",
     "associatedRunwayNumber": "16",
-    "latitude": 36.28990300,
-    "longitude": -94.31156100,
-    "elevation": 1283,
-    "frequency": 110550,
+    "latitude": 36.29319756,
+    "longitude": -94.31198800,
+    "elevation": 1287,
+    "frequency": 111550,
     "receptionRange": 10,
-    "bearing": 160.630,
-    "glideslope": 3.00159815
+    "bearing": 159.820,
+    "glideslope": 3.00159820
   },
   {
     "name": "GS",
     "airportICAO": "KXNA",
     "identifier": "IFBS",
     "associatedRunwayNumber": "34",
-    "latitude": 36.27290600,
-    "longitude": -94.30380800,
-    "elevation": 1268,
-    "frequency": 110550,
+    "latitude": 36.27054346,
+    "longitude": -94.30165803,
+    "elevation": 1287,
+    "frequency": 111550,
     "receptionRange": 10,
-    "bearing": 340.630,
-    "glideslope": 3.00339815
+    "bearing": 339.820,
+    "glideslope": 3.00339820
   },
   {
     "name": "GS",
