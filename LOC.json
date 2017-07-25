@@ -49796,12 +49796,12 @@
     "airportICAO": "EGHI",
     "identifier": "ISN",
     "associatedRunwayNumber": "20",
-    "latitude": 50.94206900,
-    "longitude": -1.36136700,
-    "elevation": 44,
+    "latitude": 50.95756411,
+    "longitude": -1.35272725,
+    "elevation": 41,
     "frequency": 110750,
     "receptionRange": 18,
-    "bearing": 199.338
+    "bearing": 199.35
   },
   {
     "name": "ILS-cat-I",
