@@ -51368,13 +51368,13 @@
     "airportICAO": "KAPN",
     "identifier": "IAPN",
     "associatedRunwayNumber": "01",
-    "latitude": 45.06757500,
-    "longitude": -83.55983600,
-    "elevation": 685,
+    "latitude": 45.06480319,
+    "longitude": -83.56130134,
+    "elevation": 688,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 360.606,
-    "glideslope": 3.00359803
+    "bearing": 359.80,
+    "glideslope": 3.0035980
   },
   {
     "name": "GS",

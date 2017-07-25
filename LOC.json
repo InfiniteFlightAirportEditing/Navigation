@@ -55386,12 +55386,12 @@
     "airportICAO": "KAPN",
     "identifier": "IAPN",
     "associatedRunwayNumber": "01",
-    "latitude": 45.09241700,
-    "longitude": -83.56150600,
-    "elevation": 689,
+    "latitude": 45.06480319,
+    "longitude": -83.56130134,
+    "elevation": 688,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 359.803
+    "bearing": 359.80
   },
   {
     "name": "ILS-cat-I",
