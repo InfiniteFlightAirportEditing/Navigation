@@ -42839,13 +42839,13 @@
     "airportICAO": "CYXC",
     "identifier": "IXC",
     "associatedRunwayNumber": "16",
-    "latitude": 49.61830100,
-    "longitude": -115.78330200,
-    "elevation": 3015,
+    "latitude": 49.62312387,
+    "longitude": -115.78229911,
+    "elevation": 3034,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 179.316,
-    "glideslope": 3.00179158
+    "bearing": 179.160,
+    "glideslope": 3.00179160
   },
   {
     "name": "GS",
