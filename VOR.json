@@ -29673,9 +29673,9 @@
     "receptionRange": 40, 
     "elevation": 1560, 
     "name": "VENTURA", 
-    "longitude": -119.04949951, 
+    "longitude": -119.0494917, 
     "frequency": 1082000, 
-    "latitude": 34.11505508, 
+    "latitude": 34.1150592, 
     "identifier": "VTU", 
     "slavedVariation": 15.0
   }, 
