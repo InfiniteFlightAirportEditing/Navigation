@@ -13283,10 +13283,10 @@
     "receptionRange": 25, 
     "elevation": 410, 
     "name": "JOHOR", 
-    "longitude": 103.62163544, 
+    "longitude": 103.66083333, 
     "frequency": 1127000, 
-    "latitude": 1.72986102, 
-    "identifier": "VJR", 
+    "latitude": 1.66400000, 
+    "identifier": "VJB", 
     "slavedVariation": 0.0
   }, 
   {
