@@ -82842,13 +82842,13 @@
     "airportICAO": "ZMUB",
     "identifier": "IDA",
     "associatedRunwayNumber": "14",
-    "latitude": 47.85003281,
-    "longitude": 106.75498199,
-    "elevation": 4147,
+    "latitude": 47.84472990,
+    "longitude": 106.76047086,
+    "elevation": 4363,
     "frequency": 110300,
     "receptionRange": 50,
-    "bearing": 142.000,
-    "glideslope": 2.70142
+    "bearing": 138.230,
+    "glideslope": 2.67138230
   },
   {
     "name": "GS",

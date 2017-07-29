@@ -86898,12 +86898,12 @@
     "airportICAO": "ZMUB",
     "identifier": "IDA",
     "associatedRunwayNumber": "14",
-    "latitude": 47.82753372,
-    "longitude": 106.78681946,
-    "elevation": 4364,
+    "latitude": 47.84472990,
+    "longitude": 106.76047086,
+    "elevation": 4363,
     "frequency": 110300,
     "receptionRange": 50,
-    "bearing": 138.446
+    "bearing": 138.230
   },
   {
     "name": "ILS-cat-I",
