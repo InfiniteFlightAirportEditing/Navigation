@@ -66839,26 +66839,26 @@
     "airportICAO": "LEBB",
     "identifier": "IBO",
     "associatedRunwayNumber": "12",
-    "latitude": 43.30418396,
-    "longitude": -2.92238331,
-    "elevation": 133,
+    "latitude": 43.30637287,
+    "longitude": -2.92499573,
+    "elevation": 137,
     "frequency": 111550,
     "receptionRange": 10,
-    "bearing": 117.476,
-    "glideslope": 3.10116738
+    "bearing": 116.730,
+    "glideslope": 3.10116730
   },
   {
     "name": "GS",
     "airportICAO": "LEBB",
     "identifier": "IBL",
     "associatedRunwayNumber": "30",
-    "latitude": 43.29788208,
-    "longitude": -2.90505004,
-    "elevation": 133,
+    "latitude": 43.29584844,
+    "longitude": -2.89628034,
+    "elevation": 137,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 297.476,
-    "glideslope": 3.40296738
+    "bearing": 296.730,
+    "glideslope": 3.40296730
   },
   {
     "name": "GS",
