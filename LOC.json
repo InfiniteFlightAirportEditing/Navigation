@@ -78851,12 +78851,12 @@
     "airportICAO": "RJFK",
     "identifier": "IKG",
     "associatedRunwayNumber": "34",
-    "latitude": 31.81691400,
-    "longitude": 130.71026700,
-    "elevation": 906,
+    "latitude": 31.79168074,
+    "longitude": 130.72731799,
+    "elevation": 905,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 330.110
+    "bearing": 330.120
   },
   {
     "name": "ILS-cat-I",
