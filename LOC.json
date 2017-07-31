@@ -73765,6 +73765,19 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "LICB",
+    "identifier": "ICMS",
+    "associatedRunwayNumber": "05",
+    "latitude": 36.98781348,
+    "longitude": 14.59686979,
+    "elevation": 755,
+    "frequency": 108950,
+    "receptionRange": 18,
+    "bearing": 50.040
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "LICC",
     "identifier": "CTN",
     "associatedRunwayNumber": "08",
