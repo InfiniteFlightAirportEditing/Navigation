@@ -74834,13 +74834,13 @@
     "airportICAO": "RJFK",
     "identifier": "IKG",
     "associatedRunwayNumber": "34",
-    "latitude": 31.79461400,
-    "longitude": 130.72675000,
-    "elevation": 906,
+    "latitude": 31.79168074,
+    "longitude": 130.72731799,
+    "elevation": 905,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 330.220,
-    "glideslope": 3.0033011
+    "bearing": 330.120,
+    "glideslope": 3.00330120
   },
   {
     "name": "GS",
