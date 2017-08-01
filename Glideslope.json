@@ -55372,13 +55372,13 @@
     "airportICAO": "KELP",
     "identifier": "IELP",
     "associatedRunwayNumber": "22",
-    "latitude": 31.82146900,
-    "longitude": -106.37405600,
-    "elevation": 3940,
+    "latitude": 31.82279081,
+    "longitude": -106.37021777,
+    "elevation": 3958,
     "frequency": 111500,
     "receptionRange": 10,
-    "bearing": 230.714,
-    "glideslope": 3.00229857
+    "bearing": 229.870,
+    "glideslope": 3.00229870
   },
   {
     "name": "GS",

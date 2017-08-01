@@ -59403,12 +59403,12 @@
     "airportICAO": "KELP",
     "identifier": "IELP",
     "associatedRunwayNumber": "22",
-    "latitude": 31.79886700,
-    "longitude": -106.40358300,
-    "elevation": 3911,
+    "latitude": 31.82279081,
+    "longitude": -106.37021777,
+    "elevation": 3958,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 229.847
+    "bearing": 229.870
   },
   {
     "name": "ILS-cat-I",
@@ -89251,12 +89251,12 @@
     "airportICAO": "KELP",
     "identifier": "IETF",
     "associatedRunwayNumber": "04",
-    "latitude": 31.82456900,
-    "longitude": -106.36772200,
-    "elevation": 3950,
+    "latitude": 31.80152547,
+    "longitude": -106.39989714,
+    "elevation": 3958,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 49.866
+    "bearing": 49.870
   },
   {
     "name": "LOC",
