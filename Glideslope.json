@@ -5204,13 +5204,13 @@
     "airportICAO": "EHAM",
     "identifier": "ABA",
     "associatedRunwayNumber": "36R",
-    "latitude": 52.29372406,
-    "longitude": 4.77585602,
+    "latitude": 52.29080450,
+    "longitude": 004.77735231,
     "elevation": -11,
     "frequency": 111950,
     "receptionRange": 15,
-    "bearing": 3.876,
-    "glideslope": 3.00002938
+    "bearing": 3.25,
+    "glideslope": 3.0000325
   },
   {
     "name": "GS",
