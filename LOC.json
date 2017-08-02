@@ -57297,12 +57297,12 @@
     "airportICAO": "KCHS",
     "identifier": "ICHS",
     "associatedRunwayNumber": "15",
-    "latitude": 32.88981400,
-    "longitude": -80.03053600,
-    "elevation": 26,
+    "latitude": 32.91301401,
+    "longitude": -80.04811010,
+    "elevation": 44,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 147.541
+    "bearing": 147.550
   },
   {
     "name": "ILS-cat-I",
@@ -57310,12 +57310,12 @@
     "airportICAO": "KCHS",
     "identifier": "ICCI",
     "associatedRunwayNumber": "33",
-    "latitude": 32.91663100,
-    "longitude": -80.05085600,
+    "latitude": 32.89218317,
+    "longitude": -80.03233279,
     "elevation": 44,
     "frequency": 108900,
     "receptionRange": 18,
-    "bearing": 327.533
+    "bearing": 327.550
   },
   {
     "name": "ILS-cat-I",

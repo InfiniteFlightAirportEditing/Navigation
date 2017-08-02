@@ -53253,26 +53253,26 @@
     "airportICAO": "KCHS",
     "identifier": "ICHS",
     "associatedRunwayNumber": "15",
-    "latitude": 32.91116400,
-    "longitude": -80.04497200,
-    "elevation": 37,
+    "latitude": 32.91301401,
+    "longitude": -80.04811010,
+    "elevation": 44,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 148.082,
-    "glideslope": 3.00147541
+    "bearing": 147.550,
+    "glideslope": 3.00147550
   },
   {
     "name": "GS",
     "airportICAO": "KCHS",
     "identifier": "ICCI",
     "associatedRunwayNumber": "33",
-    "latitude": 32.89480800,
-    "longitude": -80.03273300,
-    "elevation": 43,
+    "latitude": 32.89218317,
+    "longitude": -80.03233279,
+    "elevation": 44,
     "frequency": 108900,
     "receptionRange": 10,
-    "bearing": 328.082,
-    "glideslope": 3.00327541
+    "bearing": 327.550,
+    "glideslope": 3.00327550
   },
   {
     "name": "GS",
