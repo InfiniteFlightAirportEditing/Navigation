@@ -48262,12 +48262,12 @@
     "airportICAO": "EDDL",
     "identifier": "IDNE",
     "associatedRunwayNumber": "05L",
-    "latitude": 51.30055000,
-    "longitude": 6.78410600,
-    "elevation": 116,
+    "latitude": 51.28364420,
+    "longitude": 6.74863815,
+    "elevation": 145,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 52.764
+    "bearing": 52.690
   },
   {
     "name": "ILS-cat-III",
@@ -48275,12 +48275,12 @@
     "airportICAO": "EDDL",
     "identifier": "IDSE",
     "associatedRunwayNumber": "05R",
-    "latitude": 51.29711100,
-    "longitude": 6.78873100,
-    "elevation": 124,
+    "latitude": 51.27959980,
+    "longitude": 6.75199284,
+    "elevation": 145,
     "frequency": 111500,
     "receptionRange": 18,
-    "bearing": 52.716
+    "bearing": 52.700
   },
   {
     "name": "ILS-cat-III",
@@ -48288,12 +48288,12 @@
     "airportICAO": "EDDL",
     "identifier": "IDSW",
     "associatedRunwayNumber": "23L",
-    "latitude": 51.27786700,
-    "longitude": 6.74834200,
-    "elevation": 119,
+    "latitude": 51.29596149,
+    "longitude": 6.78632505,
+    "elevation": 145,
     "frequency": 109900,
     "receptionRange": 23,
-    "bearing": 232.678
+    "bearing": 232.700
   },
   {
     "name": "ILS-cat-II",
@@ -48301,12 +48301,12 @@
     "airportICAO": "EDDL",
     "identifier": "IDNW",
     "associatedRunwayNumber": "23R",
-    "latitude": 51.28213900,
-    "longitude": 6.74546100,
-    "elevation": 116,
+    "latitude": 51.29837110,
+    "longitude": 6.77953709,
+    "elevation": 145,
     "frequency": 109300,
     "receptionRange": 18,
-    "bearing": 232.664
+    "bearing": 232.690
   },
   {
     "name": "ILS-cat-III",
