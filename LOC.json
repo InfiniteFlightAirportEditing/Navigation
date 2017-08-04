@@ -81529,12 +81529,12 @@
     "airportICAO": "TJSJ",
     "identifier": "ISJU",
     "associatedRunwayNumber": "08",
-    "latitude": 18.438756,
-    "longitude": -66.014864,
-    "elevation": 5,
+    "latitude": 18.43832169,
+    "longitude": -66.01594708,
+    "elevation": 2,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 66.87
+    "bearing": 66.86
   },
   {
     "name": "ILS-cat-I",
@@ -81542,12 +81542,12 @@
     "airportICAO": "TJSJ",
     "identifier": "ICLA",
     "associatedRunwayNumber": "10",
-    "latitude": 18.433561,
-    "longitude": -66.013728,
-    "elevation": 9,
+    "latitude": 18.43356100,
+    "longitude": -66.01374244,
+    "elevation": 2,
     "frequency": 109700,
     "receptionRange": 18,
-    "bearing": 90.14
+    "bearing": 90.15
   },
   {
     "name": "ILS-cat-I",
