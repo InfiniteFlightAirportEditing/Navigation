@@ -77447,26 +77447,26 @@
     "airportICAO": "TJSJ",
     "identifier": "ISJU",
     "associatedRunwayNumber": "08",
-    "latitude": 18.438756,
-    "longitude": -66.014864,
-    "elevation": 9,
+    "latitude": 18.43832169,
+    "longitude": -66.01594708,
+    "elevation": 2,
     "frequency": 110300,
     "receptionRange": 10,
-    "bearing": 67.87,
-    "glideslope": 3.00066871
+    "bearing": 66.86,
+    "glideslope": 3.0006686
   },
   {
     "name": "GS",
     "airportICAO": "TJSJ",
     "identifier": "ICLA",
     "associatedRunwayNumber": "10",
-    "latitude": 18.433561,
-    "longitude": -66.013728,
-    "elevation": 8,
+    "latitude": 18.43356100,
+    "longitude": -66.01374244,
+    "elevation": 2,
     "frequency": 109700,
     "receptionRange": 10,
-    "bearing": 90.14,
-    "glideslope": 3.00090144
+    "bearing": 90.15,
+    "glideslope": 3.0009015
   },
   {
     "name": "GS",
