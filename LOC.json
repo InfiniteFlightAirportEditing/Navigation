@@ -22522,12 +22522,12 @@
     "airportICAO": "KSDF",
     "identifier": "IPKI",
     "associatedRunwayNumber": "17L",
-    "latitude": 38.16323090,
-    "longitude": -85.72312164,
-    "elevation": 501,
+    "latitude": 38.18729230,
+    "longitude": -85.73133937,
+    "elevation": 500,
     "frequency": 111950,
     "receptionRange": 18,
-    "bearing": 164.973
+    "bearing": 164.980
   },
   {
     "name": "ILS-cat-I",
@@ -22535,12 +22535,12 @@
     "airportICAO": "KSDF",
     "identifier": "ISNU",
     "associatedRunwayNumber": "17R",
-    "latitude": 38.15536880,
-    "longitude": -85.73834991,
-    "elevation": 501,
+    "latitude": 38.18695223,
+    "longitude": -85.74876378,
+    "elevation": 500,
     "frequency": 110300,
     "receptionRange": 18,
-    "bearing": 165.449
+    "bearing": 165.470
   },
   {
     "name": "ILS-cat-I",
@@ -22548,12 +22548,12 @@
     "airportICAO": "KSDF",
     "identifier": "ILKS",
     "associatedRunwayNumber": "29",
-    "latitude": 38.18072128,
-    "longitude": -85.74897766,
-    "elevation": 501,
+    "latitude": 38.17304604,
+    "longitude": -85.72379699,
+    "elevation": 500,
     "frequency": 109100,
     "receptionRange": 18,
-    "bearing": 291.184
+    "bearing": 291.220
   },
   {
     "name": "ILS-cat-III",
@@ -22561,12 +22561,12 @@
     "airportICAO": "KSDF",
     "identifier": "IRLI",
     "associatedRunwayNumber": "35L",
-    "latitude": 38.18749619,
-    "longitude": -85.74894714,
-    "elevation": 501,
+    "latitude": 38.15539103,
+    "longitude": -85.73835697,
+    "elevation": 500,
     "frequency": 109350,
     "receptionRange": 18,
-    "bearing": 345.455
+    "bearing": 345.470
   },
   {
     "name": "ILS-cat-III",
@@ -22574,12 +22574,12 @@
     "airportICAO": "KSDF",
     "identifier": "IJJM",
     "associatedRunwayNumber": "35R",
-    "latitude": 38.18889618,
-    "longitude": -85.73188782,
-    "elevation": 501,
+    "latitude": 38.16456370,
+    "longitude": -85.72357884,
+    "elevation": 500,
     "frequency": 110550,
     "receptionRange": 18,
-    "bearing": 344.968
+    "bearing": 344.980
   },
   {
     "name": "ILS-cat-III",
