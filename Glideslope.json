@@ -69881,13 +69881,13 @@
     "airportICAO": "LIPO",
     "identifier": "IBS",
     "associatedRunwayNumber": "32",
-    "latitude": 45.42250000,
-    "longitude": 10.34000000,
-    "elevation": 356,
+    "latitude": 45.41907616,
+    "longitude": 10.34482633,
+    "elevation": 357,
     "frequency": 110550,
     "receptionRange": 10,
-    "bearing": 315.000,
-    "glideslope": 3.00315
+    "bearing": 315.020,
+    "glideslope": 3.00315020
   },
   {
     "name": "GS",
