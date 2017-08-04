@@ -11379,13 +11379,13 @@
     "airportICAO": "KCHO",
     "identifier": "ICHO",
     "associatedRunwayNumber": "03",
-    "latitude": 38.13407135,
-    "longitude": -78.45620728,
-    "elevation": 632,
+    "latitude": 38.13100078,
+    "longitude": -78.45679993,
+    "elevation": 639,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 22.062,
-    "glideslope": 3.00022031
+    "bearing": 22.06,
+    "glideslope": 3.0002206
   },
   {
     "name": "GS",
@@ -53240,13 +53240,13 @@
     "airportICAO": "KCHO",
     "identifier": "ICHO",
     "associatedRunwayNumber": "03",
-    "latitude": 38.13407200,
-    "longitude": -78.45620800,
-    "elevation": 632,
+    "latitude": 38.13100078,
+    "longitude": -78.45679993,
+    "elevation": 639,
     "frequency": 111700,
     "receptionRange": 10,
-    "bearing": 22.042,
-    "glideslope": 3.00022021
+    "bearing": 22.06,
+    "glideslope": 3.0002206
   },
   {
     "name": "GS",
