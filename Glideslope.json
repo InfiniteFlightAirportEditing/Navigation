@@ -63042,13 +63042,13 @@
     "airportICAO": "KPTK",
     "identifier": "IPTK",
     "associatedRunwayNumber": "09R",
-    "latitude": 42.66563600,
-    "longitude": -83.42923900,
+    "latitude": 42.66461773,
+    "longitude": -83.43437877,
     "elevation": 979,
     "frequency": 111100,
     "receptionRange": 10,
-    "bearing": 88.306,
-    "glideslope": 3.00087653
+    "bearing": 87.64,
+    "glideslope": 3.0008764
   },
   {
     "name": "GS",
