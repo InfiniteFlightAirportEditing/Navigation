@@ -28307,9 +28307,9 @@
     "airportICAO": "LIPO",
     "identifier": "IBS",
     "associatedRunwayNumber": "32",
-    "latitude": 45.41907616,
-    "longitude": 10.34482633,
-    "elevation": 357,
+    "latitude": 45.43908310,
+    "longitude": 10.31630611,
+    "elevation": 356,
     "frequency": 110550,
     "receptionRange": 18,
     "bearing": 315.024
