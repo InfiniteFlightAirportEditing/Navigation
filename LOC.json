@@ -11381,12 +11381,12 @@
     "airportICAO": "KCHO",
     "identifier": "ICHO",
     "associatedRunwayNumber": "03",
-    "latitude": 38.14702606,
-    "longitude": -78.44853973,
+    "latitude": 38.13100078,
+    "longitude": -78.45679993,
     "elevation": 639,
     "frequency": 111700,
     "receptionRange": 18,
-    "bearing": 21.998
+    "bearing": 22.06
   },
   {
     "name": "ILS-cat-I",
