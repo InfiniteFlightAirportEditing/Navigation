@@ -67151,12 +67151,12 @@
     "airportICAO": "KPTK",
     "identifier": "IPTK",
     "associatedRunwayNumber": "09R",
-    "latitude": 42.66552200,
-    "longitude": -83.40430800,
-    "elevation": 980,
+    "latitude": 42.66461773,
+    "longitude": -83.43437877,
+    "elevation": 979,
     "frequency": 111100,
     "receptionRange": 18,
-    "bearing": 87.661
+    "bearing": 87.64
   },
   {
     "name": "ILS-cat-I",
