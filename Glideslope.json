@@ -59542,6 +59542,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "KMBL",
+    "identifier": "IMBL",
+    "associatedRunwayNumber": "28",
+    "latitude": 44.27243924,
+    "longitude": -86.23384843,
+    "elevation": 621,
+    "frequency": 108350,
+    "receptionRange": 10,
+    "bearing": 91.440,
+    "glideslope": 3.00091440
+  },
+  {
+    "name": "GS",
     "airportICAO": "KMBS",
     "identifier": "IMBS",
     "associatedRunwayNumber": "05",
