@@ -51399,15 +51399,6 @@
     "receptionRange": 15
   },
   {
-    "name": "SHOBDON",
-    "identifier": "SH",
-    "latitude": 52.24339294,
-    "longitude": -2.87983894,
-    "elevation": 0,
-    "frequency": 426,
-    "receptionRange": 20
-  },
-  {
     "name": "SHOW",
     "identifier": "SOW",
     "latitude": 34.26725006,
