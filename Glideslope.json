@@ -56370,6 +56370,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "KGLR",
+    "identifier": "IGLR",
+    "associatedRunwayNumber": "09",
+    "latitude": 45.01451376,
+    "longitude": -84.71703850,
+    "elevation": 1328,
+    "frequency": 111100,
+    "receptionRange": 10,
+    "bearing": 90.130,
+    "glideslope": 3.00090130
+  },
+  {
+    "name": "GS",
     "airportICAO": "KGLS",
     "identifier": "IGLS",
     "associatedRunwayNumber": "13",
