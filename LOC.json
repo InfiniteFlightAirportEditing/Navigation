@@ -5076,12 +5076,12 @@
     "airportICAO": "EHAM",
     "identifier": "KAG",
     "associatedRunwayNumber": "06",
-    "latitude": 52.30714035,
-    "longitude": 4.78419399,
+    "latitude": 52.28973007,
+    "longitude": 4.74216700,
     "elevation": -11,
     "frequency": 110550,
     "receptionRange": 18,
-    "bearing": 57.817
+    "bearing": 57.89
   },
   {
     "name": "ILS-cat-III",
@@ -5089,12 +5089,12 @@
     "airportICAO": "EHAM",
     "identifier": "ZWA",
     "associatedRunwayNumber": "18C",
-    "latitude": 52.30013275,
-    "longitude": 4.73731709,
+    "latitude":  52.33138094,
+    "longitude": 4.74006054,
     "elevation": -11,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 182.990
+    "bearing": 183.21
   },
   {
     "name": "ILS-cat-III",
@@ -5102,12 +5102,12 @@
     "airportICAO": "EHAM",
     "identifier": "VPB",
     "associatedRunwayNumber": "18R",
-    "latitude": 52.32589340,
-    "longitude": 4.70859194,
+    "latitude": 52.36267082,
+    "longitude": 4.7119542,
     "elevation": -11,
     "frequency": 110100,
     "receptionRange": 18,
-    "bearing": 183.235
+    "bearing": 183.19
   },
   {
     "name": "ILS-cat-I",
@@ -5115,12 +5115,12 @@
     "airportICAO": "EHAM",
     "identifier": "SCH",
     "associatedRunwayNumber": "22",
-    "latitude": 52.29875183,
-    "longitude": 4.78116417,
+    "latitude": 52.30457612,
+    "longitude": 4.77753012,
     "elevation": -11,
     "frequency": 109150,
     "receptionRange": 18,
-    "bearing": 221.174
+    "bearing": 221.19
   },
   {
     "name": "ILS-cat-III",
@@ -5128,12 +5128,12 @@
     "airportICAO": "EHAM",
     "identifier": "BVB",
     "associatedRunwayNumber": "27",
-    "latitude": 52.31657410,
-    "longitude": 4.74436378,
+    "latitude": 52.31837180,
+    "longitude": 4.79684458,
     "elevation": -11,
     "frequency": 111550,
     "receptionRange": 18,
-    "bearing": 266.802
+    "bearing": 266.79
   },
   {
     "name": "ILS-cat-III",
@@ -5141,12 +5141,12 @@
     "airportICAO": "EHAM",
     "identifier": "MSA",
     "associatedRunwayNumber": "36C",
-    "latitude": 52.33398438,
-    "longitude": 4.74025011,
+    "latitude": 52.30176721,
+    "longitude": 4.73733876,
     "elevation": -11,
     "frequency": 108750,
     "receptionRange": 18,
-    "bearing": 2.990
+    "bearing": 3.21
   },
   {
     "name": "ILS-cat-II",
@@ -5159,7 +5159,7 @@
     "elevation": -11,
     "frequency": 111950,
     "receptionRange": 18,
-    "bearing": 3.25 
+    "bearing": 3.19 
   },
   {
     "name": "ILS-cat-I",

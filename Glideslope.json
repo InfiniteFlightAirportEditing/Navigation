@@ -5131,73 +5131,73 @@
     "elevation": -11,
     "frequency": 110550,
     "receptionRange": 15,
-    "bearing": 58.876,
-    "glideslope": 3.00057938
+    "bearing": 57.89 ,
+    "glideslope": 3.00057890
   },
   {
     "name": "GS",
     "airportICAO": "EHAM",
     "identifier": "ZWA",
     "associatedRunwayNumber": "18C",
-    "latitude": 52.32852936,
-    "longitude": 4.73800611,
+    "latitude":  52.33138094,
+    "longitude": 4.74006054,
     "elevation": -11,
     "frequency": 109500,
     "receptionRange": 15,
-    "bearing": 183.062,
-    "glideslope": 3.00183031
+    "bearing": 183.21 ,
+    "glideslope": 3.00183210
   },
   {
     "name": "GS",
     "airportICAO": "EHAM",
     "identifier": "VPB",
     "associatedRunwayNumber": "18R",
-    "latitude": 52.35733032,
-    "longitude": 4.71321678,
+    "latitude": 52.36267082,
+    "longitude": 4.7119542,
     "elevation": -11,
     "frequency": 110100,
     "receptionRange": 15,
-    "bearing": 183.376,
-    "glideslope": 3.00183188
+    "bearing": 183.19,
+    "glideslope": 3.00183190
   },
   {
     "name": "GS",
     "airportICAO": "EHAM",
     "identifier": "SCH",
     "associatedRunwayNumber": "22",
-    "latitude": 52.31298065,
-    "longitude": 4.79918909,
+    "latitude": 52.30457612,
+    "longitude": 4.77753012,
     "elevation": -11,
     "frequency": 109150,
     "receptionRange": 15,
-    "bearing": 221.376,
-    "glideslope": 3.00221188
+    "bearing": 221.19,
+    "glideslope": 3.00221190
   },
   {
     "name": "GS",
     "airportICAO": "EHAM",
     "identifier": "BVB",
     "associatedRunwayNumber": "27",
-    "latitude": 52.31929016,
-    "longitude": 4.79200792,
+    "latitude": 52.31837180,
+    "longitude": 4.79684458,
     "elevation": -11,
     "frequency": 111550,
     "receptionRange": 15,
-    "bearing": 267.500,
-    "glideslope": 3.0026675
+    "bearing": 266.79,
+    "glideslope": 3.00266790
   },
   {
     "name": "GS",
     "airportICAO": "EHAM",
     "identifier": "MSA",
     "associatedRunwayNumber": "36C",
-    "latitude": 52.30880737,
-    "longitude": 4.73619413,
+    "latitude": 52.30176721,
+    "longitude": 4.73733876,
     "elevation": -11,
     "frequency": 108750,
     "receptionRange": 15,
-    "bearing": 3.000,
-    "glideslope": 3.00003
+    "bearing": 3.21,
+    "glideslope": 3.0000321
   },
   {
     "name": "GS",
@@ -5209,8 +5209,8 @@
     "elevation": -11,
     "frequency": 111950,
     "receptionRange": 15,
-    "bearing": 3.25,
-    "glideslope": 3.0000325
+    "bearing": 3.19,
+    "glideslope": 3.0000319
   },
   {
     "name": "GS",
