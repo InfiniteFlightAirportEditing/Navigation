@@ -68269,13 +68269,13 @@
     "airportICAO": "LFMK",
     "identifier": "CS",
     "associatedRunwayNumber": "10",
-    "latitude": 43.21773000,
-    "longitude": 2.29892400,
+    "latitude": 43.21706739,
+    "longitude": 2.29308502,
     "elevation": 433,
     "frequency": 111100,
     "receptionRange": 27,
-    "bearing": 96.580,
-    "glideslope": 3.0009629
+    "bearing": 96.300,
+    "glideslope": 3.00096300
   },
   {
     "name": "GS",

@@ -72403,12 +72403,12 @@
     "airportICAO": "LFMK",
     "identifier": "CS",
     "associatedRunwayNumber": "10",
-    "latitude": 43.21498200,
-    "longitude": 2.31956600,
+    "latitude": 43.21706739,
+    "longitude": 2.29308502,
     "elevation": 433,
     "frequency": 111100,
     "receptionRange": 27,
-    "bearing": 96.290
+    "bearing": 96.300
   },
   {
     "name": "ILS-cat-III",
