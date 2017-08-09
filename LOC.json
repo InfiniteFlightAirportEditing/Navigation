@@ -60833,12 +60833,12 @@
     "airportICAO": "KGUS",
     "identifier": "IGUS",
     "associatedRunwayNumber": "05",
-    "latitude": 40.66533900,
-    "longitude": -86.12991900,
+    "latitude": 40.63579756,
+    "longitude": -86.16783585,
     "elevation": 812,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 44.303
+    "bearing": 44.300
   },
   {
     "name": "ILS-cat-I",
@@ -60846,12 +60846,12 @@
     "airportICAO": "KGUS",
     "identifier": "IRSM",
     "associatedRunwayNumber": "23",
-    "latitude": 40.63299200,
-    "longitude": -86.17152800,
+    "latitude": 40.66033696,
+    "longitude": -86.13627946,
     "elevation": 812,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 224.284
+    "bearing": 224.300
   },
   {
     "name": "ILS-cat-I",

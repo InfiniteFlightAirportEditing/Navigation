@@ -56776,26 +56776,26 @@
     "airportICAO": "KGUS",
     "identifier": "IGUS",
     "associatedRunwayNumber": "05",
-    "latitude": 40.63740000,
-    "longitude": -86.16327800,
-    "elevation": 810,
+    "latitude": 40.63579756,
+    "longitude": -86.16783585,
+    "elevation": 812,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 44.568,
-    "glideslope": 2.50044284
+    "bearing": 44.300,
+    "glideslope": 2.50044300
   },
   {
     "name": "GS",
     "airportICAO": "KGUS",
     "identifier": "IRSM",
     "associatedRunwayNumber": "23",
-    "latitude": 40.65734400,
-    "longitude": -86.13821700,
+    "latitude": 40.66033696,
+    "longitude": -86.13627946,
     "elevation": 812,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 224.568,
-    "glideslope": 2.50224284
+    "bearing": 224.300,
+    "glideslope": 2.50224300
   },
   {
     "name": "GS",
