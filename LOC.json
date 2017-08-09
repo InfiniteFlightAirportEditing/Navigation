@@ -58454,12 +58454,12 @@
     "airportICAO": "KDEN",
     "identifier": "IDZG",
     "associatedRunwayNumber": "07",
-    "latitude": 39.84063100,
-    "longitude": -104.68030000,
-    "elevation": 5352,
+    "latitude": 39.84094863,
+    "longitude": -104.72674075,
+    "elevation": 5431,
     "frequency": 111550,
     "receptionRange": 18,
-    "bearing": 90.517
+    "bearing": 90.510
   },
   {
     "name": "ILS-cat-I",
@@ -58467,12 +58467,12 @@
     "airportICAO": "KDEN",
     "identifier": "IFUI",
     "associatedRunwayNumber": "08",
-    "latitude": 39.87721700,
-    "longitude": -104.61585000,
-    "elevation": 5291,
+    "latitude": 39.87756008,
+    "longitude": -104.66233509,
+    "elevation": 5431,
     "frequency": 108900,
     "receptionRange": 18,
-    "bearing": 90.558
+    "bearing": 90.550
   },
   {
     "name": "ILS-cat-I",
@@ -58480,9 +58480,9 @@
     "airportICAO": "KDEN",
     "identifier": "ILTT",
     "associatedRunwayNumber": "16L",
-    "latitude": 39.86130300,
-    "longitude": -104.68721900,
-    "elevation": 5351,
+    "latitude": 39.89700946,
+    "longitude": -104.68681510,
+    "elevation": 5431,
     "frequency": 111100,
     "receptionRange": 18,
     "bearing": 180.510
@@ -58493,12 +58493,12 @@
     "airportICAO": "KDEN",
     "identifier": "IDQQ",
     "associatedRunwayNumber": "16R",
-    "latitude": 39.84910800,
-    "longitude": -104.69661900,
-    "elevation": 5320,
+    "latitude": 39.89579197,
+    "longitude": -104.69610006,
+    "elevation": 5431,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 180.510
+    "bearing": 180.500
   },
   {
     "name": "ILS-cat-I",
@@ -58506,12 +58506,12 @@
     "airportICAO": "KDEN",
     "identifier": "IBXP",
     "associatedRunwayNumber": "17L",
-    "latitude": 39.82921700,
-    "longitude": -104.64174400,
-    "elevation": 5367,
+    "latitude": 39.86494640,
+    "longitude": -104.64131623,
+    "elevation": 5431,
     "frequency": 110150,
     "receptionRange": 18,
-    "bearing": 180.540
+    "bearing": 180.530
   },
   {
     "name": "ILS-cat-I",
@@ -58519,12 +58519,12 @@
     "airportICAO": "KDEN",
     "identifier": "IACX",
     "associatedRunwayNumber": "17R",
-    "latitude": 39.82551100,
-    "longitude": -104.66058300,
+    "latitude": 39.86122954,
+    "longitude": -104.66015839,
     "elevation": 5431,
     "frequency": 108500,
     "receptionRange": 18,
-    "bearing": 180.525
+    "bearing": 180.530
   },
   {
     "name": "ILS-cat-I",
@@ -58532,12 +58532,12 @@
     "airportICAO": "KDEN",
     "identifier": "IERP",
     "associatedRunwayNumber": "25",
-    "latitude": 39.84096900,
-    "longitude": -104.73029200,
-    "elevation": 5347,
+    "latitude": 39.84065582,
+    "longitude": -104.68386906,
+    "elevation": 5431,
     "frequency": 111550,
     "receptionRange": 18,
-    "bearing": 270.488
+    "bearing": 270.510
   },
   {
     "name": "ILS-cat-I",
@@ -58545,12 +58545,12 @@
     "airportICAO": "KDEN",
     "identifier": "IJOY",
     "associatedRunwayNumber": "26",
-    "latitude": 39.87758300,
-    "longitude": -104.66586700,
-    "elevation": 5355,
+    "latitude": 39.87724341,
+    "longitude": -104.61944082,
+    "elevation": 5431,
     "frequency": 108900,
     "receptionRange": 18,
-    "bearing": 270.529
+    "bearing": 270.550
   },
   {
     "name": "ILS-cat-III",
@@ -58558,12 +58558,12 @@
     "airportICAO": "KDEN",
     "identifier": "IDXU",
     "associatedRunwayNumber": "34L",
-    "latitude": 39.89857500,
-    "longitude": -104.69605300,
-    "elevation": 5320,
+    "latitude": 39.85190414,
+    "longitude": -104.69659777,
+    "elevation": 5431,
     "frequency": 111900,
     "receptionRange": 18,
-    "bearing": 0.510
+    "bearing": 0.500
   },
   {
     "name": "ILS-cat-III",
@@ -58571,9 +58571,9 @@
     "airportICAO": "KDEN",
     "identifier": "IOUF",
     "associatedRunwayNumber": "34R",
-    "latitude": 39.89984200,
-    "longitude": -104.68677200,
-    "elevation": 5350,
+    "latitude": 39.86409140,
+    "longitude": -104.68719684,
+    "elevation": 5431,
     "frequency": 111100,
     "receptionRange": 18,
     "bearing": 0.510
@@ -58584,9 +58584,9 @@
     "airportICAO": "KDEN",
     "identifier": "IAQD",
     "associatedRunwayNumber": "35L",
-    "latitude": 39.86404700,
-    "longitude": -104.66012200,
-    "elevation": 5340,
+    "latitude": 39.82831152,
+    "longitude": -104.66055374,
+    "elevation": 5431,
     "frequency": 108500,
     "receptionRange": 18,
     "bearing": 0.530
@@ -58597,12 +58597,12 @@
     "airportICAO": "KDEN",
     "identifier": "IDPP",
     "associatedRunwayNumber": "35R",
-    "latitude": 39.86775600,
-    "longitude": -104.64126900,
-    "elevation": 5315,
+    "latitude": 39.83202845,
+    "longitude": -104.64171416,
+    "elevation": 5431,
     "frequency": 110150,
     "receptionRange": 18,
-    "bearing": 0.540
+    "bearing": 0.530
   },
   {
     "name": "ILS-cat-I",
