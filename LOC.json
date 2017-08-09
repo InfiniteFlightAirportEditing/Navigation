@@ -67970,12 +67970,12 @@
     "airportICAO": "KROW",
     "identifier": "IROW",
     "associatedRunwayNumber": "21",
-    "latitude": 33.28273300,
-    "longitude": -104.54091900,
-    "elevation": 3675,
+    "latitude": 33.31131317,
+    "longitude": -104.50674256,
+    "elevation": 3670,
     "frequency": 109900,
     "receptionRange": 18,
-    "bearing": 224.984
+    "bearing": 224.990
   },
   {
     "name": "ILS-cat-I",

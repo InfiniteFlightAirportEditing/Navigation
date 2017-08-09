@@ -63862,13 +63862,13 @@
     "airportICAO": "KROW",
     "identifier": "IROW",
     "associatedRunwayNumber": "21",
-    "latitude": 33.30799400,
-    "longitude": -104.50838900,
-    "elevation": 3626,
+    "latitude": 33.31131317,
+    "longitude": -104.50674256,
+    "elevation": 3670,
     "frequency": 109900,
     "receptionRange": 10,
-    "bearing": 225.994,
-    "glideslope": 2.70224997
+    "bearing": 224.990,
+    "glideslope": 2.70224990
   },
   {
     "name": "GS",
