@@ -52210,6 +52210,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "KBIV",
+    "identifier": "IBIV",
+    "associatedRunwayNumber": "26",
+    "latitude": 42.74426131,
+    "longitude": -86.09684205,
+    "elevation": 696,
+    "frequency": 110550,
+    "receptionRange": 10,
+    "bearing": 259.660,
+    "glideslope": 3.00259660
+  },
+  {
+    "name": "GS",
     "airportICAO": "KBIX",
     "identifier": "IBIX",
     "associatedRunwayNumber": "21",

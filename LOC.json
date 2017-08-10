@@ -56241,6 +56241,19 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "KBIV",
+    "identifier": "IBIV",
+    "associatedRunwayNumber": "26",
+    "latitude": 42.74426131,
+    "longitude": -86.09684205,
+    "elevation": 696,
+    "frequency": 110550,
+    "receptionRange": 18,
+    "bearing": 259.660
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "KBIX",
     "identifier": "IBIX",
     "associatedRunwayNumber": "21",
