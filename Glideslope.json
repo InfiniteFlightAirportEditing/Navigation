@@ -70206,13 +70206,13 @@
     "airportICAO": "LIRZ",
     "identifier": "IPE",
     "associatedRunwayNumber": "01",
-    "latitude": 43.09030600,
-    "longitude": 12.51286100,
-    "elevation": 667,
+    "latitude": 43.08849550,
+    "longitude": 12.51064549,
+    "elevation": 695,
     "frequency": 110950,
     "receptionRange": 10,
-    "bearing": 14.528,
-    "glideslope": 3.40014264
+    "bearing": 14.280,
+    "glideslope": 3.40014280
   },
   {
     "name": "GS",

@@ -74392,12 +74392,12 @@
     "airportICAO": "LIRZ",
     "identifier": "IPE",
     "associatedRunwayNumber": "01",
-    "latitude": 43.10525000,
-    "longitude": 12.51647200,
-    "elevation": 693,
+    "latitude": 43.08849550,
+    "longitude": 12.51064549,
+    "elevation": 695,
     "frequency": 110950,
     "receptionRange": 18,
-    "bearing": 14.251
+    "bearing": 14.280
   },
   {
     "name": "ILS-cat-III",
