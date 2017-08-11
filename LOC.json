@@ -30506,10 +30506,10 @@
     "associatedRunwayNumber": "06",
     "latitude": 23.04572487,
     "longitude": -81.41743469,
-    "elevation": 209,
+    "elevation": 210,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 55.489
+    "bearing": 55.480
   },
   {
     "name": "ILS-cat-I",
