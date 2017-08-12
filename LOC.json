@@ -76302,13 +76302,13 @@
     "type": 4,
     "airportICAO": "MUCU",
     "identifier": "ICU",
-    "associatedRunwayNumber": "09",
-    "latitude": 19.97220300,
-    "longitude": -75.82109400,
+    "associatedRunwayNumber": "10",
+    "latitude": 19.96955600,
+    "longitude": -75.85466700,
     "elevation": 249,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 85.211
+    "bearing": 85.370
   },
   {
     "name": "ILS-cat-I",

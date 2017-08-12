@@ -72142,13 +72142,13 @@
     "name": "GS",
     "airportICAO": "MUCU",
     "identifier": "ICU",
-    "associatedRunwayNumber": "09",
-    "latitude": 19.97082200,
-    "longitude": -75.84933900,
+    "associatedRunwayNumber": "10",
+    "latitude": 19.96955600,
+    "longitude": -75.85466700,
     "elevation": 249,
     "frequency": 110700,
     "receptionRange": 10,
-    "bearing": 89.594,
+    "bearing": 89.370,
     "glideslope": 3.00089297
   },
   {
