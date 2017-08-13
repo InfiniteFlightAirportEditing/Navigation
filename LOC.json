@@ -75770,12 +75770,12 @@
     "airportICAO": "LWSK",
     "identifier": "MSK",
     "associatedRunwayNumber": "34",
-    "latitude": 41.97500000,
-    "longitude": 21.61666700,
-    "elevation": 764,
+    "latitude": 41.94660057,
+    "longitude": 21.62667499,
+    "elevation": 780,
     "frequency": 108700,
     "receptionRange": 25,
-    "bearing": 345.000
+    "bearing": 345.470
   },
   {
     "name": "ILS-cat-I",

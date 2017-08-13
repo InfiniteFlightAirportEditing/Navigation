@@ -71584,13 +71584,13 @@
     "airportICAO": "LWSK",
     "identifier": "MSK",
     "associatedRunwayNumber": "34",
-    "latitude": 41.95305600,
-    "longitude": 21.62305600,
-    "elevation": 813,
+    "latitude": 41.94660057,
+    "longitude": 21.62667499,
+    "elevation": 780,
     "frequency": 108700,
     "receptionRange": 25,
-    "bearing": 345.000,
-    "glideslope": 3.30345
+    "bearing": 345.470,
+    "glideslope": 3.30345470
   },
   {
     "name": "GS",
