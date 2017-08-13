@@ -30478,12 +30478,12 @@
     "airportICAO": "MUHA",
     "identifier": "IHA",
     "associatedRunwayNumber": "06",
-    "latitude": 23.00109673,
-    "longitude": -82.39108276,
-    "elevation": 209,
+    "latitude": 22.97863156,
+    "longitude": -81.44938998,
+    "elevation": 249,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 54.228
+    "bearing": 54.210
   },
   {
     "name": "ILS-cat-I",

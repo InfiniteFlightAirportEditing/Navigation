@@ -72156,12 +72156,12 @@
     "airportICAO": "MUHA",
     "identifier": "IHA",
     "associatedRunwayNumber": "06",
-    "latitude": 22.97889200,
-    "longitude": -82.42172500,
-    "elevation": 209,
+    "latitude": 22.97863156,
+    "longitude": -81.44938998,
+    "elevation": 249,
     "frequency": 110500,
     "receptionRange": 10,
-    "bearing": 54.440,
+    "bearing": 54.210,
     "glideslope": 3.0005422
   },
   {
