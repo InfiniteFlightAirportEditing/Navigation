@@ -75237,12 +75237,12 @@
     "airportICAO": "LSZH",
     "identifier": "IKL",
     "associatedRunwayNumber": "14",
-    "latitude": 47.45905600,
-    "longitude": 8.56750000,
-    "elevation": 1460,
-    "frequency": 108300,
+    "latitude": 47.48308100,
+    "longitude": 8.53472500,
+    "elevation": 1417,
+    "frequency": 111750,
     "receptionRange": 18,
-    "bearing": 137.331
+    "bearing": 137.310
   },
   {
     "name": "ILS-cat-III",
@@ -75250,12 +75250,12 @@
     "airportICAO": "LSZH",
     "identifier": "IZH",
     "associatedRunwayNumber": "16",
-    "latitude": 47.44347200,
-    "longitude": 8.55811100,
-    "elevation": 1400,
+    "latitude": 47.47576110,
+    "longitude": 8.53591369,
+    "elevation": 1417,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 154.990
+    "bearing": 155.050
   },
   {
     "name": "ILS-cat-I",
@@ -75263,12 +75263,12 @@
     "airportICAO": "LSZH",
     "identifier": "IZW",
     "associatedRunwayNumber": "28",
-    "latitude": 47.45924400,
-    "longitude": 8.53338700,
-    "elevation": 1416,
+    "latitude": 47.45660000,
+    "longitude": 8.57044700,
+    "elevation": 1417,
     "frequency": 109750,
     "receptionRange": 18,
-    "bearing": 276.000
+    "bearing": 276.010
   },
   {
     "name": "ILS-cat-I",
@@ -75276,12 +75276,12 @@
     "airportICAO": "LSZH",
     "identifier": "IZS",
     "associatedRunwayNumber": "34",
-    "latitude": 47.47905600,
-    "longitude": 8.53361100,
-    "elevation": 1416,
+    "latitude": 47.44549740,
+    "longitude": 8.55674813,
+    "elevation": 1417,
     "frequency": 110750,
     "receptionRange": 18,
-    "bearing": 335.055
+    "bearing": 335.060
   },
   {
     "name": "ILS-cat-I",
