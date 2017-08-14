@@ -30478,12 +30478,12 @@
     "airportICAO": "MUHA",
     "identifier": "IHA",
     "associatedRunwayNumber": "06",
-    "latitude": 23.00109673,
-    "longitude": -82.39108276,
-    "elevation": 209,
+    "latitude": 22.97863156,
+    "longitude": -81.44938998,
+    "elevation": 249,
     "frequency": 110500,
     "receptionRange": 18,
-    "bearing": 54.228
+    "bearing": 54.210
   },
   {
     "name": "ILS-cat-I",
@@ -30504,12 +30504,12 @@
     "airportICAO": "MUVR",
     "identifier": "IVR",
     "associatedRunwayNumber": "06",
-    "latitude": 23.04572487,
-    "longitude": -81.41743469,
-    "elevation": 209,
+    "latitude": 23.02548726,
+    "longitude": -81.44938998,
+    "elevation": 210,
     "frequency": 111300,
     "receptionRange": 18,
-    "bearing": 55.489
+    "bearing": 55.480
   },
   {
     "name": "ILS-cat-I",
@@ -76315,13 +76315,13 @@
     "type": 4,
     "airportICAO": "MUCU",
     "identifier": "ICU",
-    "associatedRunwayNumber": "09",
-    "latitude": 19.97220300,
-    "longitude": -75.82109400,
+    "associatedRunwayNumber": "10",
+    "latitude": 19.96955600,
+    "longitude": -75.85466700,
     "elevation": 249,
     "frequency": 110700,
     "receptionRange": 18,
-    "bearing": 85.211
+    "bearing": 85.370
   },
   {
     "name": "ILS-cat-I",
