@@ -3,6 +3,8 @@
 ## Converts json to dat for use in IF
 ##
 
+return
+
 import datetime
 import sys
 import json
