@@ -7211,7 +7211,7 @@
   },
   {
     "receptionRange": 200,
-    "elevation": 39.343,
+    "elevation": 39,
     "name": "DOHA",
     "longitude": 51.60966667,
     "frequency": 1124000,
@@ -7221,7 +7221,7 @@
   },
   {
     "receptionRange": 200,
-    "elevation": 48.67,
+    "elevation": 48,
     "name": "DOHA INTERNATIONAL",
     "longitude": 51.57718056,
     "frequency": 1124000,
