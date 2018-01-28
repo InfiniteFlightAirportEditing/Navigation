@@ -45530,13 +45530,13 @@
     "airportICAO": "EGBB",
     "identifier": "IBIR",
     "associatedRunwayNumber": "15",
-    "latitude": 52.465592,
-    "longitude": -1.761083,
-    "elevation": 325,
+    "latitude": 52.46562291,
+    "longitude": -1.76112867,
+    "elevation": 337,
     "frequency": 110100,
-    "receptionRange": 10,
-    "bearing": 145.930,
-    "glideslope": 3.00145881
+    "receptionRange": 25,
+    "bearing": 145.900,
+    "glideslope": 3.00145900
   },
   {
     "name": "GS",
@@ -45544,12 +45544,12 @@
     "identifier": "IBM",
     "associatedRunwayNumber": "33",
     "latitude": 52.442764,
-    "longitude": -1.735745,
-    "elevation": 325,
+    "longitude": -1.73591211,
+    "elevation": 337,
     "frequency": 110100,
-    "receptionRange": 10,
-    "bearing": 325.932,
-    "glideslope": 3.00325881
+    "receptionRange": 25,
+    "bearing": 325.900,
+    "glideslope": 3.00325900
   },
   {
     "name": "GS",
