@@ -1,4 +1,4 @@
-[
+§[
   {
     "name": "ILS-cat-I",
     "type": 4,
@@ -4023,12 +4023,12 @@
     "airportICAO": "EGKB",
     "identifier": "IBGH",
     "associatedRunwayNumber": "21",
-    "latitude": 51.32336044,
-    "longitude": 0.02660600,
+    "latitude": 51.33824862,
+    "longitude": 000.03805548,
     "elevation": 598,
     "frequency": 109350,
     "receptionRange": 18,
-    "bearing": 205.647
+    "bearing": 205.65
   },
   {
     "name": "ILS-cat-I",
