@@ -70986,13 +70986,13 @@
     "airportICAO": "LSMD",
     "identifier": "IDU",
     "associatedRunwayNumber": "29",
-    "latitude": 47.39535800,
-    "longitude": 8.65958900,
-    "elevation": 1464,
+    "latitude": 47.39454954,
+    "longitude": 8.66621859,
+    "elevation": 1470,
     "frequency": 111150,
     "receptionRange": 10,
-    "bearing": 288.634,
-    "glideslope": 4.50287817
+    "bearing": 287.820,
+    "glideslope": 4.50287820
   },
   {
     "name": "GS",

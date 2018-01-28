@@ -75172,12 +75172,12 @@
     "airportICAO": "LSMD",
     "identifier": "IDU",
     "associatedRunwayNumber": "29",
-    "latitude": 47.40261100,
-    "longitude": 8.63027800,
+    "latitude": 47.39454954,
+    "longitude": 8.66621859,
     "elevation": 1470,
     "frequency": 111150,
     "receptionRange": 18,
-    "bearing": 288.315
+    "bearing": 287.820
   },
   {
     "name": "ILS-cat-I",
