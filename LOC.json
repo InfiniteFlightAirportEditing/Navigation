@@ -49596,17 +49596,30 @@
     "bearing": 246.562
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "EGCN",
     "identifier": "IFNL",
     "associatedRunwayNumber": "20",
-    "latitude": 53.46145000,
-    "longitude": -1.01150800,
+    "latitude": 53.48766861,
+    "longitude": -0.99752175,
     "elevation": 55,
     "frequency": 110950,
-    "receptionRange": 18,
-    "bearing": 197.607
+    "receptionRange": 25,
+    "bearing": 197.630
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "EGCN",
+    "identifier": "IFIN",
+    "associatedRunwayNumber": "02",
+    "latitude": 53.46288845,
+    "longitude": -1.01074650,
+    "elevation": 55,
+    "frequency": 110950,
+    "receptionRange": 25,
+    "bearing": 17.630
   },
   {
     "name": "ILS-cat-I",

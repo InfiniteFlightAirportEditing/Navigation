@@ -45634,13 +45634,26 @@
     "airportICAO": "EGCN",
     "identifier": "IFNL",
     "associatedRunwayNumber": "20",
-    "latitude": 53.48336900,
-    "longitude": -0.99785000,
+    "latitude": 53.48766861,
+    "longitude": -0.99752175,
     "elevation": 55,
     "frequency": 110950,
-    "receptionRange": 10,
-    "bearing": 198.254,
-    "glideslope": 3.00197627
+    "receptionRange": 25,
+    "bearing": 197.630,
+    "glideslope": 3.00197630
+  },
+  {
+    "name": "GS",
+    "airportICAO": "EGCN",
+    "identifier": "IFIN",
+    "associatedRunwayNumber": "02",
+    "latitude": 53.46288845,
+    "longitude": -1.01074650,
+    "elevation": 55,
+    "frequency": 110950,
+    "receptionRange": 25,
+    "bearing": 17.630,
+    "glideslope": 3.00017360
   },
   {
     "name": "GS",
