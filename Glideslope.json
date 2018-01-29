@@ -46141,14 +46141,14 @@
     "name": "GS",
     "airportICAO": "EGNJ",
     "identifier": "IHS",
-    "associatedRunwayNumber": "21",
-    "latitude": 53.57871400,
-    "longitude": -0.34568600,
+    "associatedRunwayNumber": "20",
+    "latitude": 53.58361216,
+    "longitude": -0.34439567,
     "elevation": 121,
     "frequency": 108750,
-    "receptionRange": 10,
-    "bearing": 202.652,
-    "glideslope": 3.00202326
+    "receptionRange": 25,
+    "bearing": 202.340,
+    "glideslope": 3.00202340
   },
   {
     "name": "GS",
