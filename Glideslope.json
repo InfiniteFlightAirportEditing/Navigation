@@ -45840,15 +45840,28 @@
   {
     "name": "GS",
     "airportICAO": "EGHQ",
-    "identifier": "ISM",
+    "identifier": "INWQ",
     "associatedRunwayNumber": "30",
-    "latitude": 50.43696100,
-    "longitude": -4.98147200,
+    "latitude": 50.43447464,
+    "longitude": -4.97864841,
     "elevation": 390,
-    "frequency": 108700,
-    "receptionRange": 10,
-    "bearing": 301.156,
-    "glideslope": 3.00300578
+    "frequency": 110500,
+    "receptionRange": 25,
+    "bearing": 300.600,
+    "glideslope": 3.00300600
+  },
+  {
+    "name": "GS",
+    "airportICAO": "EGHQ",
+    "identifier": "INEW",
+    "associatedRunwayNumber": "12",
+    "latitude": 50.44704292,
+    "longitude": -5.01202441,
+    "elevation": 390,
+    "frequency": 110500,
+    "receptionRange": 25,
+    "bearing": 120.600,
+    "glideslope": 3.00120600
   },
   {
     "name": "GS",
