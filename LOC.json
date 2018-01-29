@@ -50107,13 +50107,13 @@
     "type": 4,
     "airportICAO": "EGNJ",
     "identifier": "IHS",
-    "associatedRunwayNumber": "21",
-    "latitude": 53.56326400,
-    "longitude": -0.35848900,
+    "associatedRunwayNumber": "20",
+    "latitude": 53.58361216,
+    "longitude": -0.34439567,
     "elevation": 121,
     "frequency": 108750,
-    "receptionRange": 18,
-    "bearing": 202.326
+    "receptionRange": 25,
+    "bearing": 202.340
   },
   {
     "name": "ILS-cat-I",
