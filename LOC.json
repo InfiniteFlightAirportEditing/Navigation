@@ -49804,17 +49804,30 @@
     "bearing": 199.35
   },
   {
+    "name": "ILS-cat-III",
+    "type": 4,
+    "airportICAO": "EGHQ",
+    "identifier": "INWQ",
+    "associatedRunwayNumber": "30",
+    "latitude": 50.43447464,
+    "longitude": -4.97864841,
+    "elevation": 390,
+    "frequency": 110500,
+    "receptionRange": 25,
+    "bearing": 300.600
+  },
+  {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "EGHQ",
-    "identifier": "ISM",
-    "associatedRunwayNumber": "30",
-    "latitude": 50.44951400,
-    "longitude": -5.01861100,
+    "identifier": "INEW",
+    "associatedRunwayNumber": "12",
+    "latitude": 50.44704292,
+    "longitude": -5.01202441,
     "elevation": 390,
-    "frequency": 108700,
-    "receptionRange": 18,
-    "bearing": 300.578
+    "frequency": 110500,
+    "receptionRange": 25,
+    "bearing": 120.600
   },
   {
     "name": "ILS-cat-I",
