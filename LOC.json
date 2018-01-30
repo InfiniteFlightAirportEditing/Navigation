@@ -49744,12 +49744,12 @@
     "airportICAO": "EGGW",
     "identifier": "ILTN",
     "associatedRunwayNumber": "08",
-    "latitude": 51.87774400,
-    "longitude": -0.35043600,
-    "elevation": 526,
+    "latitude": 51.87201786,
+    "longitude": -0.38354200,
+    "elevation": 525,
     "frequency": 109150,
-    "receptionRange": 18,
-    "bearing": 74.370
+    "receptionRange": 25,
+    "bearing": 74.350
   },
   {
     "name": "ILS-cat-III",
@@ -49757,12 +49757,12 @@
     "airportICAO": "EGGW",
     "identifier": "ILJ",
     "associatedRunwayNumber": "26",
-    "latitude": 51.87150600,
-    "longitude": -0.38651700,
-    "elevation": 526,
+    "latitude": 51.87724278,
+    "longitude": -0.35333685,
+    "elevation": 525,
     "frequency": 109150,
-    "receptionRange": 18,
-    "bearing": 254.349
+    "receptionRange": 25,
+    "bearing": 254.350
   },
   {
     "name": "ILS-cat-I",

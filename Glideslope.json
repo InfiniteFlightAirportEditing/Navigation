@@ -45777,26 +45777,26 @@
     "airportICAO": "EGGW",
     "identifier": "ILTN",
     "associatedRunwayNumber": "08",
-    "latitude": 51.87381900,
-    "longitude": -0.37988600,
-    "elevation": 526,
+    "latitude": 51.87201786,
+    "longitude": -0.38354200,
+    "elevation": 525,
     "frequency": 109150,
-    "receptionRange": 10,
-    "bearing": 74.726,
-    "glideslope": 3.00074363
+    "receptionRange": 25,
+    "bearing": 74.350,
+    "glideslope": 3.00074350
   },
   {
     "name": "GS",
     "airportICAO": "EGGW",
     "identifier": "ILJ",
     "associatedRunwayNumber": "26",
-    "latitude": 51.87528300,
-    "longitude": -0.35823100,
-    "elevation": 526,
+    "latitude": 51.87724278,
+    "longitude": -0.35333685,
+    "elevation": 525,
     "frequency": 109150,
-    "receptionRange": 10,
-    "bearing": 254.726,
-    "glideslope": 3.00254363
+    "receptionRange": 25,
+    "bearing": 254.350,
+    "glideslope": 3.00254350
   },
   {
     "name": "GS",
