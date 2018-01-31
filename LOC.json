@@ -20130,12 +20130,12 @@
     "airportICAO": "KOQU",
     "identifier": "IOQU",
     "associatedRunwayNumber": "16",
-    "latitude": 41.60775048,
-    "longitude": -071.42169088,
-    "elevation": 18.0,
+    "latitude": 41.58951569,
+    "longitude": -71.40468597,
+    "elevation": 6,
     "frequency": 109500,
     "receptionRange": 18,
-    "bearing": 145.09
+    "bearing": 145.114
   },
   {
     "name": "ILS-cat-I",
