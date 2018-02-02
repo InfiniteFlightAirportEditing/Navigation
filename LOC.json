@@ -88194,7 +88194,7 @@
   },
   {
     "name": "ILS-cat-I",
-    "type": 5,
+    "type": 4,
     "airportICAO": "EGAC",
     "identifier": "IBFH",
     "associatedRunwayNumber": "22",
@@ -88207,7 +88207,7 @@
   },
   {
     "name": "ILS-cat-I",
-    "type": 5,
+    "type": 4,
     "airportICAO": "EGAC",
     "identifier": "IHBD",
     "associatedRunwayNumber": "04",
