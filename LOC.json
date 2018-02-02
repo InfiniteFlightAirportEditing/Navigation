@@ -88193,17 +88193,30 @@
     "bearing": 168.501
   },
   {
-    "name": "LOC",
+    "name": "ILS-cat-I",
     "type": 5,
     "airportICAO": "EGAC",
-    "identifier": "HBD",
-    "associatedRunwayNumber": "04",
-    "latitude": 54.62633100,
-    "longitude": -5.86266900,
+    "identifier": "IBFH",
+    "associatedRunwayNumber": "22",
+    "latitude": 54.62484867,
+    "longitude": -5.86443092,
     "elevation": 15,
     "frequency": 108100,
-    "receptionRange": 18,
-    "bearing": 34.922
+    "receptionRange": 25,
+    "bearing": 216.700
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 5,
+    "airportICAO": "EGAC",
+    "identifier": "IHBD",
+    "associatedRunwayNumber": "04",
+    "latitude": 54.61145169,
+    "longitude": -5.88044852,
+    "elevation": 15,
+    "frequency": 108100,
+    "receptionRange": 26,
+    "bearing": 34.700
   },
   {
     "name": "LOC",

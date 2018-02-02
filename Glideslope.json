@@ -45504,13 +45504,26 @@
     "airportICAO": "EGAC",
     "identifier": "IBFH",
     "associatedRunwayNumber": "22",
-    "latitude": 54.62331900,
-    "longitude": -5.86853600,
-    "elevation": 50,
+    "latitude": 54.62484867,
+    "longitude": -5.86443092,
+    "elevation": 15,
     "frequency": 108100,
-    "receptionRange": 10,
-    "bearing": 215.876,
-    "glideslope": 3.00214938
+    "receptionRange": 25,
+    "bearing": 216.700,
+    "glideslope": 3.00216700
+  },
+  {
+    "name": "GS",
+    "airportICAO": "EGAC",
+    "identifier": "IHBD",
+    "associatedRunwayNumber": "04",
+    "latitude": 54.61145169,
+    "longitude": -5.88044852,
+    "elevation": 15,
+    "frequency": 108100,
+    "receptionRange": 25,
+    "bearing": 34.700,
+    "glideslope": 3.0034700
   },
   {
     "name": "GS",
