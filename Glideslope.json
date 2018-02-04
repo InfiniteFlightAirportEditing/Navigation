@@ -4073,13 +4073,13 @@
     "airportICAO": "EGKB",
     "identifier": "IBGH",
     "associatedRunwayNumber": "21",
-    "latitude": 51.33702087,
-    "longitude": 0.03503300,
+    "latitude": 51.33824862,
+    "longitude": 0.03805548,
     "elevation": 598,
     "frequency": 109350,
     "receptionRange": 10,
-    "bearing": 206.062,
-    "glideslope": 3.00205531
+    "bearing": 205.65,
+    "glideslope": 33.00205650
   },
   {
     "name": "GS",
