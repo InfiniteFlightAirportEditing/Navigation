@@ -4073,13 +4073,13 @@
     "airportICAO": "EGKB",
     "identifier": "IBGH",
     "associatedRunwayNumber": "21",
-    "latitude": 51.33702087,
-    "longitude": 0.03503300,
+    "latitude": 51.33824862,
+    "longitude": 0.03805548,
     "elevation": 598,
     "frequency": 109350,
     "receptionRange": 10,
-    "bearing": 206.062,
-    "glideslope": 3.00205531
+    "bearing": 205.65,
+    "glideslope": 33.00205650
   },
   {
     "name": "GS",
@@ -20089,13 +20089,13 @@
     "airportICAO": "KOQU",
     "identifier": "IOQU",
     "associatedRunwayNumber": "16",
-    "latitude": 41.60567856,
-    "longitude": -71.41841888,
-    "elevation": 6,
+    "latitude": 41.60775048,
+    "longitude": -71.42169088,
+    "elevation": 18,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 145.188,
-    "glideslope": 3.00145094
+    "bearing": 145.09,
+    "glideslope": 3.00145090
   },
   {
     "name": "GS",
