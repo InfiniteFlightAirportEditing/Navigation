@@ -20089,13 +20089,13 @@
     "airportICAO": "KOQU",
     "identifier": "IOQU",
     "associatedRunwayNumber": "16",
-    "latitude": 41.60567856,
-    "longitude": -71.41841888,
-    "elevation": 6,
+    "latitude": 41.60775048,
+    "longitude": -71.42169088,
+    "elevation": 18,
     "frequency": 109500,
     "receptionRange": 10,
-    "bearing": 145.188,
-    "glideslope": 3.00145094
+    "bearing": 145.09,
+    "glideslope": 3.00145090
   },
   {
     "name": "GS",
