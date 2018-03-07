@@ -14,7 +14,6 @@ after_script:
   - git push github HEAD:master
 notifications:
   slack: airportediting:Khe0lsGunLHhWLh1rGyKZhbd
-# safelist
 branches:
   only:
     - master
