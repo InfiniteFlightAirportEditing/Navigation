@@ -7,7 +7,7 @@ after_script:
   - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
   - git remote add github https://github.com/InfiniteFlightAirportEditing/Navigation.git
   - git add .
-  - git config --global user.email "airports@liveflightapp.com"
+  - git config --global user.email "contact@airportediting.com"
   - git config --global user.name "Airport Editing (via Travis)"
   - git commit -m "Created .dat files via Travis"
   - git config --global push.default simple
