@@ -66371,12 +66371,12 @@
     "airportICAO": "KOXC",
     "identifier": "IOXC",
     "associatedRunwayNumber": "36",
-    "latitude": 41.48789200,
-    "longitude": -73.13725800,
-    "elevation": 718,
+    "latitude": 41.47043950,
+    "longitude": -73.13349101,
+    "elevation": 726,
     "frequency": 109550,
     "receptionRange": 18,
-    "bearing": 350.823
+    "bearing": 350.820
   },
   {
     "name": "ILS-cat-I",
