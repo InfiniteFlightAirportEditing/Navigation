@@ -49471,12 +49471,25 @@
     "airportICAO": "EGAC",
     "identifier": "IBFH",
     "associatedRunwayNumber": "22",
-    "latitude": 54.61070800,
-    "longitude": -5.88135300,
+    "latitude": 54.62484867,
+    "longitude": -5.86443092,
     "elevation": 15,
     "frequency": 108100,
-    "receptionRange": 18,
-    "bearing": 214.694
+    "receptionRange": 25,
+    "bearing": 214.700
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "EGAC",
+    "identifier": "IHBD",
+    "associatedRunwayNumber": "04",
+    "latitude": 54.61145169,
+    "longitude": -5.88044852,
+    "elevation": 15,
+    "frequency": 108100,
+    "receptionRange": 25,
+    "bearing": 214.700
   },
   {
     "name": "ILS-cat-I",
@@ -49596,17 +49609,30 @@
     "bearing": 246.562
   },
   {
-    "name": "ILS-cat-I",
+    "name": "ILS-cat-III",
     "type": 4,
     "airportICAO": "EGCN",
     "identifier": "IFNL",
     "associatedRunwayNumber": "20",
-    "latitude": 53.46145000,
-    "longitude": -1.01150800,
+    "latitude": 53.48766861,
+    "longitude": -0.99752175,
     "elevation": 55,
     "frequency": 110950,
-    "receptionRange": 18,
-    "bearing": 197.607
+    "receptionRange": 25,
+    "bearing": 197.630
+  },
+  {
+    "name": "ILS-cat-III",
+    "type": 4,
+    "airportICAO": "EGCN",
+    "identifier": "IFIN",
+    "associatedRunwayNumber": "02",
+    "latitude": 53.46288845,
+    "longitude": -1.01074650,
+    "elevation": 55,
+    "frequency": 110950,
+    "receptionRange": 25,
+    "bearing": 17.630
   },
   {
     "name": "ILS-cat-I",
@@ -49731,12 +49757,12 @@
     "airportICAO": "EGGW",
     "identifier": "ILTN",
     "associatedRunwayNumber": "08",
-    "latitude": 51.87774400,
-    "longitude": -0.35043600,
-    "elevation": 526,
+    "latitude": 51.87201786,
+    "longitude": -0.38354200,
+    "elevation": 525,
     "frequency": 109150,
-    "receptionRange": 18,
-    "bearing": 74.370
+    "receptionRange": 25,
+    "bearing": 74.350
   },
   {
     "name": "ILS-cat-III",
@@ -49744,12 +49770,12 @@
     "airportICAO": "EGGW",
     "identifier": "ILJ",
     "associatedRunwayNumber": "26",
-    "latitude": 51.87150600,
-    "longitude": -0.38651700,
-    "elevation": 526,
+    "latitude": 51.87724278,
+    "longitude": -0.35333685,
+    "elevation": 525,
     "frequency": 109150,
-    "receptionRange": 18,
-    "bearing": 254.349
+    "receptionRange": 25,
+    "bearing": 254.350
   },
   {
     "name": "ILS-cat-I",
@@ -49887,12 +49913,12 @@
     "airportICAO": "EGKB",
     "identifier": "IBGH",
     "associatedRunwayNumber": "21",
-    "latitude": 51.32336100,
-    "longitude": 0.02660600,
+    "latitude": 51.33824862,
+    "longitude": 0.03805548,
     "elevation": 598,
     "frequency": 109350,
-    "receptionRange": 18,
-    "bearing": 205.647
+    "receptionRange": 25,
+    "bearing": 205.650
   },
   {
     "name": "ILS-cat-I",
@@ -49926,12 +49952,12 @@
     "airportICAO": "EGLC",
     "identifier": "ILST",
     "associatedRunwayNumber": "09",
-    "latitude": 51.50555932,
-    "longitude": 0.04437490,
+    "latitude": 51.50556404,
+    "longitude": 0.04437984,
     "elevation": 19,
     "frequency": 111150,
-    "receptionRange": 18,
-    "bearing": 92.87
+    "receptionRange": 25,
+    "bearing": 92.89
   },
   {
     "name": "ILS-cat-I",
@@ -49939,12 +49965,12 @@
     "airportICAO": "EGLC",
     "identifier": "ILSR",
     "associatedRunwayNumber": "27",
-    "latitude": 51.50488505,
+    "latitude": 51.50488562,
     "longitude": 0.06598650,
     "elevation": 19,
     "frequency": 111150,
-    "receptionRange": 18,
-    "bearing": 272.87
+    "receptionRange": 25,
+    "bearing": 272.89
   },
   {
     "name": "ILS-cat-I",
@@ -50094,13 +50120,13 @@
     "type": 4,
     "airportICAO": "EGNJ",
     "identifier": "IHS",
-    "associatedRunwayNumber": "21",
-    "latitude": 53.56326400,
-    "longitude": -0.35848900,
+    "associatedRunwayNumber": "20",
+    "latitude": 53.58361216,
+    "longitude": -0.34439567,
     "elevation": 121,
     "frequency": 108750,
-    "receptionRange": 18,
-    "bearing": 202.326
+    "receptionRange": 25,
+    "bearing": 202.340
   },
   {
     "name": "ILS-cat-I",
@@ -66020,12 +66046,12 @@
     "airportICAO": "KOQU",
     "identifier": "IOQU",
     "associatedRunwayNumber": "16",
-    "latitude": 41.58951400,
-    "longitude": -71.40468600,
-    "elevation": 6,
+    "latitude": 41.60775048,
+    "longitude": -71.42169088,
+    "elevation": 18,
     "frequency": 109500,
-    "receptionRange": 18,
-    "bearing": 145.114
+    "receptionRange": 25,
+    "bearing": 145.090
   },
   {
     "name": "ILS-cat-I",
