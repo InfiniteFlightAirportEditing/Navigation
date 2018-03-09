@@ -62964,13 +62964,13 @@
     "airportICAO": "KPNS",
     "identifier": "IPNS",
     "associatedRunwayNumber": "17",
-    "latitude": 30.48047200,
-    "longitude": -87.18870300,
-    "elevation": 119,
+    "latitude": 30.48290800,
+    "longitude": -87.19065800,
+    "elevation": 121,
     "frequency": 111100,
-    "receptionRange": 10,
-    "bearing": 167.102,
-    "glideslope": 3.00167051
+    "receptionRange": 25,
+    "bearing": 167.050,
+    "glideslope": 3.00167050
   },
   {
     "name": "GS",

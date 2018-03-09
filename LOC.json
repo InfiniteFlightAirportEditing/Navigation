@@ -67099,12 +67099,12 @@
     "airportICAO": "KPNS",
     "identifier": "IPNS",
     "associatedRunwayNumber": "17",
-    "latitude": 30.45883600,
-    "longitude": -87.18423600,
-    "elevation": 94,
+    "latitude": 30.48290800,
+    "longitude": -87.19065800,
+    "elevation": 121,
     "frequency": 111100,
-    "receptionRange": 18,
-    "bearing": 167.051
+    "receptionRange": 25,
+    "bearing": 167.050
   },
   {
     "name": "ILS-cat-I",
