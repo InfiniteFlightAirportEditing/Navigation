@@ -62253,7 +62253,7 @@
     "longitude": -73.13349101,
     "elevation": 726,
     "frequency": 109550,
-    "receptionRange": 10,
+    "receptionRange": 25,
     "bearing": 350.820,
     "glideslope": 3.00350820
   },
