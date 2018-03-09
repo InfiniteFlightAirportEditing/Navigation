@@ -75887,26 +75887,26 @@
     "airportICAO": "RORS",
     "identifier": "ISB",
     "associatedRunwayNumber": "17",
-    "latitude": 24.83702800,
-    "longitude": 125.14095300,
-    "elevation": 0,
+    "latitude": 24.83997994,
+    "longitude": 125.14134007,
+    "elevation": 25,
     "frequency": 111500,
-    "receptionRange": 10,
-    "bearing": 166.122,
-    "glideslope": 3.00166061
+    "receptionRange": 25,
+    "bearing": 166.080,
+    "glideslope": 3.00166080
   },
   {
     "name": "GS",
     "airportICAO": "RORS",
     "identifier": "ISA",
     "associatedRunwayNumber": "35",
-    "latitude": 24.81661100,
-    "longitude": 125.14653600,
-    "elevation": 0,
+    "latitude": 24.81379547,
+    "longitude": 125.14849342,
+    "elevation": 25,
     "frequency": 110900,
-    "receptionRange": 10,
-    "bearing": 346.122,
-    "glideslope": 3.00346061
+    "receptionRange": 25,
+    "bearing": 346.080,
+    "glideslope": 3.00346080
   },
   {
     "name": "GS",
