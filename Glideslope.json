@@ -62288,13 +62288,13 @@
     "airportICAO": "KOXC",
     "identifier": "IOXC",
     "associatedRunwayNumber": "36",
-    "latitude": 41.47401100,
-    "longitude": -73.13527800,
-    "elevation": 690,
+    "latitude": 41.47043950,
+    "longitude": -73.13349101,
+    "elevation": 726,
     "frequency": 109550,
-    "receptionRange": 10,
-    "bearing": 351.632,
-    "glideslope": 3.00350816
+    "receptionRange": 25,
+    "bearing": 350.820,
+    "glideslope": 3.00350820
   },
   {
     "name": "GS",
