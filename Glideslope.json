@@ -3171,31 +3171,31 @@
     "bearing": 265.000,
     "glideslope": 3.50265
   },
-    {
+  {
     "name": "GS",
     "airportICAO": "EDVK",
-    "identifier": "KSF",
-    "associatedRunwayNumber": "09",
-    "latitude": 51.421748,
-    "longitude": 9.374280,
-    "elevation": 860,
-    "frequency": 108100,
-    "receptionRange": 10,
-    "bearing": 94.95,
-    "glideslope": 3.00365
-  },
-    {
-    "name": "GS",
-    "airportICAO": "EDVK",
-    "identifier": "KSF",
+    "identifier": "IKSW",
     "associatedRunwayNumber": "27",
-    "latitude": 51.419814,
-    "longitude": 9.410096,
-    "elevation": 860,
+    "latitude": 51.41982799,
+    "longitude": 9.40998657,
+    "elevation": 859,
     "frequency": 109300,
-    "receptionRange": 10,
-    "bearing": 274.95,
-    "glideslope": 3.00265
+    "receptionRange": 25,
+    "bearing": 274.950,
+    "glideslope": 3.00274950
+  },
+  {
+    "name": "GS",
+    "airportICAO": "EDVK",
+    "identifier": "IKSE",
+    "associatedRunwayNumber": "09",
+    "latitude": 51.42176123,
+    "longitude": 9.37417075,
+    "elevation": 859,
+    "frequency": 108100,
+    "receptionRange": 25,
+    "bearing": 95.950,
+    "glideslope": 3.0095950
   },
   {
     "name": "GS",

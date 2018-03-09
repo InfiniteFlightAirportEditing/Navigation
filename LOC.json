@@ -49000,6 +49000,32 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "EDVK",
+    "identifier": "IKSW",
+    "associatedRunwayNumber": "27",
+    "latitude": 51.41982799,
+    "longitude": 9.40998657,
+    "elevation": 859,
+    "frequency": 109300,
+    "receptionRange": 25,
+    "bearing": 274.950
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
+    "airportICAO": "EDVK",
+    "identifier": "IKSE",
+    "associatedRunwayNumber": "09",
+    "latitude": 51.42176123,
+    "longitude": 9.37417075,
+    "elevation": 859,
+    "frequency": 108100,
+    "receptionRange": 25,
+    "bearing": 95.950
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "EDXW",
     "identifier": "IWES",
     "associatedRunwayNumber": "32",
