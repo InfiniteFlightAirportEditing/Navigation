@@ -80008,12 +80008,12 @@
     "airportICAO": "RORS",
     "identifier": "ISB",
     "associatedRunwayNumber": "17",
-    "latitude": 24.81127800,
-    "longitude": 125.14921700,
-    "elevation": 0,
+    "latitude": 24.83997994,
+    "longitude": 125.14134007,
+    "elevation": 25,
     "frequency": 111500,
-    "receptionRange": 18,
-    "bearing": 166.061
+    "receptionRange": 25,
+    "bearing": 166.080
   },
   {
     "name": "ILS-cat-I",
@@ -80021,12 +80021,12 @@
     "airportICAO": "RORS",
     "identifier": "ISA",
     "associatedRunwayNumber": "35",
-    "latitude": 24.84210600,
-    "longitude": 125.14078600,
-    "elevation": 0,
+    "latitude": 24.81379547,
+    "longitude": 125.14849342,
+    "elevation": 25,
     "frequency": 110900,
-    "receptionRange": 18,
-    "bearing": 346.061
+    "receptionRange": 25,
+    "bearing": 346.080
   },
   {
     "name": "ILS-cat-I",
