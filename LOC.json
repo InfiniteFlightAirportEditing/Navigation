@@ -62783,24 +62783,24 @@
     "airportICAO": "KLAS",
     "identifier": "ICUA",
     "associatedRunwayNumber": "01L",
-    "latitude": 36.075324,
-    "longitude":-115.170387,
-    "elevation": 2079,
+    "latitude": 36.07423968,
+    "longitude": -115.17028001,
+    "elevation": 2141,
     "frequency": 110100,
-    "receptionRange": 18,
-    "bearing": 24.860
+    "receptionRange": 25,
+    "bearing": 24.870
   },
   {
     "name": "ILS-cat-I",
     "type": 4,
     "airportICAO": "KLAS",
     "identifier": "IRLE",
-    "associatedRunwayNumber": "25L",
-    "latitude": 36.073659,
-    "longitude": -115.125836,
+    "associatedRunwayNumber": "26L",
+    "latitude": 36.07257083,
+    "longitude": -115.12569324,
     "elevation": 2141,
     "frequency": 111750,
-    "receptionRange": 18,
+    "receptionRange": 25,
     "bearing": 269.930
   },
   {
@@ -62808,13 +62808,13 @@
     "type": 4,
     "airportICAO": "KLAS",
     "identifier": "ILAS",
-    "associatedRunwayNumber": "25R",
-    "latitude": 36.076409,
-    "longitude": -115.121092,
-    "elevation": 2187,
+    "associatedRunwayNumber": "26R",
+    "latitude": 36.07532135,
+    "longitude": -115.12098876,
+    "elevation": 2141,
     "frequency": 110300,
-    "receptionRange": 45,
-    "bearing": 269.933
+    "receptionRange": 25,
+    "bearing": 269.940
   },
   {
     "name": "ILS-cat-I",
