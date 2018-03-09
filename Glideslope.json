@@ -47832,26 +47832,26 @@
     "airportICAO": "ELLX",
     "identifier": "ILE",
     "associatedRunwayNumber": "06",
-    "latitude": 49.61777800,
-    "longitude": 6.19111100,
-    "elevation": 1158,
+    "latitude": 49.61749934,
+    "longitude": 6.18745650,
+    "elevation": 1233,
     "frequency": 109900,
-    "receptionRange": 10,
-    "bearing": 60.324,
-    "glideslope": 3.00060162
+    "receptionRange": 25,
+    "bearing": 60.170,
+    "glideslope": 3.00060170
   },
   {
     "name": "GS",
     "airportICAO": "ELLX",
     "identifier": "ILW",
     "associatedRunwayNumber": "24",
-    "latitude": 49.63277800,
-    "longitude": 6.23305600,
-    "elevation": 1158,
+    "latitude": 49.63540618,
+    "longitude": 6.23565424,
+    "elevation": 1233,
     "frequency": 110700,
-    "receptionRange": 10,
-    "bearing": 240.324,
-    "glideslope": 3.00240162
+    "receptionRange": 25,
+    "bearing": 240.170,
+    "glideslope": 3.00240170
   },
   {
     "name": "GS",
