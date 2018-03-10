@@ -51356,12 +51356,12 @@
     "airportICAO": "EICK",
     "identifier": "ICS",
     "associatedRunwayNumber": "17",
-    "latitude": 51.83068600,
-    "longitude": -8.48485300,
+    "latitude": 51.85037066,
+    "longitude": -8.49639328,
     "elevation": 502,
     "frequency": 109900,
-    "receptionRange": 18,
-    "bearing": 160.206
+    "receptionRange": 25,
+    "bearing": 159.940
   },
   {
     "name": "ILS-cat-I",
@@ -51369,12 +51369,12 @@
     "airportICAO": "EICK",
     "identifier": "ICN",
     "associatedRunwayNumber": "35",
-    "latitude": 51.85134200,
-    "longitude": -8.49706900,
-    "elevation": 490,
+    "latitude": 51.83237259,
+    "longitude": -8.48575161,
+    "elevation": 502,
     "frequency": 109150,
-    "receptionRange": 18,
-    "bearing": 339.652
+    "receptionRange": 25,
+    "bearing": 339.940
   },
   {
     "name": "ILS-cat-I",

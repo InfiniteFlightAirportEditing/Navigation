@@ -47351,26 +47351,26 @@
     "airportICAO": "EICK",
     "identifier": "ICS",
     "associatedRunwayNumber": "17",
-    "latitude": 51.84723300,
-    "longitude": -8.49664700,
+    "latitude": 51.85037066,
+    "longitude": -8.49639328,
     "elevation": 502,
     "frequency": 109900,
-    "receptionRange": 10,
-    "bearing": 160.864,
-    "glideslope": 3.00159932
+    "receptionRange": 25,
+    "bearing": 159.940,
+    "glideslope": 3.00159940
   },
   {
     "name": "GS",
     "airportICAO": "EICK",
     "identifier": "ICN",
     "associatedRunwayNumber": "35",
-    "latitude": 51.83492800,
-    "longitude": -8.48925800,
+    "latitude": 51.83237259,
+    "longitude": -8.48575161,
     "elevation": 502,
     "frequency": 109150,
-    "receptionRange": 10,
-    "bearing": 340.864,
-    "glideslope": 3.00339932
+    "receptionRange": 25,
+    "bearing": 339.940,
+    "glideslope": 3.00339940
   },
   {
     "name": "GS",
