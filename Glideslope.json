@@ -50377,6 +50377,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "GOBD",
+    "identifier": "IDS",
+    "associatedRunwayNumber": "01",
+    "latitude": 14.65517852,
+    "longitude": -17.07268372,
+    "elevation": 289,
+    "frequency": 110100,
+    "receptionRange": 25,
+    "bearing": 359.460,
+    "glideslope": 3.00359460
+  },
+  {
+    "name": "GS",
     "airportICAO": "GOOY",
     "identifier": "YF",
     "associatedRunwayNumber": "36",

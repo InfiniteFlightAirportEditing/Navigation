@@ -8479,6 +8479,19 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "GOBD",
+    "identifier": "IDS",
+    "associatedRunwayNumber": "01",
+    "latitude": 14.65517852,
+    "longitude": -17.07268372,
+    "elevation": 289,
+    "frequency": 110100,
+    "receptionRange": 25,
+    "bearing": 359.460
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "GOOY",
     "identifier": "YF",
     "associatedRunwayNumber": "36",
