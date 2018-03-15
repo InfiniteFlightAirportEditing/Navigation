@@ -25,7 +25,7 @@ for fix in data:
 	longitude = "%.8f" % fix["Longitude"]
 	name = fix["Name"]
 	
-	lines.append(" %s  %s  %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), name.encode('utf-8')))
+	lines.append("%s %s %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), name.encode('utf-8')))
 
 ## save to file
 with open('dat/fix.dat', mode='wt') as currentFile:

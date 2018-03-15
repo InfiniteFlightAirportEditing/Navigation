@@ -40,7 +40,7 @@ for fix in data:
 
 	segmentName = fix["segmentName"]
 	
-	lines.append("%s  %s  %s  %s  %s  %s  %s  %s  %s  %s" % (beginningIntersectionName.encode('utf-8'), beginningLatitude.encode('utf-8'), beginningLongitude.encode('utf-8'), endIntersectionName.encode('utf-8'), endLatitude.encode('utf-8'), endLongitude.encode('utf-8'), str(intersectionType).encode('utf-8'), str(baseAltitude).encode('utf-8'), str(topAltitude).encode('utf-8'), segmentName.encode('utf-8')))
+	lines.append("%s %s %s %s %s %s %s %s %s %s" % (beginningIntersectionName.encode('utf-8'), beginningLatitude.encode('utf-8'), beginningLongitude.encode('utf-8'), endIntersectionName.encode('utf-8'), endLatitude.encode('utf-8'), endLongitude.encode('utf-8'), str(intersectionType).encode('utf-8'), str(baseAltitude).encode('utf-8'), str(topAltitude).encode('utf-8'), segmentName.encode('utf-8')))
 
 ## save to file
 with open('dat/airways.dat', mode='wt') as currentFile:
