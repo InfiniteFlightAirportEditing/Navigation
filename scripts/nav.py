@@ -26,11 +26,11 @@ for ndb in ndbData:
 	longitude = str("%.8f" % ndb["longitude"])
 	name = str(ndb["name"])
 	identifier = ndb["identifier"]
-	elevation = ndb["elevation"]
+	elevation = int(ndb["elevation"])
 	frequency = ndb["frequency"]
 	receptionRange = ndb["receptionRange"]
 	
-	lines.append("2  %s  %s  %s  %s  %s  0.0  %s  %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), identifier.encode('utf-8'), name.encode('utf-8')))
+	lines.append("2 %s %s %s %s %s 0.0 %s %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), identifier.encode('utf-8'), name.encode('utf-8')))
 
 
 ## read VOR
@@ -43,12 +43,12 @@ for vor in vorData:
 	longitude = str("%.8f" % vor["longitude"])
 	name = str(vor["name"])
 	identifier = vor["identifier"]
-	elevation = vor["elevation"]
+	elevation = int(vor["elevation"])
 	frequency = vor["frequency"]
 	receptionRange = vor["receptionRange"]
 	slavedVariation = vor["slavedVariation"]
 	
-	lines.append("3  %s  %s  %s  %s  %s  %s  %s  %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(slavedVariation).encode('utf-8'), identifier.encode('utf-8'), name.encode('utf-8')))
+	lines.append("3 %s %s %s %s %s %s %s %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(slavedVariation).encode('utf-8'), identifier.encode('utf-8'), name.encode('utf-8')))
 
 
 ## read LOC
@@ -61,7 +61,7 @@ for loc in locData:
 	longitude = str("%.8f" % loc["longitude"])
 	name = str(loc["name"])
 	identifier = loc["identifier"]
-	elevation = loc["elevation"]
+	elevation = int(loc["elevation"])
 	frequency = loc["frequency"]
 	receptionRange = loc["receptionRange"]
 	bearing = loc["bearing"]
@@ -69,7 +69,7 @@ for loc in locData:
 	runwayNumber = loc["associatedRunwayNumber"]
 	lineType = loc["type"]
 	
-	lines.append("%s  %s  %s  %s  %s  %s  %s  %s  %s  %s  %s" % (str(lineType).encode('utf-8'), latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(bearing).encode('utf-8'), identifier.encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')))
+	lines.append("%s %s %s %s %s %s %s %s %s %s %s" % (str(lineType).encode('utf-8'), latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(bearing).encode('utf-8'), identifier.encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')))
 
 
 ## read Glideslope
@@ -82,7 +82,7 @@ for gs in gsData:
 	longitude = str("%.8f" % gs["longitude"])
 	name = str(gs["name"])
 	identifier = gs["identifier"]
-	elevation = gs["elevation"]
+	elevation = int(gs["elevation"])
 	frequency = gs["frequency"]
 	receptionRange = gs["receptionRange"]
 	bearing = gs["bearing"]
@@ -102,7 +102,7 @@ for gs in gsData:
 	if type(name) is NoneType:
 		name = ""
 	
-	lines.append("6  %s  %s  %s  %s  %s  %s%s  %s  %s  %s  %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(glideslope).encode('utf-8'), str(bearing).encode('utf-8'), identifier.encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')))
+	lines.append("6 %s %s %s %s %s %s%s %s %s %s %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(glideslope).encode('utf-8'), str(bearing).encode('utf-8'), identifier.encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')))
 
 ## read MB
 with open('MarkerBeacons.json') as data_file:
@@ -113,13 +113,13 @@ for mb in mbData:
 	latitude = str("%.8f" % mb["latitude"])
 	longitude = str("%.8f" % mb["longitude"])
 	name = str(mb["name"])
-	elevation = mb["elevation"]
+	elevation = int(mb["elevation"])
 	bearing = mb["bearing"]
 	icao = mb["airportICAO"]
 	runwayNumber = mb["associatedRunwayNumber"]
 	lineType = mb["type"]
 	
-	lines.append("%s  %s  %s  %s  0  0  %s  ----  %s  %s  %s" % (str(lineType).encode('utf-8'), latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(bearing).encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')))
+	lines.append("%s %s %s %s 0 0 %s ---- %s %s %s" % (str(lineType).encode('utf-8'), latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(bearing).encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')))
 
 
 ## read DME
