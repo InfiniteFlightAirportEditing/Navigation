@@ -64940,14 +64940,14 @@
     "name": "GS",
     "airportICAO": "KSNA",
     "identifier": "ISNA",
-    "associatedRunwayNumber": "19R",
-    "latitude": 33.67987800,
-    "longitude": -117.86729400,
-    "elevation": 43,
+    "associatedRunwayNumber": "20R",
+    "latitude": 33.68164810,
+    "longitude": -117.86507621,
+    "elevation": 56,
     "frequency": 111750,
-    "receptionRange": 10,
-    "bearing": 208.620,
-    "glideslope": 3.0020781
+    "receptionRange": 18,
+    "bearing": 207.810,
+    "glideslope": 3.00207810
   },
   {
     "name": "GS",
