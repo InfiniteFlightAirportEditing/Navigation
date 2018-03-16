@@ -44721,19 +44721,6 @@
     "bearing": 60.791
   },
   {
-    "name": "LDA",
-    "type": 5,
-    "airportICAO": "KSNA",
-    "identifier": "IOJW",
-    "associatedRunwayNumber": "19R",
-    "latitude": 33.68219376,
-    "longitude": -117.86306763,
-    "elevation": 40,
-    "frequency": 108300,
-    "receptionRange": 18,
-    "bearing": 195.000
-  },
-  {
     "name": "LOC",
     "type": 5,
     "airportICAO": "KSNH",
@@ -69087,13 +69074,13 @@
     "type": 4,
     "airportICAO": "KSNA",
     "identifier": "ISNA",
-    "associatedRunwayNumber": "19R",
-    "latitude": 33.66513900,
-    "longitude": -117.87551700,
-    "elevation": 54,
+    "associatedRunwayNumber": "20R",
+    "latitude": 33.68164810,
+    "longitude": -117.86507621,
+    "elevation": 56,
     "frequency": 111750,
     "receptionRange": 18,
-    "bearing": 207.799
+    "bearing": 207.810
   },
   {
     "name": "ILS-cat-I",
@@ -90505,19 +90492,6 @@
     "frequency": 109100,
     "receptionRange": 18,
     "bearing": 60.79
-  },
-  {
-    "name": "LDA",
-    "type": 5,
-    "airportICAO": "KSNA",
-    "identifier": "IOJW",
-    "associatedRunwayNumber": "19R",
-    "latitude": 33.68219200,
-    "longitude": -117.86306400,
-    "elevation": 40,
-    "frequency": 108300,
-    "receptionRange": 18,
-    "bearing": 195.000
   },
   {
     "name": "LOC",
