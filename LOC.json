@@ -1,19 +1,6 @@
 [
   {
     "receptionRange": 18, 
-    "bearing": 281.662, 
-    "airportICAO": "40N", 
-    "elevation": 660, 
-    "name": "ILS-cat-I", 
-    "longitude": -75.877814, 
-    "associatedRunwayNumber": "29", 
-    "frequency": 108500, 
-    "latitude": 39.980911, 
-    "identifier": "IMQS", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
     "bearing": 148.638, 
     "airportICAO": "AYPY", 
     "elevation": 128, 
@@ -18925,6 +18912,19 @@
     "frequency": 110500, 
     "latitude": 46.5362, 
     "identifier": "IIII", 
+    "type": 4
+  },
+  {
+    "receptionRange": 18, 
+    "bearing": 281.662, 
+    "airportICAO": "KMQS", 
+    "elevation": 660, 
+    "name": "ILS-cat-I", 
+    "longitude": -75.877814, 
+    "associatedRunwayNumber": "29", 
+    "frequency": 108500, 
+    "latitude": 39.980911, 
+    "identifier": "IMQS", 
     "type": 4
   }, 
   {

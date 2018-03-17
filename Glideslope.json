@@ -1,17 +1,4 @@
-[
-  {
-    "receptionRange": 10, 
-    "bearing": 282.4, 
-    "airportICAO": "40N", 
-    "elevation": 655, 
-    "name": "GS", 
-    "longitude": -75.860275, 
-    "associatedRunwayNumber": "29", 
-    "frequency": 108500, 
-    "glideslope": 3.002817, 
-    "latitude": 39.977294, 
-    "identifier": "IMQS"
-  }, 
+[ 
   {
     "receptionRange": 10, 
     "bearing": 149.22, 
@@ -18849,6 +18836,19 @@
     "glideslope": 3.00151753, 
     "latitude": 44.2052, 
     "identifier": "IMPV"
+  },
+  {
+    "receptionRange": 10, 
+    "bearing": 282.4, 
+    "airportICAO": "KMQS", 
+    "elevation": 655, 
+    "name": "GS", 
+    "longitude": -75.860275, 
+    "associatedRunwayNumber": "29", 
+    "frequency": 108500, 
+    "glideslope": 3.002817, 
+    "latitude": 39.977294, 
+    "identifier": "IMQS"
   }, 
   {
     "receptionRange": 10, 
