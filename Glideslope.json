@@ -1365,16 +1365,16 @@
     "identifier": "ILE"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 356.332, 
+    "receptionRange": 18, 
+    "bearing": 355.980, 
     "airportICAO": "CYZF", 
-    "elevation": 675, 
+    "elevation": 674, 
     "name": "GS", 
-    "longitude": -114.4428896, 
+    "longitude": -114.44089566, 
     "associatedRunwayNumber": "34", 
     "frequency": 109500, 
-    "glideslope": 3.00355666, 
-    "latitude": 62.45550595, 
+    "glideslope": 3.00355980, 
+    "latitude": 62.45281358, 
     "identifier": "IZF"
   }, 
   {

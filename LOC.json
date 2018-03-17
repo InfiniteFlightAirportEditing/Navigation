@@ -1340,14 +1340,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 355.666, 
+    "bearing": 355.980, 
     "airportICAO": "CYZF", 
-    "elevation": 675, 
+    "elevation": 674, 
     "name": "ILS-cat-I", 
-    "longitude": -114.44425269, 
+    "longitude": -114.44089566, 
     "associatedRunwayNumber": "34", 
     "frequency": 109500, 
-    "latitude": 62.4747141, 
+    "latitude": 62.45281358, 
     "identifier": "IZF", 
     "type": 4
   }, 
