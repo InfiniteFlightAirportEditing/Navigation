@@ -42081,16 +42081,29 @@
     "type": 5
   }, 
   {
-    "receptionRange": 18, 
-    "bearing": 220.988, 
+    "receptionRange": 25, 
+    "bearing": 94.95, 
     "airportICAO": "EDVK", 
-    "elevation": 899, 
+    "elevation": 859, 
     "name": "LOC", 
-    "longitude": 9.368272, 
-    "associatedRunwayNumber": "22", 
+    "longitude": 9.37417075, 
+    "associatedRunwayNumber": "09", 
     "frequency": 108100, 
-    "latitude": 51.401689, 
-    "identifier": "KSL", 
+    "latitude": 51.42176123, 
+    "identifier": "IKSE", 
+    "type": 5
+  }, 
+  {
+    "receptionRange": 25, 
+    "bearing": 274.95, 
+    "airportICAO": "EDVK", 
+    "elevation": 859, 
+    "name": "LOC", 
+    "longitude": 9.40998657, 
+    "associatedRunwayNumber": "27", 
+    "frequency": 109300, 
+    "latitude": 51.41982799, 
+    "identifier": "IKSW", 
     "type": 5
   }, 
   {
