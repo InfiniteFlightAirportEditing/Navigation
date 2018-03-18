@@ -1067,6 +1067,32 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 120.1, 
+    "airportICAO": "CYYC", 
+    "elevation": 3557, 
+    "name": "ILS-cat-I", 
+    "longitude": -114.03642595, 
+    "associatedRunwayNumber": "11", 
+    "frequency": 11055, 
+    "latitude": 51.1267339, 
+    "identifier": "IGY", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 180.04, 
+    "airportICAO": "CYYC", 
+    "elevation": 3557, 
+    "name": "ILS-cat-III", 
+    "longitude": -113.99032645, 
+    "associatedRunwayNumber": "17L", 
+    "frequency": 109150, 
+    "latitude": 51.14858546, 
+    "identifier": "ILG", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 180.05, 
     "airportICAO": "CYYC", 
     "elevation": 3557, 
@@ -1102,6 +1128,19 @@
     "frequency": 111500, 
     "latitude": 51.09665697, 
     "identifier": "IYC", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 0.04, 
+    "airportICAO": "CYYC", 
+    "elevation": 3557, 
+    "name": "ILS-cat-III", 
+    "longitude": -113.99036669, 
+    "associatedRunwayNumber": "35R", 
+    "frequency": 110750, 
+    "latitude": 51.11022071, 
+    "identifier": "IRF", 
     "type": 4
   }, 
   {
@@ -44903,19 +44942,6 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 54.992, 
-    "airportICAO": "PAHO", 
-    "elevation": 63, 
-    "name": "LOC", 
-    "longitude": -151.458661, 
-    "associatedRunwayNumber": "03", 
-    "frequency": 109300, 
-    "latitude": 59.651897, 
-    "identifier": "IHOM", 
-    "type": 5
-  }, 
-  {
-    "receptionRange": 18, 
     "bearing": 84.922, 
     "airportICAO": "PAJN", 
     "elevation": 21, 
@@ -45407,45 +45433,6 @@
     "latitude": -16.864722, 
     "identifier": "ICN", 
     "type": 5
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 120.1, 
-    "airportICAO": "CYYC", 
-    "elevation": 3557, 
-    "name": "ILS-cat-I", 
-    "longitude": -114.03642595, 
-    "associatedRunwayNumber": "11", 
-    "frequency": 11055, 
-    "latitude": 51.1267339, 
-    "identifier": "IGY", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 180.04, 
-    "airportICAO": "CYYC", 
-    "elevation": 3557, 
-    "name": "ILS-cat-III", 
-    "longitude": -113.99032645, 
-    "associatedRunwayNumber": "17L", 
-    "frequency": 109150, 
-    "latitude": 51.14858546, 
-    "identifier": "ILG", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 0.04, 
-    "airportICAO": "CYYC", 
-    "elevation": 3557, 
-    "name": "ILS-cat-III", 
-    "longitude": -113.99036669, 
-    "associatedRunwayNumber": "35R", 
-    "frequency": 110750, 
-    "latitude": 51.11022071, 
-    "identifier": "IRF", 
-    "type": 4
   }, 
   {
     "receptionRange": 18, 
