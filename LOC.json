@@ -25975,19 +25975,6 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 293.689, 
-    "airportICAO": "LFBX", 
-    "elevation": 312, 
-    "name": "ILS-cat-II", 
-    "longitude": 0.804594, 
-    "associatedRunwayNumber": "29", 
-    "frequency": 109100, 
-    "latitude": 45.200775, 
-    "identifier": "PX", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
     "bearing": 269.043, 
     "airportICAO": "LFBZ", 
     "elevation": 234, 

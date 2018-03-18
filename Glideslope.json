@@ -25898,19 +25898,6 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 294.39, 
-    "airportICAO": "LFBX", 
-    "elevation": 387, 
-    "name": "GS", 
-    "longitude": 0.821717, 
-    "associatedRunwayNumber": "29", 
-    "frequency": 109100, 
-    "glideslope": 3.40293695, 
-    "latitude": 45.194572, 
-    "identifier": "PX"
-  }, 
-  {
-    "receptionRange": 10, 
     "bearing": 269.266, 
     "airportICAO": "LFBZ", 
     "elevation": 234, 
