@@ -1,11 +1,11 @@
-# Summary of Navigation issue. (ILS, Waypoints, etc.)
+# Summary of Navigation issue: (ILS, Waypoints, etc.)
 
 < Enter text here >
 
-# Runway(s) with ILS (If any)
+# Runway(s) with ILS: (If any)
 
-< Enter tect here >
+< Enter text here >
 
-# References (Official sources/charts)
+# References: (Official sources/charts)
 
 < Enter text here >
