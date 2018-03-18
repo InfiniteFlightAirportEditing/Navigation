@@ -34516,6 +34516,19 @@
     "identifier": "IRF"
   }, 
   {
+    "receptionRange": 18, 
+    "bearing": 99.270, 
+    "airportICAO": "SBSG", 
+    "elevation": 270, 
+    "name": "GS", 
+    "longitude": -35.37997527, 
+    "associatedRunwayNumber": "12", 
+    "frequency": 109700, 
+    "glideslope": 3.0099270, 
+    "latitude": -5.76762923, 
+    "identifier": "ISG"
+  }, 
+  {
     "receptionRange": 10, 
     "bearing": 135.252, 
     "airportICAO": "SBSJ", 

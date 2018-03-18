@@ -34724,6 +34724,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 99.270, 
+    "airportICAO": "SBSG", 
+    "elevation": 270, 
+    "name": "ILS-cat-I", 
+    "longitude": -35.37997527, 
+    "associatedRunwayNumber": "12", 
+    "frequency": 109700, 
+    "latitude": -5.76762923, 
+    "identifier": "ISG", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 134.95, 
     "airportICAO": "SBSJ", 
     "elevation": 2120, 
