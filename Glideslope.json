@@ -1090,6 +1090,32 @@
     "glideslope": 3.00065278, 
     "latitude": 46.359909, 
     "identifier": "IYB"
+   },
+   {
+    "receptionRange": 10, 
+    "bearing": 120.1, 
+    "airportICAO": "CYYC", 
+    "elevation": 3557, 
+    "name": "GS", 
+    "longitude": -114.03642595, 
+    "associatedRunwayNumber": "11", 
+    "frequency": 110550, 
+    "glideslope": 3.00178997, 
+    "latitude": 51.1267339, 
+    "identifier": "IGY"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 180.04, 
+    "airportICAO": "CYYC", 
+    "elevation": 3557, 
+    "name": "GS", 
+    "longitude": -113.99032645, 
+    "associatedRunwayNumber": "17L", 
+    "frequency": 109150, 
+    "glideslope": 3.00178997, 
+    "latitude": 51.14858546, 
+    "identifier": "ILG"
   }, 
   {
     "receptionRange": 10, 
@@ -1103,6 +1129,7 @@
     "glideslope": 3.00178997, 
     "latitude": 51.1313599, 
     "identifier": "IEM"
+
   }, 
   {
     "receptionRange": 10, 
@@ -1129,6 +1156,19 @@
     "glideslope": 3.00358997, 
     "latitude": 51.09665697, 
     "identifier": "IYC"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 0.04, 
+    "airportICAO": "CYYC", 
+    "elevation": 3557, 
+    "name": "GS", 
+    "longitude": -113.99036669, 
+    "associatedRunwayNumber": "35R", 
+    "frequency": 110750, 
+    "glideslope": 3.00358997, 
+    "latitude": 51.11022071, 
+    "identifier": "Irf"
   }, 
   {
     "receptionRange": 10, 
@@ -41183,17 +41223,43 @@
     "glideslope": 3.0002185, 
     "latitude": 30.56348607, 
     "identifier": "IZW"
+   },
+   {
+     "receptionRange": 18,
+     "bearing": 21.860,
+     "airportICAO": "ZUUU",
+     "elevation": 1625,
+     "name": "GS",
+     "longitude": 103.93670613,
+     "associatedRunwayNumber": "02R", 
+     "frequency": 108700,
+     "glideslope": 3.00021860,
+     "latitude": 30.51949087,
+     "identifier": "ICR"
+   },
+   {
+     "receptionRange": 18,
+     "bearing": 201.860,
+     "airportICAO": "ZUUU",
+     "elevation": 1625,
+     "name": "GS",
+     "longitude": 103.95071119,
+     "associatedRunwayNumber": "20L", 
+     "frequency": 109700,
+     "glideslope": 3.00201860,
+     "latitude": 30.54955878,
+     "identifier": "IDE"
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 201.85, 
+    "bearing": 201.850, 
     "airportICAO": "ZUUU", 
     "elevation": 1625, 
     "name": "GS", 
     "longitude": 103.95404711, 
     "associatedRunwayNumber": "20R", 
     "frequency": 109100, 
-    "glideslope": 3.0020185, 
+    "glideslope": 3.00201850, 
     "latitude": 30.59358607, 
     "identifier": "IAA"
   }, 
@@ -41430,45 +41496,6 @@
     "glideslope": 3.00081654, 
     "latitude": 42.881514, 
     "identifier": "IJA"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 120.1, 
-    "airportICAO": "CYYC", 
-    "elevation": 3557, 
-    "name": "GS", 
-    "longitude": -114.03642595, 
-    "associatedRunwayNumber": "11", 
-    "frequency": 110550, 
-    "glideslope": 3.00178997, 
-    "latitude": 51.1267339, 
-    "identifier": "IGY"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 180.04, 
-    "airportICAO": "CYYC", 
-    "elevation": 3557, 
-    "name": "GS", 
-    "longitude": -113.99032645, 
-    "associatedRunwayNumber": "17L", 
-    "frequency": 109150, 
-    "glideslope": 3.00178997, 
-    "latitude": 51.14858546, 
-    "identifier": "ILG"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 0.04, 
-    "airportICAO": "CYYC", 
-    "elevation": 3557, 
-    "name": "GS", 
-    "longitude": -113.99036669, 
-    "associatedRunwayNumber": "35R", 
-    "frequency": 110750, 
-    "glideslope": 3.00358997, 
-    "latitude": 51.11022071, 
-    "identifier": "Irf"
   }, 
   {
     "receptionRange": 10, 
