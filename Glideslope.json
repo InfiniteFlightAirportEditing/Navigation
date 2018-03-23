@@ -6138,16 +6138,16 @@
     "identifier": "GSW"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 134.37, 
+    "receptionRange": 18, 
+    "bearing": 134.360, 
     "airportICAO": "ENHD", 
     "elevation": 86, 
     "name": "GS", 
-    "longitude": 5.197552, 
+    "longitude": 5.19755298, 
     "associatedRunwayNumber": "13", 
     "frequency": 109100, 
     "glideslope": 3.00134364, 
-    "latitude": 59.350678, 
+    "latitude": 59.35067814, 
     "identifier": "HD"
   }, 
   {
