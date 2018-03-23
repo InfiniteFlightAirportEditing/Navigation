@@ -30214,29 +30214,29 @@
     "identifier": "LT"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 71.9, 
+    "receptionRange": 18, 
+    "bearing": 70.950, 
     "airportICAO": "NZAA", 
-    "elevation": 23, 
+    "elevation": 20, 
     "name": "GS", 
-    "longitude": 174.776398, 
+    "longitude": 174.76809542, 
     "associatedRunwayNumber": "05R", 
     "frequency": 110300, 
     "glideslope": 3.0007095, 
-    "latitude": -37.016476, 
+    "latitude": -37.01705222, 
     "identifier": "IAA"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 251.9, 
+    "receptionRange": 18, 
+    "bearing": 250.950, 
     "airportICAO": "NZAA", 
-    "elevation": 23, 
+    "elevation": 20, 
     "name": "GS", 
-    "longitude": 174.802048, 
+    "longitude": 174.80575627, 
     "associatedRunwayNumber": "23L", 
     "frequency": 109900, 
     "glideslope": 3.0025095, 
-    "latitude": -37.008846, 
+    "latitude": -37.00667023, 
     "identifier": "IMG"
   }, 
   {
@@ -31072,16 +31072,16 @@
     "identifier": "IBND"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 314.466, 
+    "receptionRange": 18, 
+    "bearing": 313.740, 
     "airportICAO": "OIMM", 
-    "elevation": 3264, 
+    "elevation": 3263, 
     "name": "GS", 
-    "longitude": 59.653444, 
-    "associatedRunwayNumber": "32R", 
+    "longitude": 59.62448662, 
+    "associatedRunwayNumber": "31R", 
     "frequency": 109900, 
-    "glideslope": 3.00313733, 
-    "latitude": 36.225528, 
+    "glideslope": 3.00313740, 
+    "latitude": 36.24666950, 
     "identifier": "IMSD"
   }, 
   {
