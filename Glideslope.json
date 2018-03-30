@@ -26445,19 +26445,6 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 94.42, 
-    "airportICAO": "LFMU", 
-    "elevation": 92, 
-    "name": "GS", 
-    "longitude": 3.347586, 
-    "associatedRunwayNumber": "10", 
-    "frequency": 109350, 
-    "glideslope": 3.0009421, 
-    "latitude": 43.322669, 
-    "identifier": "ZR"
-  }, 
-  {
-    "receptionRange": 10, 
     "bearing": 349.002, 
     "airportICAO": "LFMV", 
     "elevation": 121, 

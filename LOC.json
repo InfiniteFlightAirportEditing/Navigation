@@ -26546,19 +26546,6 @@
     "type": 4
   }, 
   {
-    "receptionRange": 18, 
-    "bearing": 94.522, 
-    "airportICAO": "LFMU", 
-    "elevation": 50, 
-    "name": "ILS-cat-I", 
-    "longitude": 3.36935833, 
-    "associatedRunwayNumber": "10", 
-    "frequency": 109350, 
-    "latitude": 43.32247222, 
-    "identifier": "ZR", 
-    "type": 4
-  }, 
-  {
     "receptionRange": 27, 
     "bearing": 167.0, 
     "airportICAO": "LFMV", 
