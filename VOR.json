@@ -6100,16 +6100,6 @@
     "slavedVariation": 16.0
   }, 
   {
-    "receptionRange": 50, 
-    "elevation": 357, 
-    "name": "CRANFIELD", 
-    "longitude": -0.61079198, 
-    "frequency": 1165000, 
-    "latitude": 52.07421875, 
-    "identifier": "CFD", 
-    "slavedVariation": 356.0
-  }, 
-  {
     "receptionRange": 130, 
     "elevation": 4800, 
     "name": "CRAZY", 
