@@ -9447,7 +9447,17 @@
     "frequency": 1137000, 
     "latitude": -24.59771347, 
     "identifier": "GBV", 
-    "slavedVariation": 347.0
+    "slavedVariation": 347.0  
+  }, 
+  {
+    "receptionRange": 130, 
+    "elevation": 295, 
+    "name": "SAO GONCALO DO AMARANTE", 
+    "longitude": -5.771811111, 
+    "frequency": 1159000, 
+    "latitude": -35.368680556, 
+    "identifier": "SGA", 
+    "slavedVariation": -22.000
   }, 
   {
     "receptionRange": 130, 
