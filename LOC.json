@@ -45839,6 +45839,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 35.60, 
+    "airportICAO": "ROIG", 
+    "elevation": 102.0, 
+    "name": "ILS-cat-I", 
+    "longitude": 124.23931533, 
+    "associatedRunwayNumber": "04", 
+    "frequency": 110750, 
+    "latitude": 24.38916348, 
+    "identifier": "IIG", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 292.09, 
     "airportICAO": "RJNS", 
     "elevation": 433, 
