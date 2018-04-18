@@ -10065,15 +10065,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 45.8, 
+    "bearing": 44.90, 
     "airportICAO": "KBDR", 
-    "elevation": 7, 
+    "elevation": 8, 
     "name": "GS", 
-    "longitude": -73.128639, 
+    "longitude": -73.13196966, 
     "associatedRunwayNumber": "06", 
     "frequency": 110700, 
-    "glideslope": 3.000449, 
-    "latitude": 41.158386, 
+    "glideslope": 3.0004490, 
+    "latitude": 41.15706223, 
     "identifier": "IBDR"
   }, 
   {
