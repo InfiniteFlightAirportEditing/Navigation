@@ -26263,15 +26263,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 213.868, 
+    "bearing": 213.19, 
     "airportICAO": "LFLX", 
-    "elevation": 522, 
+    "elevation": 528, 
     "name": "GS", 
-    "longitude": 1.742697, 
-    "associatedRunwayNumber": "22", 
+    "longitude": 1.74326202, 
+    "associatedRunwayNumber": "21", 
     "frequency": 110300, 
-    "glideslope": 3.00212934, 
-    "latitude": 46.872922, 
+    "glideslope": 3.0021319, 
+    "latitude": 46.87593934, 
     "identifier": "CX"
   }, 
   {
