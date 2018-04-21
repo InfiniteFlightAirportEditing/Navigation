@@ -44292,6 +44292,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 286.08, 
+    "airportICAO": "KSAN", 
+    "elevation": 17, 
+    "name": "LOC", 
+    "longitude": -117.17491155, 
+    "associatedRunwayNumber": "27", 
+    "frequency": 110900, 
+    "latitude": 32.72996804, 
+    "identifier": "IUBR", 
+    "type": 5
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 282.125, 
     "airportICAO": "KSEE", 
     "elevation": 388, 
