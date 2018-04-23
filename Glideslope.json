@@ -11657,7 +11657,7 @@
     "name": "GS", 
     "longitude": -82.90917764, 
     "associatedRunwayNumber": "10R", 
-    "frequency": 111.75, 
+    "frequency": 111750, 
     "glideslope": 3.0009423, 
     "latitude": 39.99365987, 
     "identifier": "IAQI"
@@ -11670,7 +11670,7 @@
     "name": "GS", 
     "longitude": -82.87318917, 
     "associatedRunwayNumber": "28L", 
-    "frequency": 111.75, 
+    "frequency": 111750, 
     "glideslope": 3.0027423, 
     "latitude": 39.99162062, 
     "identifier": "ICMH"
@@ -13451,7 +13451,7 @@
     "name": "GS", 
     "longitude": -106.903636, 
     "associatedRunwayNumber": "25", 
-    "frequency": 109.75, 
+    "frequency": 109750, 
     "glideslope": 3.80000001, 
     "latitude": 39.644106, 
     "identifier": "IEGE"
@@ -22993,7 +22993,7 @@
     "name": "GS", 
     "longitude": -111.963511, 
     "associatedRunwayNumber": "35", 
-    "frequency": 111.5, 
+    "frequency": 111500, 
     "glideslope": 3.0035999, 
     "latitude": 40.776425, 
     "identifier": "IUTJ"

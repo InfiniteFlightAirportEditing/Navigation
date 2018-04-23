@@ -11707,7 +11707,7 @@
     "name": "ILS-cat-I", 
     "longitude": -82.90917764, 
     "associatedRunwayNumber": "10R", 
-    "frequency": 111.75, 
+    "frequency": 111750, 
     "latitude": 39.99365987, 
     "identifier": "IAQI", 
     "type": 4
@@ -11720,7 +11720,7 @@
     "name": "ILS-cat-I", 
     "longitude": -82.87318917, 
     "associatedRunwayNumber": "28L", 
-    "frequency": 111.75, 
+    "frequency": 111750, 
     "latitude": 39.99162062, 
     "identifier": "ICMH", 
     "type": 4
@@ -23082,7 +23082,7 @@
     "name": "ILS-cat-I", 
     "longitude": -111.96207428, 
     "associatedRunwayNumber": "35", 
-    "frequency": 110100, 
+    "frequency": 111500, 
     "latitude": 40.80173874, 
     "identifier": "IUTJ", 
     "type": 4
