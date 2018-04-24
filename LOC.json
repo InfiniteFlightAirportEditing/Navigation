@@ -16108,14 +16108,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 5.063, 
+    "bearing": 5.06, 
     "airportICAO": "KILG", 
-    "elevation": 35, 
+    "elevation": 80,
     "name": "ILS-cat-I", 
-    "longitude": -75.601506, 
+    "longitude": -75.60382967, 
     "associatedRunwayNumber": "1", 
     "frequency": 110300, 
-    "latitude": 39.689469, 
+    "latitude": 39.66930651, 
     "identifier": "IILG", 
     "type": 4
   }, 
