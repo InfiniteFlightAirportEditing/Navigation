@@ -35127,14 +35127,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 339.373, 
+    "bearing": 339.37, 
     "airportICAO": "SKBG", 
-    "elevation": 3897, 
+    "elevation": 3895, 
     "name": "ILS-cat-I", 
-    "longitude": -73.18881358, 
+    "longitude": -73.18129773, 
     "associatedRunwayNumber": "35", 
     "frequency": 110700, 
-    "latitude": 7.13717561, 
+    "latitude": 7.11736168, 
     "identifier": "IBGA", 
     "type": 4
   }, 

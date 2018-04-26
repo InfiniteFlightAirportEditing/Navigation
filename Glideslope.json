@@ -34895,15 +34895,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 339.746, 
+    "bearing": 339.37, 
     "airportICAO": "SKBG", 
-    "elevation": 3897, 
+    "elevation": 3895, 
     "name": "GS", 
-    "longitude": -73.18288893, 
+    "longitude": -73.18129773, 
     "associatedRunwayNumber": "35", 
     "frequency": 110700, 
-    "glideslope": 3.00339373, 
-    "latitude": 7.11922125, 
+    "glideslope": 3.0033937, 
+    "latitude": 7.11736168, 
     "identifier": "IBGA"
   }, 
   {
