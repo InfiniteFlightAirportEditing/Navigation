@@ -34895,15 +34895,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 339.746, 
+    "bearing": 339.37, 
     "airportICAO": "SKBG", 
-    "elevation": 3897, 
+    "elevation": 3895, 
     "name": "GS", 
-    "longitude": -73.18288893, 
+    "longitude": -73.18129773, 
     "associatedRunwayNumber": "35", 
     "frequency": 110700, 
-    "glideslope": 3.00339373, 
-    "latitude": 7.11922125, 
+    "glideslope": 3.0033937, 
+    "latitude": 7.11736168, 
     "identifier": "IBGA"
   }, 
   {
@@ -36676,15 +36676,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 242.894, 
+    "bearing": 242.13, 
     "airportICAO": "UMII", 
     "elevation": 683, 
     "name": "GS", 
-    "longitude": 30.366667, 
-    "associatedRunwayNumber": "24", 
+    "longitude": 30.36773336, 
+    "associatedRunwayNumber": "23", 
     "frequency": 111900, 
-    "glideslope": 3.00241947, 
-    "latitude": 55.13, 
+    "glideslope": 3.0024213, 
+    "latitude": 55.13178520, 
     "identifier": "IUU"
   }, 
   {
