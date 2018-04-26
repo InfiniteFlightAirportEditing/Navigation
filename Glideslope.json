@@ -36676,15 +36676,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 242.894, 
+    "bearing": 242.13, 
     "airportICAO": "UMII", 
     "elevation": 683, 
     "name": "GS", 
-    "longitude": 30.366667, 
-    "associatedRunwayNumber": "24", 
+    "longitude": 30.36773336, 
+    "associatedRunwayNumber": "23", 
     "frequency": 111900, 
-    "glideslope": 3.00241947, 
-    "latitude": 55.13, 
+    "glideslope": 3.0024213, 
+    "latitude": 55.13178520, 
     "identifier": "IUU"
   }, 
   {

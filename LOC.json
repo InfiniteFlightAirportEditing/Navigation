@@ -36908,14 +36908,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 239.762, 
+    "bearing": 242.13, 
     "airportICAO": "UMII", 
     "elevation": 683, 
     "name": "ILS-cat-I", 
-    "longitude": 30.326667, 
-    "associatedRunwayNumber": "24", 
+    "longitude": 30.36773336, 
+    "associatedRunwayNumber": "23", 
     "frequency": 111900, 
-    "latitude": 55.118333, 
+    "latitude": 55.13178520, 
     "identifier": "IUU", 
     "type": 4
   }, 
