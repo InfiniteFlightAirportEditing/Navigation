@@ -5866,15 +5866,28 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 285.96, 
+    "bearing": 105.48, 
     "airportICAO": "EKSP", 
     "elevation": 141, 
     "name": "GS", 
-    "longitude": 9.286525, 
-    "associatedRunwayNumber": "29R", 
+    "longitude": 9.24392031, 
+    "associatedRunwayNumber": "10L", 
     "frequency": 109350, 
-    "glideslope": 2.7528548, 
-    "latitude": 55.219272, 
+    "glideslope": 3.0010548, 
+    "latitude": 55.22459787, 
+    "identifier": "ISPA"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 285.48, 
+    "airportICAO": "EKSP", 
+    "elevation": 141, 
+    "name": "GS", 
+    "longitude": 9.28948490, 
+    "associatedRunwayNumber": "28R", 
+    "frequency": 109350, 
+    "glideslope": 3.0028548, 
+    "latitude": 55.21739806, 
     "identifier": "SRY"
   }, 
   {
