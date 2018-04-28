@@ -10081,16 +10081,6 @@
   }, 
   {
     "receptionRange": 130, 
-    "elevation": 37, 
-    "name": "GLASGOW", 
-    "longitude": -4.4457250, 
-    "frequency": 1154000, 
-    "latitude": 55.8705028, 
-    "identifier": "GOW", 
-    "slavedVariation": 354.0
-  }, 
-  {
-    "receptionRange": 130, 
     "elevation": 2283, 
     "name": "GLASGOW", 
     "longitude": -106.62541962, 
