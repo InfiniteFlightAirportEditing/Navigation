@@ -10869,14 +10869,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 222.454, 
+    "bearing": 222.49, 
     "airportICAO": "KBTL", 
     "elevation": 952, 
     "name": "ILS-cat-I", 
-    "longitude": -85.268544, 
-    "associatedRunwayNumber": "23", 
+    "longitude": -85.24095003, 
+    "associatedRunwayNumber": "23R", 
     "frequency": 110500, 
-    "latitude": 42.293636, 
+    "latitude": 42.31593215, 
     "identifier": "IBTL", 
     "type": 4
   }, 
