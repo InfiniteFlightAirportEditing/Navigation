@@ -29695,15 +29695,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 17.576, 
+    "bearing": 17.29, 
     "airportICAO": "MGGT", 
     "elevation": 4952, 
     "name": "GS", 
-    "longitude": -90.530237, 
-    "associatedRunwayNumber": "01", 
+    "longitude": -90.53158520, 
+    "associatedRunwayNumber": "02", 
     "frequency": 110100, 
-    "glideslope": 3.00017288, 
-    "latitude": 14.572951, 
+    "glideslope": 3.0001729, 
+    "latitude": 14.57041588, 
     "identifier": "IAAI"
   }, 
   {
