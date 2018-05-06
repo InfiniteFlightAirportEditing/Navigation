@@ -7967,6 +7967,19 @@
     "latitude": 4.414244, 
     "identifier": "BGI", 
     "type": 4
+  },
+  {
+    "receptionRange": 18, 
+    "bearing": 221.73, 
+    "airportICAO": "FGSL", 
+    "elevation": 76, 
+    "name": "ILS-cat-I", 
+    "longitude": 8.71755262, 
+    "associatedRunwayNumber": "22", 
+    "frequency": 109700, 
+    "latitude": 3.76520873, 
+    "identifier": "MBO", 
+    "type": 4
   }, 
   {
     "receptionRange": 18, 
