@@ -7983,6 +7983,19 @@
     "glideslope": 3.00345553, 
     "latitude": 4.390897, 
     "identifier": "BGI"
+  },
+  {
+    "receptionRange": 10, 
+    "bearing": 221.73, 
+    "airportICAO": "FGSL", 
+    "elevation": 76, 
+    "name": "GS", 
+    "longitude": 8.71755262, 
+    "associatedRunwayNumber": "22", 
+    "frequency": 109700, 
+    "glideslope": 3.0022173, 
+    "latitude": 3.76520873, 
+    "identifier": "MBO"
   }, 
   {
     "receptionRange": 10, 
