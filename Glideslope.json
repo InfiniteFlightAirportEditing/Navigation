@@ -8701,15 +8701,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 345.582, 
+    "bearing": 345.28, 
     "airportICAO": "HEGN", 
-    "elevation": 64, 
+    "elevation": 52, 
     "name": "GS", 
-    "longitude": 33.804147, 
+    "longitude": 33.80611991, 
     "associatedRunwayNumber": "34", 
     "frequency": 110300, 
-    "glideslope": 3.00345291, 
-    "latitude": 27.163525, 
+    "glideslope": 3.0034528, 
+    "latitude": 27.16116103, 
     "identifier": "HIL"
   }, 
   {
