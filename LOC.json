@@ -4681,14 +4681,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 269.237, 
+    "bearing": 269.28, 
     "airportICAO": "EGSH", 
     "elevation": 117, 
     "name": "ILS-cat-I", 
-    "longitude": 1.265397, 
+    "longitude": 1.29618552, 
     "associatedRunwayNumber": "27", 
     "frequency": 110900, 
-    "latitude": 52.675789, 
+    "latitude": 52.67602793, 
     "identifier": "INH", 
     "type": 4
   }, 
