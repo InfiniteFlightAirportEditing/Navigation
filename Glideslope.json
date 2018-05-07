@@ -4695,16 +4695,16 @@
     "identifier": "ICMG"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 269.6, 
+    "receptionRange": 18, 
+    "bearing": 269.28, 
     "airportICAO": "EGSH", 
     "elevation": 117, 
     "name": "GS", 
-    "longitude": 1.291994, 
+    "longitude": 1.29618552, 
     "associatedRunwayNumber": "27", 
     "frequency": 110900, 
-    "glideslope": 3.002693, 
-    "latitude": 52.6772, 
+    "glideslope": 3.00269280, 
+    "latitude": 52.67602793, 
     "identifier": "INH"
   }, 
   {
