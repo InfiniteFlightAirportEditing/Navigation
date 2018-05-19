@@ -29981,15 +29981,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 97.094, 
+    "bearing": 96.54, 
     "airportICAO": "MNMG", 
-    "elevation": 194, 
+    "elevation": 192, 
     "name": "GS", 
-    "longitude": -86.176694, 
+    "longitude": -86.17945218, 
     "associatedRunwayNumber": "09", 
     "frequency": 109100, 
-    "glideslope": 3.10096547, 
-    "latitude": 12.141425, 
+    "glideslope": 3.10096540, 
+    "latitude": 12.14282260, 
     "identifier": "IMGA"
   }, 
   {

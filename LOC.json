@@ -30122,14 +30122,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 96.374, 
+    "bearing": 96.54, 
     "airportICAO": "MNMG", 
-    "elevation": 194, 
+    "elevation": 192, 
     "name": "ILS-cat-I", 
-    "longitude": -86.154522, 
+    "longitude": -86.17945218, 
     "associatedRunwayNumber": "09", 
     "frequency": 109100, 
-    "latitude": 12.140036, 
+    "latitude": 12.14282260, 
     "identifier": "IMGA", 
     "type": 4
   }, 
