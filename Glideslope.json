@@ -8532,15 +8532,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 38.776, 
+    "bearing": 37.89, 
     "airportICAO": "GQNN", 
-    "elevation": 7, 
+    "elevation": 5, 
     "name": "GS", 
-    "longitude": -15.95595, 
-    "associatedRunwayNumber": "05", 
+    "longitude": -15.95681572, 
+    "associatedRunwayNumber": "04", 
     "frequency": 109500, 
-    "glideslope": 3.00037888, 
-    "latitude": 18.089928, 
+    "glideslope": 3.00037890, 
+    "latitude": 18.08702545, 
     "identifier": "NK"
   }, 
   {
