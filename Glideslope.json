@@ -28148,15 +28148,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 326.39, 
+    "bearing": 326.19, 
     "airportICAO": "LJMB", 
-    "elevation": 856, 
+    "elevation": 875, 
     "name": "GS", 
-    "longitude": 15.691553, 
-    "associatedRunwayNumber": "33", 
+    "longitude": 15.69523983, 
+    "associatedRunwayNumber": "32", 
     "frequency": 110100, 
-    "glideslope": 3.00326195, 
-    "latitude": 46.472019, 
+    "glideslope": 3.00326190, 
+    "latitude": 46.47054360, 
     "identifier": "MAR"
   }, 
   {
