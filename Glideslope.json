@@ -31723,15 +31723,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 203.868, 
+    "bearing": 203.37, 
     "airportICAO": "PABE", 
-    "elevation": 96, 
+    "elevation": 128, 
     "name": "GS", 
-    "longitude": -161.829197, 
-    "associatedRunwayNumber": "18", 
+    "longitude": -161.82924040, 
+    "associatedRunwayNumber": "19R", 
     "frequency": 111500, 
-    "glideslope": 3.00203434, 
-    "latitude": 60.785139, 
+    "glideslope": 3.00203370, 
+    "latitude": 60.78785789, 
     "identifier": "IBET"
   }, 
   {
