@@ -15610,12 +15610,12 @@
     "slavedVariation": 5.0
   }, 
   {
-    "receptionRange": 100, 
+    "receptionRange": 130, 
     "elevation": 4570, 
     "name": "LANSERIA", 
-    "longitude": 27.91357231, 
+    "longitude": 27.913572222, 
     "frequency": 1174000, 
-    "latitude": -25.94892883, 
+    "latitude": -25.948927778, 
     "identifier": "LIV", 
     "slavedVariation": 342.5
   }, 
@@ -26973,9 +26973,9 @@
     "receptionRange": 130, 
     "elevation": 0, 
     "name": "STANDERTON", 
-    "longitude": 28.86746025, 
+    "longitude": 28.867461111, 
     "frequency": 1160000, 
-    "latitude": -26.69671822, 
+    "latitude": -26.696719444, 
     "identifier": "STV", 
     "slavedVariation": 341.2
   }, 
