@@ -35283,14 +35283,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 9.689, 
+    "bearing": 9.91, 
     "airportICAO": "SKCL", 
     "elevation": 3162, 
     "name": "ILS-cat-I", 
-    "longitude": -76.379017, 
-    "associatedRunwayNumber": "01", 
+    "longitude": -76.38391489, 
+    "associatedRunwayNumber": "02", 
     "frequency": 109900, 
-    "latitude": 3.558558, 
+    "latitude": 3.52992346, 
     "identifier": "IPAS", 
     "type": 4
   }, 
