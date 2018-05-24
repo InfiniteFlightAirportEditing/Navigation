@@ -14434,15 +14434,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 84.512, 
+    "bearing": 83.76, 
     "airportICAO": "KFXE", 
-    "elevation": 12, 
+    "elevation": 13, 
     "name": "GS", 
-    "longitude": -80.177819, 
-    "associatedRunwayNumber": "08", 
+    "longitude": -80.18086400, 
+    "associatedRunwayNumber": "09", 
     "frequency": 111100, 
-    "glideslope": 3.00083756, 
-    "latitude": 26.198981, 
+    "glideslope": 3.0008376, 
+    "latitude": 26.19757500, 
     "identifier": "IFXE"
   }, 
   {
@@ -35095,11 +35095,11 @@
     "airportICAO": "SKRG", 
     "elevation": 6955, 
     "name": "GS", 
-    "longitude": -75.421947, 
-    "associatedRunwayNumber": "36", 
+    "longitude": -75.42301450, 
+    "associatedRunwayNumber": "01", 
     "frequency": 110900, 
     "glideslope": 3.0035962, 
-    "latitude": 6.151333, 
+    "latitude": 6.14878380, 
     "identifier": "IMDE"
   }, 
   {
