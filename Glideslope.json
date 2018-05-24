@@ -35029,11 +35029,11 @@
     "airportICAO": "SKRG", 
     "elevation": 6955, 
     "name": "GS", 
-    "longitude": -75.421947, 
-    "associatedRunwayNumber": "36", 
+    "longitude": -75.42301450, 
+    "associatedRunwayNumber": "01", 
     "frequency": 110900, 
     "glideslope": 3.0035962, 
-    "latitude": 6.151333, 
+    "latitude": 6.14878380, 
     "identifier": "IMDE"
   }, 
   {
