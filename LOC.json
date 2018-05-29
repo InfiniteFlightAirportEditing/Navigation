@@ -42593,10 +42593,10 @@
     "airportICAO": "ENOV", 
     "elevation": 243, 
     "name": "LOC", 
-    "longitude": 6.021692, 
-    "associatedRunwayNumber": "07", 
+    "longitude": 6.06212225, 
+    "associatedRunwayNumber": "06", 
     "frequency": 111500, 
-    "latitude": 62.163333, 
+    "latitude": 62.17679440, 
     "identifier": "HN", 
     "type": 5
   }, 
