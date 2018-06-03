@@ -25753,18 +25753,18 @@
     "glideslope": 3.00286462, 
     "latitude": 44.825217, 
     "identifier": "BEI"
-  }, 
+  },  
   {
     "receptionRange": 10, 
-    "bearing": 274.678, 
+    "bearing": 274.36, 
     "airportICAO": "LFBE", 
-    "elevation": 220, 
+    "elevation": 172, 
     "name": "GS", 
-    "longitude": 0.525853, 
-    "associatedRunwayNumber": "28", 
+    "longitude": 0.53266443, 
+    "associatedRunwayNumber": "27", 
     "frequency": 108150, 
-    "glideslope": 3.00274339, 
-    "latitude": 44.823058, 
+    "glideslope": 3.0027436, 
+    "latitude": 44.82377674, 
     "identifier": "RM"
   }, 
   {
