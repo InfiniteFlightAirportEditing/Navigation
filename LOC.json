@@ -19238,20 +19238,7 @@
     "latitude": 29.98921969, 
     "identifier": "IHOX", 
     "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 195.41, 
-    "airportICAO": "KMSY", 
-    "elevation": 0, 
-    "name": "LOC", 
-    "longitude": -90.24551065, 
-    "associatedRunwayNumber": "20", 
-    "frequency": 111700, 
-    "latitude": 30.00305238, 
-    "identifier": "IONW", 
-    "type": 4
-  }, 
+  },
   {
     "receptionRange": 18, 
     "bearing": 1.47, 
@@ -44058,14 +44045,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 195.403, 
+    "bearing": 195.41, 
     "airportICAO": "KMSY", 
-    "elevation": 2, 
+    "elevation": 0, 
     "name": "LOC", 
-    "longitude": -90.252069, 
-    "associatedRunwayNumber": "19", 
+    "longitude": -90.24551065, 
+    "associatedRunwayNumber": "20", 
     "frequency": 111700, 
-    "latitude": 29.982439, 
+    "latitude": 30.00305238, 
     "identifier": "IONW", 
     "type": 5
   }, 
