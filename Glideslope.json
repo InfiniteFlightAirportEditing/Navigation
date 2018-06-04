@@ -5905,15 +5905,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 296.178, 
+    "bearing": 298.01, 
     "airportICAO": "EKVG", 
-    "elevation": 280, 
+    "elevation": 918, 
     "name": "GS", 
-    "longitude": -7.259344, 
+    "longitude": -7.25934362, 
     "associatedRunwayNumber": "30", 
     "frequency": 110300, 
-    "glideslope": 3.01280125, 
-    "latitude": 62.059778, 
+    "glideslope": 3.5029801, 
+    "latitude": 62.05977793, 
     "identifier": "MF"
   }, 
   {
