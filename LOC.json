@@ -32410,14 +32410,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 44.058, 
+    "bearing": 43.85, 
     "airportICAO": "PHNY", 
     "elevation": 1308, 
     "name": "ILS-cat-I", 
-    "longitude": -156.944294, 
+    "longitude": -156.95647967, 
     "associatedRunwayNumber": "03", 
     "frequency": 111100, 
-    "latitude": 20.792536, 
+    "latitude": 20.78065679, 
     "identifier": "ILNY", 
     "type": 4
   }, 

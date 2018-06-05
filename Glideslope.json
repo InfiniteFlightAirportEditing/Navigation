@@ -32165,15 +32165,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 44.7, 
+    "bearing": 43.85, 
     "airportICAO": "PHNY", 
-    "elevation": 1304, 
+    "elevation": 1308, 
     "name": "GS", 
-    "longitude": -156.955069, 
+    "longitude": -156.95647967, 
     "associatedRunwayNumber": "03", 
     "frequency": 111100, 
     "glideslope": 3.0004385, 
-    "latitude": 20.782864, 
+    "latitude": 20.78065679, 
     "identifier": "ILNY"
   }, 
   {
