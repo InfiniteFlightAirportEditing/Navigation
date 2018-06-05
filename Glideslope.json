@@ -37521,16 +37521,16 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 23.36, 
+    "bearing": 23.35, 
     "airportICAO": "UUWW", 
     "elevation": 685, 
     "name": "GS", 
-    "longitude": 37.257655, 
+    "longitude": 37.25765522, 
     "associatedRunwayNumber": "01", 
     "frequency": 111700, 
-    "glideslope": 2.70023365, 
-    "latitude": 55.586546, 
-    "identifier": "IWN"
+    "glideslope": 3.0002335, 
+    "latitude": 55.58654573, 
+    "identifier": "IWM"
   }, 
   {
     "receptionRange": 10, 
@@ -37538,25 +37538,25 @@
     "airportICAO": "UUWW", 
     "elevation": 685, 
     "name": "GS", 
-    "longitude": 37.238693, 
+    "longitude": 37.23869283, 
     "associatedRunwayNumber": "06", 
     "frequency": 108900, 
-    "glideslope": 2.67068276, 
-    "latitude": 55.586456, 
-    "identifier": "IGG"
+    "glideslope": 3.0006831, 
+    "latitude": 55.58645562, 
+    "identifier": "IGT"
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 203.36, 
+    "bearing": 203.35, 
     "airportICAO": "UUWW", 
     "elevation": 685, 
     "name": "GS", 
-    "longitude": 37.276981, 
+    "longitude": 37.27697563, 
     "associatedRunwayNumber": "19", 
     "frequency": 111500, 
-    "glideslope": 2.70203365, 
-    "latitude": 55.611836, 
-    "identifier": "ITQ"
+    "glideslope": 3.0020335, 
+    "latitude": 55.61183577, 
+    "identifier": "ITA"
   }, 
   {
     "receptionRange": 10, 
@@ -37564,11 +37564,11 @@
     "airportICAO": "UUWW", 
     "elevation": 685, 
     "name": "GS", 
-    "longitude": 37.290358, 
+    "longitude": 37.29035835, 
     "associatedRunwayNumber": "24", 
     "frequency": 111100, 
-    "glideslope": 2.67248276, 
-    "latitude": 55.598068, 
+    "glideslope": 3.0024831, 
+    "latitude": 55.59806825, 
     "identifier": "IOB"
   }, 
   {
