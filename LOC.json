@@ -34071,6 +34071,19 @@
     "latitude": 6.921578, 
     "identifier": "IZAM", 
     "type": 4
+  },
+  {
+    "receptionRange": 18, 
+    "bearing": 29.58, 
+    "airportICAO": "RPVB", 
+    "elevation": 24, 
+    "name": "ILS-cat-I", 
+    "longitude": 123.01456388, 
+    "associatedRunwayNumber": "03", 
+    "frequency": 109900, 
+    "latitude": 10.76878427, 
+    "identifier": "IBCD", 
+    "type": 4
   }, 
   {
     "receptionRange": 18, 
@@ -45406,19 +45419,6 @@
     "frequency": 111900, 
     "latitude": 35.903242, 
     "identifier": "IDAG", 
-    "type": 5
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 220.172, 
-    "airportICAO": "RPVB", 
-    "elevation": 24, 
-    "name": "LOC", 
-    "longitude": 122.922775, 
-    "associatedRunwayNumber": "22", 
-    "frequency": 109900, 
-    "latitude": 10.634514, 
-    "identifier": "IBC", 
     "type": 5
   }, 
   {
