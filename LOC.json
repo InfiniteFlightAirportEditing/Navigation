@@ -25169,14 +25169,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 252.938, 
+    "bearing": 252.95, 
     "airportICAO": "LEAM", 
-    "elevation": 70, 
+    "elevation": 69, 
     "name": "ILS-cat-I", 
-    "longitude": -2.38975, 
+    "longitude": -2.35289377, 
     "associatedRunwayNumber": "26", 
     "frequency": 109900, 
-    "latitude": 36.839111, 
+    "latitude": 36.84815737, 
     "identifier": "IAM", 
     "type": 4
   }, 

@@ -25067,15 +25067,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 253.896, 
+    "bearing": 252.95, 
     "airportICAO": "LEAM", 
-    "elevation": 70, 
+    "elevation": 69, 
     "name": "GS", 
-    "longitude": -2.356681, 
+    "longitude": -2.35289377, 
     "associatedRunwayNumber": "26", 
     "frequency": 109900, 
-    "glideslope": 3.00252948, 
-    "latitude": 36.846283, 
+    "glideslope": 3.0025295, 
+    "latitude": 36.84815737, 
     "identifier": "IAM"
   }, 
   {
