@@ -30213,14 +30213,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 85.211, 
+    "bearing": 92.37, 
     "airportICAO": "MUCU", 
     "elevation": 249, 
     "name": "ILS-cat-I", 
-    "longitude": -75.821094, 
-    "associatedRunwayNumber": "09", 
+    "longitude": -75.85473878, 
+    "associatedRunwayNumber": "10", 
     "frequency": 110700, 
-    "latitude": 19.972203, 
+    "latitude": 19.96967191, 
     "identifier": "ICU", 
     "type": 4
   }, 
