@@ -1536,15 +1536,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 34.132, 
+    "bearing": 33.20, 
     "airportICAO": "DFFD", 
-    "elevation": 1054, 
+    "elevation": 1037, 
     "name": "GS", 
-    "longitude": -1.519469, 
+    "longitude": -1.51994194, 
     "associatedRunwayNumber": "04", 
     "frequency": 110100, 
-    "glideslope": 3.00033566, 
-    "latitude": 12.344492, 
+    "glideslope": 3.0003320, 
+    "latitude": 12.34182153, 
     "identifier": "OG"
   }, 
   {
