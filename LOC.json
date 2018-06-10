@@ -8295,15 +8295,28 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 1.658, 
+    "bearing": 1.66, 
     "airportICAO": "GCFV", 
-    "elevation": 64, 
+    "elevation": 83, 
     "name": "ILS-cat-I", 
-    "longitude": -13.86335, 
-    "associatedRunwayNumber": "01R", 
+    "longitude": -13.86441809, 
+    "associatedRunwayNumber": "01", 
     "frequency": 109500, 
-    "latitude": 28.465183, 
+    "latitude": 28.43287202, 
     "identifier": "IFV", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 181.66, 
+    "airportICAO": "GCFV", 
+    "elevation": 83, 
+    "name": "ILS-cat-I", 
+    "longitude": -13.86340910, 
+    "associatedRunwayNumber": "19", 
+    "frequency": 111300, 
+    "latitude": 28.46351073, 
+    "identifier": "IFA", 
     "type": 4
   }, 
   {
