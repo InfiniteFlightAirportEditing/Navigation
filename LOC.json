@@ -28900,15 +28900,15 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 258.843, 
+    "bearing": 251.78, 
     "airportICAO": "LRCL", 
-    "elevation": 1025, 
-    "name": "ILS-cat-I", 
-    "longitude": 23.671914, 
-    "associatedRunwayNumber": "26", 
-    "frequency": 110300, 
-    "latitude": 46.783169, 
-    "identifier": "ICL", 
+    "elevation": 1039, 
+    "name": "ILS-cat-II", 
+    "longitude": 23.69646960, 
+    "associatedRunwayNumber": "25", 
+    "frequency": 111900, 
+    "latitude": 46.79019322, 
+    "identifier": "ICX", 
     "type": 4
   }, 
   {

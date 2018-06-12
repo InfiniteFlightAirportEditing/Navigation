@@ -28746,16 +28746,16 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 259.942, 
+    "bearing": 251.78, 
     "airportICAO": "LRCL", 
-    "elevation": 1025, 
+    "elevation": 1039, 
     "name": "GS", 
-    "longitude": 23.693611, 
-    "associatedRunwayNumber": "26", 
-    "frequency": 110300, 
-    "glideslope": 3.20258971, 
-    "latitude": 46.787247, 
-    "identifier": "ICL"
+    "longitude": 23.69646960, 
+    "associatedRunwayNumber": "25", 
+    "frequency": 111900, 
+    "glideslope": 3.0025178, 
+    "latitude": 46.79019322, 
+    "identifier": "ICX"
   }, 
   {
     "receptionRange": 10, 
