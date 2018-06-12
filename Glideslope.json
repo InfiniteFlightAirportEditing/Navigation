@@ -13159,15 +13159,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 181.118, 
+    "bearing": 181.06, 
     "airportICAO": "KDTO", 
     "elevation": 642, 
     "name": "GS", 
-    "longitude": -97.19687127, 
-    "associatedRunwayNumber": "17", 
+    "longitude": -97.19776369, 
+    "associatedRunwayNumber": "18", 
     "frequency": 109100, 
-    "glideslope": 3.00181059, 
-    "latitude": 33.20620628, 
+    "glideslope": 3.0018106, 
+    "latitude": 33.21032309, 
     "identifier": "IDTO"
   }, 
   {

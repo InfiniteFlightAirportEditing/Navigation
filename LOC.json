@@ -13222,14 +13222,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 181.059, 
+    "bearing": 181.06, 
     "airportICAO": "KDTO", 
     "elevation": 642, 
     "name": "ILS-cat-I", 
-    "longitude": -97.19818779, 
-    "associatedRunwayNumber": "17", 
+    "longitude": -97.19776369, 
+    "associatedRunwayNumber": "18", 
     "frequency": 109100, 
-    "latitude": 33.19114041, 
+    "latitude": 33.21032309, 
     "identifier": "IDTO", 
     "type": 4
   }, 
