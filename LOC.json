@@ -13174,10 +13174,10 @@
     "airportICAO": "KDRO", 
     "elevation": 6689, 
     "name": "ILS-cat-I", 
-    "longitude": -107.742517, 
-    "associatedRunwayNumber": "02", 
+    "longitude": -107.76331084, 
+    "associatedRunwayNumber": "03", 
     "frequency": 109100, 
-    "latitude": 37.163303, 
+    "latitude": 37.14150728, 
     "identifier": "IDRO", 
     "type": 4
   }, 

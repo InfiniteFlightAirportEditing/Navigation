@@ -13107,15 +13107,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 37.524, 
+    "bearing": 37.27, 
     "airportICAO": "KDRO", 
-    "elevation": 6620, 
+    "elevation": 6689, 
     "name": "GS", 
-    "longitude": -107.760397, 
-    "associatedRunwayNumber": "02", 
+    "longitude": -107.76331084, 
+    "associatedRunwayNumber": "03", 
     "frequency": 109100, 
-    "glideslope": 3.00037262, 
-    "latitude": 37.142986, 
+    "glideslope": 3.0003727, 
+    "latitude": 37.14150728, 
     "identifier": "IDRO"
   }, 
   {
