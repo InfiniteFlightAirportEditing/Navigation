@@ -34700,15 +34700,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 183.742, 
+    "bearing": 182.90, 
     "airportICAO": "SCDA", 
-    "elevation": 105, 
+    "elevation": 154, 
     "name": "GS", 
-    "longitude": -70.179444, 
-    "associatedRunwayNumber": "18", 
+    "longitude": -70.18048316, 
+    "associatedRunwayNumber": "19", 
     "frequency": 109900, 
-    "glideslope": 3.20182871, 
-    "latitude": -20.522778, 
+    "glideslope": 3.2018290, 
+    "latitude": -20.52018495, 
     "identifier": "IIQQ"
   }, 
   {
