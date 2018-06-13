@@ -27641,15 +27641,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 308.51, 
+    "bearing": 307.76, 
     "airportICAO": "LICT", 
-    "elevation": 61, 
+    "elevation": 24, 
     "name": "GS", 
-    "longitude": 12.495767, 
-    "associatedRunwayNumber": "31", 
+    "longitude": 12.49918712, 
+    "associatedRunwayNumber": "31L", 
     "frequency": 110950, 
-    "glideslope": 3.00307755, 
-    "latitude": 37.907769, 
+    "glideslope": 3.0030776, 
+    "latitude": 37.90455030, 
     "identifier": "TRA"
   }, 
   {
