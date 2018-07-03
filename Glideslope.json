@@ -7894,6 +7894,32 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 37.14, 
+    "airportICAO": "FALE", 
+    "elevation": 304, 
+    "name": "GS", 
+    "longitude": 31.10774882, 
+    "associatedRunwayNumber": "06", 
+    "frequency": 111300, 
+    "glideslope": 3.0003714, 
+    "latitude": -29.62504582, 
+    "identifier": "TNI"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 217.14, 
+    "airportICAO": "FALE", 
+    "elevation": 304, 
+    "name": "GS", 
+    "longitude": 31.13089326, 
+    "associatedRunwayNumber": "24", 
+    "frequency": 109700, 
+    "glideslope": 3.0021714, 
+    "latitude": -29.59847758, 
+    "identifier": "TGI"
+  }, 
+  {
+    "receptionRange": 10, 
     "bearing": 181.34, 
     "airportICAO": "FALW", 
     "elevation": 108, 
@@ -8791,16 +8817,16 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 54.8, 
+    "bearing": 53.83, 
     "airportICAO": "HKJK", 
-    "elevation": 5343, 
+    "elevation": 5330, 
     "name": "GS", 
-    "longitude": 36.918292, 
+    "longitude": 36.91638651, 
     "associatedRunwayNumber": "06", 
     "frequency": 110300, 
-    "glideslope": 3.000539, 
-    "latitude": -1.324633, 
-    "identifier": "INL"
+    "glideslope": 3.0005383, 
+    "latitude": -1.32759649, 
+    "identifier": "NL"
   }, 
   {
     "receptionRange": 10, 
@@ -8895,15 +8921,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 45.876, 
+    "bearing": 44.81, 
     "airportICAO": "HTDA", 
-    "elevation": 54, 
+    "elevation": 182, 
     "name": "GS", 
-    "longitude": 39.201042, 
+    "longitude": 39.19792133, 
     "associatedRunwayNumber": "05", 
     "frequency": 110500, 
-    "glideslope": 3.00044938, 
-    "latitude": -6.881617, 
+    "glideslope": 3.0004481, 
+    "latitude": -6.88283190, 
     "identifier": "DL"
   }, 
   {
