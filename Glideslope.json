@@ -27355,15 +27355,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 250.958, 
+    "bearing": 249.99, 
     "airportICAO": "LGRP", 
     "elevation": 17, 
     "name": "GS", 
-    "longitude": 28.099215, 
+    "longitude": 28.10349860, 
     "associatedRunwayNumber": "25", 
     "frequency": 110300, 
-    "glideslope": 3.00249979, 
-    "latitude": 36.410105, 
+    "glideslope": 3.0024999, 
+    "latitude": 36.41044936, 
     "identifier": "IRDS"
   }, 
   {
@@ -37820,16 +37820,16 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 225.11, 
+    "bearing": 224.50, 
     "airportICAO": "VAAH", 
-    "elevation": 186, 
+    "elevation": 188, 
     "name": "GS", 
-    "longitude": 72.6436, 
+    "longitude": 72.64643583, 
     "associatedRunwayNumber": "23", 
     "frequency": 110300, 
-    "glideslope": 3.00224555, 
-    "latitude": 23.087361, 
-    "identifier": "AHD"
+    "glideslope": 3.0022450, 
+    "latitude": 23.08846014, 
+    "identifier": "IAHD"
   }, 
   {
     "receptionRange": 10, 
@@ -40755,6 +40755,32 @@
     "glideslope": 3.00180747, 
     "latitude": 39.256668, 
     "identifier": "GE"
+  },
+  {
+    "receptionRange": 10, 
+    "bearing": 29.31, 
+    "airportICAO": "ZLIC", 
+    "elevation": 3742, 
+    "name": "GS", 
+    "longitude": 106.38218016, 
+    "associatedRunwayNumber": "03", 
+    "frequency": 109300, 
+    "glideslope": 3.0002931, 
+    "latitude": 38.30710335, 
+    "identifier": "ITY"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 209.31, 
+    "airportICAO": "ZLIC", 
+    "elevation": 3742, 
+    "name": "GS", 
+    "longitude": 106.40239772, 
+    "associatedRunwayNumber": "21", 
+    "frequency": 108500, 
+    "glideslope": 3.0020931, 
+    "latitude": 38.33535742, 
+    "identifier": "IVO"
   }, 
   {
     "receptionRange": 10, 
