@@ -1556,7 +1556,7 @@
     "longitude": -0.16131522, 
     "associatedRunwayNumber": "21", 
     "frequency": 109900, 
-    "glideslope": 3.00202.24, 
+    "glideslope": 3.0020224, 
     "latitude": 5.61959444, 
     "identifier": "IACA"
   }, 
@@ -11604,7 +11604,7 @@
     "elevation": 749, 
     "name": "GS", 
     "longitude": -80.94994654, 
-    "associatedRunwayNumber": "05", 
+    "associatedRunwayNumber": "5", 
     "frequency": 110950, 
     "glideslope": 3.0004837, 
     "latitude": 35.20895511, 
