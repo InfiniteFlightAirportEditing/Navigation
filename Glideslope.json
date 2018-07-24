@@ -17660,13 +17660,13 @@
     "receptionRange": 10, 
     "bearing": 200.93, 
     "airportICAO": "KLUK", 
-    "elevation": 481, 
+    "elevation": 480, 
     "name": "GS", 
-    "longitude": -84.40968514, 
+    "longitude": -84.41178079, 
     "associatedRunwayNumber": "21L", 
     "frequency": 110900, 
     "glideslope": 3.0020093, 
-    "latitude": 39.10834513, 
+    "latitude": 39.10836281, 
     "identifier": "ILUK"
   }, 
   {
