@@ -29380,16 +29380,6 @@
     "slavedVariation": 13.1
   }, 
   {
-    "receptionRange": 54, 
-    "elevation": 22, 
-    "name": "USS", 
-    "longitude": 101.5837326, 
-    "frequency": 1143000, 
-    "latitude": 3.05823135, 
-    "identifier": "=\ufffd-\ufffd", 
-    "slavedVariation": 0.0
-  }, 
-  {
     "receptionRange": 25, 
     "elevation": 355, 
     "name": "UTTI", 
