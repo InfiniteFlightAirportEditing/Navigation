@@ -847,16 +847,7 @@
   },
   {
     "name": "AKSINYINO",
-    "identifier": "QO",
-    "latitude": 55.15000153,
-    "longitude": 38.29000092,
-    "elevation": 0,
-    "frequency": 732,
-    "receptionRange": 80
-  },
-  {
-    "name": "AKSINYINO",
-    "identifier": "ÀÎ",
+    "identifier": "AO",
     "latitude": 55.15277863,
     "longitude": 38.28861237,
     "elevation": 514,
