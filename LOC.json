@@ -1099,7 +1099,7 @@
     "name": "ILS-cat-I", 
     "longitude": -114.03642595, 
     "associatedRunwayNumber": "11", 
-    "frequency": 11055, 
+    "frequency": 110550,
     "latitude": 51.1267339, 
     "identifier": "IGY", 
     "type": 4
