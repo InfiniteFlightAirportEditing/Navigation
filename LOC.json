@@ -5401,7 +5401,7 @@
     "elevation": 72, 
     "name": "ILS-cat-I", 
     "longitude": 5.727778, 
-    "associatedRunwayNumber": "6L", 
+    "associatedRunwayNumber": "06L",
     "frequency": 110750, 
     "latitude": 51.665, 
     "identifier": "VLZ", 
