@@ -16173,7 +16173,7 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 360.192, 
+    "bearing": 0.192, 
     "airportICAO": "KIDP", 
     "elevation": 824, 
     "name": "ILS-cat-I", 
