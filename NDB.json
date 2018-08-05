@@ -4036,18 +4036,9 @@
     "identifier": "BA",
     "latitude": 57.01666641,
     "longitude": 82.06666565,
-    "elevation": 0,
-    "frequency": 605,
-    "receptionRange": 25
-  },
-  {
-    "name": "BAKCHAR",
-    "identifier": "ÂÀ",
-    "latitude": 57.00722122,
-    "longitude": 82.05972290,
     "elevation": 353,
     "frequency": 605,
-    "receptionRange": 80
+    "receptionRange": 25
   },
   {
     "name": "BAKER",
