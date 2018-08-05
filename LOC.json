@@ -11212,7 +11212,7 @@
     "elevation": 75, 
     "name": "ILS-cat-I", 
     "longitude": -69.93614254, 
-    "associatedRunwayNumber": "1R", 
+    "associatedRunwayNumber": "01R", 
     "frequency": 109300, 
     "latitude": 43.88152230, 
     "identifier": "IBXM", 
