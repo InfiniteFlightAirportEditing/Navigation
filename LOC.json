@@ -16204,7 +16204,7 @@
     "elevation": 80,
     "name": "ILS-cat-I", 
     "longitude": -75.60382967, 
-    "associatedRunwayNumber": "1", 
+    "associatedRunwayNumber": "01", 
     "frequency": 110300, 
     "latitude": 39.66930651, 
     "identifier": "IILG", 
