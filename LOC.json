@@ -15120,19 +15120,6 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 11.886, 
-    "airportICAO": "KGVW", 
-    "elevation": 1090, 
-    "name": "ILS-cat-I", 
-    "longitude": -94.556941, 
-    "associatedRunwayNumber": "01", 
-    "frequency": 109300, 
-    "latitude": 38.858867, 
-    "identifier": "IIII", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
     "bearing": 269.32, 
     "airportICAO": "KGWB", 
     "elevation": 879, 
@@ -18994,19 +18981,6 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 76.841, 
-    "airportICAO": "KMQT", 
-    "elevation": 1419, 
-    "name": "ILS-cat-I", 
-    "longitude": -87.54817, 
-    "associatedRunwayNumber": "08", 
-    "frequency": 110500, 
-    "latitude": 46.5362, 
-    "identifier": "IIII", 
-    "type": 4
-  },
-  {
-    "receptionRange": 18, 
     "bearing": 281.662, 
     "airportICAO": "KMQS", 
     "elevation": 660, 
@@ -20758,19 +20732,6 @@
     "frequency": 111300, 
     "latitude": 45.596789, 
     "identifier": "IIAP", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 142.493, 
-    "airportICAO": "KPFN", 
-    "elevation": 21, 
-    "name": "ILS-cat-I", 
-    "longitude": -85.675328, 
-    "associatedRunwayNumber": "14", 
-    "frequency": 110500, 
-    "latitude": 30.204922, 
-    "identifier": "IPFN", 
     "type": 4
   }, 
   {
@@ -36519,32 +36480,6 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 89.208, 
-    "airportICAO": "UKCC", 
-    "elevation": 791, 
-    "name": "ILS-cat-I", 
-    "longitude": 37.758083, 
-    "associatedRunwayNumber": "08", 
-    "frequency": 109300, 
-    "latitude": 48.075361, 
-    "identifier": "IDN", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 269.208, 
-    "airportICAO": "UKCC", 
-    "elevation": 791, 
-    "name": "ILS-cat-I", 
-    "longitude": 37.686333, 
-    "associatedRunwayNumber": "26", 
-    "frequency": 111700, 
-    "latitude": 48.074667, 
-    "identifier": "IDO", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
     "bearing": 98.977, 
     "airportICAO": "UKCW", 
     "elevation": 636, 
@@ -37373,32 +37308,6 @@
     "frequency": 110700, 
     "latitude": 45.105, 
     "identifier": "IKT", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 45.627, 
-    "airportICAO": "URRR", 
-    "elevation": 280, 
-    "name": "ILS-cat-I", 
-    "longitude": 39.838333, 
-    "associatedRunwayNumber": "04", 
-    "frequency": 110500, 
-    "latitude": 47.271667, 
-    "identifier": "IRN", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 223.955, 
-    "airportICAO": "URRR", 
-    "elevation": 280, 
-    "name": "ILS-cat-I", 
-    "longitude": 39.8, 
-    "associatedRunwayNumber": "22", 
-    "frequency": 110300, 
-    "latitude": 47.245, 
-    "identifier": "IRW", 
     "type": 4
   }, 
   {
@@ -39505,45 +39414,6 @@
     "frequency": 110700, 
     "latitude": -3.444814, 
     "identifier": "IBDM", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 338.416, 
-    "airportICAO": "WAOP", 
-    "elevation": 82, 
-    "name": "ILS-cat-I", 
-    "longitude": 113.938889, 
-    "associatedRunwayNumber": "34", 
-    "frequency": 111700, 
-    "latitude": -2.215889, 
-    "identifier": "IPLR", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 87.721, 
-    "airportICAO": "WARJ", 
-    "elevation": 350, 
-    "name": "ILS-cat-I", 
-    "longitude": 110.444689, 
-    "associatedRunwayNumber": "09", 
-    "frequency": 109100, 
-    "latitude": -7.787656, 
-    "identifier": "IJOG", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 257.258, 
-    "airportICAO": "WARQ", 
-    "elevation": 421, 
-    "name": "ILS-cat-I", 
-    "longitude": 110.744383, 
-    "associatedRunwayNumber": "26", 
-    "frequency": 111500, 
-    "latitude": -7.51895, 
-    "identifier": "ISLO", 
     "type": 4
   }, 
   {
@@ -44016,19 +43886,6 @@
     "frequency": 108500, 
     "latitude": 40.779322, 
     "identifier": "IPZV", 
-    "type": 5
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 153.681, 
-    "airportICAO": "KLHC", 
-    "elevation": 312, 
-    "name": "LOC", 
-    "longitude": -89.669266, 
-    "associatedRunwayNumber": "15", 
-    "frequency": 111550, 
-    "latitude": 35.277263, 
-    "identifier": "IIII", 
     "type": 5
   }, 
   {

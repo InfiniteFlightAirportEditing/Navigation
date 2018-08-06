@@ -8532,16 +8532,6 @@
   {
     "name": "OM",
     "type": 7,
-    "airportICAO": "KPFN",
-    "associatedRunwayNumber": "14",
-    "latitude": 30.32664490,
-    "longitude": -85.78228760,
-    "elevation": 20,
-    "bearing": 142.493
-  },
-  {
-    "name": "OM",
-    "type": 7,
     "airportICAO": "KPHF",
     "associatedRunwayNumber": "07",
     "latitude": 37.10078049,
@@ -13742,26 +13732,6 @@
   {
     "name": "OM",
     "type": 7,
-    "airportICAO": "UKCC",
-    "associatedRunwayNumber": "08",
-    "latitude": 48.07472229,
-    "longitude": 37.64555740,
-    "elevation": 791,
-    "bearing": 89.208
-  },
-  {
-    "name": "OM",
-    "type": 7,
-    "airportICAO": "UKCC",
-    "associatedRunwayNumber": "26",
-    "latitude": 48.07569504,
-    "longitude": 37.80777740,
-    "elevation": 791,
-    "bearing": 269.208
-  },
-  {
-    "name": "OM",
-    "type": 7,
     "airportICAO": "UKCW",
     "associatedRunwayNumber": "09",
     "latitude": 48.42486572,
@@ -14418,26 +14388,6 @@
     "longitude": 42.18166733,
     "elevation": 1486,
     "bearing": 256.081
-  },
-  {
-    "name": "OM",
-    "type": 7,
-    "airportICAO": "URRR",
-    "associatedRunwayNumber": "04",
-    "latitude": 47.22499847,
-    "longitude": 39.77000046,
-    "elevation": 280,
-    "bearing": 45.660
-  },
-  {
-    "name": "OM",
-    "type": 7,
-    "airportICAO": "URRR",
-    "associatedRunwayNumber": "22",
-    "latitude": 47.29166794,
-    "longitude": 39.86666870,
-    "elevation": 280,
-    "bearing": 225.660
   },
   {
     "name": "OM",
@@ -15218,16 +15168,6 @@
     "longitude": 105.74570465,
     "elevation": 39,
     "bearing": 107.248
-  },
-  {
-    "name": "OM",
-    "type": 7,
-    "airportICAO": "WARQ",
-    "associatedRunwayNumber": "26",
-    "latitude": -7.49333286,
-    "longitude": 110.85832977,
-    "elevation": 421,
-    "bearing": 257.527
   },
   {
     "name": "OM",
@@ -23622,16 +23562,6 @@
   {
     "name": "MM",
     "type": 8,
-    "airportICAO": "KPFN",
-    "associatedRunwayNumber": "14",
-    "latitude": 30.22747803,
-    "longitude": -85.69543457,
-    "elevation": 20,
-    "bearing": 142.493
-  },
-  {
-    "name": "MM",
-    "type": 8,
     "airportICAO": "KPHF",
     "associatedRunwayNumber": "07",
     "latitude": 37.12017059,
@@ -29452,26 +29382,6 @@
   {
     "name": "MM",
     "type": 8,
-    "airportICAO": "UKCC",
-    "associatedRunwayNumber": "08",
-    "latitude": 48.07472229,
-    "longitude": 37.68527985,
-    "elevation": 791,
-    "bearing": 89.208
-  },
-  {
-    "name": "MM",
-    "type": 8,
-    "airportICAO": "UKCC",
-    "associatedRunwayNumber": "26",
-    "latitude": 48.07555771,
-    "longitude": 37.76638794,
-    "elevation": 791,
-    "bearing": 269.208
-  },
-  {
-    "name": "MM",
-    "type": 8,
     "airportICAO": "UKCW",
     "associatedRunwayNumber": "09",
     "latitude": 48.42208862,
@@ -30098,26 +30008,6 @@
     "longitude": 42.14500046,
     "elevation": 1486,
     "bearing": 256.081
-  },
-  {
-    "name": "MM",
-    "type": 8,
-    "airportICAO": "URRR",
-    "associatedRunwayNumber": "04",
-    "latitude": 47.24499893,
-    "longitude": 39.79666519,
-    "elevation": 280,
-    "bearing": 45.660
-  },
-  {
-    "name": "MM",
-    "type": 8,
-    "airportICAO": "URRR",
-    "associatedRunwayNumber": "22",
-    "latitude": 47.27333450,
-    "longitude": 39.84000015,
-    "elevation": 280,
-    "bearing": 225.660
   },
   {
     "name": "MM",
@@ -30958,36 +30848,6 @@
     "longitude": 114.74055481,
     "elevation": 66,
     "bearing": 100.450
-  },
-  {
-    "name": "MM",
-    "type": 8,
-    "airportICAO": "WAOP",
-    "associatedRunwayNumber": "34",
-    "latitude": -2.24336910,
-    "longitude": 113.94964600,
-    "elevation": 82,
-    "bearing": 339.055
-  },
-  {
-    "name": "MM",
-    "type": 8,
-    "airportICAO": "WARJ",
-    "associatedRunwayNumber": "09",
-    "latitude": -7.78872490,
-    "longitude": 110.41744232,
-    "elevation": 350,
-    "bearing": 87.801
-  },
-  {
-    "name": "MM",
-    "type": 8,
-    "airportICAO": "WARQ",
-    "associatedRunwayNumber": "26",
-    "latitude": -7.51070023,
-    "longitude": 110.78100586,
-    "elevation": 421,
-    "bearing": 257.527
   },
   {
     "name": "MM",

@@ -20661,19 +20661,6 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 142.986, 
-    "airportICAO": "KPFN", 
-    "elevation": 9, 
-    "name": "GS", 
-    "longitude": -85.685617, 
-    "associatedRunwayNumber": "14", 
-    "frequency": 110500, 
-    "glideslope": 3.00142493, 
-    "latitude": 30.217861, 
-    "identifier": "IPFN"
-  },
-  {
-    "receptionRange": 10, 
     "bearing": 29.05, 
     "airportICAO": "KPGD", 
     "elevation": 25, 
@@ -36300,32 +36287,6 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 89.416, 
-    "airportICAO": "UKCC", 
-    "elevation": 791, 
-    "name": "GS", 
-    "longitude": 37.702778, 
-    "associatedRunwayNumber": "08", 
-    "frequency": 109300, 
-    "glideslope": 2.70089208, 
-    "latitude": 48.075833, 
-    "identifier": "IDN"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 269.416, 
-    "airportICAO": "UKCC", 
-    "elevation": 791, 
-    "name": "GS", 
-    "longitude": 37.748056, 
-    "associatedRunwayNumber": "26", 
-    "frequency": 111700, 
-    "glideslope": 2.70269208, 
-    "latitude": 48.076389, 
-    "identifier": "IDO"
-  }, 
-  {
-    "receptionRange": 10, 
     "bearing": 101.294, 
     "airportICAO": "UKCW", 
     "elevation": 636, 
@@ -37142,32 +37103,6 @@
     "glideslope": 2.70256081, 
     "latitude": 45.108333, 
     "identifier": "IKT"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 46.32, 
-    "airportICAO": "URRR", 
-    "elevation": 280, 
-    "name": "GS", 
-    "longitude": 39.81, 
-    "associatedRunwayNumber": "04", 
-    "frequency": 110500, 
-    "glideslope": 2.7004566, 
-    "latitude": 47.251667, 
-    "identifier": "IRN"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 226.32, 
-    "airportICAO": "URRR", 
-    "elevation": 280, 
-    "name": "GS", 
-    "longitude": 39.826667, 
-    "associatedRunwayNumber": "22", 
-    "frequency": 110300, 
-    "glideslope": 2.7022566, 
-    "latitude": 47.261667, 
-    "identifier": "IRW"
   }, 
   {
     "receptionRange": 10, 
@@ -39274,45 +39209,6 @@
     "glideslope": 3.0010045, 
     "latitude": -3.441831, 
     "identifier": "IBDM"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 339.11, 
-    "airportICAO": "WAOP", 
-    "elevation": 82, 
-    "name": "GS", 
-    "longitude": 113.945833, 
-    "associatedRunwayNumber": "34", 
-    "frequency": 111700, 
-    "glideslope": 3.00339055, 
-    "latitude": -2.231008, 
-    "identifier": "IPLR"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 88.602, 
-    "airportICAO": "WARJ", 
-    "elevation": 50, 
-    "name": "GS", 
-    "longitude": 110.424292, 
-    "associatedRunwayNumber": "09", 
-    "frequency": 109100, 
-    "glideslope": 3.00087801, 
-    "latitude": -7.787467, 
-    "identifier": "IJOG"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 258.054, 
-    "airportICAO": "WARQ", 
-    "elevation": 50, 
-    "name": "GS", 
-    "longitude": 110.765417, 
-    "associatedRunwayNumber": "26", 
-    "frequency": 111500, 
-    "glideslope": 3.00257527, 
-    "latitude": -7.515333, 
-    "identifier": "ISLO"
   }, 
   {
     "receptionRange": 10, 
