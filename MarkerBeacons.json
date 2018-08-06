@@ -13182,7 +13182,7 @@
   {
     "name": "OM",
     "type": 7,
-    "airportICAO": "UAFO",
+    "airportICAO": "UCFO",
     "associatedRunwayNumber": "12",
     "latitude": 40.63666534,
     "longitude": 72.74333191,
@@ -28822,7 +28822,7 @@
   {
     "name": "MM",
     "type": 8,
-    "airportICAO": "UAFO",
+    "airportICAO": "UCFO",
     "associatedRunwayNumber": "12",
     "latitude": 40.61999893,
     "longitude": 72.77333069,
@@ -30632,7 +30632,7 @@
   {
     "name": "MM",
     "type": 8,
-    "airportICAO": "VGZR",
+    "airportICAO": "VGHS",
     "associatedRunwayNumber": "14",
     "latitude": 23.86270714,
     "longitude": 90.38240814,
@@ -30972,7 +30972,7 @@
   {
     "name": "MM",
     "type": 8,
-    "airportICAO": "WIPT",
+    "airportICAO": "WIEE",
     "associatedRunwayNumber": "33",
     "latitude": -0.80607802,
     "longitude": 100.28968048,

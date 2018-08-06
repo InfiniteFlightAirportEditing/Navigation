@@ -35209,7 +35209,7 @@
   {
     "receptionRange": 10, 
     "bearing": 154.506, 
-    "airportICAO": "SPIM", 
+    "airportICAO": "SPJC", 
     "elevation": 118, 
     "name": "GS", 
     "longitude": -77.122878, 
@@ -35625,7 +35625,7 @@
   {
     "receptionRange": 10, 
     "bearing": 125.176, 
-    "airportICAO": "UAFO", 
+    "airportICAO": "UCFO", 
     "elevation": 2927, 
     "name": "GS", 
     "longitude": 72.781667, 
@@ -38173,7 +38173,7 @@
   {
     "receptionRange": 10, 
     "bearing": 144.282, 
-    "airportICAO": "VGZR", 
+    "airportICAO": "VGHS", 
     "elevation": 27, 
     "name": "GS", 
     "longitude": 90.391283, 
@@ -39499,7 +39499,7 @@
   {
     "receptionRange": 10, 
     "bearing": 335.36, 
-    "airportICAO": "WIPT", 
+    "airportICAO": "WIEE", 
     "elevation": 18, 
     "name": "GS", 
     "longitude": 100.283892, 
