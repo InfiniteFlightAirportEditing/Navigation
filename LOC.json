@@ -4772,32 +4772,6 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 89.725, 
-    "airportICAO": "EGTG", 
-    "elevation": 226, 
-    "name": "ILS-cat-I", 
-    "longitude": -2.571328, 
-    "associatedRunwayNumber": "09", 
-    "frequency": 110550, 
-    "latitude": 51.519486, 
-    "identifier": "IBRF", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 269.722, 
-    "airportICAO": "EGTG", 
-    "elevation": 225, 
-    "name": "ILS-cat-I", 
-    "longitude": -2.610375, 
-    "associatedRunwayNumber": "27", 
-    "frequency": 110550, 
-    "latitude": 51.519375, 
-    "identifier": "IFB", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
     "bearing": 190.66, 
     "airportICAO": "EGTK", 
     "elevation": 270, 

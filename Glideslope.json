@@ -4798,33 +4798,7 @@
     "glideslope": 3.5025614, 
     "latitude": 50.73653034, 
     "identifier": "IXR"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 90.416, 
-    "airportICAO": "EGTG", 
-    "elevation": 225, 
-    "name": "GS", 
-    "longitude": -2.6024, 
-    "associatedRunwayNumber": "09", 
-    "frequency": 110550, 
-    "glideslope": 3.00089708, 
-    "latitude": 51.520478, 
-    "identifier": "IBRF"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 270.416, 
-    "airportICAO": "EGTG", 
-    "elevation": 225, 
-    "name": "GS", 
-    "longitude": -2.581067, 
-    "associatedRunwayNumber": "27", 
-    "frequency": 110550, 
-    "glideslope": 3.00269708, 
-    "latitude": 51.518383, 
-    "identifier": "IFB"
-  }, 
+  },  
   {
     "receptionRange": 10, 
     "bearing": 190.66, 
