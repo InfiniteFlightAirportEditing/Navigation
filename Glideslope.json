@@ -7857,7 +7857,7 @@
   {
     "receptionRange": 10, 
     "bearing": 16.14, 
-    "airportICAO": "FAJS", 
+    "airportICAO": "FAOR", 
     "elevation": 5548, 
     "name": "GS", 
     "longitude": 28.234194, 
@@ -7870,7 +7870,7 @@
   {
     "receptionRange": 10, 
     "bearing": 16.2, 
-    "airportICAO": "FAJS", 
+    "airportICAO": "FAOR", 
     "elevation": 5515, 
     "name": "GS", 
     "longitude": 28.249971, 
@@ -7883,7 +7883,7 @@
   {
     "receptionRange": 10, 
     "bearing": 196.2, 
-    "airportICAO": "FAJS", 
+    "airportICAO": "FAOR", 
     "elevation": 5499, 
     "name": "GS", 
     "longitude": 28.257723, 
