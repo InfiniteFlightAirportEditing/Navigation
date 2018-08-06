@@ -3744,19 +3744,6 @@
     "type": 4
   }, 
   {
-    "receptionRange": 18, 
-    "bearing": 246.562, 
-    "airportICAO": "EGCD", 
-    "elevation": 295, 
-    "name": "ILS-cat-I", 
-    "longitude": -2.166017, 
-    "associatedRunwayNumber": "25", 
-    "frequency": 109150, 
-    "latitude": 53.3336, 
-    "identifier": "IWU", 
-    "type": 4
-  }, 
-  {
     "receptionRange": 25, 
     "bearing": 197.63, 
     "airportICAO": "EGCN", 

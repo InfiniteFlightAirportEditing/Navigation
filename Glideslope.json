@@ -3771,19 +3771,6 @@
     "identifier": "INN"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 247.16, 
-    "airportICAO": "EGCD", 
-    "elevation": 295, 
-    "name": "GS", 
-    "longitude": -2.145208, 
-    "associatedRunwayNumber": "25", 
-    "frequency": 109150, 
-    "glideslope": 3.6024658, 
-    "latitude": 53.340153, 
-    "identifier": "IWU"
-  }, 
-  {
     "receptionRange": 25, 
     "bearing": 197.63, 
     "airportICAO": "EGCN", 
