@@ -4229,19 +4229,6 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 281.56, 
-    "airportICAO": "EGMH", 
-    "elevation": 178, 
-    "name": "GS", 
-    "longitude": 1.360189, 
-    "associatedRunwayNumber": "28", 
-    "frequency": 111750, 
-    "glideslope": 3.0028128, 
-    "latitude": 51.339197, 
-    "identifier": "IMSN"
-  }, 
-  {
-    "receptionRange": 10, 
     "bearing": 274.66, 
     "airportICAO": "EGNH", 
     "elevation": 34, 

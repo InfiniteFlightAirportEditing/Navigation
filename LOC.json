@@ -4197,20 +4197,7 @@
     "latitude": 50.953936, 
     "identifier": "ILDY", 
     "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 281.255, 
-    "airportICAO": "EGMH", 
-    "elevation": 178, 
-    "name": "ILS-cat-I", 
-    "longitude": 1.317975, 
-    "associatedRunwayNumber": "28", 
-    "frequency": 111750, 
-    "latitude": 51.34565, 
-    "identifier": "IMSN", 
-    "type": 4
-  }, 
+  },  
   {
     "receptionRange": 18, 
     "bearing": 274.66, 
@@ -42547,19 +42534,6 @@
     "frequency": 108100, 
     "latitude": 54.626331, 
     "identifier": "HBD", 
-    "type": 5
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 101.314, 
-    "airportICAO": "EGMH", 
-    "elevation": 178, 
-    "name": "LOC", 
-    "longitude": 1.371331, 
-    "associatedRunwayNumber": "10", 
-    "frequency": 111750, 
-    "latitude": 51.338997, 
-    "identifier": "MOZ", 
     "type": 5
   }, 
   {
