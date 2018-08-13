@@ -61652,11 +61652,11 @@
   {
     "name": "WICK",
     "identifier": "WCK",
-    "latitude": 58.44673157,
-    "longitude": -3.06311893,
+    "latitude": 58.446697222,
+    "longitude": -3.063119444,
     "elevation": 0,
     "frequency": 344,
-    "receptionRange": 40
+    "receptionRange": 15
   },
   {
     "name": "WICKR",
