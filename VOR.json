@@ -1780,12 +1780,12 @@
     "slavedVariation": 4.0
   },
   {
-    "receptionRange": 60,
+    "receptionRange": 130,
     "elevation": 300,
     "name": "BALDONNEL",
-    "longitude": -6.44777822,
+    "longitude": -6.447777778,
     "frequency": 1158000,
-    "latitude": 53.29989243,
+    "latitude": 53.299888889,
     "identifier": "BAL",
     "slavedVariation": 354.8
   },
@@ -5741,6 +5741,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 300,
+    "name": "COLLINSTOWN",
+    "longitude": -6.302777778,
+    "frequency": 1112000,
+    "latitude": 53.423611111,
+    "identifier": "DAP",
+    "slavedVariation": 354.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 2690,
     "name": "COLMENAR",
     "longitude": -3.7358439,
@@ -5910,6 +5920,16 @@
     "slavedVariation": 340.0
   },
   {
+    "receptionRange": 130,
+    "elevation": 700,
+    "name": "CONNAUGHT",
+    "longitude": 53.908027778,
+    "frequency": 1174000,
+    "latitude": -8.820111111,
+    "identifier": "CON",
+    "slavedVariation": 340.0
+  },
+  {
     "receptionRange": 150,
     "elevation": 269,
     "name": "CONSTANTA",
@@ -5943,9 +5963,9 @@
     "receptionRange": 130,
     "elevation": 500,
     "name": "CORK",
-    "longitude": -8.49426937,
+    "longitude": -8.494269444,
     "frequency": 1146000,
-    "latitude": 51.84060669,
+    "latitude": 51.840608333,
     "identifier": "CRK",
     "slavedVariation": 353.0
   },
@@ -7460,16 +7480,6 @@
     "slavedVariation": 11.0
   },
   {
-    "receptionRange": 150,
-    "elevation": 280,
-    "name": "DUBLIN",
-    "longitude": -6.30277777,
-    "frequency": 1112000,
-    "latitude": 53.42361069,
-    "identifier": "DAP",
-    "slavedVariation": 354.0
-  },
-  {
     "receptionRange": 40,
     "elevation": 306,
     "name": "DUBLIN",
@@ -7477,6 +7487,16 @@
     "frequency": 1131000,
     "latitude": 32.56347275,
     "identifier": "DBN",
+    "slavedVariation": 355.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 200,
+    "name": "DUBLIN",
+    "longitude": 53.499388889,
+    "frequency": 1149000,
+    "latitude": -6.307111111,
+    "identifier": "DUB",
     "slavedVariation": 355.0
   },
   {
@@ -25891,6 +25911,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 200,
+    "name": "SHANNON",
+    "longitude": 52.721011111,
+    "frequency": 1133000,
+    "latitude": -8.885213889,
+    "identifier": "SHA",
+    "slavedVariation": 356.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 11,
     "name": "SHANTOU",
     "longitude": 116.76999664,
@@ -30520,12 +30550,12 @@
     "slavedVariation": 352.0
   },
   {
-    "receptionRange": 30,
+    "receptionRange": 130,
     "elevation": 200,
     "name": "WESTON",
-    "longitude": -6.49391413,
+    "longitude": -6.493916667,
     "frequency": 1147000,
-    "latitude": 53.35276794,
+    "latitude": 53.352750000,
     "identifier": "WST",
     "slavedVariation": 354.9
   },

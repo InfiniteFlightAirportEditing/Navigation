@@ -15617,11 +15617,20 @@
   {
     "name": "DUBLIN",
     "identifier": "OE",
-    "latitude": 53.43017578,
-    "longitude": -6.42880011,
-    "elevation": 282,
+    "latitude": 53.430166667,
+    "longitude": -6.428805556,
+    "elevation": 0,
     "frequency": 316,
-    "receptionRange": 15
+    "receptionRange": 25
+  },
+  {
+    "name": "DUBLIN",
+    "identifier": "OP",
+    "latitude": 53.413805556,
+    "longitude": -6.138361111,
+    "elevation": 0,
+    "frequency": 397,
+    "receptionRange": 25
   },
   {
     "name": "DUBOVE",
@@ -16877,8 +16886,8 @@
   {
     "name": "ENNIS",
     "identifier": "ENS",
-    "latitude": 52.90515278,
-    "longitude": -8.92777222,
+    "latitude": 52.905152778,
+    "longitude": -8.927772222,
     "elevation": 0,
     "frequency": 352,
     "receptionRange": 25
@@ -20477,10 +20486,10 @@
   {
     "name": "GORMANSTON",
     "identifier": "GMN",
-    "latitude": 53.64811111,
-    "longitude": -6.22666667,
-    "elevation": 100,
-    "frequency": 334,
+    "latitude": 53.646805556,
+    "longitude": -6.234916667,
+    "elevation": 0,
+    "frequency": 11290,
     "receptionRange": 25
   },
   {
@@ -51941,8 +51950,8 @@
   {
     "name": "SLIGO",
     "identifier": "SLG",
-    "latitude": 54.27871323,
-    "longitude": -8.59111118,
+    "latitude": 54.278722222,
+    "longitude": -8.600083333,
     "elevation": 15,
     "frequency": 384,
     "receptionRange": 25
@@ -61013,8 +61022,8 @@
   {
     "name": "WATERFORD",
     "identifier": "WTD",
-    "latitude": 52.18899918,
-    "longitude": -7.08334398,
+    "latitude": 52.189000000,
+    "longitude": -7.083333333,
     "elevation": 0,
     "frequency": 368,
     "receptionRange": 15
@@ -63857,11 +63866,20 @@
   {
     "name": "CONNAUGHT",
     "identifier": "KNK",
-    "latitude": 53.89650300,
-    "longitude": -8.93700000,
+    "latitude": 53.896500000,
+    "longitude": -8.937000000,
     "elevation": 0,
     "frequency": 364,
-    "receptionRange": 10
+    "receptionRange": 15
+  },
+  {
+    "name": "CONNAUGHT",
+    "identifier": "OK",
+    "latitude": 53.923944444,
+    "longitude": -8.699805556,
+    "elevation": 0,
+    "frequency": 398,
+    "receptionRange": 15
   },
   {
     "name": "COZUMEL",
