@@ -6000,6 +6000,16 @@
     "slavedVariation": 9.0
   },
   {
+    "receptionRange": 130,
+    "elevation": 42,
+    "name": "COSTA",
+    "longitude": 51.348055556,
+    "frequency": 1100500,
+    "latitude": 3.355277778,
+    "identifier": "COA",
+    "slavedVariation": 14.0
+  },
+  {
     "receptionRange": 40,
     "elevation": 6223,
     "name": "CORTEZ",
