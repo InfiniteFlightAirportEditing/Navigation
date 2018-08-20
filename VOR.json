@@ -930,12 +930,12 @@
     "slavedVariation": 2.0
   },
   {
-    "receptionRange": 25,
-    "elevation": -7,
+    "receptionRange": 130,
+    "elevation": 1,
     "name": "AMSTERDAM",
-    "longitude": 4.70555592,
-    "frequency": 1139500,
-    "latitude": 52.33277893,
+    "longitude": 4.749883333,
+    "frequency": 1084000,
+    "latitude": 52.332144444,
     "identifier": "AMS",
     "slavedVariation": 0.0
   },
@@ -6860,14 +6860,14 @@
     "slavedVariation": 12.0
   },
   {
-    "receptionRange": 90,
-    "elevation": 29,
-    "name": "DEN",
-    "longitude": 4.7658329,
+    "receptionRange": 130,
+    "elevation": 1,
+    "name": "DEN HELDER",
+    "longitude": 4.765722222,
     "frequency": 1155500,
-    "latitude": 52.90694427,
+    "latitude": 52.906855556,
     "identifier": "HDR",
-    "slavedVariation": 0.0
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 130,
@@ -7790,12 +7790,12 @@
     "slavedVariation": 15.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 32,
+    "receptionRange": 130,
+    "elevation": 1,
     "name": "EELDE",
-    "longitude": 6.66667509,
+    "longitude": 6.666675000,
     "frequency": 1124000,
-    "latitude": 53.1639061,
+    "latitude": 53.163905556,
     "identifier": "EEL",
     "slavedVariation": 359.0
   },
@@ -11010,12 +11010,12 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 80,
-    "elevation": 4,
+    "receptionRange": 130,
+    "elevation": 0,
     "name": "HAAMSTEDE",
-    "longitude": 3.858181,
+    "longitude": 3.858180556,
     "frequency": 1141500,
-    "latitude": 51.7227211,
+    "latitude": 51.722722222,
     "identifier": "HSD",
     "slavedVariation": 0.0
   },
@@ -16840,14 +16840,14 @@
     "slavedVariation": 358.0
   },
   {
-    "receptionRange": 40,
-    "elevation": 283,
+    "receptionRange": 130,
+    "elevation": 260,
     "name": "MAASTRICHT",
-    "longitude": 5.96042824,
+    "longitude": 5.960427778,
     "frequency": 1086000,
-    "latitude": 50.9719429,
+    "latitude": 50.971941667,
     "identifier": "MAS",
-    "slavedVariation": 359.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 130,
@@ -21520,12 +21520,12 @@
     "slavedVariation": 357.0
   },
   {
-    "receptionRange": 120,
-    "elevation": 27,
+    "receptionRange": 130,
+    "elevation": 1,
     "name": "PAMPUS",
-    "longitude": 5.092160224914551,
+    "longitude": 5.092161111,
     "frequency": 1178000,
-    "latitude": 52.334800720214844,
+    "latitude": 52.334761111,
     "identifier": "PAM",
     "slavedVariation": -2.0
   },
@@ -23900,12 +23900,12 @@
     "slavedVariation": 352.0
   },
   {
-    "receptionRange": 50,
-    "elevation": 137,
+    "receptionRange": 130,
+    "elevation": 100,
     "name": "REKKEN",
-    "longitude": 6.76387787,
+    "longitude": 6.763877778,
     "frequency": 1168000,
-    "latitude": 52.13319778,
+    "latitude": 52.133197222,
     "identifier": "RKN",
     "slavedVariation": 0.0
   },
@@ -24500,14 +24500,14 @@
     "slavedVariation": 20.0
   },
   {
-    "receptionRange": 50,
-    "elevation": 34,
+    "receptionRange": 130,
+    "elevation": 1,
     "name": "ROTTERDAM",
-    "longitude": 4.48096895,
+    "longitude": 4.480969444,
     "frequency": 1104000,
-    "latitude": 51.97369766,
+    "latitude": 51.973697222,
     "identifier": "RTM",
-    "slavedVariation": 359.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 40,
@@ -25660,12 +25660,12 @@
     "slavedVariation": 336.0
   },
   {
-    "receptionRange": 260,
-    "elevation": 14,
+    "receptionRange": 130,
+    "elevation": 1,
     "name": "SCHIPHOL",
-    "longitude": 4.74988317,
+    "longitude": 4.749883333,
     "frequency": 1084000,
-    "latitude": 52.33214569,
+    "latitude": 52.332144444,
     "identifier": "SPL",
     "slavedVariation": 0.0
   },
@@ -26780,12 +26780,12 @@
     "slavedVariation": 5.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 26,
+    "receptionRange": 130,
+    "elevation": 1,
     "name": "SPIJKERBOOR",
-    "longitude": 4.85378122,
+    "longitude": 4.853780556,
     "frequency": 1133000,
-    "latitude": 52.54027939,
+    "latitude": 52.540280556,
     "identifier": "SPY",
     "slavedVariation": 358.0
   },

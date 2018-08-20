@@ -16291,18 +16291,9 @@
   },
   {
     "name": "EINDHOVEN",
-    "identifier": "PH",
-    "latitude": 51.56277847,
-    "longitude": 5.50555611,
-    "elevation": 0,
-    "frequency": 316,
-    "receptionRange": 25
-  },
-  {
-    "name": "EINDHOVEN",
     "identifier": "EHN",
-    "latitude": 51.46777725,
-    "longitude": 5.39499998,
+    "latitude": 51.467852778,
+    "longitude": 5.394861111,
     "elevation": 59,
     "frequency": 397,
     "receptionRange": 25
@@ -53102,11 +53093,11 @@
   {
     "name": "STAD",
     "identifier": "STD",
-    "latitude": 51.74132538,
-    "longitude": 4.24348593,
-    "elevation": 2,
+    "latitude": 51.741325000,
+    "longitude": 4.243486111,
+    "elevation": 0,
     "frequency": 386,
-    "receptionRange": 15
+    "receptionRange": 25
   },
   {
     "name": "STALS",
