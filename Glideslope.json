@@ -4970,19 +4970,6 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 221.492, 
-    "airportICAO": "EGXJ", 
-    "elevation": 461, 
-    "name": "GS", 
-    "longitude": -0.639614, 
-    "associatedRunwayNumber": "22", 
-    "frequency": 110300, 
-    "glideslope": 3.00221246, 
-    "latitude": 52.743728, 
-    "identifier": "CM"
-  }, 
-  {
-    "receptionRange": 10, 
     "bearing": 41.154, 
     "airportICAO": "EGXP", 
     "elevation": 202, 

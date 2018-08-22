@@ -4941,19 +4941,6 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 221.233, 
-    "airportICAO": "EGXJ", 
-    "elevation": 461, 
-    "name": "ILS-cat-I", 
-    "longitude": -0.665772, 
-    "associatedRunwayNumber": "22", 
-    "frequency": 110300, 
-    "latitude": 52.724003, 
-    "identifier": "CM", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
     "bearing": 41.077, 
     "airportICAO": "EGXP", 
     "elevation": 202, 
