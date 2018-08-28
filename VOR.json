@@ -12770,6 +12770,16 @@
     "slavedVariation": 0.0
   },
   {
+    "receptionRange": 40, 
+    "elevation": 176, 
+    "name": "ITAMI", 
+    "longitude": 135.403608, 
+    "frequency": 1147500, 
+    "latitude": 34.805613, 
+    "identifier": "ITE", 
+    "slavedVariation": 353.0
+  }, 
+  {
     "receptionRange": 40,
     "elevation": 1102,
     "name": "ITHACA",
@@ -13728,16 +13738,6 @@
     "latitude": 19.99805641,
     "identifier": "MUE",
     "slavedVariation": 11.0
-  },
-  {
-    "receptionRange": 25,
-    "elevation": 30,
-    "name": "KAN-ON",
-    "longitude": 132.4105072,
-    "frequency": 1098500,
-    "latitude": 34.35932922,
-    "identifier": "KPE",
-    "slavedVariation": 353.0
   },
   {
     "receptionRange": 130,
@@ -21068,16 +21068,6 @@
     "latitude": 63.40605545,
     "identifier": "OSN",
     "slavedVariation": 6.0
-  },
-  {
-    "receptionRange": 100,
-    "elevation": 76,
-    "name": "OSAKA",
-    "longitude": 135.45161438,
-    "frequency": 1139000,
-    "latitude": 34.77603531,
-    "identifier": "OWE",
-    "slavedVariation": 353.0
   },
   {
     "receptionRange": 100,
