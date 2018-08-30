@@ -31958,5 +31958,35 @@
     "latitude": 38.29999924,
     "identifier": "ZZC",
     "slavedVariation": 1.0
+  },
+  {
+    "receptionRange": 60,
+    "elevation": 200,
+    "name": "SMARDE",
+    "longitude": 023.2400000,
+    "frequency": 1123000,
+    "latitude": 56.9305556,
+    "identifier": "TUK",
+    "slavedVariation": 7.0
+  },
+  {
+    "receptionRange": 60,
+    "elevation": 300,
+    "name": "TRAKSHI",
+    "longitude": 026.3522222,
+    "frequency": 1129000,
+    "latitude": 56.7733333,
+    "identifier": "LBN",
+    "slavedVariation": 6.0
+  },
+  {
+    "receptionRange": 80,
+    "elevation": 100,
+    "name": "KRESSARE",
+    "longitude": 022.5152778,
+    "frequency": 1124000,
+    "latitude": 58.2283333,
+    "identifier": "KRS",
+    "slavedVariation": 7.0
   }
 ]
