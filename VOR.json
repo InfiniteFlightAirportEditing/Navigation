@@ -930,12 +930,12 @@
     "slavedVariation": 2.0
   },
   {
-    "receptionRange": 130,
+    "receptionRange": 40,
     "elevation": 1,
     "name": "AMSTERDAM",
-    "longitude": 4.749883333,
-    "frequency": 1084000,
-    "latitude": 52.332144444,
+    "longitude": 4.705658333,
+    "frequency": 1139500,
+    "latitude": 52.332641667,
     "identifier": "AMS",
     "slavedVariation": 0.0
   },
@@ -6003,9 +6003,9 @@
     "receptionRange": 130,
     "elevation": 42,
     "name": "COSTA",
-    "longitude": 51.348055556,
+    "longitude": 3.355277778,
     "frequency": 1100500,
-    "latitude": 3.355277778,
+    "latitude": 51.348055556,
     "identifier": "COA",
     "slavedVariation": 14.0
   },
@@ -7503,11 +7503,11 @@
     "receptionRange": 130,
     "elevation": 200,
     "name": "DUBLIN",
-    "longitude": 53.499388889,
+    "longitude": -6.307111111,
     "frequency": 1149000,
-    "latitude": -6.307111111,
+    "latitude": 53.499388889,
     "identifier": "DUB",
-    "slavedVariation": 355.0
+    "slavedVariation": -4.000
   },
   {
     "receptionRange": 130,
@@ -21517,7 +21517,7 @@
     "frequency": 1178000,
     "latitude": 52.334761111,
     "identifier": "PAM",
-    "slavedVariation": -2.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 130,
@@ -25657,7 +25657,7 @@
     "frequency": 1084000,
     "latitude": 52.332144444,
     "identifier": "SPL",
-    "slavedVariation": 0.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 40,
