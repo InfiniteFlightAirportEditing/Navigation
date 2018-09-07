@@ -433,11 +433,11 @@
     "receptionRange": 130,
     "elevation": 2100,
     "name": "AKUREYRI",
-    "longitude": -18.00411034,
+    "longitude": -18.004111111,
     "frequency": 1136000,
-    "latitude": 65.75980377,
+    "latitude": 65.759805556,
     "identifier": "AKI",
-    "slavedVariation": 346.0
+    "slavedVariation": -12.0
   },
   {
     "receptionRange": 130,
@@ -12510,14 +12510,14 @@
     "slavedVariation": 3.0
   },
   {
-    "receptionRange": 130,
+    "receptionRange": 40,
     "elevation": 200,
     "name": "INGO",
-    "longitude": -16.6380558,
+    "longitude": -16.638055556,
     "frequency": 1124000,
-    "latitude": 63.80305481,
+    "latitude": 63.803055556,
     "identifier": "ING",
-    "slavedVariation": 347.0
+    "slavedVariation": -13.0
   },
   {
     "receptionRange": 40,
