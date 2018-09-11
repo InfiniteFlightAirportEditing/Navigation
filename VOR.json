@@ -4693,11 +4693,11 @@
     "receptionRange": 60,
     "elevation": 661,
     "name": "CASCAIS",
-    "longitude": -9.36202812,
+    "longitude": -9.362027778,
     "frequency": 1143000,
-    "latitude": 38.74824905,
+    "latitude": 38.74825,
     "identifier": "CAS",
-    "slavedVariation": 356.0
+    "slavedVariation": -4.0
   },
   {
     "receptionRange": 45,
@@ -8431,6 +8431,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 591,
+    "name": "ESPICHEL",
+    "longitude": -9.185666667,
+    "frequency": 1125000,
+    "latitude": 38.424138889,
+    "identifier": "ESP",
+    "slavedVariation": 0.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 460,
     "name": "ESPERANCE",
     "longitude": 121.82389069,
@@ -8681,13 +8691,13 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 50,
+    "elevation": 100,
     "name": "FARO",
-    "longitude": -7.97500801,
+    "longitude": -7.975,
     "frequency": 1128000,
-    "latitude": 37.0135231,
+    "latitude": 37.013527778,
     "identifier": "VFA",
-    "slavedVariation": 356.0
+    "slavedVariation": -3.0
   },
   {
     "receptionRange": 130,
@@ -8700,14 +8710,14 @@
     "slavedVariation": 350.6
   },
   {
-    "receptionRange": 60,
-    "elevation": 686,
+    "receptionRange": 130,
+    "elevation": 700,
     "name": "FATIMA",
-    "longitude": -8.49321365,
+    "longitude": -8.492638889,
     "frequency": 1135000,
-    "latitude": 39.66607666,
+    "latitude": 39.665694444,
     "identifier": "FTM",
-    "slavedVariation": 355.0
+    "slavedVariation": -3.0
   },
   {
     "receptionRange": 40,
@@ -8901,13 +8911,13 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 2358,
+    "elevation": 2800,
     "name": "FLORES",
-    "longitude": -31.21041679,
+    "longitude": -31.210416667,
     "frequency": 1133000,
-    "latitude": 39.45359039,
+    "latitude": 39.453583333,
     "identifier": "FRS",
-    "slavedVariation": 347.6
+    "slavedVariation": -13.0
   },
   {
     "receptionRange": 150,
@@ -9368,6 +9378,16 @@
     "latitude": -21.24416733,
     "identifier": "TBU",
     "slavedVariation": 13.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 1,
+    "name": "FUERTEVENTURA",
+    "longitude": -13.8645,
+    "frequency": 1141000,
+    "latitude": 28.430777778,
+    "identifier": "FTV",
+    "slavedVariation": -4.0
   },
   {
     "receptionRange": 130,
@@ -10400,24 +10420,24 @@
     "slavedVariation": 3.0
   },
   {
-    "receptionRange": 45,
-    "elevation": 758,
-    "name": "GRAN",
-    "longitude": -15.4289856,
+    "receptionRange": 130,
+    "elevation": 787,
+    "name": "GRAN CANARIA",
+    "longitude": -15.429,
     "frequency": 1129000,
-    "latitude": 28.07708168,
+    "latitude": 28.077083333,
     "identifier": "GDV",
-    "slavedVariation": 353.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 130,
-    "elevation": 148,
-    "name": "GRAN",
-    "longitude": -15.43224716,
+    "elevation": 197,
+    "name": "GRAN CANARIA SOUTH",
+    "longitude": -15.43225,
     "frequency": 1150000,
-    "latitude": 27.82853317,
+    "latitude": 27.828527778,
     "identifier": "LPC",
-    "slavedVariation": 353.0
+    "slavedVariation": -5.0
   },
   {
     "receptionRange": 130,
@@ -15190,14 +15210,14 @@
     "slavedVariation": 353.0
   },
   {
-    "receptionRange": 25,
-    "elevation": 741,
-    "name": "LA",
-    "longitude": -17.21487427,
+    "receptionRange": 40,
+    "elevation": 787,
+    "name": "LA GOMERA",
+    "longitude": -17.214888889,
     "frequency": 1160000,
-    "latitude": 28.02874184,
+    "latitude": 28.02875,
     "identifier": "LGM",
-    "slavedVariation": 353.1
+    "slavedVariation": -6.0
   },
   {
     "receptionRange": 130,
@@ -15451,13 +15471,13 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 255,
+    "elevation": 0,
     "name": "LAJES",
-    "longitude": -27.10438919,
+    "longitude": -27.104388889,
     "frequency": 1123000,
-    "latitude": 38.78394318,
+    "latitude": 38.783916667,
     "identifier": "LM",
-    "slavedVariation": 346.0
+    "slavedVariation": -12.0
   },
   {
     "receptionRange": 25,
@@ -15660,24 +15680,24 @@
     "slavedVariation": 355.0
   },
   {
-    "receptionRange": 40,
-    "elevation": 121,
-    "name": "LANZAROTE",
-    "longitude": -13.61643314,
+    "receptionRange": 130,
+    "elevation": 98,
+    "name": "LANZAROTE AEROPUERTO",
+    "longitude": -13.601333333,
     "frequency": 1144000,
-    "latitude": 28.94187737,
+    "latitude": 28.948194444,
     "identifier": "LTE",
-    "slavedVariation": 353.0
+    "slavedVariation": -4.0
   },
   {
     "receptionRange": 130,
     "elevation": 1768,
     "name": "LANZAROTE",
-    "longitude": -13.51072502,
+    "longitude": -13.510694444,
     "frequency": 1152000,
-    "latitude": 29.16600227,
+    "latitude": 29.166,
     "identifier": "LZR",
-    "slavedVariation": 353.0
+    "slavedVariation": -4.0
   },
   {
     "receptionRange": 130,
@@ -16310,14 +16330,14 @@
     "slavedVariation": 359.0
   },
   {
-    "receptionRange": 80,
-    "elevation": 1142,
-    "name": "LISBOA",
-    "longitude": -9.1627779,
+    "receptionRange": 130,
+    "elevation": 1100,
+    "name": "LISBON",
+    "longitude": -9.162805556,
     "frequency": 1148000,
-    "latitude": 38.88944244,
+    "latitude": 38.887750000,
     "identifier": "LIS",
-    "slavedVariation": 355.0
+    "slavedVariation": -3.0
   },
   {
     "receptionRange": 40,
@@ -16550,14 +16570,14 @@
     "slavedVariation": 1.0
   },
   {
-    "receptionRange": 25,
-    "elevation": 2079,
-    "name": "LRO",
-    "longitude": -16.35153389,
+    "receptionRange": 40,
+    "elevation": 2067,
+    "name": "TENERIFE-LOS RODEOS",
+    "longitude": -16.351555556,
     "frequency": 1162000,
-    "latitude": 28.48488617,
+    "latitude": 28.484916667,
     "identifier": "LRO",
-    "slavedVariation": 352.0
+    "slavedVariation": -5.0
   },
   {
     "receptionRange": 150,
@@ -16961,13 +16981,13 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 504,
-    "name": "MADEIRA",
-    "longitude": -16.70568657,
+    "elevation": 500,
+    "name": "FUNCHAL",
+    "longitude": -16.705444444,
     "frequency": 1122000,
-    "latitude": 32.74703979,
+    "latitude": 32.747166667,
     "identifier": "FUN",
-    "slavedVariation": 353.4
+    "slavedVariation": -5.00
   },
   {
     "receptionRange": 40,
@@ -20401,13 +20421,13 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 1341,
+    "elevation": 1300,
     "name": "NISA",
-    "longitude": -7.91472197,
+    "longitude": -7.914611111,
     "frequency": 1155000,
-    "latitude": 39.56472015,
+    "latitude": 39.564666667,
     "identifier": "NSA",
-    "slavedVariation": 356.4
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 80,
@@ -22861,11 +22881,11 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 367,
-    "name": "PORTO",
-    "longitude": -16.35055542,
+    "elevation": 400,
+    "name": "PORTO SANTO",
+    "longitude": -16.350638889,
     "frequency": 1149000,
-    "latitude": 33.09027863,
+    "latitude": 33.090416667,
     "identifier": "SNT",
     "slavedVariation": 352.0
   },
@@ -22888,6 +22908,16 @@
     "latitude": -22.71533394,
     "identifier": "PCX",
     "slavedVariation": 339.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 200,
+    "name": "PORTO",
+    "longitude": -8.687833333,
+    "frequency": 1141000,
+    "latitude": 41.273000000,
+    "identifier": "PRT",
+    "slavedVariation": -3.0
   },
   {
     "receptionRange": 130,
@@ -24640,14 +24670,14 @@
     "slavedVariation": 357.0
   },
   {
-    "receptionRange": 500,
+    "receptionRange": 130,
     "elevation": 500,
     "name": "SAGRES",
-    "longitude": -8.9463892,
+    "longitude": -8.946388889,
     "frequency": 1139000,
-    "latitude": 37.08388901,
+    "latitude": 37.083888889,
     "identifier": "SGR",
-    "slavedVariation": 356.2
+    "slavedVariation": -3.0
   },
   {
     "receptionRange": 130,
@@ -25301,28 +25331,28 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 24,
-    "name": "SANTA",
-    "longitude": -25.16638947,
-    "frequency": 1137000,
-    "latitude": 36.96277618,
+    "elevation": 300,
+    "name": "SANTA MARIA",
+    "longitude": -25.166388889,
+    "frequency": 1120000,
+    "latitude": 36.962916667,
     "identifier": "VSM",
     "slavedVariation": 350.1
   },
   {
-    "receptionRange": 200,
-    "elevation": 287,
-    "name": "SANTA",
-    "longitude": -53.71316528,
+    "receptionRange": 125,
+    "elevation": 300,
+    "name": "SANTA MARIA",
+    "longitude": -53.712744444,
     "frequency": 1120000,
-    "latitude": -29.70999908,
+    "latitude": -29.709761111,
     "identifier": "SMA",
-    "slavedVariation": 348.0
+    "slavedVariation": -15.0
   },
   {
     "receptionRange": 100,
     "elevation": 34,
-    "name": "SANTA",
+    "name": "SANTA MARTA",
     "longitude": -74.23836517,
     "frequency": 1166000,
     "latitude": 10.96453857,
@@ -25332,7 +25362,7 @@
   {
     "receptionRange": 130,
     "elevation": 2021,
-    "name": "SANTA",
+    "name": "SANTA ROSA DE CONLARA",
     "longitude": -65.18333435,
     "frequency": 1175000,
     "latitude": -32.37361145,
@@ -25342,7 +25372,7 @@
   {
     "receptionRange": 189,
     "elevation": 630,
-    "name": "SANTA",
+    "name": "SANTA ROSA",
     "longitude": -64.27283478,
     "frequency": 1125000,
     "latitude": -36.58372116,
@@ -25351,8 +25381,8 @@
   },
   {
     "receptionRange": 40,
-    "elevation": 121,
-    "name": "SANTA",
+    "elevation": 117,
+    "name": "SANTA ROSA",
     "longitude": -122.81060791,
     "frequency": 1130000,
     "latitude": 38.50819397,
@@ -25481,13 +25511,23 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 2789,
-    "name": "SAO",
-    "longitude": -25.75805664,
-    "frequency": 1145000,
-    "latitude": 37.8461113,
+    "elevation": 2800,
+    "name": "SAO MIGUEL",
+    "longitude": -25.758138889,
+    "frequency": 1112000,
+    "latitude": 37.846,
     "identifier": "VMG",
-    "slavedVariation": 349.8
+    "slavedVariation": -8.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 2953,
+    "name": "SAO JORGE",
+    "longitude": -28.135555556,
+    "frequency": 1130000,
+    "latitude": 38.679444444,
+    "identifier": "VAP",
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 100,
@@ -27981,23 +28021,23 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 3360,
-    "name": "TENERIFE",
-    "longitude": -16.26878357,
+    "elevation": 3346,
+    "name": "TENERIFE-NORTH",
+    "longitude": -16.268777778,
     "frequency": 1177000,
-    "latitude": 28.5368309,
+    "latitude": 28.536833333,
     "identifier": "TFN",
-    "slavedVariation": 352.0
+    "slavedVariation": -5.0
   },
   {
-    "receptionRange": 25,
-    "elevation": 115,
-    "name": "TENERIFE",
-    "longitude": -16.68792725,
+    "receptionRange": 130,
+    "elevation": 98,
+    "name": "TENERIFE-SOUTH",
+    "longitude": -16.687916667,
     "frequency": 1164000,
-    "latitude": 28.00244713,
+    "latitude": 28.002444444,
     "identifier": "TFS",
-    "slavedVariation": 353.0
+    "slavedVariation": -5.0
   },
   {
     "receptionRange": 130,
@@ -29928,6 +29968,16 @@
     "latitude": 36.36730576,
     "identifier": "VIS",
     "slavedVariation": 16.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 2102,
+    "name": "VISEU",
+    "longitude": -7.885833333,
+    "frequency": 1094000,
+    "latitude": 40.723416667,
+    "identifier": "VIS",
+    "slavedVariation": -3.0
   },
   {
     "receptionRange": 130,
