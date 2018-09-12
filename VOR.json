@@ -1,15 +1,5 @@
 [
   {
-    "receptionRange": 100,
-    "elevation": 57,
-    "name": "AALBORG",
-    "longitude": 9.99557781,
-    "frequency": 1167000,
-    "latitude": 57.1037178,
-    "identifier": "AAL",
-    "slavedVariation": 1.0
-  },
-  {
     "receptionRange": 130,
     "elevation": 10,
     "name": "ABADAN",
@@ -30,14 +20,14 @@
     "slavedVariation": 5.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 223,
+    "receptionRange": 130,
+    "elevation": 220,
     "name": "ABBEVILLE",
-    "longitude": 1.85469401,
+    "longitude": 1.854694444,
     "frequency": 1084500,
-    "latitude": 50.13513947,
+    "latitude": 50.135138889,
     "identifier": "ABB",
-    "slavedVariation": 357.0
+    "slavedVariation": -1.0
   },
   {
     "receptionRange": 130,
@@ -310,14 +300,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 120,
+    "receptionRange": 130,
     "elevation": 896,
-    "name": "AGEN-Gaudonville",
-    "longitude": 0.87286103,
+    "name": "AGEN",
+    "longitude": 0.872861111,
     "frequency": 1148000,
-    "latitude": 43.88802719,
+    "latitude": 43.888027778,
     "identifier": "AGN",
-    "slavedVariation": 358.0
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 40,
@@ -370,12 +360,12 @@
     "slavedVariation": 3.0
   },
   {
-    "receptionRange": 200,
+    "receptionRange": 130,
     "elevation": 2142,
     "name": "AJACCIO",
-    "longitude": 8.77466679,
+    "longitude": 8.774666667,
     "frequency": 1148000,
-    "latitude": 41.77052689,
+    "latitude": 41.770527778,
     "identifier": "AJO",
     "slavedVariation": 0.0
   },
@@ -870,12 +860,12 @@
     "slavedVariation": 356.0
   },
   {
-    "receptionRange": 120,
+    "receptionRange": 130,
     "elevation": 387,
     "name": "AMBOISE",
-    "longitude": 1.06444395,
+    "longitude": 1.064444444,
     "frequency": 1137000,
-    "latitude": 47.42891693,
+    "latitude": 47.428916667,
     "identifier": "AMB",
     "slavedVariation": 357.0
   },
@@ -1020,14 +1010,14 @@
     "slavedVariation": 350.0
   },
   {
-    "receptionRange": 120,
-    "elevation": 304,
+    "receptionRange": 130,
+    "elevation": 0,
     "name": "ANGERS",
-    "longitude": -0.85183299,
+    "longitude": -0.851833333,
     "frequency": 1130000,
-    "latitude": 47.53686142,
+    "latitude": 47.536861111,
     "identifier": "ANG",
-    "slavedVariation": 357.0
+    "slavedVariation": -3.0
   },
   {
     "receptionRange": 130,
@@ -1480,14 +1470,14 @@
     "slavedVariation": 16.0
   },
   {
-    "receptionRange": 60,
+    "receptionRange": 130,
     "elevation": 159,
     "name": "AVIGNON",
-    "longitude": 4.74638891,
+    "longitude": 4.746388889,
     "frequency": 1146000,
-    "latitude": 43.99536133,
+    "latitude": 43.995361111,
     "identifier": "AVN",
-    "slavedVariation": 358.0
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 25,
@@ -1790,14 +1780,14 @@
     "slavedVariation": 354.8
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 886,
     "name": "BALE-MULHOUSE",
-    "longitude": 7.4994998,
+    "longitude": 7.4995,
     "frequency": 1174500,
-    "latitude": 47.63280487,
+    "latitude": 47.632805556,
     "identifier": "BLM",
-    "slavedVariation": 0.0
+    "slavedVariation": 2.0
   },
   {
     "receptionRange": 130,
@@ -2220,12 +2210,12 @@
     "slavedVariation": 4.1
   },
   {
-    "receptionRange": 80,
+    "receptionRange": 130,
     "elevation": 36,
-    "name": "BASTIA",
-    "longitude": 9.47458839,
+    "name": "BASTIA PORETTA",
+    "longitude": 9.474833333,
     "frequency": 1141500,
-    "latitude": 42.57369232,
+    "latitude": 42.573583333,
     "identifier": "BTA",
     "slavedVariation": 0.0
   },
@@ -2380,12 +2370,12 @@
     "slavedVariation": 7.0
   },
   {
-    "receptionRange": 50,
+    "receptionRange": 40,
     "elevation": 0,
     "name": "BEAUVAIS",
-    "longitude": 2.15319395,
+    "longitude": 2.153194444,
     "frequency": 1159000,
-    "latitude": 49.43635941,
+    "latitude": 49.436361111,
     "identifier": "BVS",
     "slavedVariation": 0.0
   },
@@ -2730,14 +2720,14 @@
     "slavedVariation": 3.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 276,
-    "name": "BIARRITZ",
-    "longitude": -1.51027799,
+    "name": "BIARRITZ PAYS BASQUE",
+    "longitude": -1.510277778,
     "frequency": 1141500,
-    "latitude": 43.46664047,
+    "latitude": 43.466638889,
     "identifier": "BTZ",
-    "slavedVariation": 357.0
+    "slavedVariation": -1.0
   },
   {
     "receptionRange": 40,
@@ -3230,14 +3220,14 @@
     "slavedVariation": 342.0
   },
   {
-    "receptionRange": 150,
+    "receptionRange": 130,
     "elevation": 210,
     "name": "BORDEAUX",
-    "longitude": -0.721111,
+    "longitude": -0.721111111,
     "frequency": 1137500,
-    "latitude": 44.82694244,
+    "latitude": 44.826944444,
     "identifier": "BMC",
-    "slavedVariation": 358.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 100,
@@ -3310,14 +3300,14 @@
     "slavedVariation": 344.0
   },
   {
-    "receptionRange": 70,
-    "elevation": 584,
-    "name": "BOULOGNE",
-    "longitude": 1.90711105,
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "BOULOGNE SUR MER",
+    "longitude": 1.907111111,
     "frequency": 1138000,
-    "latitude": 50.62477875,
+    "latitude": 50.624777778,
     "identifier": "BNE",
-    "slavedVariation": 357.0
+    "slavedVariation": -3.0
   },
   {
     "receptionRange": 60,
@@ -3460,12 +3450,12 @@
     "slavedVariation": 3.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 25,
     "elevation": 289,
-    "name": "BRAY",
-    "longitude": 3.29477811,
+    "name": "BRAY SUR SEINE",
+    "longitude": 3.294777778,
     "frequency": 1141000,
-    "latitude": 48.4070015,
+    "latitude": 48.407,
     "identifier": "BRY",
     "slavedVariation": 358.0
   },
@@ -4080,14 +4070,14 @@
     "slavedVariation": 343.0
   },
   {
-    "receptionRange": 80,
-    "elevation": 275,
-    "name": "CAEN",
-    "longitude": -0.45527777,
+    "receptionRange": 130,
+    "elevation": 269,
+    "name": "CAEN CARPIQUET",
+    "longitude": -0.455277778,
     "frequency": 1144500,
-    "latitude": 49.17319489,
+    "latitude": 49.173194444,
     "identifier": "CAN",
-    "slavedVariation": 356.0
+    "slavedVariation": -1.0
   },
   {
     "receptionRange": 50,
@@ -4110,14 +4100,14 @@
     "slavedVariation": 1.0
   },
   {
-    "receptionRange": 40,
-    "elevation": 13,
-    "name": "CAGNES",
-    "longitude": 7.14591694,
+    "receptionRange": 25,
+    "elevation": 36,
+    "name": "CAGNES-SUR-MER",
+    "longitude": 7.145916667,
     "frequency": 1092000,
-    "latitude": 43.64524841,
+    "latitude": 43.64525,
     "identifier": "CGS",
-    "slavedVariation": 0.0
+    "slavedVariation": 2.0
   },
   {
     "receptionRange": 130,
@@ -4310,14 +4300,14 @@
     "slavedVariation": 353.7
   },
   {
-    "receptionRange": 80,
+    "receptionRange": 130,
     "elevation": 299,
-    "name": "CAMBRAI",
-    "longitude": 3.15149999,
+    "name": "CAMBRAI EPINOY",
+    "longitude": 3.1515,
     "frequency": 1126000,
-    "latitude": 50.22813797,
+    "latitude": 50.228138889,
     "identifier": "CMB",
-    "slavedVariation": 357.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 40,
@@ -4430,14 +4420,14 @@
     "slavedVariation": 2.0
   },
   {
-    "receptionRange": 60,
+    "receptionRange": 125,
     "elevation": 0,
-    "name": "CANNES-Tanneron",
-    "longitude": 6.87094402,
+    "name": "CANNES",
+    "longitude": 6.870944444,
     "frequency": 1114000,
-    "latitude": 43.56035995,
+    "latitude": 43.560361111,
     "identifier": "CNM",
-    "slavedVariation": 359.0
+    "slavedVariation": 2.0
   },
   {
     "receptionRange": 130,
@@ -4931,11 +4921,21 @@
   },
   {
     "receptionRange": 40,
+    "elevation": 561,
+    "name": "CHALONS",
+    "longitude": 4.146944444,
+    "frequency": 1116500,
+    "latitude": 48.781083333,
+    "identifier": "CAV",
+    "slavedVariation": 1.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 4783,
     "name": "CHAMBERY",
-    "longitude": 5.7573061,
+    "longitude": 5.757305556,
     "frequency": 1154000,
-    "latitude": 45.88188934,
+    "latitude": 45.881888889,
     "identifier": "CBY",
     "slavedVariation": 0.0
   },
@@ -5070,34 +5070,34 @@
     "slavedVariation": 342.0
   },
   {
-    "receptionRange": 180,
+    "receptionRange": 130,
     "elevation": 732,
     "name": "CHARTRES",
-    "longitude": 0.98705602,
+    "longitude": 0.987055556,
     "frequency": 1152000,
-    "latitude": 48.47999954,
+    "latitude": 48.48,
     "identifier": "CHW",
-    "slavedVariation": 357.0
+    "slavedVariation": -1.6
   },
   {
-    "receptionRange": 40,
-    "elevation": 450,
+    "receptionRange": 130,
+    "elevation": 456,
     "name": "CHATEAUDUN",
-    "longitude": 1.38708329,
+    "longitude": 1.387083333,
     "frequency": 1159500,
-    "latitude": 48.05916595,
+    "latitude": 48.059166667,
     "identifier": "CAD",
-    "slavedVariation": 357.0
+    "slavedVariation": -0.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 673,
-    "name": "CHATILLON",
-    "longitude": 3.57769394,
+    "name": "CHATILLON SUR MARNE",
+    "longitude": 3.577694444,
     "frequency": 1176000,
-    "latitude": 49.13774872,
+    "latitude": 49.13775,
     "identifier": "CTL",
-    "slavedVariation": 357.0
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 75,
@@ -5550,14 +5550,14 @@
     "slavedVariation": 359.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 1093,
-    "name": "CLERMONT",
-    "longitude": 3.19219398,
+    "name": "CLERMONT FERRAND AUVERGNE",
+    "longitude": 3.192194444,
     "frequency": 1143500,
-    "latitude": 45.78747177,
+    "latitude": 45.787472222,
     "identifier": "CFA",
-    "slavedVariation": 0.0
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 130,
@@ -5668,6 +5668,16 @@
     "latitude": 36.37291718,
     "identifier": "CVI",
     "slavedVariation": 351.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 78,
+    "name": "COGNAC CHATEAUBERNARD",
+    "longitude": -0.311638889,
+    "frequency": 1146500,
+    "latitude": 45.659555556,
+    "identifier": "CNA",
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 130,
@@ -6040,14 +6050,14 @@
     "slavedVariation": 356.2
   },
   {
-    "receptionRange": 60,
+    "receptionRange": 130,
     "elevation": 486,
     "name": "COULOMMIERS",
-    "longitude": 3.01386094,
+    "longitude": 3.013861111,
     "frequency": 1129000,
-    "latitude": 48.84463882,
+    "latitude": 48.844638889,
     "identifier": "CLM",
-    "slavedVariation": 0.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 130,
@@ -6138,6 +6148,16 @@
     "latitude": 43.99972153,
     "identifier": "CZI",
     "slavedVariation": 13.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 653,
+    "name": "CREIL",
+    "longitude": 2.514777778,
+    "frequency": 1092000,
+    "latitude": 49.255277778,
+    "identifier": "CRL",
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 40,
@@ -6750,14 +6770,14 @@
     "slavedVariation": 23.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 497,
-    "name": "DEAUVILLE",
-    "longitude": 0.312722,
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "DEAUVILLE NORMANDIE",
+    "longitude": 0.312722222,
     "frequency": 1102000,
-    "latitude": 49.31074905,
+    "latitude": 49.31075,
     "identifier": "DVL",
-    "slavedVariation": 357.0
+    "slavedVariation": -1.0
   },
   {
     "receptionRange": 40,
@@ -7040,34 +7060,34 @@
     "slavedVariation": 359.0
   },
   {
-    "receptionRange": 40,
-    "elevation": 362,
+    "receptionRange": 130,
+    "elevation": 0,
     "name": "DIEPPE",
-    "longitude": 1.17063904,
+    "longitude": 1.170638889,
     "frequency": 1158000,
-    "latitude": 49.92538834,
+    "latitude": 49.925388889,
     "identifier": "DPE",
-    "slavedVariation": 357.0
+    "slavedVariation": 0.0
   },
   {
-    "receptionRange": 150,
-    "elevation": 3027,
+    "receptionRange": 130,
+    "elevation": 0,
     "name": "DIGNE",
-    "longitude": 6.10083294,
+    "longitude": 6.100833333,
     "frequency": 1138500,
-    "latitude": 43.99139023,
+    "latitude": 43.991388889,
     "identifier": "DGN",
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 726,
-    "name": "DIJON-LONGVIC",
-    "longitude": 5.09733295,
+    "receptionRange": 130,
+    "elevation": 744,
+    "name": "DIJON LONGVIC",
+    "longitude": 5.097333333,
     "frequency": 1114500,
-    "latitude": 47.27077866,
+    "latitude": 47.270777778,
     "identifier": "DJL",
-    "slavedVariation": 0.0
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 130,
@@ -7110,14 +7130,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 80,
+    "receptionRange": 130,
     "elevation": 213,
-    "name": "DINARD",
-    "longitude": -2.08232903,
+    "name": "DINARD PLEURTUIT SAINT MA",
+    "longitude": -2.082333333,
     "frequency": 1143000,
-    "latitude": 48.58605576,
+    "latitude": 48.586055556,
     "identifier": "DIN",
-    "slavedVariation": 0.0
+    "slavedVariation": -1.0
   },
   {
     "receptionRange": 60,
@@ -8260,14 +8280,14 @@
     "slavedVariation": 357.5
   },
   {
-    "receptionRange": 60,
+    "receptionRange": 130,
     "elevation": 604,
     "name": "EPERNON",
-    "longitude": 1.65655601,
+    "longitude": 1.656555556,
     "frequency": 1156500,
-    "latitude": 48.62569427,
+    "latitude": 48.625694444,
     "identifier": "EPR",
-    "slavedVariation": 0.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 130,
@@ -8280,12 +8300,12 @@
     "slavedVariation": 21.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 1154,
-    "name": "EPINAL",
-    "longitude": 6.05941677,
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "EPINAL MIRECOURT",
+    "longitude": 6.059416667,
     "frequency": 1130000,
-    "latitude": 48.31783295,
+    "latitude": 48.317833333,
     "identifier": "EPL",
     "slavedVariation": 359.0
   },
@@ -8780,12 +8800,12 @@
     "slavedVariation": 339.2
   },
   {
-    "receptionRange": 40,
-    "elevation": 87,
+    "receptionRange": 25,
+    "elevation": 144,
     "name": "FIGARI",
-    "longitude": 9.08341694,
+    "longitude": 9.083416667,
     "frequency": 1167000,
-    "latitude": 41.50219345,
+    "latitude": 41.502194444,
     "identifier": "FGI",
     "slavedVariation": 0.0
   },
@@ -9540,14 +9560,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 979,
-    "name": "GAILLAC-Castelneau",
-    "longitude": 1.82416701,
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "GAILLAC",
+    "longitude": 1.824166667,
     "frequency": 1158000,
-    "latitude": 43.95405579,
+    "latitude": 43.954055556,
     "identifier": "GAI",
-    "slavedVariation": 358.0
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 130,
@@ -10790,14 +10810,14 @@
     "slavedVariation": 349.5
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 1057,
     "name": "GROSTENQUIN",
     "longitude": 6.71622181,
     "frequency": 1112500,
     "latitude": 48.98644257,
     "identifier": "GTQ",
-    "slavedVariation": 359.0
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 25,
@@ -12780,14 +12800,14 @@
     "slavedVariation": 2.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 85,
-    "name": "ISTRES",
-    "longitude": 4.94000006,
+    "receptionRange": 130,
+    "elevation": 82,
+    "name": "ISTRES LE TUBE",
+    "longitude": 4.94,
     "frequency": 1127000,
-    "latitude": 43.50019455,
+    "latitude": 43.500194444,
     "identifier": "ITS",
-    "slavedVariation": 0.0
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 40, 
@@ -15130,14 +15150,14 @@
     "slavedVariation": 5.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 971,
-    "name": "L",
-    "longitude": 0.53027803,
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "L'AIGLE",
+    "longitude": 0.530277778,
     "frequency": 1150000,
-    "latitude": 48.79061127,
+    "latitude": 48.790611111,
     "identifier": "LGL",
-    "slavedVariation": 357.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 130,
@@ -15160,14 +15180,14 @@
     "slavedVariation": 1.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 901,
-    "name": "LA",
-    "longitude": 2.1495831,
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "LA CHATRE",
+    "longitude": 2.149583333,
     "frequency": 1121000,
-    "latitude": 46.69141769,
+    "latitude": 46.691416667,
     "identifier": "LCA",
-    "slavedVariation": 357.0
+    "slavedVariation": -2.0
   },
   {
     "receptionRange": 130,
@@ -15340,14 +15360,14 @@
     "slavedVariation": 13.0
   },
   {
-    "receptionRange": 80,
+    "receptionRange": 130,
     "elevation": 2165,
-    "name": "LA",
-    "longitude": 5.43905592,
+    "name": "LA TOUR DU PIN",
+    "longitude": 5.439055556,
     "frequency": 1155500,
-    "latitude": 45.48897171,
+    "latitude": 45.488972222,
     "identifier": "LTP",
-    "slavedVariation": 359.0
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 200,
@@ -15850,14 +15870,24 @@
     "slavedVariation": 9.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 266,
-    "name": "LE",
-    "longitude": 6.25591707,
+    "receptionRange": 130,
+    "elevation": 265,
+    "name": "LE LUC LE CANNET",
+    "longitude": 6.255916667,
     "frequency": 1130000,
-    "latitude": 43.38277817,
+    "latitude": 43.382777778,
     "identifier": "LUC",
-    "slavedVariation": 0.0
+    "slavedVariation": 1.0
+  },
+  {
+    "receptionRange": 40,
+    "elevation": 200,
+    "name": "LE BOURGET",
+    "longitude": 2.455166667,
+    "frequency": 1161000,
+    "latitude": 48.974666667,
+    "identifier": "BT",
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 40,
@@ -15950,14 +15980,14 @@
     "slavedVariation": 1.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 980,
+    "receptionRange": 130,
+    "elevation": 0,
     "name": "LEMBEYE",
-    "longitude": -0.017667,
+    "longitude": -0.018416667,
     "frequency": 1118000,
-    "latitude": 43.46666718,
+    "latitude": 43.466666667,
     "identifier": "LMB",
-    "slavedVariation": 359.0
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 25,
@@ -16211,13 +16241,13 @@
   },
   {
     "receptionRange": 40,
-    "elevation": 175,
-    "name": "LILLE",
-    "longitude": 3.08916712,
+    "elevation": 163,
+    "name": "LILLE LESQUIN",
+    "longitude": 3.089166667,
     "frequency": 1090000,
-    "latitude": 50.56177902,
+    "latitude": 50.561777778,
     "identifier": "LEQ",
-    "slavedVariation": 0.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 80,
@@ -16250,14 +16280,14 @@
     "slavedVariation": 2.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 1375,
     "name": "LIMOGES",
-    "longitude": 1.02558303,
+    "longitude": 1.025583333,
     "frequency": 1145000,
-    "latitude": 45.81591797,
+    "latitude": 45.815916667,
     "identifier": "LMG",
-    "slavedVariation": 357.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 130,
@@ -16770,12 +16800,12 @@
     "slavedVariation": 354.2
   },
   {
-    "receptionRange": 80,
-    "elevation": 1072,
+    "receptionRange": 130,
+    "elevation": 0,
     "name": "LUXEUIL",
-    "longitude": 6.29558277,
+    "longitude": 6.295583333,
     "frequency": 1171000,
-    "latitude": 47.6882782,
+    "latitude": 47.688277778,
     "identifier": "LUL",
     "slavedVariation": 359.0
   },
@@ -16818,6 +16848,16 @@
     "latitude": 50.9996861,
     "identifier": "LYD",
     "slavedVariation": 357.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 820,
+    "name": "LYON SAINT EXUPERY",
+    "longitude": 5.090583333,
+    "frequency": 1147500,
+    "latitude": 45.745527778,
+    "identifier": "LSE",
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 40,
@@ -17680,13 +17720,23 @@
     "slavedVariation": 354.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 771,
-    "name": "MARSEILLE",
-    "longitude": 5.32644415,
+    "name": "MARSEILLE PROVENCE",
+    "longitude": 5.326444444,
     "frequency": 1088000,
-    "latitude": 43.37733459,
+    "latitude": 43.377333333,
     "identifier": "MRM",
+    "slavedVariation": 1.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 220,
+    "name": "MARSAN",
+    "longitude": -70.6127243,
+    "frequency": 1116500,
+    "latitude": 41.39622116,
+    "identifier": "LGH",
     "slavedVariation": 0.0
   },
   {
@@ -17700,14 +17750,14 @@
     "slavedVariation": 345.0
   },
   {
-    "receptionRange": 200,
+    "receptionRange": 130,
     "elevation": 650,
     "name": "MARTIGUES",
-    "longitude": 5.086833,
+    "longitude": 5.086833333,
     "frequency": 1173000,
-    "latitude": 43.38630676,
+    "latitude": 43.386305556,
     "identifier": "MTG",
-    "slavedVariation": 359.0
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 130,
@@ -18170,14 +18220,14 @@
     "slavedVariation": 348.2
   },
   {
-    "receptionRange": 40,
-    "elevation": 349,
-    "name": "MELUN",
-    "longitude": 2.81327796,
+    "receptionRange": 130,
+    "elevation": 350,
+    "name": "MELUN VILLAROCHE",
+    "longitude": 2.813277778,
     "frequency": 1136000,
-    "latitude": 48.45577621,
+    "latitude": 48.455777778,
     "identifier": "MLN",
-    "slavedVariation": 358.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 100,
@@ -18200,14 +18250,14 @@
     "slavedVariation": 1.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 4514,
-    "name": "MENDE-Nasbinals",
-    "longitude": 3.16241693,
+    "name": "MENDE",
+    "longitude": 3.162416667,
     "frequency": 1153000,
-    "latitude": 44.60833359,
+    "latitude": 44.608333333,
     "identifier": "MEN",
-    "slavedVariation": 358.0
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 130,
@@ -18930,14 +18980,14 @@
     "slavedVariation": 342.0
   },
   {
-    "receptionRange": 60,
+    "receptionRange": 130,
     "elevation": 0,
     "name": "MONTDIDIER",
-    "longitude": 2.48947191,
+    "longitude": 2.489472222,
     "frequency": 1136500,
-    "latitude": 49.55263901,
+    "latitude": 49.552638889,
     "identifier": "MTD",
-    "slavedVariation": 357.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 194,
@@ -18970,12 +19020,12 @@
     "slavedVariation": 355.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 656,
-    "name": "MONTELIMAR",
-    "longitude": 4.77986097,
+    "name": "MONTELIMAR ANCONE",
+    "longitude": 4.779861111,
     "frequency": 1136500,
-    "latitude": 44.55494308,
+    "latitude": 44.554944444,
     "identifier": "MTL",
     "slavedVariation": 358.0
   },
@@ -19000,14 +19050,14 @@
     "slavedVariation": 3.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 1076,
-    "name": "MONTMEDY-Dun",
-    "longitude": 5.12441683,
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "MONTMEDY",
+    "longitude": 5.124416667,
     "frequency": 1094000,
-    "latitude": 49.39125061,
+    "latitude": 49.39125,
     "identifier": "MMD",
-    "slavedVariation": 359.0
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 40,
@@ -19031,6 +19081,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 7,
+    "name": "MONTPELLIER MEDITERRANEE",
+    "longitude": 3.974722222,
+    "frequency": 1108000,
+    "latitude": 43.578361111,
+    "identifier": "FJR",
+    "slavedVariation": 0.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 200,
     "name": "MONTREAL",
     "longitude": -73.97091675,
@@ -19050,12 +19110,12 @@
     "slavedVariation": 12.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 588,
-    "name": "MONTS",
-    "longitude": -3.60247207,
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "MONTS D'ARREE",
+    "longitude": -3.602472222,
     "frequency": 1125000,
-    "latitude": 48.33263779,
+    "latitude": 48.332638889,
     "identifier": "ARE",
     "slavedVariation": 355.0
   },
@@ -19210,12 +19270,12 @@
     "slavedVariation": 3.5
   },
   {
-    "receptionRange": 80,
+    "receptionRange": 130,
     "elevation": 699,
     "name": "MOULINS",
     "longitude": 3.6316669,
     "frequency": 1167000,
-    "latitude": 46.70677948,
+    "latitude": 46.706777778,
     "identifier": "MOU",
     "slavedVariation": 358.0
   },
@@ -19700,14 +19760,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 150,
+    "receptionRange": 130,
     "elevation": 92,
-    "name": "NANTES",
-    "longitude": -1.61295605,
+    "name": "NANTES ATLANTIQUE",
+    "longitude": -1.612972222,
     "frequency": 1155000,
-    "latitude": 47.16085434,
+    "latitude": 47.160861111,
     "identifier": "NTS",
-    "slavedVariation": 0.0
+    "slavedVariation": -1.0
   },
   {
     "receptionRange": 130,
@@ -20110,14 +20170,14 @@
     "slavedVariation": 4.1
   },
   {
-    "receptionRange": 80,
-    "elevation": 631,
+    "receptionRange": 130,
+    "elevation": 0,
     "name": "NEVERS",
-    "longitude": 2.9293611,
+    "longitude": 2.929361111,
     "frequency": 1134000,
-    "latitude": 47.15299988,
+    "latitude": 47.153,
     "identifier": "NEV",
-    "slavedVariation": 357.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 40,
@@ -20320,24 +20380,24 @@
     "slavedVariation": 359.0
   },
   {
-    "receptionRange": 200,
+    "receptionRange": 130,
     "elevation": 2822,
-    "name": "NICE",
-    "longitude": 7.25438881,
+    "name": "NICE COTE D'AZUR",
+    "longitude": 7.254388889,
     "frequency": 1124000,
-    "latitude": 43.77063751,
+    "latitude": 43.770638889,
     "identifier": "NIZ",
-    "slavedVariation": 0.0
+    "slavedVariation": 2.0
   },
   {
-    "receptionRange": 200,
+    "receptionRange": 25,
     "elevation": 12,
     "name": "NICE",
-    "longitude": 7.22445011,
+    "longitude": 7.224416667,
     "frequency": 1096500,
-    "latitude": 43.6595726,
+    "latitude": 43.65972222,
     "identifier": "AZR",
-    "slavedVariation": 0.0
+    "slavedVariation": 2.0
   },
   {
     "receptionRange": 50,
@@ -21061,6 +21121,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 435,
+    "name": "ORLEANS",
+    "longitude": 1.755555556,
+    "frequency": 1173500,
+    "latitude": 47.985305556,
+    "identifier": "BCY",
+    "slavedVariation": -0.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 24,
     "name": "ORMOND",
     "longitude": -81.11269379,
@@ -21670,33 +21740,33 @@
     "slavedVariation": 343.8
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 25,
     "elevation": 348,
-    "name": "PARIS",
-    "longitude": 2.623806,
+    "name": "CHARLES-DE-GAULLE",
+    "longitude": 2.623805556,
     "frequency": 1170500,
-    "latitude": 48.99947357,
+    "latitude": 48.999472222,
     "identifier": "PGS",
-    "slavedVariation": 0.0
+    "slavedVariation": -0.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 25,
     "elevation": 385,
-    "name": "PARIS",
-    "longitude": 2.5001111,
+    "name": "CHARLES-DE-GAULLE",
+    "longitude": 2.500111111,
     "frequency": 1153500,
-    "latitude": 49.01991653,
+    "latitude": 49.019916667,
     "identifier": "CGN",
-    "slavedVariation": 0.0
+    "slavedVariation": -0.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 307,
-    "name": "PARIS",
-    "longitude": 2.38641691,
-    "frequency": 1112000,
-    "latitude": 48.72986221,
-    "identifier": "OL",
+    "receptionRange": 25,
+    "elevation": 327,
+    "name": "ORLY (PARIS)",
+    "longitude": 2.389777778,
+    "frequency": 1121500,
+    "latitude": 48.730138889,
+    "identifier": "POY",
     "slavedVariation": 0.0
   },
   {
@@ -22130,14 +22200,14 @@
     "slavedVariation": 14.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 151,
-    "name": "PERPIGNAN",
-    "longitude": 2.8671391,
+    "name": "PERPIGNAN RIVESALTES",
+    "longitude": 2.867138889,
     "frequency": 1162500,
-    "latitude": 42.75047302,
+    "latitude": 42.750472222,
     "identifier": "PPG",
-    "slavedVariation": 359.0
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 130,
@@ -22440,14 +22510,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 424,
+    "receptionRange": 130,
+    "elevation": 0,
     "name": "PITHIVIERS",
     "longitude": 2.2647779,
     "frequency": 1165000,
     "latitude": 48.15555573,
     "identifier": "PTV",
-    "slavedVariation": 357.0
+    "slavedVariation": -1.0
   },
   {
     "receptionRange": 40,
@@ -22630,14 +22700,14 @@
     "slavedVariation": 355.5
   },
   {
-    "receptionRange": 60,
+    "receptionRange": 130,
     "elevation": 441,
-    "name": "POITIERS",
-    "longitude": 0.29819399,
+    "name": "POITIERS BIARDS",
+    "longitude": 0.298194444,
     "frequency": 1133000,
-    "latitude": 46.58100128,
+    "latitude": 46.5810,
     "identifier": "POI",
-    "slavedVariation": 357.0
+    "slavedVariation": -2.0
   },
   {
     "receptionRange": 150,
@@ -22750,14 +22820,14 @@
     "slavedVariation": 357.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 318,
-    "name": "PONTOISE",
-    "longitude": 2.03588891,
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "PONTOISE CORMEILLES",
+    "longitude": 2.035888889,
     "frequency": 1116000,
-    "latitude": 49.09608459,
+    "latitude": 49.096083333,
     "identifier": "PON",
-    "slavedVariation": 0.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 130,
@@ -23480,14 +23550,14 @@
     "slavedVariation": 356.0
   },
   {
-    "receptionRange": 150,
+    "receptionRange": 130,
     "elevation": 315,
-    "name": "QUIMPER",
-    "longitude": -4.18472195,
+    "name": "QUIMPER PLUGUFFAN",
+    "longitude": -4.184722222,
     "frequency": 1178000,
-    "latitude": 47.95727921,
+    "latitude": 47.957277778,
     "identifier": "QPR",
-    "slavedVariation": 355.0
+    "slavedVariation": -2.0
   },
   {
     "receptionRange": 130,
@@ -23648,6 +23718,16 @@
     "latitude": 35.87252808,
     "identifier": "RDU",
     "slavedVariation": 356.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 604,
+    "name": "RAMBOUILLET",
+    "longitude": 1.994222222,
+    "frequency": 1147000,
+    "latitude": 48.653944444,
+    "identifier": "RBT",
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 60,
@@ -23900,12 +23980,12 @@
     "slavedVariation": 2.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 335,
+    "receptionRange": 130,
+    "elevation": 0,
     "name": "REIMS",
-    "longitude": 4.04536104,
+    "longitude": 4.045361111,
     "frequency": 1123000,
-    "latitude": 49.31163788,
+    "latitude": 49.311638889,
     "identifier": "REM",
     "slavedVariation": 358.0
   },
@@ -23930,14 +24010,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 150,
+    "receptionRange": 130,
     "elevation": 126,
-    "name": "RENNES",
-    "longitude": -1.74166703,
+    "name": "RENNES SAINT JACQUES",
+    "longitude": -1.741666667,
     "frequency": 1092500,
-    "latitude": 48.0692482,
+    "latitude": 48.06925,
     "identifier": "REN",
-    "slavedVariation": 356.0
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 40,
@@ -24210,14 +24290,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 1095,
+    "receptionRange": 130,
+    "elevation": 0,
     "name": "ROANNE",
-    "longitude": 3.99927807,
+    "longitude": 3.999277778,
     "frequency": 1102500,
-    "latitude": 46.05916595,
+    "latitude": 46.059166667,
     "identifier": "ROA",
-    "slavedVariation": 0.0
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 100,
@@ -24390,14 +24470,14 @@
     "slavedVariation": 359.0
   },
   {
-    "receptionRange": 120,
+    "receptionRange": 130,
     "elevation": 1490,
     "name": "ROLAMPONT",
-    "longitude": 5.24916697,
+    "longitude": 5.249166667,
     "frequency": 1173000,
-    "latitude": 47.90630722,
+    "latitude": 47.906305556,
     "identifier": "RLP",
-    "slavedVariation": 358.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 130,
@@ -24530,14 +24610,14 @@
     "slavedVariation": -0.0
   },
   {
-    "receptionRange": 40,
-    "elevation": 560,
-    "name": "ROUEN",
-    "longitude": 1.28063905,
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "ROUEN VALLEE DE SEINE",
+    "longitude": 1.280638889,
     "frequency": 1168000,
-    "latitude": 49.46563721,
+    "latitude": 49.465638889,
     "identifier": "ROU",
-    "slavedVariation": 0.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 50,
@@ -24730,14 +24810,14 @@
     "slavedVariation": 343.0
   },
   {
-    "receptionRange": 200,
+    "receptionRange": 130,
     "elevation": 1089,
-    "name": "SAINT",
-    "longitude": 6.60180616,
+    "name": "SAINT TROPEZ",
+    "longitude": 6.601805556,
     "frequency": 1165000,
-    "latitude": 43.21947098,
+    "latitude": 43.219472222,
     "identifier": "STP",
-    "slavedVariation": 359.0
+    "slavedVariation": 2.0
   },
   {
     "receptionRange": 130,
@@ -24828,6 +24908,16 @@
     "latitude": -2.22172213,
     "identifier": "SAV",
     "slavedVariation": 2.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 1021,
+    "name": "SAVERNE",
+    "longitude": 7.447972222,
+    "frequency": 1104500,
+    "latitude": 48.79625,
+    "identifier": "SAV",
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 150,
@@ -25638,6 +25728,16 @@
     "latitude": 37.85533524,
     "identifier": "SAU",
     "slavedVariation": 17.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "SAUVETERRE DE GUYENNE",
+    "longitude": -0.152916667,
+    "frequency": 1162000,
+    "latitude": 44.676805556,
+    "identifier": "SAU",
+    "slavedVariation": -1.5
   },
   {
     "receptionRange": 130,
@@ -27140,14 +27240,14 @@
     "slavedVariation": 3.0
   },
   {
-    "receptionRange": 150,
+    "receptionRange": 130,
     "elevation": 577,
-    "name": "STRASBOURG",
-    "longitude": 7.57197189,
+    "name": "STRASBOURG ENTZHEIM",
+    "longitude": 7.571972222,
     "frequency": 1156000,
-    "latitude": 48.50539017,
+    "latitude": 48.505388889,
     "identifier": "STR",
-    "slavedVariation": 1.0
+    "slavedVariation": 2.0
   },
   {
     "receptionRange": 85,
@@ -27780,7 +27880,7 @@
     "slavedVariation": 356.0
   },
   {
-    "receptionRange": 80,
+    "receptionRange": 130,
     "elevation": 1039,
     "name": "TARBES",
     "longitude": 0.14575,
@@ -28710,14 +28810,24 @@
     "slavedVariation": 353.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 547,
-    "name": "TOUSSUS",
+    "receptionRange": 130,
+    "elevation": 574,
+    "name": "TOULOUSE BLAGNAC",
+    "longitude": 1.309805556,
+    "frequency": 1082500,
+    "latitude": 43.680833333,
+    "identifier": "TSU",
+    "slavedVariation": -0.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "TOUSSUS LE NOBLE",
     "longitude": 2.10236096,
     "frequency": 1082500,
     "latitude": 48.75372314,
     "identifier": "TSU",
-    "slavedVariation": 0.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 130,
@@ -28928,6 +29038,16 @@
     "latitude": 69.70278931,
     "identifier": "TRO",
     "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 0,
+    "name": "TROYES BARBEREY",
+    "longitude": 3.963138889,
+    "frequency": 1160000,
+    "latitude": 48.251222222,
+    "identifier": "TRO",
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 40,
@@ -29810,14 +29930,14 @@
     "slavedVariation": 14.0
   },
   {
-    "receptionRange": 30,
+    "receptionRange": 40,
     "elevation": 0,
     "name": "VIENNE",
-    "longitude": 4.88341713,
+    "longitude": 4.883416667,
     "frequency": 1082000,
-    "latitude": 45.55644226,
+    "latitude": 45.556444444,
     "identifier": "VNE",
-    "slavedVariation": 0.0
+    "slavedVariation": 1.0
   },
   {
     "receptionRange": 130,
