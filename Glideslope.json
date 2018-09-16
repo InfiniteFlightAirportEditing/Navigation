@@ -3707,32 +3707,6 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 47.558, 
-    "airportICAO": "EGBE", 
-    "elevation": 267, 
-    "name": "GS", 
-    "longitude": -1.484192, 
-    "associatedRunwayNumber": "05", 
-    "frequency": 109750, 
-    "glideslope": 3.00047279, 
-    "latitude": 52.365806, 
-    "identifier": "ICTY"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 227.558, 
-    "airportICAO": "EGBE", 
-    "elevation": 267, 
-    "name": "GS", 
-    "longitude": -1.475047, 
-    "associatedRunwayNumber": "23", 
-    "frequency": 109750, 
-    "glideslope": 3.00227279, 
-    "latitude": 52.373717, 
-    "identifier": "ICT"
-  }, 
-  {
-    "receptionRange": 10, 
     "bearing": 51.01, 
     "airportICAO": "EGCC", 
     "elevation": 257, 
