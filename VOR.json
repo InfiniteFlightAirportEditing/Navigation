@@ -7071,6 +7071,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 1100,
+    "name": "DIEKIRCH",
+    "longitude": 6.12975,
+    "frequency": 1144000,
+    "latitude": 49.861305556,
+    "identifier": "DIK",
+    "slavedVariation": 2.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 0,
     "name": "DIGNE",
     "longitude": 6.100833333,
@@ -16808,6 +16818,16 @@
     "latitude": 47.688277778,
     "identifier": "LUL",
     "slavedVariation": 359.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 1221,
+    "name": "LUXEMBOURG",
+    "longitude": 6.295583333,
+    "frequency": 1122500,
+    "latitude": 47.688277778,
+    "identifier": "LUX",
+    "slavedVariation": 2.0
   },
   {
     "receptionRange": 130,
