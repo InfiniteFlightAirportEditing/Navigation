@@ -761,13 +761,13 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 233,
+    "elevation": 197,
     "name": "ALMERIA",
-    "longitude": -2.25942206,
+    "longitude": -2.259416667,
     "frequency": 1141000,
-    "latitude": 36.83316803,
+    "latitude": 36.833166667,
     "identifier": "AMR",
-    "slavedVariation": 357.0
+    "slavedVariation": -1.0
   },
   {
     "receptionRange": 130,
