@@ -1070,14 +1070,14 @@
     "slavedVariation": 12.0
   },
   {
-    "receptionRange": 50,
-    "elevation": 314,
-    "name": "ANTONI",
-    "longitude": 25.12681961,
-    "frequency": 1137000,
-    "latitude": 60.86300659,
+    "receptionRange": 130,
+    "elevation": 74,
+    "name": "ANTWERP (DEURNE)",
+    "longitude": 4.472583333,
+    "frequency": 1135000,
+    "latitude": 51.190472222,
     "identifier": "ANT",
-    "slavedVariation": 5.0
+    "slavedVariation": -0.0
   },
   {
     "receptionRange": 125,
@@ -3381,13 +3381,13 @@
   },
   {
     "receptionRange": 40,
-    "elevation": 2111,
+    "elevation": 2110,
     "name": "BRADFORD",
-    "longitude": -78.61933136,
+    "longitude": -78.619347222,
     "frequency": 1166000,
-    "latitude": 41.7863884,
+    "latitude": 41.786386111,
     "identifier": "BFD",
-    "slavedVariation": 353.0
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 200,
@@ -25610,12 +25610,12 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 190,
-    "elevation": 178,
-    "name": "SAO",
-    "longitude": -44.24000168,
+    "receptionRange": 130,
+    "elevation": 177,
+    "name": "SAO LUIS",
+    "longitude": -44.239969444,
     "frequency": 1135000,
-    "latitude": -2.58916712,
+    "latitude": -2.589241667,
     "identifier": "SLI",
     "slavedVariation": 340.0
   },
@@ -29333,9 +29333,9 @@
     "receptionRange": 40,
     "elevation": 1374,
     "name": "TWENTYNINE PALMS",
-    "longitude": -115.7698333,
+    "longitude": -115.769905556,
     "frequency": 1142000,
-    "latitude": 34.1121667,
+    "latitude": 34.112233333,
     "identifier": "TNP",
     "slavedVariation": 15.0
   },
