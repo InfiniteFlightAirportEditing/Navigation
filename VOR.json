@@ -1410,12 +1410,12 @@
     "slavedVariation": 353.0
   },
   {
-    "receptionRange": 130,
+    "receptionRange": 125,
     "elevation": 29,
     "name": "AUCKLAND",
-    "longitude": 174.81364441,
+    "longitude": 174.813638889,
     "frequency": 1148000,
-    "latitude": -37.00463867,
+    "latitude": -37.004638889,
     "identifier": "AA",
     "slavedVariation": 20.0
   },
@@ -5180,14 +5180,14 @@
     "slavedVariation": 4.0
   },
   {
-    "receptionRange": 190,
+    "receptionRange": 130,
     "elevation": 357,
-    "name": "CHEUNG",
-    "longitude": 114.03005981,
+    "name": "CHEUNG CHAU",
+    "longitude": 114.030055556,
     "frequency": 1123000,
-    "latitude": 22.21954155,
+    "latitude": 22.219541667,
     "identifier": "CH",
-    "slavedVariation": 359.0
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 130,
@@ -5398,6 +5398,16 @@
     "latitude": 35.72646713,
     "identifier": "CVC",
     "slavedVariation": 353.0
+  },
+  {
+    "receptionRange": 125,
+    "elevation": 140,
+    "name": "CHRISTCHURCH",
+    "longitude": 172.514638889,
+    "frequency": 1153000,
+    "latitude": -43.504111111,
+    "identifier": "CH",
+    "slavedVariation": 24.0
   },
   {
     "receptionRange": 130,
@@ -10130,12 +10140,12 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 130,
-    "elevation": 15,
+    "receptionRange": 125,
+    "elevation": 23,
     "name": "GISBORNE",
-    "longitude": 177.97755432,
+    "longitude": 177.977561111,
     "frequency": 1142000,
-    "latitude": -38.66049957,
+    "latitude": -38.660511111,
     "identifier": "GS",
     "slavedVariation": 21.0
   },
@@ -11270,12 +11280,12 @@
     "slavedVariation": 8.0
   },
   {
-    "receptionRange": 50,
-    "elevation": 172,
+    "receptionRange": 125,
+    "elevation": 182,
     "name": "HAMILTON",
-    "longitude": 175.33853149,
+    "longitude": 175.338527778,
     "frequency": 1140000,
-    "latitude": -37.84926224,
+    "latitude": -37.849263889,
     "identifier": "HN",
     "slavedVariation": 20.0
   },
@@ -12590,12 +12600,12 @@
     "slavedVariation": 23.0
   },
   {
-    "receptionRange": 50,
-    "elevation": 5,
+    "receptionRange": 125,
+    "elevation": 15,
     "name": "INVERCARGILL",
-    "longitude": 168.31761169,
+    "longitude": 168.317608333,
     "frequency": 1168000,
-    "latitude": -46.41156006,
+    "latitude": -46.411561111,
     "identifier": "NV",
     "slavedVariation": 25.0
   },
@@ -19581,11 +19591,11 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 267,
+    "elevation": 278,
     "name": "NADZAB",
-    "longitude": 146.7089386,
+    "longitude": 146.70895,
     "frequency": 1139000,
-    "latitude": -6.56833315,
+    "latitude": -6.568333333,
     "identifier": "NZ",
     "slavedVariation": 5.0
   },
@@ -19830,12 +19840,12 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 50,
-    "elevation": 6,
+    "receptionRange": 125,
+    "elevation": 13,
     "name": "NAPIER",
-    "longitude": 176.868927,
+    "longitude": 176.868925,
     "frequency": 1138000,
-    "latitude": -39.45380402,
+    "latitude": -39.453802778,
     "identifier": "NR",
     "slavedVariation": 21.0
   },
@@ -20101,11 +20111,11 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 6,
+    "elevation": 24,
     "name": "NELSON",
-    "longitude": 173.22253418,
-    "frequency": 1164000,
-    "latitude": -41.30169296,
+    "longitude": 173.216297222,
+    "frequency": 1131000,
+    "latitude": -41.303686111,
     "identifier": "NS",
     "slavedVariation": 22.0
   },
@@ -20230,12 +20240,12 @@
     "slavedVariation": 1.0
   },
   {
-    "receptionRange": 50,
-    "elevation": 97,
-    "name": "NEW",
-    "longitude": 174.1839447,
+    "receptionRange": 125,
+    "elevation": 95,
+    "name": "NEW PLYMOUTH",
+    "longitude": 174.183933333,
     "frequency": 1144000,
-    "latitude": -39.00725174,
+    "latitude": -39.007241667,
     "identifier": "NP",
     "slavedVariation": 21.0
   },
@@ -20960,12 +20970,12 @@
     "slavedVariation": 14.0
   },
   {
-    "receptionRange": 50,
-    "elevation": 164,
+    "receptionRange": 125,
+    "elevation": 184,
     "name": "OHAKEA",
-    "longitude": 175.39196777,
-    "frequency": 1090000,
-    "latitude": -40.20960999,
+    "longitude": 175.391972222,
+    "frequency": 11710,
+    "latitude": -40.209611111,
     "identifier": "OH",
     "slavedVariation": 22.0
   },
@@ -21580,12 +21590,12 @@
     "slavedVariation": 15.0
   },
   {
-    "receptionRange": 60,
-    "elevation": 149,
-    "name": "PALMERSTON",
-    "longitude": 175.63786316,
+    "receptionRange": 125,
+    "elevation": 198,
+    "name": "PALMERSTON NORTH",
+    "longitude": 175.637847222,
     "frequency": 1134000,
-    "latitude": -40.32025146,
+    "latitude": -40.320247222,
     "identifier": "PM",
     "slavedVariation": 22.0
   },
@@ -23530,6 +23540,16 @@
     "slavedVariation": 3.7
   },
   {
+    "receptionRange": 125,
+    "elevation": 2048,
+    "name": "QUEENSTOWN",
+    "longitude": 168.782647222,
+    "frequency": 1136000,
+    "latitude": -44.984113889,
+    "identifier": "QN",
+    "slavedVariation": 24.0
+  },
+  {
     "receptionRange": 150,
     "elevation": 36,
     "name": "QUELIMANE",
@@ -24610,12 +24630,12 @@
     "slavedVariation": 4.4
   },
   {
-    "receptionRange": 50,
-    "elevation": 935,
+    "receptionRange": 125,
+    "elevation": 944,
     "name": "ROTORUA",
-    "longitude": 176.31391907,
+    "longitude": 176.313913889,
     "frequency": 1121000,
-    "latitude": -38.1080513,
+    "latitude": -38.10805,
     "identifier": "RO",
     "slavedVariation": 20.0
   },
@@ -27450,12 +27470,12 @@
     "slavedVariation": 358.0
   },
   {
-    "receptionRange": 50,
-    "elevation": 4,
-    "name": "SWAMPY",
-    "longitude": 170.47718811,
+    "receptionRange": 125,
+    "elevation": 2438,
+    "name": "SWAMPY (DUNEDIN)",
+    "longitude": 170.477194444,
     "frequency": 1127000,
-    "latitude": -45.79451752,
+    "latitude": -45.794519444,
     "identifier": "SW",
     "slavedVariation": 25.0
   },
@@ -30620,6 +30640,16 @@
     "slavedVariation": 353.0
   },
   {
+    "receptionRange": 125,
+    "elevation": 140,
+    "name": "WHENUAPAI (AUCKLAND)",
+    "longitude": 174.631225,
+    "frequency": 1164000,
+    "latitude": -36.786794444,
+    "identifier": "WP",
+    "slavedVariation": 20.0
+  },
+  {
     "receptionRange": 130,
     "elevation": 81,
     "name": "WEIPA",
@@ -30660,12 +30690,12 @@
     "slavedVariation": 340.2
   },
   {
-    "receptionRange": 50,
-    "elevation": 42,
+    "receptionRange": 125,
+    "elevation": 400,
     "name": "WELLINGTON",
-    "longitude": 174.81695557,
+    "longitude": 174.816961111,
     "frequency": 1123000,
-    "latitude": -41.33722687,
+    "latitude": -41.337227778,
     "identifier": "WN",
     "slavedVariation": 22.0
   },
@@ -31160,12 +31190,12 @@
     "slavedVariation": 11.0
   },
   {
-    "receptionRange": 130,
-    "elevation": 109,
+    "receptionRange": 125,
+    "elevation": 110,
     "name": "WOODBOURNE",
-    "longitude": 173.86268616,
+    "longitude": 173.862680556,
     "frequency": 1156000,
-    "latitude": -41.51967621,
+    "latitude": -41.519675,
     "identifier": "WB",
     "slavedVariation": 22.0
   },
