@@ -840,14 +840,14 @@
     "slavedVariation": 8.0
   },
   {
-    "receptionRange": 25,
-    "elevation": 354,
+    "receptionRange": 130,
+    "elevation": 351,
     "name": "AMAKUSA",
-    "longitude": 130.15962219,
+    "longitude": 130.160966667,
     "frequency": 1134500,
-    "latitude": 32.4809761,
+    "latitude": 32.480236111,
     "identifier": "AKE",
-    "slavedVariation": 354.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 50,
@@ -1091,13 +1091,13 @@
   },
   {
     "receptionRange": 100,
-    "elevation": 764,
+    "elevation": 755,
     "name": "AOMORI",
-    "longitude": 140.70533752,
+    "longitude": 140.705333333,
     "frequency": 1141000,
-    "latitude": 40.73879242,
+    "latitude": 40.738791667,
     "identifier": "MRE",
-    "slavedVariation": 351.0
+    "slavedVariation": -9.0
   },
   {
     "receptionRange": 40,
@@ -1263,11 +1263,11 @@
     "receptionRange": 130,
     "elevation": 769,
     "name": "ASAHIKAWA",
-    "longitude": 142.4568634,
+    "longitude": 142.456847222,
     "frequency": 1135000,
-    "latitude": 43.66727829,
+    "latitude": 43.667263889,
     "identifier": "AWE",
-    "slavedVariation": 351.0
+    "slavedVariation": -9.0
   },
   {
     "receptionRange": 130,
@@ -5350,14 +5350,14 @@
     "slavedVariation": 5.2
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 88,
     "name": "CHITOSE",
-    "longitude": 141.68617249,
+    "longitude": 141.686166667,
     "frequency": 1169000,
-    "latitude": 42.69990158,
+    "latitude": 42.699902778,
     "identifier": "CHE",
-    "slavedVariation": 351.0
+    "slavedVariation": -9.0
   },
   {
     "receptionRange": 130,
@@ -5420,14 +5420,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 39,
     "name": "CHUBU",
-    "longitude": 136.80316162,
+    "longitude": 136.803169444,
     "frequency": 1178000,
-    "latitude": 34.85800552,
+    "latitude": 34.858005556,
     "identifier": "CBE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -9450,14 +9450,14 @@
     "slavedVariation": 2.8
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 296,
     "name": "FUKUE",
-    "longitude": 128.82673645,
+    "longitude": 128.826736111,
     "frequency": 1158000,
-    "latitude": 32.6686058,
+    "latitude": 32.668605556,
     "identifier": "FUE",
-    "slavedVariation": 354.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -9470,14 +9470,14 @@
     "slavedVariation": 353.0
   },
   {
-    "receptionRange": 25,
+    "receptionRange": 130,
     "elevation": 1313,
     "name": "FUKUSHIMA",
-    "longitude": 140.43708801,
+    "longitude": 140.437086111,
     "frequency": 1134500,
-    "latitude": 37.2243042,
+    "latitude": 37.224305556,
     "identifier": "FKE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 100,
@@ -11090,14 +11090,14 @@
     "slavedVariation": 356.5
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 339,
-    "name": "HACHIJOJIMA",
-    "longitude": 139.78848267,
+    "name": "HACHIJO JIMA",
+    "longitude": 139.788483333,
     "frequency": 1166500,
-    "latitude": 33.11434937,
+    "latitude": 33.11435,
     "identifier": "HCE",
-    "slavedVariation": 354.0
+    "slavedVariation": -6.0
   },
   {
     "receptionRange": 130,
@@ -11150,14 +11150,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 300,
     "name": "HAKODATE",
-    "longitude": 140.83221436,
+    "longitude": 140.832216667,
     "frequency": 1123000,
-    "latitude": 41.77403259,
+    "latitude": 41.774030556,
     "identifier": "HWE",
-    "slavedVariation": 351.0
+    "slavedVariation": -9.0
   },
   {
     "receptionRange": 130,
@@ -11340,14 +11340,14 @@
     "slavedVariation": 347.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 339,
     "name": "HANAMAKI",
-    "longitude": 141.13349915,
+    "longitude": 141.1335,
     "frequency": 1128000,
-    "latitude": 39.43335724,
+    "latitude": 39.433358333,
     "identifier": "HPE",
-    "slavedVariation": 352.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 25,
@@ -11380,14 +11380,14 @@
     "slavedVariation": 356.0
   },
   {
-    "receptionRange": 25,
+    "receptionRange": 125,
     "elevation": 63,
-    "name": "HANEDA",
-    "longitude": 139.76115417,
+    "name": "HANEDA (TOKYO)",
+    "longitude": 139.76115,
     "frequency": 1122000,
-    "latitude": 35.56231689,
+    "latitude": 35.562316667,
     "identifier": "HME",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 40,
@@ -11890,14 +11890,14 @@
     "slavedVariation": 343.8
   },
   {
-    "receptionRange": 25,
-    "elevation": 164,
+    "receptionRange": 125,
+    "elevation": 177,
     "name": "HOKUSO",
-    "longitude": 140.37538147,
-    "frequency": 1173000,
-    "latitude": 35.80895996,
+    "longitude": 140.371613889,
+    "frequency": 1150000,
+    "latitude": 35.814166667,
     "identifier": "HKE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 200,
@@ -11950,14 +11950,14 @@
     "slavedVariation": 24.0
   },
   {
-    "receptionRange": 25,
-    "elevation": 1123,
-    "name": "HONGO",
-    "longitude": 132.92396545,
+    "receptionRange": 130,
+    "elevation": 1119,
+    "name": "HONGO (HIROSHIMA)",
+    "longitude": 132.923969444,
     "frequency": 1179000,
-    "latitude": 34.43377686,
+    "latitude": 34.433775,
     "identifier": "HGE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -12370,14 +12370,14 @@
     "slavedVariation": 18.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 219,
-    "name": "IKI",
-    "longitude": 129.77685547,
+    "name": "IKI (IKISHIMA)",
+    "longitude": 129.776852778,
     "frequency": 1132000,
-    "latitude": 33.74751282,
+    "latitude": 33.747511111,
     "identifier": "IKE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -12750,14 +12750,14 @@
     "slavedVariation": 1.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 114,
-    "name": "ISHIGAKI",
-    "longitude": 124.18572998,
-    "frequency": 1177000,
-    "latitude": 24.34103012,
-    "identifier": "GKE",
-    "slavedVariation": 357.0
+    "receptionRange": 130,
+    "elevation": 208,
+    "name": "ISHIGAKIJIMA",
+    "longitude": 124.237952778,
+    "frequency": 1154000,
+    "latitude": 24.396011111,
+    "identifier": "IGE",
+    "slavedVariation": -4.0
   },
   {
     "receptionRange": 130,
@@ -12830,14 +12830,14 @@
     "slavedVariation": 1.0
   },
   {
-    "receptionRange": 40, 
+    "receptionRange": 125, 
     "elevation": 176, 
     "name": "ITAMI", 
-    "longitude": 135.403608, 
+    "longitude": 135.403661111, 
     "frequency": 1147500, 
-    "latitude": 34.805613, 
+    "latitude": 34.805483333, 
     "identifier": "ITE", 
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   }, 
   {
     "receptionRange": 40,
@@ -12870,24 +12870,24 @@
     "slavedVariation": 345.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 534,
     "name": "IWAKI",
-    "longitude": 140.97569275,
+    "longitude": 140.975686111,
     "frequency": 1177000,
-    "latitude": 37.14886475,
+    "latitude": 37.148863889,
     "identifier": "IXE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
-    "elevation": 221,
+    "elevation": 228,
     "name": "IWAMI",
-    "longitude": 131.77987671,
+    "longitude": 131.779880556,
     "frequency": 1150500,
-    "latitude": 34.67624283,
+    "latitude": 34.676244444,
     "identifier": "IME",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -12920,14 +12920,14 @@
     "slavedVariation": 3.7
   },
   {
-    "receptionRange": 25,
+    "receptionRange": 130,
     "elevation": 43,
     "name": "IZUMO",
-    "longitude": 132.8923645,
+    "longitude": 132.892372222,
     "frequency": 1134000,
-    "latitude": 35.41724014,
+    "latitude": 35.417238889,
     "identifier": "XZE",
-    "slavedVariation": 353.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 40,
@@ -13600,14 +13600,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 696,
-    "name": "KAGAWA",
-    "longitude": 134.02259827,
+    "name": "KAGAWA (TAKAMATSU)",
+    "longitude": 134.022591667,
     "frequency": 1084000,
     "latitude": 34.21249771,
     "identifier": "KTE",
-    "slavedVariation": 354.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -13650,14 +13650,14 @@
     "slavedVariation": 351.1
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 900,
-    "name": "KAJIKI",
-    "longitude": 130.72610474,
+    "name": "KAJIKI (KAGOSHIMA)",
+    "longitude": 130.726102778,
     "frequency": 1157000,
-    "latitude": 31.79754257,
+    "latitude": 31.797541667,
     "identifier": "KGE",
-    "slavedVariation": 354.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 25,
@@ -13761,6 +13761,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 707,
+    "name": "KAMIKAWA (ASAHIKAWA)",
+    "longitude": 142.450186111,
+    "frequency": 1173500,
+    "latitude": 43.673413889,
+    "identifier": "ASE",
+    "slavedVariation": -9.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 1480,
     "name": "KAMISHLY",
     "longitude": 41.20530701,
@@ -13850,14 +13860,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 25,
+    "receptionRange": 130,
     "elevation": 42,
     "name": "KANSAI",
-    "longitude": 135.25178528,
+    "longitude": 135.251783333,
     "frequency": 1118000,
-    "latitude": 34.43008423,
+    "latitude": 34.430086111,
     "identifier": "KNE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -14010,14 +14020,14 @@
     "slavedVariation": 352.2
   },
   {
-    "receptionRange": 25,
-    "elevation": 47,
-    "name": "KASARI",
-    "longitude": 129.71141052,
+    "receptionRange": 130,
+    "elevation": 1,
+    "name": "KASARI (AMAMI)",
+    "longitude": 129.711408333,
     "frequency": 1139500,
-    "latitude": 28.43471718,
+    "latitude": 28.434716667,
     "identifier": "AME",
-    "slavedVariation": 355.0
+    "slavedVariation": -6.0
   },
   {
     "receptionRange": 40,
@@ -14420,14 +14430,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 880,
     "name": "KIBI",
-    "longitude": 133.83505249,
+    "longitude": 133.835055556,
     "frequency": 1110000,
-    "latitude": 34.75038147,
+    "latitude": 34.750383333,
     "identifier": "OYE",
-    "slavedVariation": 353.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 200,
@@ -14700,24 +14710,24 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 25,
+    "receptionRange": 125,
     "elevation": 44,
     "name": "KOBE",
-    "longitude": 135.22845459,
+    "longitude": 135.228458333,
     "frequency": 1112500,
-    "latitude": 34.63099289,
+    "latitude": 34.630994444,
     "identifier": "KCE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 54,
     "name": "KOCHI",
-    "longitude": 133.68016052,
+    "longitude": 133.680158333,
     "frequency": 1137000,
-    "latitude": 33.54178238,
+    "latitude": 33.541783333,
     "identifier": "KRE",
-    "slavedVariation": 355.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -14760,14 +14770,14 @@
     "slavedVariation": 358.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 1499,
-    "name": "KOKUBU",
-    "longitude": 130.84210205,
+    "name": "KOKUBU (KAGOSHIMA)",
+    "longitude": 130.842102778,
     "frequency": 1173000,
-    "latitude": 31.64388084,
+    "latitude": 31.643880556,
     "identifier": "KBE",
-    "slavedVariation": 354.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -15030,14 +15040,14 @@
     "slavedVariation": 10.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 651,
     "name": "KUMAMOTO",
-    "longitude": 130.84150696,
+    "longitude": 130.841513889,
     "frequency": 1128000,
-    "latitude": 32.83480453,
+    "latitude": 32.834802778,
     "identifier": "KUE",
-    "slavedVariation": 354.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -15110,14 +15120,14 @@
     "slavedVariation": 353.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 334,
     "name": "KUSHIRO",
-    "longitude": 144.20411682,
+    "longitude": 144.204113889,
     "frequency": 1125000,
-    "latitude": 43.03380203,
+    "latitude": 43.033802778,
     "identifier": "KSE",
-    "slavedVariation": 351.0
+    "slavedVariation": -9.0
   },
   {
     "receptionRange": 130,
@@ -17920,24 +17930,24 @@
     "slavedVariation": 340.6
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 2260,
     "name": "MATSUMOTO",
-    "longitude": 137.91981506,
+    "longitude": 137.919816667,
     "frequency": 1176000,
-    "latitude": 36.15597534,
+    "latitude": 36.155975,
     "identifier": "MBE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 64,
+    "receptionRange": 130,
+    "elevation": 46,
     "name": "MATSUYAMA",
-    "longitude": 132.71763611,
-    "frequency": 1163000,
-    "latitude": 33.81298828,
-    "identifier": "MPE",
-    "slavedVariation": 354.0
+    "longitude": 132.692222222,
+    "frequency": 1106500,
+    "latitude": 33.830102778,
+    "identifier": "MYE",
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 40,
@@ -18260,14 +18270,14 @@
     "slavedVariation": -0.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 132,
     "elevation": 132,
     "name": "MEMANBETSU",
-    "longitude": 144.16618347,
+    "longitude": 144.166183333,
     "frequency": 1108500,
-    "latitude": 43.88490677,
+    "latitude": 43.884908333,
     "identifier": "TBE",
-    "slavedVariation": 351.0
+    "slavedVariation": -9.0
   },
   {
     "receptionRange": 25,
@@ -18520,14 +18530,14 @@
     "slavedVariation": 356.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 155,
-    "name": "MIHARA",
-    "longitude": 139.36485291,
+    "receptionRange": 130,
+    "elevation": 156,
+    "name": "MIHARA (OSHIMA)",
+    "longitude": 139.36485,
     "frequency": 1098500,
-    "latitude": 34.78774261,
+    "latitude": 34.787741667,
     "identifier": "OSE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 100,
@@ -18601,6 +18611,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 94,
+    "name": "MUKAWA (SAPPORO)",
+    "longitude": 141.955630556,
+    "frequency": 1164000,
+    "latitude": 42.555005556,
+    "identifier": "MKE",
+    "slavedVariation": -9.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 900,
     "name": "MILLSAP",
     "longitude": -97.99744415,
@@ -18630,14 +18650,14 @@
     "slavedVariation": 17.0
   },
   {
-    "receptionRange": 40,
-    "elevation": 167,
-    "name": "MINAMI",
-    "longitude": 131.26377869,
+    "receptionRange": 130,
+    "elevation": 194,
+    "name": "MINAMIDAITO",
+    "longitude": 131.263788889,
     "frequency": 1178000,
-    "latitude": 25.85447311,
+    "latitude": 25.854483333,
     "identifier": "MDE",
-    "slavedVariation": 356.0
+    "slavedVariation": -5.0
   },
   {
     "receptionRange": 130,
@@ -18813,31 +18833,31 @@
     "receptionRange": 100,
     "elevation": 628,
     "name": "MIYAKO",
-    "longitude": 141.95106506,
+    "longitude": 141.951066667,
     "frequency": 1166000,
-    "latitude": 39.86563873,
+    "latitude": 39.865638889,
     "identifier": "MQE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 32,
+    "receptionRange": 130,
+    "elevation": 54,
     "name": "MIYAZAKI",
-    "longitude": 131.43746948,
+    "longitude": 131.437466667,
     "frequency": 1124000,
-    "latitude": 31.87872887,
+    "latitude": 31.878727778,
     "identifier": "MZE",
-    "slavedVariation": 354.0
+    "slavedVariation": -7.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 2428,
     "name": "MIYAZU",
-    "longitude": 135.13702393,
+    "longitude": 135.137022222,
     "frequency": 1126000,
-    "latitude": 35.48069382,
+    "latitude": 35.480691667,
     "identifier": "YME",
-    "slavedVariation": 354.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 25,
@@ -18933,11 +18953,11 @@
     "receptionRange": 130,
     "elevation": 159,
     "name": "MONBETSU",
-    "longitude": 143.39508057,
+    "longitude": 143.395091667,
     "frequency": 1129000,
-    "latitude": 44.30527878,
+    "latitude": 44.305266667,
     "identifier": "MVE",
-    "slavedVariation": 351.0
+    "slavedVariation": -9.0
   },
   {
     "receptionRange": 130,
@@ -19500,14 +19520,14 @@
     "slavedVariation": 3.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 100,
-    "name": "MUSASHI",
-    "longitude": 131.72875977,
+    "name": "MUSASHI (OITA)",
+    "longitude": 131.728755556,
     "frequency": 1177000,
-    "latitude": 33.48971558,
+    "latitude": 33.489713889,
     "identifier": "TFE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 40,
@@ -19610,14 +19630,14 @@
     "slavedVariation": 358.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 154,
     "name": "NAGASAKI",
-    "longitude": 129.91798401,
+    "longitude": 129.917980556,
     "frequency": 1166000,
-    "latitude": 32.90524673,
+    "latitude": 32.905247222,
     "identifier": "OLE",
-    "slavedVariation": 355.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 100,
@@ -19650,24 +19670,24 @@
     "slavedVariation": 356.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 263,
     "name": "NAKASHIBETSU",
-    "longitude": 144.95050049,
+    "longitude": 144.950502778,
     "frequency": 1114500,
-    "latitude": 43.57736206,
+    "latitude": 43.577361111,
     "identifier": "NSE",
-    "slavedVariation": 351.0
+    "slavedVariation": -9.0
   },
   {
-    "receptionRange": 40,
-    "elevation": 808,
+    "receptionRange": 130,
+    "elevation": 800,
     "name": "NAKATANE",
-    "longitude": 130.99153137,
+    "longitude": 130.991533333,
     "frequency": 1154000,
-    "latitude": 30.60215569,
+    "latitude": 30.602155556,
     "identifier": "TGE",
-    "slavedVariation": 353.0
+    "slavedVariation": -6.0
   },
   {
     "receptionRange": 130,
@@ -19760,14 +19780,14 @@
     "slavedVariation": 354.8
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 338,
     "name": "NANKI",
-    "longitude": 135.35942078,
+    "longitude": 135.359413889,
     "frequency": 1090500,
-    "latitude": 33.66126251,
+    "latitude": 33.661263889,
     "identifier": "NKE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -19870,14 +19890,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 150,
-    "elevation": 153,
-    "name": "NARITA",
-    "longitude": 140.36253357,
+    "receptionRange": 130,
+    "elevation": 154,
+    "name": "NARITA (TOKYO)",
+    "longitude": 140.362536111,
     "frequency": 1179000,
-    "latitude": 35.78234863,
+    "latitude": 35.782344444,
     "identifier": "NRE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 50,
@@ -20751,13 +20771,13 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 786,
+    "elevation": 793,
     "name": "NOTO",
-    "longitude": 136.96290588,
+    "longitude": 136.962911111,
     "frequency": 1114500,
-    "latitude": 37.28996277,
+    "latitude": 37.289961111,
     "identifier": "NTE",
-    "slavedVariation": 352.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 40,
@@ -20880,14 +20900,14 @@
     "slavedVariation": 7.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 531,
     "name": "OBIHIRO",
-    "longitude": 143.22045898,
+    "longitude": 143.220452778,
     "frequency": 1096500,
-    "latitude": 42.73396301,
+    "latitude": 42.733963889,
     "identifier": "OBE",
-    "slavedVariation": 351.0
+    "slavedVariation": -9.0
   },
   {
     "receptionRange": 130,
@@ -20930,12 +20950,12 @@
     "slavedVariation": 356.0
   },
   {
-    "receptionRange": 25,
+    "receptionRange": 130,
     "elevation": 308,
     "name": "ODATE",
-    "longitude": 140.36186218,
+    "longitude": 140.361855556,
     "frequency": 1147500,
-    "latitude": 40.19834137,
+    "latitude": 40.198341667,
     "identifier": "ODE",
     "slavedVariation": 351.0
   },
@@ -20974,10 +20994,20 @@
     "elevation": 184,
     "name": "OHAKEA",
     "longitude": 175.391972222,
-    "frequency": 11710,
+    "frequency": 1171000,
     "latitude": -40.209611111,
     "identifier": "OH",
     "slavedVariation": 22.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 513,
+    "name": "OHISA",
+    "longitude": 140.977838889,
+    "frequency": 1110500,
+    "latitude": 37.149211111,
+    "identifier": "OH",
+    "slavedVariation": -7.8
   },
   {
     "receptionRange": 25,
@@ -21030,14 +21060,14 @@
     "slavedVariation": 4.3
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 270,
     "name": "OKI",
-    "longitude": 133.32281494,
+    "longitude": 133.322822222,
     "frequency": 1092500,
-    "latitude": 36.17674255,
+    "latitude": 36.176741667,
     "identifier": "OIE",
-    "slavedVariation": 352.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 130,
@@ -21050,14 +21080,14 @@
     "slavedVariation": 8.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 168,
+    "receptionRange": 130,
+    "elevation": 167,
     "name": "OKUSHIRI",
-    "longitude": 139.44340515,
+    "longitude": 139.443402778,
     "frequency": 1098500,
-    "latitude": 42.07030487,
+    "latitude": 42.070302778,
     "identifier": "ORE",
-    "slavedVariation": 351.0
+    "slavedVariation": -9.0
   },
   {
     "receptionRange": 60,
@@ -21270,14 +21300,14 @@
     "slavedVariation": 8.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 1576,
     "name": "OTSU",
-    "longitude": 135.82600403,
+    "longitude": 135.826002778,
     "frequency": 1171000,
-    "latitude": 35.01704788,
+    "latitude": 35.017047222,
     "identifier": "CUE",
-    "slavedVariation": 354.0
+    "slavedVariation": 0.0
   },
   {
     "receptionRange": 130,
@@ -21400,12 +21430,12 @@
     "slavedVariation": 356.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 63,
     "name": "OYAMA",
-    "longitude": 139.56129456,
+    "longitude": 139.561288889,
     "frequency": 1086500,
-    "latitude": 34.07104111,
+    "latitude": 34.071041667,
     "identifier": "MOE",
     "slavedVariation": 355.0
   },
@@ -24260,14 +24290,14 @@
     "slavedVariation": 357.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 113,
     "name": "RISHIRI",
-    "longitude": 141.18676758,
+    "longitude": 141.186766667,
     "frequency": 1146000,
-    "latitude": 45.24566269,
+    "latitude": 45.245661111,
     "identifier": "RSE",
-    "slavedVariation": 350.0
+    "slavedVariation": -10.0
   },
   {
     "receptionRange": 25,
@@ -24770,14 +24800,14 @@
     "slavedVariation": 353.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 40,
     "name": "SAGA",
-    "longitude": 130.29289246,
+    "longitude": 130.292897222,
     "frequency": 1147500,
-    "latitude": 33.14862061,
+    "latitude": 33.148619444,
     "identifier": "SGE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 40,
@@ -25660,14 +25690,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 87,
+    "receptionRange": 130,
+    "elevation": 86,
     "name": "SAPPORO",
-    "longitude": 141.30238342,
+    "longitude": 141.302383333,
     "frequency": 1139000,
-    "latitude": 43.17464066,
+    "latitude": 43.174641667,
     "identifier": "SPE",
-    "slavedVariation": 351.0
+    "slavedVariation": -9.0
   },
   {
     "receptionRange": 150,
@@ -25950,14 +25980,14 @@
     "slavedVariation": 10.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 115,
+    "receptionRange": 130,
+    "elevation": 80,
     "name": "SEKIYADO",
-    "longitude": 139.83917236,
+    "longitude": 139.839172222,
     "frequency": 1170000,
-    "latitude": 36.01092529,
+    "latitude": 36.010925,
     "identifier": "SYE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -25988,6 +26018,16 @@
     "latitude": 30.55622292,
     "identifier": "SZW",
     "slavedVariation": 2.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 54,
+    "name": "SENDAI",
+    "longitude": 140.921483333,
+    "frequency": 1163000,
+    "latitude": 38.138572222,
+    "identifier": "SDE",
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 130,
@@ -26250,6 +26290,16 @@
     "slavedVariation": 355.0
   },
   {
+    "receptionRange": 130,
+    "elevation": 66,
+    "name": "SHIMOJISHIMA",
+    "longitude": 125.143805556,
+    "frequency": 1171000,
+    "latitude": 24.821933333,
+    "identifier": "SJE",
+    "slavedVariation": -3.0
+  },
+  {
     "receptionRange": 100,
     "elevation": 244,
     "name": "SHINODA",
@@ -26270,6 +26320,16 @@
     "slavedVariation": 2.0
   },
   {
+    "receptionRange": 130,
+    "elevation": 448,
+    "name": "SHIZUOKA",
+    "longitude": 138.193197222,
+    "frequency": 1106500,
+    "latitude": 34.796841667,
+    "identifier": "SZE",
+    "slavedVariation": -7.0
+  },
+  {
     "receptionRange": 25,
     "elevation": 2531,
     "name": "SHODO",
@@ -26280,14 +26340,14 @@
     "slavedVariation": 353.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 162,
     "name": "SHONAI",
-    "longitude": 139.79930115,
+    "longitude": 139.799308333,
     "frequency": 1096000,
-    "latitude": 38.81077957,
+    "latitude": 38.810780556,
     "identifier": "YSE",
-    "slavedVariation": 352.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 130,
@@ -27410,14 +27470,14 @@
     "slavedVariation": 11.0
   },
   {
-    "receptionRange": 40,
+    "receptionRange": 130,
     "elevation": 54,
-    "name": "SUOH",
+    "name": "SUOH (KITAKYUSHU)",
     "longitude": 131.02940369,
     "frequency": 1138500,
     "latitude": 33.85661697,
     "identifier": "SWE",
-    "slavedVariation": 353.1
+    "slavedVariation": -7.1
   },
   {
     "receptionRange": 50,
@@ -27670,14 +27730,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 689,
     "name": "TAJIMA",
-    "longitude": 134.79145813,
+    "longitude": 134.791366667,
     "frequency": 1104500,
-    "latitude": 35.51795959,
+    "latitude": 35.518138889,
     "identifier": "THE",
-    "slavedVariation": 353.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 100,
@@ -27910,14 +27970,14 @@
     "slavedVariation": 1.0
   },
   {
-    "receptionRange": 50,
+    "receptionRange": 125,
     "elevation": 59,
     "name": "TARAMA",
-    "longitude": 124.6738205,
+    "longitude": 124.673822222,
     "frequency": 1106500,
-    "latitude": 24.65065575,
+    "latitude": 24.650655556,
     "identifier": "RME",
-    "slavedVariation": 356.0
+    "slavedVariation": -4.0
   },
   {
     "receptionRange": 130,
@@ -28680,14 +28740,14 @@
     "slavedVariation": 6.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 48,
     "name": "TOKUNOSHIMA",
-    "longitude": 128.88221741,
+    "longitude": 128.882216667,
     "frequency": 1104500,
-    "latitude": 27.8247776,
+    "latitude": 27.824777778,
     "identifier": "TKE",
-    "slavedVariation": 355.0
+    "slavedVariation": -5.0
   },
   {
     "receptionRange": 100,
@@ -28840,14 +28900,14 @@
     "slavedVariation": 357.8
   },
   {
-    "receptionRange": 25,
+    "receptionRange": 130,
     "elevation": 115,
     "name": "TOTTORI",
-    "longitude": 134.16488647,
+    "longitude": 134.164886111,
     "frequency": 1102000,
-    "latitude": 35.52730179,
+    "latitude": 35.5273,
     "identifier": "TRE",
-    "slavedVariation": 353.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 130,
@@ -28880,14 +28940,14 @@
     "slavedVariation": 7.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 116,
     "name": "TOYAMA",
-    "longitude": 137.19111633,
+    "longitude": 137.191111111,
     "frequency": 1108500,
-    "latitude": 36.65218735,
+    "latitude": 36.652188889,
     "identifier": "TOE",
-    "slavedVariation": 352.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 100,
@@ -29120,14 +29180,14 @@
     "slavedVariation": 13.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 220,
     "name": "TSUSHIMA",
-    "longitude": 129.33700562,
+    "longitude": 129.337011111,
     "frequency": 1114500,
-    "latitude": 34.2815094,
+    "latitude": 34.281508333,
     "identifier": "VCE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -29390,14 +29450,14 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 64,
-    "name": "UBE",
-    "longitude": 131.28352356,
+    "name": "UBE (YAMAGUCHI)",
+    "longitude": 131.283530556,
     "frequency": 1108000,
-    "latitude": 33.93562698,
+    "latitude": 33.935627778,
     "identifier": "UBE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
     "receptionRange": 130,
@@ -30380,14 +30440,14 @@
     "slavedVariation": 7.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 49,
     "name": "WAKKANAI",
-    "longitude": 141.8056488,
+    "longitude": 141.805647222,
     "frequency": 1153000,
-    "latitude": 45.40735626,
+    "latitude": 45.407358333,
     "identifier": "WKE",
-    "slavedVariation": 350.0
+    "slavedVariation": -10.0
   },
   {
     "receptionRange": 60,
@@ -31421,13 +31481,13 @@
   },
   {
     "receptionRange": 100,
-    "elevation": 190,
+    "elevation": 185,
     "name": "YAKUSHIMA",
-    "longitude": 130.66271973,
+    "longitude": 130.662716667,
     "frequency": 1170000,
-    "latitude": 30.37944794,
+    "latitude": 30.379447222,
     "identifier": "YKE",
-    "slavedVariation": 354.0
+    "slavedVariation": -6.0
   },
   {
     "receptionRange": 130,
@@ -31460,14 +31520,14 @@
     "slavedVariation": 2.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 361,
     "name": "YAMAGATA",
-    "longitude": 140.35795593,
+    "longitude": 140.357952778,
     "frequency": 1130000,
-    "latitude": 38.38862228,
+    "latitude": 38.388622222,
     "identifier": "YTE",
-    "slavedVariation": 352.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 130,
@@ -31530,14 +31590,14 @@
     "slavedVariation": 353.1
   },
   {
-    "receptionRange": 130,
+    "receptionRange": 125,
     "elevation": 101,
     "name": "YAO",
-    "longitude": 135.59370422,
+    "longitude": 135.593705556,
     "frequency": 1146000,
-    "latitude": 34.59845734,
+    "latitude": 34.598458333,
     "identifier": "YOE",
-    "slavedVariation": 353.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 130,
@@ -31720,24 +31780,24 @@
     "slavedVariation": 0.0
   },
   {
-    "receptionRange": 25,
+    "receptionRange": 130,
     "elevation": 39,
     "name": "YONAGO",
-    "longitude": 133.23252869,
+    "longitude": 133.232527778,
     "frequency": 1141000,
-    "latitude": 35.49343491,
+    "latitude": 35.493436111,
     "identifier": "YVE",
-    "slavedVariation": 353.0
+    "slavedVariation": -7.0
   },
   {
-    "receptionRange": 100,
+    "receptionRange": 130,
     "elevation": 315,
     "name": "YONAGUNI",
-    "longitude": 122.9977417,
+    "longitude": 122.997738889,
     "frequency": 1150500,
-    "latitude": 24.46492195,
+    "latitude": 24.464922222,
     "identifier": "YNE",
-    "slavedVariation": 356.0
+    "slavedVariation": -4.0
   },
   {
     "receptionRange": 25,
@@ -31770,14 +31830,14 @@
     "slavedVariation": 7.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 63,
+    "receptionRange": 130,
+    "elevation": 74,
     "name": "YORON",
-    "longitude": 128.39802551,
+    "longitude": 128.398025,
     "frequency": 1122500,
-    "latitude": 27.04437447,
+    "latitude": 27.044375,
     "identifier": "YRE",
-    "slavedVariation": 355.0
+    "slavedVariation": -5.0
   },
   {
     "receptionRange": 40,
@@ -31800,14 +31860,14 @@
     "slavedVariation": 357.9
   },
   {
-    "receptionRange": 25,
+    "receptionRange": 130,
     "elevation": 286,
-    "name": "YUWA",
-    "longitude": 140.18693542,
+    "name": "YUWA (AKITA)",
+    "longitude": 140.186936111,
     "frequency": 1106500,
-    "latitude": 39.61712646,
+    "latitude": 39.617127778,
     "identifier": "UWE",
-    "slavedVariation": 352.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 130,
@@ -31930,14 +31990,14 @@
     "slavedVariation": 4.0
   },
   {
-    "receptionRange": 25,
+    "receptionRange": 130,
     "elevation": 0,
     "name": "ZAO-YAMADA",
     "longitude": 140.33580017,
-    "frequency": 1108000,
+    "frequency": 1137500,
     "latitude": 38.19000244,
     "identifier": "ZMO",
-    "slavedVariation": 352.0
+    "slavedVariation": -8.0
   },
   {
     "receptionRange": 130,
