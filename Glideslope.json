@@ -24600,15 +24600,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 28.984, 
+    "bearing": 28.50, 
     "airportICAO": "KWVL", 
-    "elevation": 277, 
+    "elevation": 332, 
     "name": "GS", 
-    "longitude": -69.678581, 
-    "associatedRunwayNumber": "05", 
+    "longitude": -69.680642, 
+    "associatedRunwayNumber": "5", 
     "frequency": 110500, 
-    "glideslope": 3.00028492, 
-    "latitude": 44.528336, 
+    "glideslope": 3.0002850, 
+    "latitude": 44.52652127, 
     "identifier": "IRLU"
   }, 
   {
