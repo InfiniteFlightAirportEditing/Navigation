@@ -14800,6 +14800,16 @@
     "slavedVariation": 0.0
   },
   {
+    "receptionRange": 40,
+    "elevation": 22,
+    "name": "KOMATSU",
+    "longitude": 136.241531,
+    "frequency": 1120000,
+    "latitude": 36.234729,
+    "identifier": "KMC",
+    "slavedVariation": 352.0
+  },
+  {
     "receptionRange": 130,
     "elevation": 36,
     "name": "KONA",
@@ -19478,6 +19488,16 @@
     "latitude": 48.180325,
     "identifier": "MUN",
     "slavedVariation": 1.0
+  },
+  {
+    "receptionRange": 40,
+    "elevation": 95,
+    "name": "MUKAWA",
+    "longitude": 141.572027,
+    "frequency": 1164000,
+    "latitude": 42.331802,
+    "identifier": "MKE",
+    "slavedVariation": 351.0
   },
   {
     "receptionRange": 40,
@@ -26288,26 +26308,6 @@
     "latitude": 32.75597382,
     "identifier": "SUC",
     "slavedVariation": 355.0
-  },
-  {
-    "receptionRange": 130,
-    "elevation": 66,
-    "name": "SHIMOJISHIMA",
-    "longitude": 125.143805556,
-    "frequency": 1171000,
-    "latitude": 24.821933333,
-    "identifier": "SJE",
-    "slavedVariation": -3.0
-  },
-  {
-    "receptionRange": 100,
-    "elevation": 244,
-    "name": "SHINODA",
-    "longitude": 135.44833374,
-    "frequency": 1123000,
-    "latitude": 34.49194717,
-    "identifier": "SKE",
-    "slavedVariation": 353.0
   },
   {
     "receptionRange": 130,
