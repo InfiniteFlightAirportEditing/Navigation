@@ -951,11 +951,11 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 3546,
+    "elevation": 3544,
     "name": "ANBU",
-    "longitude": 121.52222443,
+    "longitude": 121.52225,
     "frequency": 1125000,
-    "latitude": 25.17694473,
+    "latitude": 25.176861111,
     "identifier": "APU",
     "slavedVariation": 356.0
   },
@@ -5187,7 +5187,7 @@
     "frequency": 1123000,
     "latitude": 22.219541667,
     "identifier": "CH",
-    "slavedVariation": 0.0
+    "slavedVariation": 357.0
   },
   {
     "receptionRange": 130,
@@ -11721,6 +11721,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 414,
+    "name": "HENGCHUN",
+    "longitude": 120.843583333,
+    "frequency": 1137000,
+    "latitude": 21.927777778,
+    "identifier": "HCN",
+    "slavedVariation": 354.7
+  },
+  {
+    "receptionRange": 130,
     "elevation": 13,
     "name": "HENGSHA",
     "longitude": 121.84333038,
@@ -12091,11 +12101,11 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 46,
+    "elevation": 583,
     "name": "HOULONG",
-    "longitude": 120.78333282,
+    "longitude": 120.727166667,
     "frequency": 1149000,
-    "latitude": 24.63999939,
+    "latitude": 24.559805556,
     "identifier": "HLG",
     "slavedVariation": 357.0
   },
@@ -14801,6 +14811,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 22,
+    "name": "KOMATSU",
+    "longitude": 136.404252778,
+    "frequency": 1121500,
+    "latitude": 36.396469444,
+    "identifier": "KMC",
+    "slavedVariation": 352.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 36,
     "name": "KONA",
     "longitude": -156.0449203,
@@ -17161,11 +17181,11 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 122,
+    "elevation": 77,
     "name": "MAGONG",
-    "longitude": 119.6372757,
+    "longitude": 119.637277778,
     "frequency": 1152000,
-    "latitude": 23.59544373,
+    "latitude": 23.595444444,
     "identifier": "MKG",
     "slavedVariation": 357.0
   },
