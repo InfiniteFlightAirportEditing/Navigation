@@ -4022,12 +4022,12 @@
   {
     "receptionRange": 130,
     "elevation": 735,
-    "name": "CABO",
-    "longitude": -66.05005646,
+    "name": "CABO CODERA",
+    "longitude": -66.05,
     "frequency": 1135000,
-    "latitude": 10.57355595,
+    "latitude": 10.57361,
     "identifier": "CBC",
-    "slavedVariation": 348.0
+    "slavedVariation": 347.0
   },
   {
     "receptionRange": 130,
