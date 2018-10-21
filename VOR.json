@@ -12115,7 +12115,7 @@
     "name": "HOULONG",
     "longitude": 120.727166667,
     "frequency": 1149000,
-    "latitude": 24.559805556,
+    "latitude": 24.176861111,
     "identifier": "HLG",
     "slavedVariation": 357.0
   },
@@ -26488,6 +26488,16 @@
     "latitude": 13.41499996,
     "identifier": "SRE",
     "slavedVariation": 0.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 35,
+    "name": "SIGANG",
+    "longitude": 120.373333333,
+    "frequency": 1133000,
+    "latitude": 23.595277778,
+    "identifier": "TNN",
+    "slavedVariation": 356.0
   },
   {
     "receptionRange": 130,
