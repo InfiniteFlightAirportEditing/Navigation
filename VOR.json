@@ -6743,9 +6743,9 @@
     "receptionRange": 130,
     "elevation": 100,
     "name": "DAWANGZHUANG",
-    "longitude": 116.57167053,
+    "longitude": 116.575,
     "frequency": 1127000,
-    "latitude": 39.19166565,
+    "latitude": 39.202777778,
     "identifier": "VYK",
     "slavedVariation": 353.8
   },
@@ -22643,10 +22643,10 @@
     "receptionRange": 130,
     "elevation": 98,
     "name": "PIXIAN",
-    "longitude": 117.98000336,
-    "frequency": 1178000,
-    "latitude": 34.31499863,
-    "identifier": "PIX",
+    "longitude": 118.008333333,
+    "frequency": 1124000,
+    "latitude": 34.286111111,
+    "identifier": "DPX",
     "slavedVariation": 354.6
   },
   {
@@ -23130,6 +23130,16 @@
     "slavedVariation": 8.0
   },
   {
+    "receptionRange": 130,
+    "elevation": 100,
+    "name": "POTOU",
+    "longitude": 116.583333333,
+    "frequency": 1159000,
+    "latitude": 38.108333333,
+    "identifier": "BTO",
+    "slavedVariation": 354.0
+  },
+  {
     "receptionRange": 40,
     "elevation": 285,
     "name": "POTTSTOWN",
@@ -23293,9 +23303,9 @@
     "receptionRange": 130,
     "elevation": 13,
     "name": "PUDONG",
-    "longitude": 121.77999878,
+    "longitude": 121.783333333,
     "frequency": 1169000,
-    "latitude": 31.16833305,
+    "latitude": 31.175,
     "identifier": "PUD",
     "slavedVariation": 354.7
   },
@@ -31411,11 +31421,11 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 41,
+    "elevation": 124,
     "name": "WUXI",
-    "longitude": 120.33333588,
+    "longitude": 120.197222222,
     "frequency": 1139000,
-    "latitude": 31.58333206,
+    "latitude": 31.75,
     "identifier": "VMB",
     "slavedVariation": 354.8
   },
