@@ -1083,9 +1083,9 @@
     "receptionRange": 125,
     "elevation": 900,
     "name": "ANYANG",
-    "longitude": 126.92861176,
+    "longitude": 126.928333333,
     "frequency": 1155000,
-    "latitude": 37.41389084,
+    "latitude": 37.413611111,
     "identifier": "SEL",
     "slavedVariation": 352.0
   },
@@ -3930,12 +3930,12 @@
     "slavedVariation": 8.0
   },
   {
-    "receptionRange": 100,
-    "elevation": 1500,
+    "receptionRange": 130,
+    "elevation": 1900,
     "name": "BUSAN",
-    "longitude": 128.99969482,
+    "longitude": 128.999444444,
     "frequency": 1140000,
-    "latitude": 35.1233902,
+    "latitude": 35.1225,
     "identifier": "PSN",
     "slavedVariation": 353.0
   },
@@ -4451,13 +4451,13 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 0,
-    "name": "CAP",
-    "longitude": -72.1966629,
-    "frequency": 1139000,
-    "latitude": 19.72783279,
+    "elevation": 414,
+    "name": "HENGCHUN",
+    "longitude": 120.843583333,
+    "frequency": 1137000,
+    "latitude": 21.927777778,
     "identifier": "HCN",
-    "slavedVariation": 353.0
+    "slavedVariation": 356.0
   },
   {
     "receptionRange": 130,
@@ -6551,11 +6551,11 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 2142,
-    "name": "DALSUNG",
-    "longitude": 128.59083557,
+    "elevation": 2200,
+    "name": "DALSEONG",
+    "longitude": 128.590833333,
     "frequency": 1122000,
-    "latitude": 35.81000137,
+    "latitude": 35.809722222,
     "identifier": "TGU",
     "slavedVariation": 353.0
   },
@@ -9693,9 +9693,9 @@
     "receptionRange": 100,
     "elevation": 3360,
     "name": "GANGWON",
-    "longitude": 128.75361633,
+    "longitude": 128.753888889,
     "frequency": 1156000,
-    "latitude": 37.70055771,
+    "latitude": 37.700833333,
     "identifier": "KAE",
     "slavedVariation": 352.0
   },
@@ -10991,6 +10991,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 0,
+    "name": "GUNSAN",
+    "longitude": 126.611388889,
+    "frequency": 1128000,
+    "latitude": 35.910277778,
+    "identifier": "KUZ",
+    "slavedVariation": 353.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 1816,
     "name": "GURIAT",
     "longitude": 37.28655624,
@@ -12141,11 +12151,11 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 127,
+    "elevation": 203,
     "name": "HUAIROU",
-    "longitude": 116.74833679,
+    "longitude": 116.758333333,
     "frequency": 1136000,
-    "latitude": 40.33000183,
+    "latitude": 40.33888888,
     "identifier": "HUR",
     "slavedVariation": 353.5
   },
@@ -12523,9 +12533,9 @@
     "receptionRange": 25,
     "elevation": 23,
     "name": "INCHEON",
-    "longitude": 126.430336,
+    "longitude": 126.430333333,
     "frequency": 1138000,
-    "latitude": 37.49491882,
+    "latitude": 37.494916667,
     "identifier": "NCN",
     "slavedVariation": 352.0
   },
@@ -14398,6 +14408,16 @@
     "latitude": 24.58588982,
     "identifier": "EYW",
     "slavedVariation": 1.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 295,
+    "name": "KHABAROVSK",
+    "longitude": 135.210277777,
+    "frequency": 1123000,
+    "latitude": 48.545,
+    "identifier": "HAB",
+    "slavedVariation": 348.0
   },
   {
     "receptionRange": 130,
@@ -22721,12 +22741,12 @@
   },
   {
     "receptionRange": 25,
-    "elevation": 70,
+    "elevation": 800,
     "name": "POHANG",
-    "longitude": 129.40882874,
-    "frequency": 1096000,
-    "latitude": 35.98637772,
-    "identifier": "NPH",
+    "longitude": 129.474444444,
+    "frequency": 1125000,
+    "latitude": 35.977222222,
+    "identifier": "KPO",
     "slavedVariation": 353.0
   },
   {
@@ -26968,6 +26988,16 @@
     "latitude": 7.18879223,
     "identifier": "SKL",
     "slavedVariation": 0.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 100,
+    "name": "SONGTAN",
+    "longitude": 127.0316667,
+    "frequency": 1169000,
+    "latitude": 37.094444444,
+    "identifier": "SOT",
+    "slavedVariation": 352.0
   },
   {
     "receptionRange": 120,
@@ -31658,6 +31688,16 @@
     "latitude": 31.89761162,
     "identifier": "YZD",
     "slavedVariation": 2.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 400,
+    "name": "YECHEON",
+    "longitude": 128.325277778,
+    "frequency": 1148000,
+    "latitude": 36.631944444,
+    "identifier": "CUN",
+    "slavedVariation": 352.0
   },
   {
     "receptionRange": 130,
