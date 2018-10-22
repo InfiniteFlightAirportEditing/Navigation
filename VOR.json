@@ -10123,9 +10123,9 @@
     "receptionRange": 25,
     "elevation": 49,
     "name": "GIMPO",
-    "longitude": 126.79203033,
+    "longitude": 126.792027778,
     "frequency": 1136000,
-    "latitude": 37.55752945,
+    "latitude": 37.557527778,
     "identifier": "KIP",
     "slavedVariation": 352.0
   },
@@ -30588,6 +30588,16 @@
     "latitude": 43.7733345,
     "identifier": "LJB",
     "slavedVariation": 350.4
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 23,
+    "name": "WANGSAN",
+    "longitude": 126.333333333,
+    "frequency": 1129000,
+    "latitude": 37.432944444,
+    "identifier": "WNG",
+    "slavedVariation": 352.0
   },
   {
     "receptionRange": 130,
