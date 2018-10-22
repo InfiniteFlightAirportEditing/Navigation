@@ -30591,6 +30591,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 23,
+    "name": "WANGSAN",
+    "longitude": 126.333333333,
+    "frequency": 1129000,
+    "latitude": 37.432944444,
+    "identifier": "WNG",
+    "slavedVariation": 352.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 1051,
     "name": "WANGQING",
     "longitude": 129.78334045,
