@@ -3283,9 +3283,9 @@
     "receptionRange": 130,
     "elevation": 520,
     "name": "BOSE",
-    "longitude": 106.64833069,
+    "longitude": 106.652777778,
     "frequency": 1159000,
-    "latitude": 23.89500046,
+    "latitude": 23.897222222,
     "identifier": "BSE",
     "slavedVariation": 0.0
   },
@@ -5938,6 +5938,16 @@
     "latitude": -19.5581665,
     "identifier": "CNF",
     "slavedVariation": 340.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 253,
+    "name": "CONGHUA",
+    "longitude": 113.588888889,
+    "frequency": 1130000,
+    "latitude": 23.591666667,
+    "identifier": "CON",
+    "slavedVariation": 358.0
   },
   {
     "receptionRange": 130,
@@ -9733,9 +9743,9 @@
     "receptionRange": 130,
     "elevation": 53,
     "name": "GAOYAO",
-    "longitude": 112.48666382,
+    "longitude": 112.488888889,
     "frequency": 1165000,
-    "latitude": 23.06999969,
+    "latitude": 23.072222222,
     "identifier": "GYA",
     "slavedVariation": 357.8
   },
@@ -9953,9 +9963,9 @@
     "receptionRange": 130,
     "elevation": 3763,
     "name": "GENGMA",
-    "longitude": 99.41166687,
+    "longitude": 99.413888889,
     "frequency": 1147000,
-    "latitude": 23.53166771,
+    "latitude": 23.536111111,
     "identifier": "GMA",
     "slavedVariation": 0.0
   },
@@ -12183,9 +12193,9 @@
     "receptionRange": 40,
     "elevation": 3983,
     "name": "HUAYUAN",
-    "longitude": 109.44833374,
+    "longitude": 109.45,
     "frequency": 1120000,
-    "latitude": 28.57666779,
+    "latitude": 28.588888889,
     "identifier": "HUY",
     "slavedVariation": 357.5
   },
@@ -13313,9 +13323,9 @@
     "receptionRange": 130,
     "elevation": 98,
     "name": "JIUTING",
-    "longitude": 121.33999634,
+    "longitude": 121.347222222,
     "frequency": 1096000,
-    "latitude": 31.125,
+    "latitude": 31.127777778,
     "identifier": "JTN",
     "slavedVariation": 354.8
   },
@@ -15561,6 +15571,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 413,
+    "name": "LAIBIN",
+    "longitude": 109.155555556,
+    "frequency": 1137000,
+    "latitude": 23.772222222,
+    "identifier": "LBN",
+    "slavedVariation": 358.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 0,
     "name": "LAJES",
     "longitude": -27.104388889,
@@ -15803,9 +15823,9 @@
     "receptionRange": 130,
     "elevation": 472,
     "name": "LAOLIANGCANG",
-    "longitude": 112.21166992,
+    "longitude": 112.213888889,
     "frequency": 1162000,
-    "latitude": 28.06833267,
+    "latitude": 28.069444444,
     "identifier": "LLC",
     "slavedVariation": 357.1
   },
@@ -16400,6 +16420,16 @@
     "slavedVariation": 354.0
   },
   {
+    "receptionRange": 130,
+    "elevation": 354,
+    "name": "LINLI",
+    "longitude": 111.658333333,
+    "frequency": 1175000,
+    "latitude": 29.355555556,
+    "identifier": "LIN",
+    "slavedVariation": 357.0
+  },
+  {
     "receptionRange": 25,
     "elevation": 343,
     "name": "LINNA",
@@ -16458,6 +16488,16 @@
     "latitude": 34.67766571,
     "identifier": "LIT",
     "slavedVariation": 5.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 13,
+    "name": "LIUPANSHUI",
+    "longitude": 105.038888889,
+    "frequency": 1163000,
+    "latitude": 26.65,
+    "identifier": "LPS",
+    "slavedVariation": 359.0
   },
   {
     "receptionRange": 130,
@@ -16603,9 +16643,9 @@
     "receptionRange": 130,
     "elevation": 103,
     "name": "LONGKOU",
-    "longitude": 113.69667053,
+    "longitude": 113.697222222,
     "frequency": 1158000,
-    "latitude": 29.91666794,
+    "latitude": 29.911111111,
     "identifier": "LKO",
     "slavedVariation": 356.4
   },
@@ -16850,6 +16890,16 @@
     "slavedVariation": 358.0
   },
   {
+    "receptionRange": 130,
+    "elevation": 125,
+    "name": "LUOGANG",
+    "longitude": 117.302777778,
+    "frequency": 1167000,
+    "latitude": 31.780555556,
+    "identifier": "HFE",
+    "slavedVariation": 356.0
+  },
+  {
     "receptionRange": 50,
     "elevation": 696,
     "name": "LUONET",
@@ -16893,9 +16943,9 @@
     "receptionRange": 130,
     "elevation": 5592,
     "name": "LUXI",
-    "longitude": 103.74333191,
+    "longitude": 103.75,
     "frequency": 1123000,
-    "latitude": 24.53833389,
+    "latitude": 24.547222222,
     "identifier": "LXI",
     "slavedVariation": 0.0
   },
@@ -19841,13 +19891,13 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 420,
+    "elevation": 469,
     "name": "NANNING",
-    "longitude": 108.19667053,
-    "frequency": 1145000,
-    "latitude": 22.625,
-    "identifier": "NNG",
-    "slavedVariation": 0.0
+    "longitude": 108.158333333,
+    "frequency": 1124000,
+    "latitude": 22.586111111,
+    "identifier": "WUY",
+    "slavedVariation": 358.0
   },
   {
     "receptionRange": 130,
@@ -19883,11 +19933,21 @@
     "receptionRange": 130,
     "elevation": 128,
     "name": "NANXIONG",
-    "longitude": 114.27166748,
+    "longitude": 114.277777778,
     "frequency": 1156000,
-    "latitude": 25.10000038,
+    "latitude": 25.102777778,
     "identifier": "NNX",
     "slavedVariation": 357.2
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 197,
+    "name": "NANXUN",
+    "longitude": 120.438888889,
+    "frequency": 1165000,
+    "latitude": 30.905555556,
+    "identifier": "NXD",
+    "slavedVariation": 356.0
   },
   {
     "receptionRange": 130,
@@ -21750,6 +21810,26 @@
     "slavedVariation": 0.0
   },
   {
+    "receptionRange": 130,
+    "elevation": 9146,
+    "name": "PANLONG",
+    "longitude": 114.880555556,
+    "frequency": 1116000,
+    "latitude": 25.813888889,
+    "identifier": "PLT",
+    "slavedVariation": 357.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 9146,
+    "name": "PANLONG",
+    "longitude": 102.933333333,
+    "frequency": 1108000,
+    "latitude": 25.402777778,
+    "identifier": "XFA",
+    "slavedVariation": 359.0
+  },
+  {
     "receptionRange": 40,
     "elevation": 2060,
     "name": "PANOCHE",
@@ -22553,9 +22633,9 @@
     "receptionRange": 130,
     "elevation": 20,
     "name": "PINGZHOU",
-    "longitude": 113.19000244,
+    "longitude": 113.194444444,
     "frequency": 1141000,
-    "latitude": 23.02000046,
+    "latitude": 23.025,
     "identifier": "POU",
     "slavedVariation": 357.7
   },
@@ -23553,9 +23633,9 @@
     "receptionRange": 130,
     "elevation": 4140,
     "name": "QIANXI",
-    "longitude": 106.02999878,
+    "longitude": 106.038888889,
     "frequency": 1131000,
-    "latitude": 27.04166794,
+    "latitude": 27.047222222,
     "identifier": "QNX",
     "slavedVariation": 0.0
   },
@@ -26173,9 +26253,9 @@
     "receptionRange": 130,
     "elevation": 224,
     "name": "SHANGRAO",
-    "longitude": 117.96666718,
+    "longitude": 117.972222222,
     "frequency": 1140000,
-    "latitude": 28.41666794,
+    "latitude": 28.416666667,
     "identifier": "SHR",
     "slavedVariation": 356.0
   },
@@ -28573,9 +28653,9 @@
     "receptionRange": 130,
     "elevation": 141,
     "name": "TIANHE",
-    "longitude": 114.20500183,
+    "longitude": 114.205555556,
     "frequency": 1122000,
-    "latitude": 30.78499985,
+    "latitude": 30.791666667,
     "identifier": "WHA",
     "slavedVariation": 356.2
   },
@@ -28893,9 +28973,9 @@
     "receptionRange": 130,
     "elevation": 171,
     "name": "TONGLU",
-    "longitude": 119.65833282,
+    "longitude": 119.666666667,
     "frequency": 1159000,
-    "latitude": 29.76333237,
+    "latitude": 29.772222222,
     "identifier": "TOL",
     "slavedVariation": 355.4
   },
@@ -30870,6 +30950,16 @@
     "slavedVariation": 19.0
   },
   {
+    "receptionRange": 130,
+    "elevation": 141,
+    "name": "WENGYUAN",
+    "longitude": 114.119444444,
+    "frequency": 1139000,
+    "latitude": 24.35,
+    "identifier": "WYN",
+    "slavedVariation": 358.0
+  },
+  {
     "receptionRange": 60,
     "elevation": 0,
     "name": "WESER",
@@ -31508,6 +31598,16 @@
     "latitude": 27.99833298,
     "identifier": "XIC",
     "slavedVariation": 0.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 7585,
+    "name": "XISHAN",
+    "longitude": 102.522222222,
+    "frequency": 1106000,
+    "latitude": 25.091666667,
+    "identifier": "SGM",
+    "slavedVariation": 359.0
   },
   {
     "receptionRange": 130,
