@@ -2190,6 +2190,16 @@
     "slavedVariation": 8.0
   },
   {
+    "receptionRange": 40,
+    "elevation": 4037,
+    "name": "BRASILIA",
+    "longitude": -48.02194,
+    "frequency": 1163000,
+    "latitude": -15.87194,
+    "identifier": "BSI",
+    "slavedVariation": 339.0
+  },
+  {
     "receptionRange": 130,
     "elevation": 15,
     "name": "BASRAH",
