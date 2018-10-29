@@ -25661,6 +25661,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 114,
+    "name": "SANTA MONICA",
+    "longitude": -118.456715556,
+    "frequency": 1108000,
+    "latitude": 34.010245,
+    "identifier": "SMO",
+    "slavedVariation": 15
+  },
+  {
+    "receptionRange": 130,
     "elevation": 2021,
     "name": "SANTA ROSA DE CONLARA",
     "longitude": -65.18333435,
