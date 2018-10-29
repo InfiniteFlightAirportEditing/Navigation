@@ -19701,11 +19701,11 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 278,
+    "elevation": 239,
     "name": "NADZAB",
-    "longitude": 146.70895,
+    "longitude": 146.713888889,
     "frequency": 1139000,
-    "latitude": -6.568333333,
+    "latitude": -6.569444444,
     "identifier": "NZ",
     "slavedVariation": 5.0
   },
@@ -23110,6 +23110,16 @@
     "slavedVariation": 20.0
   },
   {
+    "receptionRange": 130,
+    "elevation": 146,
+    "name": "PORT MORESBY",
+    "longitude": 147.225,
+    "frequency": 1170000,
+    "latitude": -9.455555556,
+    "identifier": "PY",
+    "slavedVariation": 6.0
+  },
+  {
     "receptionRange": 160,
     "elevation": 11,
     "name": "PORTO",
@@ -25392,7 +25402,7 @@
   {
     "receptionRange": 130,
     "elevation": 3623,
-    "name": "SAN",
+    "name": "SAN MARCUS",
     "longitude": -119.77100372,
     "frequency": 1149000,
     "latitude": 34.50952911,
@@ -25648,6 +25658,16 @@
     "latitude": 10.96453857,
     "identifier": "STA",
     "slavedVariation": 353.4
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 114,
+    "name": "SANTA MONICA",
+    "longitude": -118.456715556,
+    "frequency": 1108000,
+    "latitude": 34.010245,
+    "identifier": "SMO",
+    "slavedVariation": 15
   },
   {
     "receptionRange": 130,
@@ -26802,10 +26822,10 @@
   {
     "receptionRange": 190,
     "elevation": 39,
-    "name": "SIU",
-    "longitude": 113.98207092,
+    "name": "SIU MO TO",
+    "longitude": 113.982072222,
     "frequency": 1148000,
-    "latitude": 22.33761978,
+    "latitude": 22.337619444,
     "identifier": "SMT",
     "slavedVariation": 358.0
   },
@@ -29458,6 +29478,16 @@
     "latitude": 7.25083351,
     "identifier": "TMO",
     "slavedVariation": 346.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 820,
+    "name": "TUNG LUNG",
+    "longitude": 114.293138889,
+    "frequency": 1161000,
+    "latitude": 22.247894444,
+    "identifier": "TD",
+    "slavedVariation": 357.0
   },
   {
     "receptionRange": 40,
