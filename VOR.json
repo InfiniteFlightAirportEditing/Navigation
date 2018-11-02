@@ -1,6 +1,36 @@
 [
   {
     "receptionRange": 130,
+    "elevation": 4851,
+    "name": "BAGRAM",
+    "longitude": 69.2715000,
+    "frequency": 1127000,
+    "latitude": 34.9503889,
+    "identifier": "BGM",
+    "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 3290,
+    "name": "HERAT",
+    "longitude": 62.2327778,
+    "frequency": 1162000,
+    "latitude": 34.2069444,
+    "identifier": "AHR",
+    "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 3284,
+    "name": "KANDAHAR",
+    "longitude": 65.8252222,
+    "frequency": 1160000,
+    "latitude": 31.4942500,
+    "identifier": "KDR",
+    "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 10,
     "name": "ABADAN",
     "longitude": 48.21760941,
