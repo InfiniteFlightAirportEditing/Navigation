@@ -7,6 +7,7 @@
     "name": "GS", 
     "longitude": 65.8300278, 
     "associatedRunwayNumber": "23", 
+    "glideslope": 3.0023508,
     "frequency": 108550, 
     "latitude": 31.4953056, 
     "identifier": "I-OKN", 
