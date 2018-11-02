@@ -1,5 +1,18 @@
 [ 
   {
+    "receptionRange": 18, 
+    "bearing": 148.638, 
+    "airportICAO": "OAKN", 
+    "elevation": 128, 
+    "name": "GS", 
+    "longitude": 065.8300278, 
+    "associatedRunwayNumber": "23", 
+    "frequency": 108550, 
+    "latitude": 31.4953056, 
+    "identifier": "I-OKN", 
+    "type": 4
+  }, 
+ {
     "receptionRange": 10, 
     "bearing": 149.22, 
     "airportICAO": "AYPY", 
