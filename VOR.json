@@ -23140,16 +23140,6 @@
     "slavedVariation": 20.0
   },
   {
-    "receptionRange": 130,
-    "elevation": 146,
-    "name": "PORT MORESBY",
-    "longitude": 147.225,
-    "frequency": 1170000,
-    "latitude": -9.455555556,
-    "identifier": "PY",
-    "slavedVariation": 6.0
-  },
-  {
     "receptionRange": 160,
     "elevation": 11,
     "name": "PORTO",
