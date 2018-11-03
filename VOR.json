@@ -620,6 +620,16 @@
     "slavedVariation": 11.0
   },
   {
+    "receptionRange": 50,
+    "elevation": 48,
+    "name": "ALDEIA (SAO PEDRO DA)",
+    "longitude": -42.09533,
+    "frequency": 1121000,
+    "latitude": -22.81278,
+    "identifier": "ADA",
+    "slavedVariation": 338.0
+  },
+  {
     "receptionRange": 130,
     "elevation": 1276,
     "name": "ALEPPO",
@@ -3470,6 +3480,16 @@
     "slavedVariation": 341.0
   },
   {
+    "receptionRange": 200,
+    "elevation": 4037,
+    "name": "BRASILIA",
+    "longitude": -48.02194,
+    "frequency": 1163000,
+    "latitude": -15.87194,
+    "identifier": "BSI",
+    "slavedVariation": 339.0
+  },
+  {
     "receptionRange": 175,
     "elevation": 5866,
     "name": "BRASOV",
@@ -4051,16 +4071,6 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 735,
-    "name": "CABO CODERA",
-    "longitude": -66.05,
-    "frequency": 1135000,
-    "latitude": 10.57361,
-    "identifier": "CBC",
-    "slavedVariation": 347.0
-  },
-  {
-    "receptionRange": 130,
     "elevation": 262,
     "name": "CABO",
     "longitude": -71.64833069,
@@ -4068,6 +4078,16 @@
     "latitude": 17.93166733,
     "identifier": "DCR",
     "slavedVariation": 353.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 735,
+    "name": "CABO CODERA",
+    "longitude": -66.05,
+    "frequency": 1135000,
+    "latitude": 10.57361,
+    "identifier": "CBC",
+    "slavedVariation": 347.0
   },
   {
     "receptionRange": 130,
@@ -4791,13 +4811,13 @@
   },
   {
     "receptionRange": 200,
-    "elevation": 56,
-    "name": "CAXIAS",
-    "longitude": -43.33316803,
-    "frequency": 1130000,
-    "latitude": -22.77633286,
-    "identifier": "CAX",
-    "slavedVariation": 338.4
+    "elevation": 28,
+    "name": "CAXIAS (RIO DE JANEIRO)",
+    "longitude": -43.26,
+    "frequency": 1123000,
+    "latitude": -22.81708,
+    "identifier": "CXI",
+    "slavedVariation": 338.0
   },
   {
     "receptionRange": 130,
@@ -17811,13 +17831,13 @@
   },
   {
     "receptionRange": 200,
-    "elevation": 4,
+    "elevation": 16,
     "name": "MARICA",
-    "longitude": -42.89130783,
-    "frequency": 1140000,
-    "latitude": -22.96769333,
-    "identifier": "MRC",
-    "slavedVariation": 340.0
+    "longitude": -42.89094,
+    "frequency": 1148000,
+    "latitude": -22.96717,
+    "identifier": "MIA",
+    "slavedVariation": 337.0
   },
   {
     "receptionRange": 150,
@@ -22691,13 +22711,13 @@
   },
   {
     "receptionRange": 200,
-    "elevation": 318,
+    "elevation": 1200,
     "name": "PIRAI",
-    "longitude": -43.84049988,
+    "longitude": -43.8405,
     "frequency": 1150000,
-    "latitude": -22.45400047,
+    "latitude": -22.45406,
     "identifier": "PAI",
-    "slavedVariation": 340.0
+    "slavedVariation": 339.0
   },
   {
     "receptionRange": 40,
@@ -23140,14 +23160,14 @@
     "slavedVariation": 20.0
   },
   {
-    "receptionRange": 160,
-    "elevation": 11,
-    "name": "PORTO",
-    "longitude": -51.16516876,
-    "frequency": 1140000,
-    "latitude": -29.99600029,
-    "identifier": "POR",
-    "slavedVariation": 347.0
+    "receptionRange": 130,
+    "elevation": 127,
+    "name": "PORTO (RIO DE JANEIRO TMA)",
+    "longitude": -42.85742,
+    "frequency": 1146000,
+    "latitude": -22.71539,
+    "identifier": "PCX",
+    "slavedVariation": 337.0
   },
   {
     "receptionRange": 200,
@@ -23160,14 +23180,24 @@
     "slavedVariation": 341.0
   },
   {
+    "receptionRange": 160,
+    "elevation": 11,
+    "name": "PORTO",
+    "longitude": -51.16516876,
+    "frequency": 1140000,
+    "latitude": -29.99600029,
+    "identifier": "POR",
+    "slavedVariation": 347.0
+  },
+  {
     "receptionRange": 130,
-    "elevation": 400,
-    "name": "PORTO SANTO",
-    "longitude": -16.350638889,
-    "frequency": 1149000,
-    "latitude": 33.090416667,
-    "identifier": "SNT",
-    "slavedVariation": 352.0
+    "elevation": 200,
+    "name": "PORTO",
+    "longitude": -8.687833333,
+    "frequency": 1141000,
+    "latitude": 41.273000000,
+    "identifier": "PRT",
+    "slavedVariation": -3.0
   },
   {
     "receptionRange": 200,
@@ -23181,23 +23211,13 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 201,
-    "name": "PORTO",
-    "longitude": -42.85749817,
-    "frequency": 1146000,
-    "latitude": -22.71533394,
-    "identifier": "PCX",
-    "slavedVariation": 339.0
-  },
-  {
-    "receptionRange": 130,
-    "elevation": 200,
-    "name": "PORTO",
-    "longitude": -8.687833333,
-    "frequency": 1141000,
-    "latitude": 41.273000000,
-    "identifier": "PRT",
-    "slavedVariation": -3.0
+    "elevation": 400,
+    "name": "PORTO SANTO",
+    "longitude": -16.350638889,
+    "frequency": 1149000,
+    "latitude": 33.090416667,
+    "identifier": "SNT",
+    "slavedVariation": 352.0
   },
   {
     "receptionRange": 130,
@@ -25600,6 +25620,16 @@
     "slavedVariation": 4.0
   },
   {
+    "receptionRange": 40,
+    "elevation": 6268,
+    "name": "SANTA",
+    "longitude": -106.06494141,
+    "frequency": 1106000,
+    "latitude": 35.54052734,
+    "identifier": "SAF",
+    "slavedVariation": 13.0
+  },
+  {
     "receptionRange": 130,
     "elevation": 39,
     "name": "SANTA",
@@ -25608,16 +25638,6 @@
     "latitude": 8.9808054,
     "identifier": "STB",
     "slavedVariation": 352.0
-  },
-  {
-    "receptionRange": 40,
-    "elevation": 2090,
-    "name": "SANTA CATALINA",
-    "longitude": -118.41991425,
-    "frequency": 1114000,
-    "latitude": 33.37505722,
-    "identifier": "SXC",
-    "slavedVariation": 15.0
   },
   {
     "receptionRange": 40,
@@ -25630,24 +25650,24 @@
     "slavedVariation": 354.0
   },
   {
-    "receptionRange": 200,
-    "elevation": 5,
-    "name": "SANTA",
-    "longitude": -43.72768021,
-    "frequency": 1136000,
-    "latitude": -22.94962883,
-    "identifier": "SCR",
-    "slavedVariation": 339.0
+    "receptionRange": 40,
+    "elevation": 2090,
+    "name": "SANTA CATALINA",
+    "longitude": -118.41991425,
+    "frequency": 1114000,
+    "latitude": 33.37505722,
+    "identifier": "SXC",
+    "slavedVariation": 15.0
   },
   {
-    "receptionRange": 40,
-    "elevation": 6268,
-    "name": "SANTA",
-    "longitude": -106.06494141,
-    "frequency": 1106000,
-    "latitude": 35.54052734,
-    "identifier": "SAF",
-    "slavedVariation": 13.0
+    "receptionRange": 200,
+    "elevation": 10,
+    "name": "SANTA CRUZ (RIO)",
+    "longitude": -43.72742,
+    "frequency": 1136000,
+    "latitude": -22.94964,
+    "identifier": "SCR",
+    "slavedVariation": 339.0
   },
   {
     "receptionRange": 130,
@@ -25680,6 +25700,7 @@
     "slavedVariation": 353.4
   },
   {
+
     "receptionRange": 130,
     "elevation": 114,
     "name": "SANTA MONICA",
@@ -25718,6 +25739,16 @@
     "latitude": 38.50819397,
     "identifier": "STS",
     "slavedVariation": 16.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 2021,
+    "name": "SANTA ROSA DE CONLARA",
+    "longitude": -65.18333435,
+    "frequency": 1175000,
+    "latitude": -32.37361145,
+    "identifier": "SRC",
+    "slavedVariation": 358.0
   },
   {
     "receptionRange": 200,
