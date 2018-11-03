@@ -1,6 +1,36 @@
 [
   {
     "receptionRange": 130,
+    "elevation": 4851,
+    "name": "BAGRAM",
+    "longitude": 69.2715000,
+    "frequency": 1127000,
+    "latitude": 34.9503889,
+    "identifier": "BGM",
+    "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 3290,
+    "name": "HERAT",
+    "longitude": 62.2327778,
+    "frequency": 1162000,
+    "latitude": 34.2069444,
+    "identifier": "AHR",
+    "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 3284,
+    "name": "KANDAHAR",
+    "longitude": 65.8252222,
+    "frequency": 1160000,
+    "latitude": 31.4942500,
+    "identifier": "KDR",
+    "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 10,
     "name": "ABADAN",
     "longitude": 48.21760941,
@@ -19721,11 +19751,11 @@
   },
   {
     "receptionRange": 130,
-    "elevation": 278,
+    "elevation": 239,
     "name": "NADZAB",
-    "longitude": 146.70895,
+    "longitude": 146.713888889,
     "frequency": 1139000,
-    "latitude": -6.568333333,
+    "latitude": -6.569444444,
     "identifier": "NZ",
     "slavedVariation": 5.0
   },
@@ -25422,7 +25452,7 @@
   {
     "receptionRange": 130,
     "elevation": 3623,
-    "name": "SAN",
+    "name": "SAN MARCUS",
     "longitude": -119.77100372,
     "frequency": 1149000,
     "latitude": 34.50952911,
@@ -25678,6 +25708,27 @@
     "latitude": 10.96453857,
     "identifier": "STA",
     "slavedVariation": 353.4
+  },
+  {
+
+    "receptionRange": 130,
+    "elevation": 114,
+    "name": "SANTA MONICA",
+    "longitude": -118.456715556,
+    "frequency": 1108000,
+    "latitude": 34.010245,
+    "identifier": "SMO",
+    "slavedVariation": 15
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 2021,
+    "name": "SANTA ROSA DE CONLARA",
+    "longitude": -65.18333435,
+    "frequency": 1175000,
+    "latitude": -32.37361145,
+    "identifier": "SRC",
+    "slavedVariation": 358.0
   },
   {
     "receptionRange": 189,
@@ -26832,10 +26883,10 @@
   {
     "receptionRange": 190,
     "elevation": 39,
-    "name": "SIU",
-    "longitude": 113.98207092,
+    "name": "SIU MO TO",
+    "longitude": 113.982072222,
     "frequency": 1148000,
-    "latitude": 22.33761978,
+    "latitude": 22.337619444,
     "identifier": "SMT",
     "slavedVariation": 358.0
   },
@@ -29488,6 +29539,16 @@
     "latitude": 7.25083351,
     "identifier": "TMO",
     "slavedVariation": 346.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 820,
+    "name": "TUNG LUNG",
+    "longitude": 114.293138889,
+    "frequency": 1161000,
+    "latitude": 22.247894444,
+    "identifier": "TD",
+    "slavedVariation": 357.0
   },
   {
     "receptionRange": 40,

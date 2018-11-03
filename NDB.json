@@ -1,5 +1,14 @@
 [
   {
+    "name": "HERAT",
+    "identifier": "HRT",
+    "latitude": 34.2113889,
+    "longitude": 62.2315833,
+    "elevation": 3290,
+    "frequency": 412,
+    "receptionRange": 25
+  },
+  {
     "name": "AALBORG",
     "identifier": "GL",
     "latitude": 57.08382034,
