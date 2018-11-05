@@ -11693,9 +11693,9 @@
     "receptionRange": 130,
     "elevation": 1853,
     "name": "HECTOR",
-    "longitude": -116.46291351,
+    "longitude": -116.4629219,
     "frequency": 1127000,
-    "latitude": 34.79702759,
+    "latitude": 34.7970181,
     "identifier": "HEC",
     "slavedVariation": 15.0
   },
@@ -13573,9 +13573,9 @@
     "receptionRange": 40,
     "elevation": 5560,
     "name": "JULIAN",
-    "longitude": -116.58594513,
+    "longitude": -116.5859347,
     "frequency": 1140000,
-    "latitude": 33.14047241,
+    "latitude": 33.1404586,
     "identifier": "JLI",
     "slavedVariation": 15.0
   },
@@ -20233,9 +20233,9 @@
     "receptionRange": 130,
     "elevation": 620,
     "name": "NEEDLES",
-    "longitude": -114.47411346,
+    "longitude": -114.4741042,
     "frequency": 1152000,
-    "latitude": 34.76599884,
+    "latitude": 34.7660042,
     "identifier": "EED",
     "slavedVariation": 15.0
   },
@@ -22218,6 +22218,16 @@
     "latitude": 44.24291611,
     "identifier": "BXZ",
     "slavedVariation": 354.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 4760,
+    "name": "PEACH SPRINGS",
+    "longitude": -113.5444667,
+    "frequency": 1120000,
+    "latitude": 35.6247119,
+    "identifier": "PGS",
+    "slavedVariation": 15.0
   },
   {
     "receptionRange": 40,
@@ -29620,12 +29630,12 @@
     "slavedVariation": 3.5
   },
   {
-    "receptionRange": 40,
+    "receptionRange": 130,
     "elevation": 1374,
     "name": "TWENTYNINE PALMS",
-    "longitude": -115.769905556,
+    "longitude": -115.769905,
     "frequency": 1142000,
-    "latitude": 34.112233333,
+    "latitude": 34.112234444,
     "identifier": "TNP",
     "slavedVariation": 15.0
   },
