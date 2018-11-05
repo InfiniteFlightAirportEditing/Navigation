@@ -1870,6 +1870,16 @@
     "slavedVariation": 3.0
   },
   {
+    "receptionRange": 40,
+    "elevation": 150,
+    "name": "BALTIMORE",
+    "longitude": -76.6612564,
+    "frequency": 1151000,
+    "latitude": 39.1710633,
+    "identifier": "BAL",
+    "slavedVariation": -11.0
+  },
+  {
     "receptionRange": 130,
     "elevation": 3231,
     "name": "BAM",
@@ -1988,6 +1998,16 @@
     "latitude": 0.492578,
     "identifier": "KGI",
     "slavedVariation": 0.0
+  },
+  {
+    "receptionRange": 40,
+    "elevation": 360,
+    "name": "BANGOR",
+    "longitude": -68.8739653,
+    "frequency": 1148000,
+    "latitude": 44.8417950,
+    "identifier": "BGR",
+    "slavedVariation": -19.0
   },
   {
     "receptionRange": 130,
@@ -24558,6 +24578,16 @@
     "latitude": -33.79956818,
     "identifier": "RIV",
     "slavedVariation": 333.0
+  },
+  {
+    "receptionRange": 40,
+    "elevation": 250,
+    "name": "ROBBINSVILLE",
+    "longitude": -74.4950261,
+    "frequency": 1176000,
+    "latitude": 40.2024022,
+    "identifier": "RBV",
+    "slavedVariation": -10.0
   },
   {
     "receptionRange": 40,
