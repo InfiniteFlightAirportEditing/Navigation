@@ -2861,6 +2861,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 4080,
+    "name": "BIG SUR",
+    "longitude": -121.6421122,
+    "frequency": 1140000,
+    "latitude": 36.1812956,
+    "identifier": "BSR",
+    "slavedVariation": 16.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 102,
     "name": "BILBAO",
     "longitude": -2.93588328,
@@ -8893,9 +8903,9 @@
     "receptionRange": 40,
     "elevation": 2200,
     "name": "FILLMORE",
-    "longitude": -118.88127899,
+    "longitude": -118.8812911,
     "frequency": 1125000,
-    "latitude": 34.35669327,
+    "latitude": 34.3566936,
     "identifier": "FIM",
     "slavedVariation": 15.0
   },
@@ -10413,9 +10423,9 @@
     "receptionRange": 40,
     "elevation": 4920,
     "name": "GORMAN",
-    "longitude": -118.86135864,
+    "longitude": -118.8613603,
     "frequency": 1161000,
-    "latitude": 34.80402756,
+    "latitude": 34.8040286,
     "identifier": "GMN",
     "slavedVariation": 16.0
   },
@@ -15670,12 +15680,12 @@
     "slavedVariation": 350.0
   },
   {
-    "receptionRange": 40,
+    "receptionRange": 130,
     "elevation": 5790,
-    "name": "LAKE",
-    "longitude": -118.57694244,
+    "name": "LAKE HUGHES",
+    "longitude": -118.5769381,
     "frequency": 1084000,
-    "latitude": 34.68297195,
+    "latitude": 34.6829733,
     "identifier": "LHS",
     "slavedVariation": 15.0
   },
@@ -21763,9 +21773,9 @@
     "receptionRange": 130,
     "elevation": 2498,
     "name": "PALMDALE",
-    "longitude": -118.06383514,
+    "longitude": -118.0638225,
     "frequency": 1145000,
-    "latitude": 34.63138962,
+    "latitude": 34.6313983,
     "identifier": "PMD",
     "slavedVariation": 15.0
   },
@@ -25663,9 +25673,9 @@
     "receptionRange": 40,
     "elevation": 2090,
     "name": "SANTA CATALINA",
-    "longitude": -118.41991425,
+    "longitude": -118.4199097,
     "frequency": 1114000,
-    "latitude": 33.37505722,
+    "latitude": 33.3750552,
     "identifier": "SXC",
     "slavedVariation": 15.0
   },
@@ -26153,9 +26163,9 @@
     "receptionRange": 130,
     "elevation": 23,
     "name": "SEAL BEACH",
-    "longitude": -118.054755,
+    "longitude": -118.0547583,
     "frequency": 1157000,
-    "latitude": 33.7832981,
+    "latitude": 33.7833011,
     "identifier": "SLI",
     "slavedVariation": 15.0
   },
@@ -26323,9 +26333,9 @@
     "receptionRange": 130,
     "elevation": 548,
     "name": "SHAFTER",
-    "longitude": -119.0973053,
+    "longitude": -119.0972936,
     "frequency": 1154000,
-    "latitude": 35.48455429,
+    "latitude": 35.4845547,
     "identifier": "EHF",
     "slavedVariation": 14.0
   },
@@ -29488,6 +29498,16 @@
     "latitude": 17.63331032,
     "identifier": "TUG",
     "slavedVariation": 0.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 580,
+    "name": "TULE",
+    "longitude": -119.0208094,
+    "frequency": 1092000,
+    "latitude": 35.9160511,
+    "identifier": "TTE",
+    "slavedVariation": 16.0
   },
   {
     "receptionRange": 25,
