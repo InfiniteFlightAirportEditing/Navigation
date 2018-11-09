@@ -1880,6 +1880,16 @@
     "slavedVariation": 3.0
   },
   {
+    "receptionRange": 40,
+    "elevation": 150,
+    "name": "BALTIMORE",
+    "longitude": -76.6612564,
+    "frequency": 1151000,
+    "latitude": 39.1710633,
+    "identifier": "BAL",
+    "slavedVariation": -11.0
+  },
+  {
     "receptionRange": 130,
     "elevation": 3231,
     "name": "BAM",
@@ -1998,6 +2008,16 @@
     "latitude": 0.492578,
     "identifier": "KGI",
     "slavedVariation": 0.0
+  },
+  {
+    "receptionRange": 40,
+    "elevation": 360,
+    "name": "BANGOR",
+    "longitude": -68.8739653,
+    "frequency": 1148000,
+    "latitude": 44.8417950,
+    "identifier": "BGR",
+    "slavedVariation": -19.0
   },
   {
     "receptionRange": 130,
@@ -2848,6 +2868,16 @@
     "latitude": 33.48547363,
     "identifier": "IGB",
     "slavedVariation": 4.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 4080,
+    "name": "BIG SUR",
+    "longitude": -121.6421122,
+    "frequency": 1140000,
+    "latitude": 36.1812956,
+    "identifier": "BSR",
+    "slavedVariation": 16.0
   },
   {
     "receptionRange": 130,
@@ -8893,9 +8923,9 @@
     "receptionRange": 40,
     "elevation": 2200,
     "name": "FILLMORE",
-    "longitude": -118.88127899,
+    "longitude": -118.8812911,
     "frequency": 1125000,
-    "latitude": 34.35669327,
+    "latitude": 34.3566936,
     "identifier": "FIM",
     "slavedVariation": 15.0
   },
@@ -10413,9 +10443,9 @@
     "receptionRange": 40,
     "elevation": 4920,
     "name": "GORMAN",
-    "longitude": -118.86135864,
+    "longitude": -118.8613603,
     "frequency": 1161000,
-    "latitude": 34.80402756,
+    "latitude": 34.8040286,
     "identifier": "GMN",
     "slavedVariation": 16.0
   },
@@ -11713,9 +11743,9 @@
     "receptionRange": 130,
     "elevation": 1853,
     "name": "HECTOR",
-    "longitude": -116.46291351,
+    "longitude": -116.4629219,
     "frequency": 1127000,
-    "latitude": 34.79702759,
+    "latitude": 34.7970181,
     "identifier": "HEC",
     "slavedVariation": 15.0
   },
@@ -13593,9 +13623,9 @@
     "receptionRange": 40,
     "elevation": 5560,
     "name": "JULIAN",
-    "longitude": -116.58594513,
+    "longitude": -116.5859347,
     "frequency": 1140000,
-    "latitude": 33.14047241,
+    "latitude": 33.1404586,
     "identifier": "JLI",
     "slavedVariation": 15.0
   },
@@ -15670,12 +15700,12 @@
     "slavedVariation": 350.0
   },
   {
-    "receptionRange": 40,
+    "receptionRange": 130,
     "elevation": 5790,
-    "name": "LAKE",
-    "longitude": -118.57694244,
+    "name": "LAKE HUGHES",
+    "longitude": -118.5769381,
     "frequency": 1084000,
-    "latitude": 34.68297195,
+    "latitude": 34.6829733,
     "identifier": "LHS",
     "slavedVariation": 15.0
   },
@@ -20253,9 +20283,9 @@
     "receptionRange": 130,
     "elevation": 620,
     "name": "NEEDLES",
-    "longitude": -114.47411346,
+    "longitude": -114.4741042,
     "frequency": 1152000,
-    "latitude": 34.76599884,
+    "latitude": 34.7660042,
     "identifier": "EED",
     "slavedVariation": 15.0
   },
@@ -21763,9 +21793,9 @@
     "receptionRange": 130,
     "elevation": 2498,
     "name": "PALMDALE",
-    "longitude": -118.06383514,
+    "longitude": -118.0638225,
     "frequency": 1145000,
-    "latitude": 34.63138962,
+    "latitude": 34.6313983,
     "identifier": "PMD",
     "slavedVariation": 15.0
   },
@@ -22238,6 +22268,16 @@
     "latitude": 44.24291611,
     "identifier": "BXZ",
     "slavedVariation": 354.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 4760,
+    "name": "PEACH SPRINGS",
+    "longitude": -113.5444667,
+    "frequency": 1120000,
+    "latitude": 35.6247119,
+    "identifier": "PGS",
+    "slavedVariation": 15.0
   },
   {
     "receptionRange": 40,
@@ -24571,6 +24611,16 @@
   },
   {
     "receptionRange": 40,
+    "elevation": 250,
+    "name": "ROBBINSVILLE",
+    "longitude": -74.4950261,
+    "frequency": 1176000,
+    "latitude": 40.2024022,
+    "identifier": "RBV",
+    "slavedVariation": -10.0
+  },
+  {
+    "receptionRange": 40,
     "elevation": 8211,
     "name": "ROBERT",
     "longitude": -106.87230682,
@@ -25651,6 +25701,16 @@
   },
   {
     "receptionRange": 40,
+    "elevation": 2090,
+    "name": "SANTA CATALINA",
+    "longitude": -118.4199097,
+    "frequency": 1114000,
+    "latitude": 33.3750552,
+    "identifier": "SXC",
+    "slavedVariation": 15.0
+  },
+  {
+    "receptionRange": 40,
     "elevation": 350,
     "name": "SANTA",
     "longitude": -79.96047211,
@@ -26144,9 +26204,9 @@
     "receptionRange": 130,
     "elevation": 23,
     "name": "SEAL BEACH",
-    "longitude": -118.054755,
+    "longitude": -118.0547583,
     "frequency": 1157000,
-    "latitude": 33.7832981,
+    "latitude": 33.7833011,
     "identifier": "SLI",
     "slavedVariation": 15.0
   },
@@ -26314,9 +26374,9 @@
     "receptionRange": 130,
     "elevation": 548,
     "name": "SHAFTER",
-    "longitude": -119.0973053,
+    "longitude": -119.0972936,
     "frequency": 1154000,
-    "latitude": 35.48455429,
+    "latitude": 35.4845547,
     "identifier": "EHF",
     "slavedVariation": 14.0
   },
@@ -29481,6 +29541,16 @@
     "slavedVariation": 0.0
   },
   {
+    "receptionRange": 130,
+    "elevation": 580,
+    "name": "TULE",
+    "longitude": -119.0208094,
+    "frequency": 1092000,
+    "latitude": 35.9160511,
+    "identifier": "TTE",
+    "slavedVariation": 16.0
+  },
+  {
     "receptionRange": 25,
     "elevation": 0,
     "name": "TULLAHOMA",
@@ -29651,12 +29721,12 @@
     "slavedVariation": 3.5
   },
   {
-    "receptionRange": 40,
+    "receptionRange": 130,
     "elevation": 1374,
     "name": "TWENTYNINE PALMS",
-    "longitude": -115.769905556,
+    "longitude": -115.769905,
     "frequency": 1142000,
-    "latitude": 34.112233333,
+    "latitude": 34.112234444,
     "identifier": "TNP",
     "slavedVariation": 15.0
   },
