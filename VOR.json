@@ -11850,6 +11850,16 @@
     "slavedVariation": 2.0
   },
   {
+    "receptionRange": 125,
+    "elevation": 1,
+    "name": "HEWANORRA (SAINT LUCIA)",
+    "longitude": -60.977058333,
+    "frequency": 1124000,
+    "latitude": 13.733369444,
+    "identifier": "BNE",
+    "slavedVariation": -15.0
+  },
+  {
     "receptionRange": 40,
     "elevation": 1312,
     "name": "HIBBING",
