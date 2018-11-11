@@ -11838,6 +11838,16 @@
     "latitude": 50.92815018,
     "identifier": "HDO",
     "slavedVariation": 2.0
+   },
+   {
+    "receptionRange": 100,
+    "elevation": 11,
+    "name": "HEWANORRA",
+    "longitude": -60.977075,
+    "frequency": 1124000,
+    "latitude": 13.733369,
+    "identifier": "BNE",
+    "slavedVariation": -15.0
   },
   {
     "receptionRange": 40,
