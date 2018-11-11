@@ -41799,32 +41799,6 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 85.89, 
-    "airportICAO": "EDDI", 
-    "elevation": 164, 
-    "name": "GS", 
-    "longitude": 13.38906511, 
-    "associatedRunwayNumber": "09R", 
-    "frequency": 109700, 
-    "glideslope": 3.002302, 
-    "latitude": 52.47069912, 
-    "identifier": "IDBR"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 265.89, 
-    "airportICAO": "EDDI", 
-    "elevation": 164, 
-    "name": "GS", 
-    "longitude": 13.42014895, 
-    "associatedRunwayNumber": "27L", 
-    "frequency": 109500, 
-    "glideslope": 3.502302, 
-    "latitude": 52.47144854, 
-    "identifier": "IDLB"
-  }, 
-  {
-    "receptionRange": 10, 
     "bearing": 268.42, 
     "airportICAO": "EETU", 
     "elevation": 219, 
