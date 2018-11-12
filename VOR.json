@@ -2681,6 +2681,16 @@
   },
   {
     "receptionRange": 130,
+    "elevation": 199,
+    "name": "BERLIN BRANDENBURG",
+    "longitude": 13.454047222,
+    "frequency": 1141000,
+    "latitude": 52.342013889,
+    "identifier": "BBI",
+    "slavedVariation": 3.0
+  },
+  {
+    "receptionRange": 130,
     "elevation": 11,
     "name": "BERMUDA",
     "longitude": -64.68958282,
@@ -9590,14 +9600,14 @@
     "slavedVariation": 356.4
   },
   {
-    "receptionRange": 50,
-    "elevation": 238,
+    "receptionRange": 130,
+    "elevation": 224,
     "name": "FURSTENWALDE",
-    "longitude": 14.13058853,
+    "longitude": 14.130588889,
     "frequency": 1133000,
-    "latitude": 52.41133118,
+    "latitude": 52.411330556,
     "identifier": "FWE",
-    "slavedVariation": 2.0
+    "slavedVariation": 3.0
   },
   {
     "receptionRange": 130,
@@ -11858,6 +11868,16 @@
     "latitude": 50.92815018,
     "identifier": "HDO",
     "slavedVariation": 2.0
+  },
+  {
+    "receptionRange": 125,
+    "elevation": 1,
+    "name": "HEWANORRA (SAINT LUCIA)",
+    "longitude": -60.977058333,
+    "frequency": 1124000,
+    "latitude": 13.733369444,
+    "identifier": "BNE",
+    "slavedVariation": -15.0
   },
   {
     "receptionRange": 40,
@@ -16668,6 +16688,16 @@
     "latitude": 17.44705009,
     "identifier": "LOY",
     "slavedVariation": 359.0
+  },
+  {
+    "receptionRange": 130,
+    "elevation": 220,
+    "name": "LOEWENBERG",
+    "longitude": 13.134613889,
+    "frequency": 1145500,
+    "latitude": 52.910319444,
+    "identifier": "LWB",
+    "slavedVariation": 3.0
   },
   {
     "receptionRange": 40,
@@ -28431,12 +28461,12 @@
     "slavedVariation": 3.0
   },
   {
-    "receptionRange": 80,
-    "elevation": 118,
-    "name": "TEGEL",
-    "longitude": 13.2875576,
+    "receptionRange": 130,
+    "elevation": 140,
+    "name": "TEGEL (BERLIN)",
+    "longitude": 13.287558333,
     "frequency": 1123000,
-    "latitude": 52.56149673,
+    "latitude": 52.561497222,
     "identifier": "TGL",
     "slavedVariation": 2.0
   },
@@ -32579,16 +32609,6 @@
     "latitude": 49.22907257,
     "identifier": "ZWN",
     "slavedVariation": 0.0
-  },
-  {
-    "receptionRange": 100,
-    "elevation": 57,
-    "name": "ZZZ",
-    "longitude": -77.30000305,
-    "frequency": 1167000,
-    "latitude": 38.29999924,
-    "identifier": "ZZC",
-    "slavedVariation": 1.0
   },
   {
     "receptionRange": 60,
