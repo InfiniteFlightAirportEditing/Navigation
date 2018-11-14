@@ -432,10 +432,10 @@
     "receptionRange": 50
   },
   {
-    "name": "AFONSOS",
+    "name": "AFONSOS (RIO DE JANEIRO)",
     "identifier": "AFS",
-    "latitude": -22.86697197,
-    "longitude": -43.36686707,
+    "latitude": -22.867,
+    "longitude": -43.36683,
     "elevation": 112,
     "frequency": 270,
     "receptionRange": 50
@@ -46845,13 +46845,13 @@
     "receptionRange": 75
   },
   {
-    "name": "RASA",
+    "name": "RASA (RIO DE JANEIRO TMA)",
     "identifier": "IH",
-    "latitude": -23.06385612,
-    "longitude": -43.14606476,
+    "latitude": -23.06383,
+    "longitude": -43.146,
     "elevation": 0,
     "frequency": 315,
-    "receptionRange": 100
+    "receptionRange": 50
   },
   {
     "name": "RASHIVKA",
