@@ -432,10 +432,10 @@
     "receptionRange": 50
   },
   {
-    "name": "AFONSOS",
+    "name": "AFONSOS (RIO DE JANEIRO)",
     "identifier": "AFS",
-    "latitude": -22.86697197,
-    "longitude": -43.36686707,
+    "latitude": -22.867,
+    "longitude": -43.36683,
     "elevation": 112,
     "frequency": 270,
     "receptionRange": 50
@@ -18243,10 +18243,10 @@
     "receptionRange": 50
   },
   {
-    "name": "FORA",
+    "name": "FORA (JUIZ DE FORA)",
     "identifier": "FRA",
-    "latitude": -21.76783371,
-    "longitude": -43.38366699,
+    "latitude": -21.76772,
+    "longitude": -43.38372,
     "elevation": 0,
     "frequency": 1730,
     "receptionRange": 50
@@ -23904,7 +23904,7 @@
     "receptionRange": 70
   },
   {
-    "name": "Hagfors",
+    "name": "HAGFORS",
     "identifier": "HT",
     "latitude": 60.10961151,
     "longitude": 13.56750011,
@@ -23913,7 +23913,7 @@
     "receptionRange": 50
   },
   {
-    "name": "Hagfors",
+    "name": "HAGFORS",
     "identifier": "AB",
     "latitude": 59.95041656,
     "longitude": 13.58583355,
@@ -23922,7 +23922,7 @@
     "receptionRange": 50
   },
   {
-    "name": "Halmstad",
+    "name": "HALMSTAD",
     "identifier": "LT",
     "latitude": 56.79697037,
     "longitude": 12.84222221,
@@ -23931,7 +23931,7 @@
     "receptionRange": 50
   },
   {
-    "name": "Halmstad",
+    "name": "HALMSTAD",
     "identifier": "MF",
     "latitude": 56.65252686,
     "longitude": 12.80827808,
@@ -23949,7 +23949,7 @@
     "receptionRange": 15
   },
   {
-    "name": "Hemavan",
+    "name": "HEMAVAN",
     "identifier": "NUT",
     "latitude": 65.83595276,
     "longitude": 15.04491711,
@@ -23958,7 +23958,7 @@
     "receptionRange": 50
   },
   {
-    "name": "Hemavan",
+    "name": "HEMAVAN",
     "identifier": "SUT",
     "latitude": 65.71091461,
     "longitude": 15.21838379,
@@ -23967,7 +23967,7 @@
     "receptionRange": 50
   },
   {
-    "name": "Hemavan",
+    "name": "HEMAVAN",
     "identifier": "UT",
     "latitude": 65.72644043,
     "longitude": 15.26978397,
@@ -23976,7 +23976,7 @@
     "receptionRange": 50
   },
   {
-    "name": "Herbb",
+    "name": "HERBB",
     "identifier": "PK",
     "latitude": 38.75363922,
     "longitude": -94.73786163,
@@ -23985,7 +23985,7 @@
     "receptionRange": 25
   },
   {
-    "name": "Hong",
+    "name": "HONG",
     "identifier": "RW",
     "latitude": 22.32634163,
     "longitude": 114.19095612,
@@ -23994,7 +23994,7 @@
     "receptionRange": 50
   },
   {
-    "name": "Hudiksvall",
+    "name": "HUDIKSVALL",
     "identifier": "HU",
     "latitude": 61.75214005,
     "longitude": 17.12694359,
@@ -24003,7 +24003,7 @@
     "receptionRange": 50
   },
   {
-    "name": "Hultsfred",
+    "name": "HULTSFRED",
     "identifier": "LN",
     "latitude": 57.49514008,
     "longitude": 15.94155598,
@@ -24012,7 +24012,7 @@
     "receptionRange": 50
   },
   {
-    "name": "Hultsfred",
+    "name": "HULTSFRED",
     "identifier": "AC",
     "latitude": 57.53186035,
     "longitude": 15.80058289,
@@ -24219,13 +24219,13 @@
     "receptionRange": 50
   },
   {
-    "name": "ILHA",
+    "name": "ILHA (RIO DE JANEIRO)",
     "identifier": "YLA",
-    "latitude": -22.78700066,
-    "longitude": -43.16766739,
+    "latitude": -22.787,
+    "longitude": -43.16772,
     "elevation": 402,
     "frequency": 330,
-    "receptionRange": 60
+    "receptionRange": 50
   },
   {
     "name": "ILHEUS",
@@ -40059,10 +40059,10 @@
     "receptionRange": 50
   },
   {
-    "name": "NOVA",
+    "name": "NOVA (RIO DE JANEIRO TMA)",
     "identifier": "NOA",
-    "latitude": -22.71850014,
-    "longitude": -43.48049927,
+    "latitude": -22.71858,
+    "longitude": -43.48053,
     "elevation": 164,
     "frequency": 215,
     "receptionRange": 50
@@ -46845,13 +46845,13 @@
     "receptionRange": 75
   },
   {
-    "name": "RASA",
+    "name": "RASA (RIO DE JANEIRO TMA)",
     "identifier": "IH",
-    "latitude": -23.06385612,
-    "longitude": -43.14606476,
+    "latitude": -23.06383,
+    "longitude": -43.146,
     "elevation": 0,
     "frequency": 315,
-    "receptionRange": 100
+    "receptionRange": 50
   },
   {
     "name": "RASHIVKA",
