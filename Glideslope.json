@@ -29435,6 +29435,58 @@
     "identifier": "ISBH"
   }, 
   {
+    "receptionRange": 18, 
+    "bearing": 179.22, 
+    "airportICAO": "LTFM", 
+    "elevation": 325, 
+    "name": "GS", 
+    "longitude": 28.70676496, 
+    "associatedRunwayNumber": "16R", 
+    "frequency": 110350, 
+    "glideslope": 3.0017922, 
+    "latitude": 41.29872022, 
+    "identifier": "IUCB"
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 179.14, 
+    "airportICAO": "LTFM", 
+    "elevation": 325, 
+    "name": "GS", 
+    "longitude": 28.72703829, 
+    "associatedRunwayNumber": "17L", 
+    "frequency": 111950, 
+    "glideslope": 3.0017914, 
+    "latitude": 41.29899509, 
+    "identifier": "IUCF"
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 359.22, 
+    "airportICAO": "LTFM", 
+    "elevation": 325, 
+    "name": "GS", 
+    "longitude": 28.70737487, 
+    "associatedRunwayNumber": "34L", 
+    "frequency": 108550, 
+    "glideslope": 3.0035922, 
+    "latitude": 41.26485136, 
+    "identifier": "IUCA"
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 359.14, 
+    "airportICAO": "LTFM", 
+    "elevation": 325, 
+    "name": "GS", 
+    "longitude": 28.72777550, 
+    "associatedRunwayNumber": "35R", 
+    "frequency": 109550, 
+    "glideslope": 3.0035914, 
+    "latitude": 41.26192491, 
+    "identifier": "IUCE"
+  }, 
+  {
     "receptionRange": 10, 
     "bearing": 334.004, 
     "airportICAO": "LUBL", 
