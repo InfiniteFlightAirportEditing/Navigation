@@ -18843,7 +18843,7 @@
     "elevation": 625, 
     "name": "ILS-cat-I", 
     "longitude": -87.64442441, 
-    "associatedRunwayNumber": "03", 
+    "associatedRunwayNumber": "3", 
     "frequency": 108700, 
     "latitude": 45.12322572, 
     "identifier": "ITNQ", 
