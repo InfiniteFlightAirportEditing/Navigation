@@ -10562,8 +10562,8 @@
   {
     "name": "FORT LAUDERDALE",
     "identifier": "FLL",
-    "latitude": 26.073938889,
-    "longitude": -80.166441667,
+    "latitude": 26.07394,
+    "longitude": -80.16644,
     "elevation": 6,
     "frequency": 11440,
     "receptionRange": 130,
