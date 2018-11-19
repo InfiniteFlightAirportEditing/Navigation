@@ -1100,7 +1100,7 @@
     "longitude": -122.37998315, 
     "associatedRunwayNumber": "07", 
     "frequency": 109700, 
-    "glideslope": 3.00085776, 
+    "glideslope": 3.00085780, 
     "latitude": 49.01911186, 
     "identifier": "IXX"
   }, 
@@ -3725,7 +3725,7 @@
     "elevation": 101, 
     "name": "GS", 
     "longitude": -1.82688284, 
-    "associatedRunwayNumber": "27" 
+    "associatedRunwayNumber": "27", 
     "frequency": 109950, 
     "glideslope": 3.50263750, 
     "latitude": 50.78266861, 
