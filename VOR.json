@@ -3892,8 +3892,8 @@
   {
     "name": "BONSUCESSO (SAO PAULO)",
     "identifier": "BCO",
-    "latitude": -23.406427778,
-    "longitude": -46.385463889,
+    "latitude": -23.40642,
+    "longitude": -46.38547,
     "elevation": 2678,
     "frequency": 11600,
     "receptionRange": 125,
@@ -4132,8 +4132,8 @@
   {
     "name": "BRAGANCA (BRAGANCA PAULISTA)",
     "identifier": "BGC",
-    "latitude": -22.951452778,
-    "longitude": -46.569805556,
+    "latitude": -22.95144,
+    "longitude": -46.56981,
     "elevation": 2887,
     "frequency": 11620,
     "receptionRange": 125,
@@ -7122,8 +7122,8 @@
   {
     "name": "CONGONHAS (SAO PAULO)",
     "identifier": "CGO",
-    "latitude": -23.627463889,
-    "longitude": -46.654636111,
+    "latitude": -23.62747,
+    "longitude": -46.65464,
     "elevation": 2616,
     "frequency": 11690,
     "receptionRange": 125,

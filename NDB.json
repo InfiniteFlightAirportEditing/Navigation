@@ -50231,11 +50231,11 @@
   {
     "name": "SANTOS",
     "identifier": "SAT",
-    "latitude": -23.98333359,
-    "longitude": -46.26333237,
+    "latitude": -23.98314,
+    "longitude": -46.26333,
     "elevation": 0,
     "frequency": 375,
-    "receptionRange": 128
+    "receptionRange": 50
   },
   {
     "name": "SANYUAN",
@@ -55829,8 +55829,8 @@
   {
     "name": "TAUBATE",
     "identifier": "TBE",
-    "latitude": -23.04566765,
-    "longitude": -45.51683426,
+    "latitude": -23.04564,
+    "longitude": -45.51669,
     "elevation": 1923,
     "frequency": 430,
     "receptionRange": 25
