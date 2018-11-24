@@ -47727,15 +47727,6 @@
     "receptionRange": 50
   },
   {
-    "name": "RIO CLARO",
-    "identifier": "RCL",
-    "latitude": -22.43019,
-    "longitude": -47.56244,
-    "elevation": 0,
-    "frequency": 280,
-    "receptionRange": 50
-  },
-  {
     "name": "RIO",
     "identifier": "R",
     "latitude": -33.11166763,
@@ -47806,6 +47797,15 @@
     "elevation": 1782,
     "frequency": 420,
     "receptionRange": 100
+  },
+  {
+    "name": "RIO CLARO",
+    "identifier": "RCL",
+    "latitude": -22.43019,
+    "longitude": -47.56244,
+    "elevation": 0,
+    "frequency": 280,
+    "receptionRange": 50
   },
   {
     "name": "RIOBAMBA",

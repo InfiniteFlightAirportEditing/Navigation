@@ -170,6 +170,16 @@
     "slavedVariation": -4
   },
   {
+    "name": "AD",
+    "identifier": "AVD",
+    "latitude": 47.058083333,
+    "longitude": 2.629861111,
+    "elevation": 603,
+    "frequency": 11060,
+    "receptionRange": 130,
+    "slavedVariation": 0
+  },
+  {
     "name": "ADA",
     "identifier": "ADH",
     "latitude": 34.802555556,
@@ -590,16 +600,6 @@
     "slavedVariation": 3
   },
   {
-    "name": "ALAMOSA",
-    "identifier": "ALS",
-    "latitude": 37.349158333,
-    "longitude": -105.815536111,
-    "elevation": 7535,
-    "frequency": 11390,
-    "receptionRange": 130,
-    "slavedVariation": 13
-  },
-  {
     "name": "AL-ASHRAF (AL NAJAF)",
     "identifier": "ALI",
     "latitude": 31.986083333,
@@ -608,6 +608,26 @@
     "frequency": 11470,
     "receptionRange": 40,
     "slavedVariation": 4
+  },
+  {
+    "name": "AL-MASSIRA (AGADIR)",
+    "identifier": "ADM",
+    "latitude": 30.321916667,
+    "longitude": -9.383472222,
+    "elevation": 300,
+    "frequency": 11720,
+    "receptionRange": 130,
+    "slavedVariation": -3
+  },
+  {
+    "name": "ALAMOSA",
+    "identifier": "ALS",
+    "latitude": 37.349158333,
+    "longitude": -105.815536111,
+    "elevation": 7535,
+    "frequency": 11390,
+    "receptionRange": 130,
+    "slavedVariation": 13
   },
   {
     "name": "ALBACETE",
@@ -800,16 +820,6 @@
     "slavedVariation": 0
   },
   {
-    "name": "ALICE SPRINGS",
-    "identifier": "AS",
-    "latitude": -23.792888889,
-    "longitude": 133.878202778,
-    "elevation": 1857,
-    "frequency": 11590,
-    "receptionRange": 125,
-    "slavedVariation": 5
-  },
-  {
     "name": "ALICE",
     "identifier": "ALI",
     "latitude": 27.7398,
@@ -818,6 +828,16 @@
     "frequency": 11450,
     "receptionRange": 40,
     "slavedVariation": 6
+  },
+  {
+    "name": "ALICE SPRINGS",
+    "identifier": "AS",
+    "latitude": -23.792888889,
+    "longitude": 133.878202778,
+    "elevation": 1857,
+    "frequency": 11590,
+    "receptionRange": 125,
+    "slavedVariation": 5
   },
   {
     "name": "ALIGARH",
@@ -900,16 +920,6 @@
     "slavedVariation": 0
   },
   {
-    "name": "AL-MASSIRA (AGADIR)",
-    "identifier": "ADM",
-    "latitude": 30.321916667,
-    "longitude": -9.383472222,
-    "elevation": 300,
-    "frequency": 11720,
-    "receptionRange": 130,
-    "slavedVariation": -3
-  },
-  {
     "name": "ALMATY",
     "identifier": "ATA",
     "latitude": 43.376527778,
@@ -960,16 +970,6 @@
     "slavedVariation": 2
   },
   {
-    "name": "ALTA FLORESTA",
-    "identifier": "ATF",
-    "latitude": -9.868361111,
-    "longitude": -56.10495,
-    "elevation": 944,
-    "frequency": 11340,
-    "receptionRange": 125,
-    "slavedVariation": -18
-  },
-  {
     "name": "ALTA",
     "identifier": "ATA",
     "latitude": 69.977486111,
@@ -978,6 +978,16 @@
     "frequency": 11740,
     "receptionRange": 130,
     "slavedVariation": 11
+  },
+  {
+    "name": "ALTA FLORESTA",
+    "identifier": "ATF",
+    "latitude": -9.868361111,
+    "longitude": -56.10495,
+    "elevation": 944,
+    "frequency": 11340,
+    "receptionRange": 125,
+    "slavedVariation": -18
   },
   {
     "name": "ALTAMIRA",
@@ -1878,16 +1888,6 @@
     "frequency": 11460,
     "receptionRange": 130,
     "slavedVariation": 1
-  },
-  {
-    "name": "AD",
-    "identifier": "AVD",
-    "latitude": 47.058083333,
-    "longitude": 2.629861111,
-    "elevation": 603,
-    "frequency": 11060,
-    "receptionRange": 130,
-    "slavedVariation": 0
   },
   {
     "name": "AYAGUZ",
@@ -3170,16 +3170,6 @@
     "slavedVariation": 1
   },
   {
-    "name": "BERLIN BRANDENBURG",
-    "identifier": "BBI",
-    "latitude": 52.342013889,
-    "longitude": 13.454047222,
-    "elevation": 199,
-    "frequency": 11410,
-    "receptionRange": 130,
-    "slavedVariation": 3
-  },
-  {
     "name": "BERLIN",
     "identifier": "BML",
     "latitude": 44.633405556,
@@ -3188,6 +3178,16 @@
     "frequency": 11040,
     "receptionRange": 25,
     "slavedVariation": -17
+  },
+  {
+    "name": "BERLIN BRANDENBURG",
+    "identifier": "BBI",
+    "latitude": 52.342013889,
+    "longitude": 13.454047222,
+    "elevation": 199,
+    "frequency": 11410,
+    "receptionRange": 130,
+    "slavedVariation": 3
   },
   {
     "name": "BERMUDA",
@@ -4510,16 +4510,6 @@
     "slavedVariation": -8
   },
   {
-    "name": "BUCKEYE (MARION)",
-    "identifier": "BUD",
-    "latitude": 40.616597222,
-    "longitude": -83.063827778,
-    "elevation": 0,
-    "frequency": 10980,
-    "receptionRange": 25,
-    "slavedVariation": -5
-  },
-  {
     "name": "BUCKEYE",
     "identifier": "BXK",
     "latitude": 33.453455556,
@@ -4528,6 +4518,16 @@
     "frequency": 11060,
     "receptionRange": 40,
     "slavedVariation": 14
+  },
+  {
+    "name": "BUCKEYE (MARION)",
+    "identifier": "BUD",
+    "latitude": 40.616597222,
+    "longitude": -83.063827778,
+    "elevation": 0,
+    "frequency": 10980,
+    "receptionRange": 25,
+    "slavedVariation": -5
   },
   {
     "name": "BUDAPEST",
@@ -4910,16 +4910,6 @@
     "slavedVariation": -4
   },
   {
-    "name": "CAIRNS (FT RUCKER)",
-    "identifier": "OZR",
-    "latitude": 31.268947222,
-    "longitude": -85.726313889,
-    "elevation": 334,
-    "frequency": 11120,
-    "receptionRange": 40,
-    "slavedVariation": -3
-  },
-  {
     "name": "CAIRNS",
     "identifier": "CS",
     "latitude": -16.85,
@@ -4928,6 +4918,16 @@
     "frequency": 11300,
     "receptionRange": 125,
     "slavedVariation": 7
+  },
+  {
+    "name": "CAIRNS (FT RUCKER)",
+    "identifier": "OZR",
+    "latitude": 31.268947222,
+    "longitude": -85.726313889,
+    "elevation": 334,
+    "frequency": 11120,
+    "receptionRange": 40,
+    "slavedVariation": -3
   },
   {
     "name": "CAIRO",
@@ -5120,16 +5120,6 @@
     "slavedVariation": 0
   },
   {
-    "name": "CAMBRIDGE BAY",
-    "identifier": "YCB",
-    "latitude": 69.117447222,
-    "longitude": -105.172716667,
-    "elevation": 108,
-    "frequency": 11270,
-    "receptionRange": 125,
-    "slavedVariation": 0
-  },
-  {
     "name": "CAMBRIDGE",
     "identifier": "CAM",
     "latitude": 42.994288889,
@@ -5138,6 +5128,16 @@
     "frequency": 11500,
     "receptionRange": 40,
     "slavedVariation": -14
+  },
+  {
+    "name": "CAMBRIDGE BAY",
+    "identifier": "YCB",
+    "latitude": 69.117447222,
+    "longitude": -105.172716667,
+    "elevation": 108,
+    "frequency": 11270,
+    "receptionRange": 125,
+    "slavedVariation": 0
   },
   {
     "name": "CAMPAGNANO",
@@ -7900,16 +7900,6 @@
     "slavedVariation": 0
   },
   {
-    "name": "DARBAND",
-    "identifier": "DAR",
-    "latitude": 31.783166667,
-    "longitude": 56.994555556,
-    "elevation": 1800,
-    "frequency": 11370,
-    "receptionRange": 130,
-    "slavedVariation": 3
-  },
-  {
     "name": "DAR-ES-SALAAM",
     "identifier": "DV",
     "latitude": -6.888005556,
@@ -7918,6 +7908,16 @@
     "frequency": 11270,
     "receptionRange": 125,
     "slavedVariation": -2
+  },
+  {
+    "name": "DARBAND",
+    "identifier": "DAR",
+    "latitude": 31.783166667,
+    "longitude": 56.994555556,
+    "elevation": 1800,
+    "frequency": 11370,
+    "receptionRange": 130,
+    "slavedVariation": 3
   },
   {
     "name": "DARLOWO",
@@ -8290,16 +8290,6 @@
     "slavedVariation": 0
   },
   {
-    "name": "DETROIT LAKES",
-    "identifier": "DTL",
-    "latitude": 46.825544444,
-    "longitude": -95.887336111,
-    "elevation": 1387,
-    "frequency": 11120,
-    "receptionRange": 25,
-    "slavedVariation": 5
-  },
-  {
     "name": "DETROIT",
     "identifier": "DXO",
     "latitude": 42.213136111,
@@ -8308,6 +8298,16 @@
     "frequency": 11340,
     "receptionRange": 130,
     "slavedVariation": -6
+  },
+  {
+    "name": "DETROIT LAKES",
+    "identifier": "DTL",
+    "latitude": 46.825544444,
+    "longitude": -95.887336111,
+    "elevation": 1387,
+    "frequency": 11120,
+    "receptionRange": 25,
+    "slavedVariation": 5
   },
   {
     "name": "DEVA",
@@ -12110,22 +12110,22 @@
     "slavedVariation": 10
   },
   {
-    "name": "GRAN CANARIA SOUTH",
-    "identifier": "LPC",
-    "latitude": 27.828527778,
-    "longitude": -15.43225,
-    "elevation": 197,
-    "frequency": 11500,
-    "receptionRange": 130,
-    "slavedVariation": -5
-  },
-  {
     "name": "GRAN CANARIA",
     "identifier": "GDV",
     "latitude": 28.077083333,
     "longitude": -15.429,
     "elevation": 787,
     "frequency": 11290,
+    "receptionRange": 130,
+    "slavedVariation": -5
+  },
+  {
+    "name": "GRAN CANARIA SOUTH",
+    "identifier": "LPC",
+    "latitude": 27.828527778,
+    "longitude": -15.43225,
+    "elevation": 197,
+    "frequency": 11500,
     "receptionRange": 130,
     "slavedVariation": -5
   },
@@ -12910,16 +12910,6 @@
     "slavedVariation": 2
   },
   {
-    "name": "HAMILTON I",
-    "identifier": "HM",
-    "latitude": -20.351169444,
-    "longitude": 148.955880556,
-    "elevation": 620,
-    "frequency": 11440,
-    "receptionRange": 125,
-    "slavedVariation": 8
-  },
-  {
     "name": "HAMILTON",
     "identifier": "HN",
     "latitude": -37.849263889,
@@ -12938,6 +12928,16 @@
     "frequency": 11040,
     "receptionRange": 40,
     "slavedVariation": 2
+  },
+  {
+    "name": "HAMILTON I",
+    "identifier": "HM",
+    "latitude": -20.351169444,
+    "longitude": 148.955880556,
+    "elevation": 620,
+    "frequency": 11440,
+    "receptionRange": 125,
+    "slavedVariation": 8
   },
   {
     "name": "HAMM",
@@ -17480,6 +17480,16 @@
     "slavedVariation": 7
   },
   {
+    "name": "L'AIGLE",
+    "identifier": "LGL",
+    "latitude": 48.790611111,
+    "longitude": 0.530277778,
+    "elevation": 0,
+    "frequency": 11500,
+    "receptionRange": 130,
+    "slavedVariation": 0
+  },
+  {
     "name": "LA AURORA (GUAT. CITY)",
     "identifier": "AUR",
     "latitude": 14.571644444,
@@ -17740,16 +17750,6 @@
     "slavedVariation": 1
   },
   {
-    "name": "LABUAN BAJO",
-    "identifier": "LBJ",
-    "latitude": -8.481455556,
-    "longitude": 119.884786111,
-    "elevation": 263,
-    "frequency": 11260,
-    "receptionRange": 40,
-    "slavedVariation": 1
-  },
-  {
     "name": "LABUAN",
     "identifier": "VLB",
     "latitude": 5.289658333,
@@ -17758,6 +17758,16 @@
     "frequency": 11630,
     "receptionRange": 130,
     "slavedVariation": 0
+  },
+  {
+    "name": "LABUAN BAJO",
+    "identifier": "LBJ",
+    "latitude": -8.481455556,
+    "longitude": 119.884786111,
+    "elevation": 263,
+    "frequency": 11260,
+    "receptionRange": 40,
+    "slavedVariation": 1
   },
   {
     "name": "LADYSMITH",
@@ -17828,16 +17838,6 @@
     "frequency": 11370,
     "receptionRange": 130,
     "slavedVariation": -2
-  },
-  {
-    "name": "L'AIGLE",
-    "identifier": "LGL",
-    "latitude": 48.790611111,
-    "longitude": 0.530277778,
-    "elevation": 0,
-    "frequency": 11500,
-    "receptionRange": 130,
-    "slavedVariation": 0
   },
   {
     "name": "LAJES",
@@ -18060,22 +18060,22 @@
     "slavedVariation": -18
   },
   {
-    "name": "LANZAROTE AEROPUERTO",
-    "identifier": "LTE",
-    "latitude": 28.948194444,
-    "longitude": -13.601333333,
-    "elevation": 98,
-    "frequency": 11440,
-    "receptionRange": 130,
-    "slavedVariation": -4
-  },
-  {
     "name": "LANZAROTE",
     "identifier": "LZR",
     "latitude": 29.166,
     "longitude": -13.510694444,
     "elevation": 1772,
     "frequency": 11520,
+    "receptionRange": 130,
+    "slavedVariation": -4
+  },
+  {
+    "name": "LANZAROTE AEROPUERTO",
+    "identifier": "LTE",
+    "latitude": 28.948194444,
+    "longitude": -13.601333333,
+    "elevation": 98,
+    "frequency": 11440,
     "receptionRange": 130,
     "slavedVariation": -4
   },
@@ -20000,16 +20000,6 @@
     "slavedVariation": 17
   },
   {
-    "name": "MALAGA AEROPUERTO SUR",
-    "identifier": "MLG",
-    "latitude": 36.67875,
-    "longitude": -4.506638889,
-    "elevation": 98,
-    "frequency": 11355,
-    "receptionRange": 130,
-    "slavedVariation": -1
-  },
-  {
     "name": "MALAGA",
     "identifier": "AGP",
     "latitude": 36.684333333,
@@ -20026,6 +20016,16 @@
     "longitude": -4.369583333,
     "elevation": 3445,
     "frequency": 11200,
+    "receptionRange": 130,
+    "slavedVariation": -1
+  },
+  {
+    "name": "MALAGA AEROPUERTO SUR",
+    "identifier": "MLG",
+    "latitude": 36.67875,
+    "longitude": -4.506638889,
+    "elevation": 98,
+    "frequency": 11355,
     "receptionRange": 130,
     "slavedVariation": -1
   },
@@ -22120,6 +22120,16 @@
     "slavedVariation": 4
   },
   {
+    "name": "MONT-JOLI",
+    "identifier": "YYY",
+    "latitude": 48.612130556,
+    "longitude": -68.208861111,
+    "elevation": 168,
+    "frequency": 11590,
+    "receptionRange": 125,
+    "slavedVariation": -18
+  },
+  {
     "name": "MONTDIDIER",
     "identifier": "MTD",
     "latitude": 49.552638889,
@@ -22218,16 +22228,6 @@
     "frequency": 11160,
     "receptionRange": 40,
     "slavedVariation": 4
-  },
-  {
-    "name": "MONT-JOLI",
-    "identifier": "YYY",
-    "latitude": 48.612130556,
-    "longitude": -68.208861111,
-    "elevation": 168,
-    "frequency": 11590,
-    "receptionRange": 125,
-    "slavedVariation": -18
   },
   {
     "name": "MONTMEDY",
@@ -22818,6 +22818,36 @@
     "frequency": 11610,
     "receptionRange": 130,
     "slavedVariation": -4
+  },
+  {
+    "name": "N'DELE",
+    "identifier": "LE",
+    "latitude": 8.397111111,
+    "longitude": 20.685944444,
+    "elevation": 0,
+    "frequency": 11310,
+    "receptionRange": 130,
+    "slavedVariation": 2
+  },
+  {
+    "name": "N'DJAMENA",
+    "identifier": "FL",
+    "latitude": 12.141694444,
+    "longitude": 15.038305556,
+    "elevation": 988,
+    "frequency": 11530,
+    "receptionRange": 130,
+    "slavedVariation": 1
+  },
+  {
+    "name": "N'GAOUNDERE",
+    "identifier": "TJN",
+    "latitude": 7.330083333,
+    "longitude": 13.548166667,
+    "elevation": 0,
+    "frequency": 11270,
+    "receptionRange": 130,
+    "slavedVariation": -1
   },
   {
     "name": "NABIRE",
@@ -23430,26 +23460,6 @@
     "slavedVariation": -1
   },
   {
-    "name": "N'DELE",
-    "identifier": "LE",
-    "latitude": 8.397111111,
-    "longitude": 20.685944444,
-    "elevation": 0,
-    "frequency": 11310,
-    "receptionRange": 130,
-    "slavedVariation": 2
-  },
-  {
-    "name": "N'DJAMENA",
-    "identifier": "FL",
-    "latitude": 12.141694444,
-    "longitude": 15.038305556,
-    "elevation": 988,
-    "frequency": 11530,
-    "receptionRange": 130,
-    "slavedVariation": 1
-  },
-  {
     "name": "NDOLA",
     "identifier": "VND",
     "latitude": -12.998333333,
@@ -23700,16 +23710,6 @@
     "slavedVariation": 20
   },
   {
-    "name": "N'GAOUNDERE",
-    "identifier": "TJN",
-    "latitude": 7.330083333,
-    "longitude": 13.548166667,
-    "elevation": 0,
-    "frequency": 11270,
-    "receptionRange": 130,
-    "slavedVariation": -1
-  },
-  {
     "name": "NGONG",
     "identifier": "GV",
     "latitude": -1.396591667,
@@ -23740,16 +23740,6 @@
     "slavedVariation": -2
   },
   {
-    "name": "NICE COTE D'AZUR",
-    "identifier": "NIZ",
-    "latitude": 43.770638889,
-    "longitude": 7.254388889,
-    "elevation": 2822,
-    "frequency": 11240,
-    "receptionRange": 130,
-    "slavedVariation": 2
-  },
-  {
     "name": "NICE",
     "identifier": "AZR",
     "latitude": 43.659722222,
@@ -23757,6 +23747,16 @@
     "elevation": 12,
     "frequency": 10965,
     "receptionRange": 25,
+    "slavedVariation": 2
+  },
+  {
+    "name": "NICE COTE D'AZUR",
+    "identifier": "NIZ",
+    "latitude": 43.770638889,
+    "longitude": 7.254388889,
+    "elevation": 2822,
+    "frequency": 11240,
+    "receptionRange": 130,
     "slavedVariation": 2
   },
   {
@@ -23950,16 +23950,6 @@
     "slavedVariation": 11
   },
   {
-    "name": "NORFOLK I.",
-    "identifier": "NF",
-    "latitude": -29.047344444,
-    "longitude": 167.932155556,
-    "elevation": 330,
-    "frequency": 11240,
-    "receptionRange": 125,
-    "slavedVariation": 15
-  },
-  {
     "name": "NORFOLK",
     "identifier": "OFK",
     "latitude": 41.987927778,
@@ -23978,6 +23968,16 @@
     "frequency": 11690,
     "receptionRange": 130,
     "slavedVariation": -7
+  },
+  {
+    "name": "NORFOLK I.",
+    "identifier": "NF",
+    "latitude": -29.047344444,
+    "longitude": 167.932155556,
+    "elevation": 330,
+    "frequency": 11240,
+    "receptionRange": 125,
+    "slavedVariation": 15
   },
   {
     "name": "NORIA",
@@ -24208,6 +24208,16 @@
     "frequency": 11610,
     "receptionRange": 125,
     "slavedVariation": 5
+  },
+  {
+    "name": "O'NEILL",
+    "identifier": "ONL",
+    "latitude": 42.4705,
+    "longitude": -98.686927778,
+    "elevation": 2028,
+    "frequency": 11390,
+    "receptionRange": 130,
+    "slavedVariation": 10
   },
   {
     "name": "OAKEY",
@@ -24458,16 +24468,6 @@
     "frequency": 11630,
     "receptionRange": 130,
     "slavedVariation": -8
-  },
-  {
-    "name": "O'NEILL",
-    "identifier": "ONL",
-    "latitude": 42.4705,
-    "longitude": -98.686927778,
-    "elevation": 2028,
-    "frequency": 11390,
-    "receptionRange": 130,
-    "slavedVariation": 10
   },
   {
     "name": "ORDOS",
@@ -25080,16 +25080,6 @@
     "slavedVariation": -3
   },
   {
-    "name": "PAMPLONA SOUTH",
-    "identifier": "PAP",
-    "latitude": 42.688388889,
-    "longitude": -1.660777778,
-    "elevation": 1870,
-    "frequency": 11355,
-    "receptionRange": 125,
-    "slavedVariation": -1
-  },
-  {
     "name": "PAMPLONA",
     "identifier": "PPN",
     "latitude": 42.73375,
@@ -25097,6 +25087,16 @@
     "elevation": 3445,
     "frequency": 11230,
     "receptionRange": 130,
+    "slavedVariation": -1
+  },
+  {
+    "name": "PAMPLONA SOUTH",
+    "identifier": "PAP",
+    "latitude": 42.688388889,
+    "longitude": -1.660777778,
+    "elevation": 1870,
+    "frequency": 11355,
+    "receptionRange": 125,
     "slavedVariation": -1
   },
   {
@@ -25190,16 +25190,6 @@
     "slavedVariation": 2
   },
   {
-    "name": "PAPA UNIFORM (SINGAPORE)",
-    "identifier": "PU",
-    "latitude": 1.423330556,
-    "longitude": 103.933261111,
-    "elevation": 190,
-    "frequency": 11510,
-    "receptionRange": 125,
-    "slavedVariation": 0
-  },
-  {
     "name": "PAPA",
     "identifier": "PCT",
     "latitude": 47.367027778,
@@ -25208,6 +25198,16 @@
     "frequency": 11475,
     "receptionRange": 130,
     "slavedVariation": 4
+  },
+  {
+    "name": "PAPA UNIFORM (SINGAPORE)",
+    "identifier": "PU",
+    "latitude": 1.423330556,
+    "longitude": 103.933261111,
+    "elevation": 190,
+    "frequency": 11510,
+    "receptionRange": 125,
+    "slavedVariation": 0
   },
   {
     "name": "PARABURDOO",
@@ -26640,6 +26640,16 @@
     "slavedVariation": 4
   },
   {
+    "name": "PORTO",
+    "identifier": "PRT",
+    "latitude": 41.273,
+    "longitude": -8.687833333,
+    "elevation": 200,
+    "frequency": 11410,
+    "receptionRange": 130,
+    "slavedVariation": -3
+  },
+  {
     "name": "PORTO (RIO DE JANEIRO TMA)",
     "identifier": "PCX",
     "latitude": -22.715394444,
@@ -26690,16 +26700,6 @@
     "slavedVariation": -12
   },
   {
-    "name": "PORTO",
-    "identifier": "PRT",
-    "latitude": 41.273,
-    "longitude": -8.687833333,
-    "elevation": 200,
-    "frequency": 11410,
-    "receptionRange": 130,
-    "slavedVariation": -3
-  },
-  {
     "name": "PORTOROZ",
     "identifier": "POR",
     "latitude": 45.474777778,
@@ -26730,16 +26730,6 @@
     "slavedVariation": -1
   },
   {
-    "name": "POTOSI (SAN LUIS POTOSI)",
-    "identifier": "SLP",
-    "latitude": 22.256388889,
-    "longitude": -100.930425,
-    "elevation": 6041,
-    "frequency": 11720,
-    "receptionRange": 125,
-    "slavedVariation": 5
-  },
-  {
     "name": "POTOSI",
     "identifier": "PTS",
     "latitude": -19.523888889,
@@ -26748,6 +26738,16 @@
     "frequency": 11490,
     "receptionRange": 130,
     "slavedVariation": -9
+  },
+  {
+    "name": "POTOSI (SAN LUIS POTOSI)",
+    "identifier": "SLP",
+    "latitude": 22.256388889,
+    "longitude": -100.930425,
+    "elevation": 6041,
+    "frequency": 11720,
+    "receptionRange": 125,
+    "slavedVariation": 5
   },
   {
     "name": "POTOU",
@@ -27220,16 +27220,6 @@
     "slavedVariation": 0
   },
   {
-    "name": "PULLMAN (PULLMAN/MOSCOW)",
-    "identifier": "PUW",
-    "latitude": 46.674238889,
-    "longitude": -117.223502778,
-    "elevation": 2772,
-    "frequency": 10900,
-    "receptionRange": 40,
-    "slavedVariation": 20
-  },
-  {
     "name": "PULLMAN",
     "identifier": "PMM",
     "latitude": 42.466036111,
@@ -27238,6 +27228,16 @@
     "frequency": 11210,
     "receptionRange": 130,
     "slavedVariation": 0
+  },
+  {
+    "name": "PULLMAN (PULLMAN/MOSCOW)",
+    "identifier": "PUW",
+    "latitude": 46.674238889,
+    "longitude": -117.223502778,
+    "elevation": 2772,
+    "frequency": 10900,
+    "receptionRange": 40,
+    "slavedVariation": 20
   },
   {
     "name": "PUNE",
@@ -28280,16 +28280,6 @@
     "slavedVariation": -10
   },
   {
-    "name": "RIVERSIDE (KANSAS CITY)",
-    "identifier": "RIS",
-    "latitude": 39.120388889,
-    "longitude": -94.596591667,
-    "elevation": 0,
-    "frequency": 11140,
-    "receptionRange": 25,
-    "slavedVariation": 5
-  },
-  {
     "name": "RIVERSIDE",
     "identifier": "RAL",
     "latitude": 33.955180556,
@@ -28298,6 +28288,16 @@
     "frequency": 11240,
     "receptionRange": 25,
     "slavedVariation": 14
+  },
+  {
+    "name": "RIVERSIDE (KANSAS CITY)",
+    "identifier": "RIS",
+    "latitude": 39.120388889,
+    "longitude": -94.596591667,
+    "elevation": 0,
+    "frequency": 11140,
+    "receptionRange": 25,
+    "slavedVariation": 5
   },
   {
     "name": "RIVERTON",
@@ -28400,16 +28400,6 @@
     "slavedVariation": 5
   },
   {
-    "name": "ROBERTS (MONROVIA)",
-    "identifier": "ROB",
-    "latitude": 6.231138889,
-    "longitude": -10.365694444,
-    "elevation": 148,
-    "frequency": 11380,
-    "receptionRange": 130,
-    "slavedVariation": -12
-  },
-  {
     "name": "ROBERTS",
     "identifier": "RBS",
     "latitude": 40.581702778,
@@ -28418,6 +28408,16 @@
     "frequency": 11680,
     "receptionRange": 40,
     "slavedVariation": 2
+  },
+  {
+    "name": "ROBERTS (MONROVIA)",
+    "identifier": "ROB",
+    "latitude": 6.231138889,
+    "longitude": -10.365694444,
+    "elevation": 148,
+    "frequency": 11380,
+    "receptionRange": 130,
+    "slavedVariation": -12
   },
   {
     "name": "ROBINSON",
@@ -28658,6 +28658,16 @@
     "frequency": 11270,
     "receptionRange": 130,
     "slavedVariation": 3
+  },
+  {
+    "name": "ROSA DE CONLARA",
+    "identifier": "SRC",
+    "latitude": -32.373611111,
+    "longitude": -65.183333333,
+    "elevation": 2020,
+    "frequency": 11750,
+    "receptionRange": 125,
+    "slavedVariation": -1
   },
   {
     "name": "ROSARIO",
@@ -29410,16 +29420,6 @@
     "slavedVariation": 10
   },
   {
-    "name": "SAN ANTONIO DE ARECO",
-    "identifier": "SNT",
-    "latitude": -34.222222222,
-    "longitude": -59.441388889,
-    "elevation": 1,
-    "frequency": 11770,
-    "receptionRange": 125,
-    "slavedVariation": -4.9
-  },
-  {
     "name": "SAN ANTONIO",
     "identifier": "SAT",
     "latitude": 29.644030556,
@@ -29428,6 +29428,16 @@
     "frequency": 11680,
     "receptionRange": 130,
     "slavedVariation": 8
+  },
+  {
+    "name": "SAN ANTONIO DE ARECO",
+    "identifier": "SNT",
+    "latitude": -34.222222222,
+    "longitude": -59.441388889,
+    "elevation": 1,
+    "frequency": 11770,
+    "receptionRange": 125,
+    "slavedVariation": -4.9
   },
   {
     "name": "SAN BORJA",
@@ -29460,16 +29470,6 @@
     "slavedVariation": 3
   },
   {
-    "name": "SAN FERNANDO DE APURE",
-    "identifier": "SFD",
-    "latitude": 7.88275,
-    "longitude": -67.439,
-    "elevation": 174,
-    "frequency": 11210,
-    "receptionRange": 125,
-    "slavedVariation": -12
-  },
-  {
     "name": "SAN FERNANDO",
     "identifier": "SAN",
     "latitude": 16.728375,
@@ -29488,6 +29488,16 @@
     "frequency": 11440,
     "receptionRange": 125,
     "slavedVariation": -8
+  },
+  {
+    "name": "SAN FERNANDO DE APURE",
+    "identifier": "SFD",
+    "latitude": 7.88275,
+    "longitude": -67.439,
+    "elevation": 174,
+    "frequency": 11210,
+    "receptionRange": 125,
+    "slavedVariation": -12
   },
   {
     "name": "SAN FRANCISCO",
@@ -29520,26 +29530,6 @@
     "slavedVariation": 0
   },
   {
-    "name": "SAN JOSE (PUERTO SAN JOSE)",
-    "identifier": "SJO",
-    "latitude": 13.933513889,
-    "longitude": -90.831925,
-    "elevation": 20,
-    "frequency": 11410,
-    "receptionRange": 125,
-    "slavedVariation": 1.8
-  },
-  {
-    "name": "SAN JOSE DEL GUAVIARE",
-    "identifier": "SJE",
-    "latitude": 2.531666667,
-    "longitude": -72.640277778,
-    "elevation": 520,
-    "frequency": 11330,
-    "receptionRange": 130,
-    "slavedVariation": -7
-  },
-  {
     "name": "SAN JOSE",
     "identifier": "SAJ",
     "latitude": 12.360313889,
@@ -29558,6 +29548,26 @@
     "frequency": 11410,
     "receptionRange": 40,
     "slavedVariation": 16
+  },
+  {
+    "name": "SAN JOSE (PUERTO SAN JOSE)",
+    "identifier": "SJO",
+    "latitude": 13.933513889,
+    "longitude": -90.831925,
+    "elevation": 20,
+    "frequency": 11410,
+    "receptionRange": 125,
+    "slavedVariation": 1.8
+  },
+  {
+    "name": "SAN JOSE DEL GUAVIARE",
+    "identifier": "SJE",
+    "latitude": 2.531666667,
+    "longitude": -72.640277778,
+    "elevation": 520,
+    "frequency": 11330,
+    "receptionRange": 130,
+    "slavedVariation": -7
   },
   {
     "name": "SAN JUAN",
@@ -29930,26 +29940,6 @@
     "slavedVariation": -18
   },
   {
-    "name": "SANTIAGO DE CUBA",
-    "identifier": "UCU",
-    "latitude": 19.9778,
-    "longitude": -75.822655556,
-    "elevation": 197,
-    "frequency": 11330,
-    "receptionRange": 125,
-    "slavedVariation": -8
-  },
-  {
-    "name": "SANTIAGO DEL ESTERO",
-    "identifier": "SDE",
-    "latitude": -27.779113889,
-    "longitude": -64.318080556,
-    "elevation": 0,
-    "frequency": 11480,
-    "receptionRange": 125,
-    "slavedVariation": -7
-  },
-  {
     "name": "SANTIAGO",
     "identifier": "STG",
     "latitude": 42.926861111,
@@ -29988,6 +29978,26 @@
     "frequency": 11610,
     "receptionRange": 125,
     "slavedVariation": 2
+  },
+  {
+    "name": "SANTIAGO DE CUBA",
+    "identifier": "UCU",
+    "latitude": 19.9778,
+    "longitude": -75.822655556,
+    "elevation": 197,
+    "frequency": 11330,
+    "receptionRange": 125,
+    "slavedVariation": -8
+  },
+  {
+    "name": "SANTIAGO DEL ESTERO",
+    "identifier": "SDE",
+    "latitude": -27.779113889,
+    "longitude": -64.318080556,
+    "elevation": 0,
+    "frequency": 11480,
+    "receptionRange": 125,
+    "slavedVariation": -7
   },
   {
     "name": "SANTORINI",
@@ -31980,14 +31990,14 @@
     "slavedVariation": 2
   },
   {
-    "name": "ROSA DE CONLARA",
-    "identifier": "SRC",
-    "latitude": -32.373611111,
-    "longitude": -65.183333333,
-    "elevation": 2020,
-    "frequency": 11750,
+    "name": "ST-JEAN",
+    "identifier": "YJN",
+    "latitude": 45.255811111,
+    "longitude": -73.321280556,
+    "elevation": 189,
+    "frequency": 11580,
     "receptionRange": 125,
-    "slavedVariation": -1
+    "slavedVariation": -16
   },
   {
     "name": "STANDERTON",
@@ -32058,16 +32068,6 @@
     "frequency": 10840,
     "receptionRange": 40,
     "slavedVariation": 9
-  },
-  {
-    "name": "ST-JEAN",
-    "identifier": "YJN",
-    "latitude": 45.255811111,
-    "longitude": -73.321280556,
-    "elevation": 189,
-    "frequency": 11580,
-    "receptionRange": 125,
-    "slavedVariation": -16
   },
   {
     "name": "STOCKERAU",
@@ -32380,16 +32380,6 @@
     "slavedVariation": -7
   },
   {
-    "name": "SUR (QUITO)",
-    "identifier": "QSV",
-    "latitude": -0.301694444,
-    "longitude": -78.343805556,
-    "elevation": 9347,
-    "frequency": 11680,
-    "receptionRange": 125,
-    "slavedVariation": -3
-  },
-  {
     "name": "SUR",
     "identifier": "SUR",
     "latitude": 22.546638889,
@@ -32398,6 +32388,16 @@
     "frequency": 11750,
     "receptionRange": 125,
     "slavedVariation": 1
+  },
+  {
+    "name": "SUR (QUITO)",
+    "identifier": "QSV",
+    "latitude": -0.301694444,
+    "longitude": -78.343805556,
+    "elevation": 9347,
+    "frequency": 11680,
+    "receptionRange": 125,
+    "slavedVariation": -3
   },
   {
     "name": "SURABAYA",
@@ -32410,16 +32410,6 @@
     "slavedVariation": 1
   },
   {
-    "name": "SURAT THANI",
-    "identifier": "STN",
-    "latitude": 9.129511111,
-    "longitude": 99.134747222,
-    "elevation": 19,
-    "frequency": 11060,
-    "receptionRange": 125,
-    "slavedVariation": -0.7
-  },
-  {
     "name": "SURAT",
     "identifier": "SUR",
     "latitude": 21.110638889,
@@ -32428,6 +32418,16 @@
     "frequency": 11220,
     "receptionRange": 40,
     "slavedVariation": 0
+  },
+  {
+    "name": "SURAT THANI",
+    "identifier": "STN",
+    "latitude": 9.129511111,
+    "longitude": 99.134747222,
+    "elevation": 19,
+    "frequency": 11060,
+    "receptionRange": 125,
+    "slavedVariation": -0.7
   },
   {
     "name": "SUTHERLAND",
@@ -34870,6 +34870,16 @@
     "slavedVariation": 15
   },
   {
+    "name": "U-TAPAO",
+    "identifier": "BUT",
+    "latitude": 12.666694444,
+    "longitude": 101.000475,
+    "elevation": 20,
+    "frequency": 11080,
+    "receptionRange": 125,
+    "slavedVariation": -1
+  },
+  {
     "name": "UBE (YAMAGUCHI)",
     "identifier": "UBE",
     "latitude": 33.935627778,
@@ -35170,16 +35180,6 @@
     "slavedVariation": 6
   },
   {
-    "name": "U-TAPAO",
-    "identifier": "BUT",
-    "latitude": 12.666694444,
-    "longitude": 101.000475,
-    "elevation": 20,
-    "frequency": 11080,
-    "receptionRange": 125,
-    "slavedVariation": -1
-  },
-  {
     "name": "UTICA",
     "identifier": "UCA",
     "latitude": 43.026513889,
@@ -35250,16 +35250,6 @@
     "slavedVariation": 0
   },
   {
-    "name": "VALDIVIA",
-    "identifier": "VLD",
-    "latitude": -39.671111111,
-    "longitude": -73.085555556,
-    "elevation": 62,
-    "frequency": 11450,
-    "receptionRange": 125,
-    "slavedVariation": 8
-  },
-  {
     "name": "VAL-D'OR",
     "identifier": "YVO",
     "latitude": 48.175269444,
@@ -35268,6 +35258,16 @@
     "frequency": 11370,
     "receptionRange": 125,
     "slavedVariation": -14
+  },
+  {
+    "name": "VALDIVIA",
+    "identifier": "VLD",
+    "latitude": -39.671111111,
+    "longitude": -73.085555556,
+    "elevation": 62,
+    "frequency": 11450,
+    "receptionRange": 125,
+    "slavedVariation": 8
   },
   {
     "name": "VALDOSTA",
@@ -35340,16 +35340,6 @@
     "slavedVariation": -9
   },
   {
-    "name": "VAN NUYS",
-    "identifier": "VNY",
-    "latitude": 34.223458333,
-    "longitude": -118.491675,
-    "elevation": 812,
-    "frequency": 11310,
-    "receptionRange": 40,
-    "slavedVariation": 15
-  },
-  {
     "name": "VAN",
     "identifier": "VAN",
     "latitude": 38.466111111,
@@ -35360,14 +35350,14 @@
     "slavedVariation": 5
   },
   {
-    "name": "VANCE (ENID)",
-    "identifier": "END",
-    "latitude": 36.344972222,
-    "longitude": -97.918355556,
-    "elevation": 1277,
-    "frequency": 11540,
-    "receptionRange": 130,
-    "slavedVariation": 5
+    "name": "VAN NUYS",
+    "identifier": "VNY",
+    "latitude": 34.223458333,
+    "longitude": -118.491675,
+    "elevation": 812,
+    "frequency": 11310,
+    "receptionRange": 40,
+    "slavedVariation": 15
   },
   {
     "name": "VANCE",
@@ -35378,6 +35368,16 @@
     "frequency": 11040,
     "receptionRange": 40,
     "slavedVariation": -6
+  },
+  {
+    "name": "VANCE (ENID)",
+    "identifier": "END",
+    "latitude": 36.344972222,
+    "longitude": -97.918355556,
+    "elevation": 1277,
+    "frequency": 11540,
+    "receptionRange": 130,
+    "slavedVariation": 5
   },
   {
     "name": "VANCOUVER",
@@ -35570,26 +35570,6 @@
     "slavedVariation": 8
   },
   {
-    "name": "VICTORIA (CIUDAD VICTORIA)",
-    "identifier": "CVM",
-    "latitude": 23.705530556,
-    "longitude": -98.959027778,
-    "elevation": 722,
-    "frequency": 11370,
-    "receptionRange": 125,
-    "slavedVariation": 6
-  },
-  {
-    "name": "VICTORIA FALLS",
-    "identifier": "VFA",
-    "latitude": -18.090036111,
-    "longitude": 25.814333333,
-    "elevation": 3508,
-    "frequency": 11670,
-    "receptionRange": 130,
-    "slavedVariation": -8
-  },
-  {
     "name": "VICTORIA",
     "identifier": "YYJ",
     "latitude": 48.72705,
@@ -35608,6 +35588,26 @@
     "frequency": 10900,
     "receptionRange": 40,
     "slavedVariation": 6
+  },
+  {
+    "name": "VICTORIA (CIUDAD VICTORIA)",
+    "identifier": "CVM",
+    "latitude": 23.705530556,
+    "longitude": -98.959027778,
+    "elevation": 722,
+    "frequency": 11370,
+    "receptionRange": 125,
+    "slavedVariation": 6
+  },
+  {
+    "name": "VICTORIA FALLS",
+    "identifier": "VFA",
+    "latitude": -18.090036111,
+    "longitude": 25.814333333,
+    "elevation": 3508,
+    "frequency": 11670,
+    "receptionRange": 130,
+    "slavedVariation": -8
   },
   {
     "name": "VICTORIA WEST",
@@ -36670,16 +36670,6 @@
     "slavedVariation": -8
   },
   {
-    "name": "WICHITA FALLS",
-    "identifier": "SPS",
-    "latitude": 33.987286111,
-    "longitude": -98.593472222,
-    "elevation": 1133,
-    "frequency": 11270,
-    "receptionRange": 130,
-    "slavedVariation": 10
-  },
-  {
     "name": "WICHITA",
     "identifier": "ICT",
     "latitude": 37.745258333,
@@ -36688,6 +36678,16 @@
     "frequency": 11380,
     "receptionRange": 130,
     "slavedVariation": 7
+  },
+  {
+    "name": "WICHITA FALLS",
+    "identifier": "SPS",
+    "latitude": 33.987286111,
+    "longitude": -98.593472222,
+    "elevation": 1133,
+    "frequency": 11270,
+    "receptionRange": 130,
+    "slavedVariation": 10
   },
   {
     "name": "WICK",
@@ -36750,16 +36750,6 @@
     "slavedVariation": 7
   },
   {
-    "name": "WILLIAMS LAKE",
-    "identifier": "YWL",
-    "latitude": 52.237111111,
-    "longitude": -122.168861111,
-    "elevation": 3662,
-    "frequency": 11360,
-    "receptionRange": 125,
-    "slavedVariation": 18
-  },
-  {
     "name": "WILLIAMS",
     "identifier": "ILA",
     "latitude": 39.071175,
@@ -36767,6 +36757,16 @@
     "elevation": 49,
     "frequency": 11440,
     "receptionRange": 40,
+    "slavedVariation": 18
+  },
+  {
+    "name": "WILLIAMS LAKE",
+    "identifier": "YWL",
+    "latitude": 52.237111111,
+    "longitude": -122.168861111,
+    "elevation": 3662,
+    "frequency": 11360,
+    "receptionRange": 125,
     "slavedVariation": 18
   },
   {
