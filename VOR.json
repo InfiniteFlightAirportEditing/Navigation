@@ -27962,8 +27962,8 @@
   {
     "name": "REDE (SAO PAULO)",
     "identifier": "RDE",
-    "latitude": -23.890977778,
-    "longitude": -46.5282,
+    "latitude": -23.89097,
+    "longitude": -46.52819,
     "elevation": 2000,
     "frequency": 11670,
     "receptionRange": 125,
@@ -29902,8 +29902,8 @@
   {
     "name": "SANTANA (SAO PAULO TMA)",
     "identifier": "STN",
-    "latitude": -23.487541667,
-    "longitude": -46.923308333,
+    "latitude": -23.48756,
+    "longitude": -46.92331,
     "elevation": 3100,
     "frequency": 11430,
     "receptionRange": 125,
@@ -30052,7 +30052,7 @@
   {
     "name": "SAO JOSE (SAO JOSE DOS CAMPOS)",
     "identifier": "SCP",
-    "latitude": -23.233166667,
+    "latitude": -23.23317,
     "longitude": -45.86,
     "elevation": 2089,
     "frequency": 11540,
@@ -31712,8 +31712,8 @@
   {
     "name": "SOROCABA (SAO PAULO TMA)",
     "identifier": "SCB",
-    "latitude": -23.507055556,
-    "longitude": -47.378219444,
+    "latitude": -23.50706,
+    "longitude": -47.37822,
     "elevation": 2000,
     "frequency": 11520,
     "receptionRange": 125,

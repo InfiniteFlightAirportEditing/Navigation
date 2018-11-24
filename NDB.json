@@ -47727,10 +47727,10 @@
     "receptionRange": 50
   },
   {
-    "name": "RIO",
+    "name": "RIO CLARO",
     "identifier": "RCL",
-    "latitude": -22.43016624,
-    "longitude": -47.5625,
+    "latitude": -22.43019,
+    "longitude": -47.56244,
     "elevation": 0,
     "frequency": 280,
     "receptionRange": 50
