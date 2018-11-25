@@ -24805,6 +24805,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 174.350, 
+    "airportICAO": "LATI", 
+    "elevation": 125, 
+    "name": "ILS-cat-I", 
+    "longitude": 19.71898365, 
+    "associatedRunwayNumber": "22", 
+    "frequency": 110300, 
+    "latitude": 41.42696593, 
+    "identifier": "ITR", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 224.27, 
     "airportICAO": "LBBG", 
     "elevation": 134, 

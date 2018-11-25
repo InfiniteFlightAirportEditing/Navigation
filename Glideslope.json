@@ -24768,6 +24768,19 @@
     "identifier": "ITNF"
   }, 
   {
+    "receptionRange": 18, 
+    "bearing": 174.350, 
+    "airportICAO": "LATI", 
+    "elevation": 125, 
+    "name": "GS", 
+    "longitude": 19.71898365, 
+    "associatedRunwayNumber": "17", 
+    "frequency": 110300, 
+    "glideslope": 3.0174350, 
+    "latitude": 41.42696593, 
+    "identifier": "ITR"
+  }, 
+  {
     "receptionRange": 10, 
     "bearing": 224.27, 
     "airportICAO": "LBBG", 
