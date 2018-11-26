@@ -7110,15 +7110,6 @@
     "receptionRange": 50
   },
   {
-    "name": "BONSUCESSO",
-    "identifier": "IB",
-    "latitude": -23.40766716,
-    "longitude": -46.38716888,
-    "elevation": 0,
-    "frequency": 240,
-    "receptionRange": 50
-  },
-  {
     "name": "BONTANG",
     "identifier": "BG",
     "latitude": 0.116667,
@@ -43713,15 +43704,6 @@
     "receptionRange": 50
   },
   {
-    "name": "PERUS",
-    "identifier": "PER",
-    "latitude": -23.42058563,
-    "longitude": -46.75592041,
-    "elevation": 0,
-    "frequency": 220,
-    "receptionRange": 25
-  },
-  {
     "name": "PESCARA",
     "identifier": "PES",
     "latitude": 42.436306,
@@ -47746,15 +47728,6 @@
   },
   {
     "name": "RIO",
-    "identifier": "RCL",
-    "latitude": -22.43016624,
-    "longitude": -47.5625,
-    "elevation": 0,
-    "frequency": 280,
-    "receptionRange": 50
-  },
-  {
-    "name": "RIO",
     "identifier": "R",
     "latitude": -33.11166763,
     "longitude": -64.27500153,
@@ -47824,6 +47797,15 @@
     "elevation": 1782,
     "frequency": 420,
     "receptionRange": 100
+  },
+  {
+    "name": "RIO CLARO",
+    "identifier": "RCL",
+    "latitude": -22.43019,
+    "longitude": -47.56244,
+    "elevation": 0,
+    "frequency": 280,
+    "receptionRange": 50
   },
   {
     "name": "RIOBAMBA",
@@ -50231,11 +50213,11 @@
   {
     "name": "SANTOS",
     "identifier": "SAT",
-    "latitude": -23.98333359,
-    "longitude": -46.26333237,
+    "latitude": -23.98314,
+    "longitude": -46.26333,
     "elevation": 0,
     "frequency": 375,
-    "receptionRange": 128
+    "receptionRange": 50
   },
   {
     "name": "SANYUAN",
@@ -55829,8 +55811,8 @@
   {
     "name": "TAUBATE",
     "identifier": "TBE",
-    "latitude": -23.04566765,
-    "longitude": -45.51683426,
+    "latitude": -23.04564,
+    "longitude": -45.51669,
     "elevation": 1923,
     "frequency": 430,
     "receptionRange": 25
@@ -58048,15 +58030,6 @@
     "elevation": 50,
     "frequency": 347,
     "receptionRange": 150
-  },
-  {
-    "name": "TUCA",
-    "identifier": "IG",
-    "latitude": -23.46216774,
-    "longitude": -46.57333374,
-    "elevation": 0,
-    "frequency": 410,
-    "receptionRange": 50
   },
   {
     "name": "TUCUPITA",
