@@ -7834,7 +7834,7 @@
     "longitude": 31.10774882, 
     "associatedRunwayNumber": "06", 
     "frequency": 111300, 
-    "latitude": -29.62504582, 
+    "latitude": -29.62504582,
     "identifier": "TNI", 
     "type": 4
   }, 
@@ -24810,7 +24810,7 @@
     "elevation": 125, 
     "name": "ILS-cat-I", 
     "longitude": 19.71898365, 
-    "associatedRunwayNumber": "22", 
+    "associatedRunwayNumber": "17", 
     "frequency": 110300, 
     "latitude": 41.42696593, 
     "identifier": "ITR", 
