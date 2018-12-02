@@ -42447,19 +42447,6 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 34.922, 
-    "airportICAO": "EGAC", 
-    "elevation": 15, 
-    "name": "LOC", 
-    "longitude": -5.862669, 
-    "associatedRunwayNumber": "04", 
-    "frequency": 108100, 
-    "latitude": 54.626331, 
-    "identifier": "HBD", 
-    "type": 5
-  }, 
-  {
-    "receptionRange": 18, 
     "bearing": 78.458, 
     "airportICAO": "EGPB", 
     "elevation": 20, 
@@ -45775,7 +45762,7 @@
   }, 
   {
     "receptionRange": 25, 
-    "bearing": 214.7, 
+    "bearing": 34.7, 
     "airportICAO": "EGAC", 
     "elevation": 15, 
     "name": "ILS-cat-I", 
