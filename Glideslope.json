@@ -34362,16 +34362,16 @@
     "identifier": "MP"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 90.438, 
+    "receptionRange": 18, 
+    "bearing": 90.210, 
     "airportICAO": "SAZN", 
-    "elevation": 896, 
+    "elevation": 895, 
     "name": "GS", 
-    "longitude": -68.165833, 
-    "associatedRunwayNumber": "08", 
+    "longitude": -68.17056712, 
+    "associatedRunwayNumber": "09", 
     "frequency": 110300, 
-    "glideslope": 3.00090219, 
-    "latitude": -38.95125, 
+    "glideslope": 3.00090210, 
+    "latitude": -38.94899849, 
     "identifier": "NE"
   }, 
   {

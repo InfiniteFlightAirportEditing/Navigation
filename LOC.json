@@ -34530,14 +34530,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 92.651, 
+    "bearing": 90.210, 
     "airportICAO": "SAZN", 
     "elevation": 895, 
     "name": "ILS-cat-I", 
-    "longitude": -68.137028, 
-    "associatedRunwayNumber": "08", 
+    "longitude": -68.17056712, 
+    "associatedRunwayNumber": "09", 
     "frequency": 110300, 
-    "latitude": -38.950167, 
+    "latitude": -38.94899849, 
     "identifier": "NE", 
     "type": 4
   }, 
