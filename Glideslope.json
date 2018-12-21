@@ -32464,16 +32464,16 @@
     "identifier": "IPTN"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 92.532, 
+    "receptionRange": 18, 
+    "bearing": 92.220, 
     "airportICAO": "RCSS", 
-    "elevation": 12, 
+    "elevation": 18, 
     "name": "GS", 
-    "longitude": 121.543194, 
+    "longitude": 121.53957481, 
     "associatedRunwayNumber": "10", 
     "frequency": 108900, 
-    "glideslope": 3.00092266, 
-    "latitude": 25.070972, 
+    "glideslope": 3.00092220, 
+    "latitude": 25.07004868, 
     "identifier": "ITSG"
   }, 
   {

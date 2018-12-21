@@ -32645,14 +32645,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 92.229, 
+    "bearing": 92.220, 
     "airportICAO": "RCSS", 
-    "elevation": 13, 
+    "elevation": 18, 
     "name": "ILS-cat-I", 
-    "longitude": 121.567889, 
+    "longitude": 121.53957481, 
     "associatedRunwayNumber": "10", 
     "frequency": 108900, 
-    "latitude": 25.069056, 
+    "latitude": 25.07004868, 
     "identifier": "ITSG", 
     "type": 4
   }, 
@@ -45355,19 +45355,6 @@
     "frequency": 109700, 
     "latitude": 22.577583, 
     "identifier": "IKAS", 
-    "type": 5
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 264.28, 
-    "airportICAO": "RCSS", 
-    "elevation": 18, 
-    "name": "LDA", 
-    "longitude": 121.565694, 
-    "associatedRunwayNumber": "28", 
-    "frequency": 108100, 
-    "latitude": 25.068056, 
-    "identifier": "ITLU", 
     "type": 5
   }, 
   {
