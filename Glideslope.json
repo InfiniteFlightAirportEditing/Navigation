@@ -20245,14 +20245,14 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 273.88, 
+    "bearing": 269.88, 
     "airportICAO": "KORD", 
     "elevation": 679, 
     "name": "GS", 
     "longitude": -87.88365962, 
     "associatedRunwayNumber": "28R", 
     "frequency": 111100, 
-    "glideslope": 3.0027388, 
+    "glideslope": 3.0026988, 
     "latitude": 41.96907384, 
     "identifier": "ITSL"
   },
