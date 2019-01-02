@@ -6470,7 +6470,7 @@
     "slavedVariation": 24
   },
   {
-    "name": "CHRISTMAS I",
+    "name": "CHRISTMAS ISLAND",
     "identifier": "XMX",
     "latitude": -10.430277778,
     "longitude": 105.689444444,
@@ -6750,7 +6750,7 @@
     "slavedVariation": -2.7
   },
   {
-    "name": "COCOS I.",
+    "name": "COCOS ISLAND.",
     "identifier": "CC",
     "latitude": -12.200575,
     "longitude": 96.840897222,
@@ -10050,7 +10050,7 @@
     "slavedVariation": 11
   },
   {
-    "name": "FALEOLO (UPOLU I.)",
+    "name": "FALEOLO (UPOLU ISLAND)",
     "identifier": "FA",
     "latitude": -13.829444444,
     "longitude": -171.992777778,
@@ -12930,7 +12930,7 @@
     "slavedVariation": 2
   },
   {
-    "name": "HAMILTON I",
+    "name": "HAMILTON ISLAND",
     "identifier": "HM",
     "latitude": -20.351169444,
     "longitude": 148.955880556,
@@ -23350,7 +23350,7 @@
     "slavedVariation": 2
   },
   {
-    "name": "NAURU I.",
+    "name": "NAURU ISLAND",
     "identifier": "NI",
     "latitude": -0.543888889,
     "longitude": 166.920833333,
@@ -23970,7 +23970,7 @@
     "slavedVariation": -7
   },
   {
-    "name": "NORFOLK I.",
+    "name": "NORFOLK ISLAND",
     "identifier": "NF",
     "latitude": -29.047344444,
     "longitude": 167.932155556,
@@ -36140,7 +36140,7 @@
     "slavedVariation": 1
   },
   {
-    "name": "WAKE I.",
+    "name": "WAKE ISLAND",
     "identifier": "AWK",
     "latitude": 19.286580556,
     "longitude": 166.627333333,
