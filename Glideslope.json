@@ -24287,16 +24287,16 @@
     "identifier": "IUGN"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 40.012, 
+    "receptionRange": 18, 
+    "bearing": 40.190, 
     "airportICAO": "KUIN", 
-    "elevation": 759, 
+    "elevation": 769, 
     "name": "GS", 
-    "longitude": -91.196781, 
+    "longitude": -91.19957612, 
     "associatedRunwayNumber": "04", 
     "frequency": 110100, 
     "glideslope": 3.00040006, 
-    "latitude": 39.936975, 
+    "latitude": 39.93616808, 
     "identifier": "IUIN"
   }, 
   {
@@ -24547,16 +24547,16 @@
     "identifier": "IVPZ"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 0.11, 
+    "receptionRange": 18, 
+    "bearing": 359.570, 
     "airportICAO": "KVQQ", 
     "elevation": 81, 
     "name": "GS", 
-    "longitude": -81.872531, 
+    "longitude": -81.87382, 
     "associatedRunwayNumber": "36R", 
     "frequency": 109500, 
-    "glideslope": 3.00359555, 
-    "latitude": 30.203531, 
+    "glideslope": 3.00359570, 
+    "latitude": 30.20065008, 
     "identifier": "IVQQ"
   }, 
   {
@@ -27719,16 +27719,16 @@
     "identifier": "BRM"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 3.122, 
+    "receptionRange": 18, 
+    "bearing": 362.560, 
     "airportICAO": "LIMF", 
-    "elevation": 989, 
+    "elevation": 988, 
     "name": "GS", 
-    "longitude": 7.650661, 
+    "longitude": 7.64871394, 
     "associatedRunwayNumber": "36", 
     "frequency": 108700, 
-    "glideslope": 3.00002561, 
-    "latitude": 45.191811, 
+    "glideslope": 3.00362560, 
+    "latitude": 45.18594180, 
     "identifier": "ITOC"
   }, 
   {
@@ -30501,16 +30501,16 @@
     "identifier": "ISIB"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 129.14, 
+    "receptionRange": 18, 
+    "bearing": 129.200, 
     "airportICAO": "OEAB", 
-    "elevation": 6858, 
+    "elevation": 6857, 
     "name": "GS", 
-    "longitude": 42.647431, 
+    "longitude": 42.64417594, 
     "associatedRunwayNumber": "13", 
     "frequency": 109900, 
-    "glideslope": 3.0012907, 
-    "latitude": 18.248836, 
+    "glideslope": 3.00129200, 
+    "latitude": 18.24997478, 
     "identifier": "IABH"
   }, 
   {
@@ -38483,16 +38483,16 @@
     "identifier": "IVTN"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 340.582, 
+    "receptionRange": 13, 
+    "bearing": 341.13, 
     "airportICAO": "VMMC", 
     "elevation": 20, 
     "name": "GS", 
-    "longitude": 113.595556, 
+    "longitude": 113.59674304, 
     "associatedRunwayNumber": "34", 
     "frequency": 109700, 
-    "glideslope": 3.00340291, 
-    "latitude": 22.141111, 
+    "glideslope": 3.00341130, 
+    "latitude": 22.13500815, 
     "identifier": "MCN"
   }, 
   {
@@ -40753,8 +40753,8 @@
     "longitude": 113.82395281, 
     "associatedRunwayNumber": "12R", 
     "frequency": 110300, 
-    "glideslope": 34.52520160, 
-    "latitude": 34.52308273, 
+    "glideslope": 3.0011243, 
+    "latitude": 34.52520160, 
     "identifier": "IFF"
   },
   {
