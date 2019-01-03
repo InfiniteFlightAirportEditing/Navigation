@@ -32229,19 +32229,6 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 107.9, 
-    "airportICAO": "PAKU", 
-    "elevation": 67, 
-    "name": "ILS-cat-I", 
-    "longitude": -149.565818, 
-    "associatedRunwayNumber": "05", 
-    "frequency": 109700, 
-    "latitude": 70.333086, 
-    "identifier": "IIII", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
     "bearing": 89.909, 
     "airportICAO": "PANC", 
     "elevation": 152, 
