@@ -33804,15 +33804,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 358.176, 
+    "bearing": 357.59, 
     "airportICAO": "ROAH", 
-    "elevation": 52, 
+    "elevation": 12, 
     "name": "GS", 
-    "longitude": 127.645164, 
+    "longitude": 127.646506, 
     "associatedRunwayNumber": "36", 
     "frequency": 110300, 
-    "glideslope": 2.75357588, 
-    "latitude": 26.185186, 
+    "glideslope": 3.0035759, 
+    "latitude": 26.182272, 
     "identifier": "IOK"
   }, 
   {
