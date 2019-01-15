@@ -33971,14 +33971,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 356.781, 
+    "bearing": 357.59, 
     "airportICAO": "ROAH", 
-    "elevation": 52, 
+    "elevation": 12, 
     "name": "ILS-cat-I", 
-    "longitude": 127.644708, 
+    "longitude": 127.646506, 
     "associatedRunwayNumber": "36", 
     "frequency": 110300, 
-    "latitude": 26.210931, 
+    "latitude": 26.182272, 
     "identifier": "IOK", 
     "type": 4
   }, 
