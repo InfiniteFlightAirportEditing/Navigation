@@ -25744,19 +25744,6 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 115.072, 
-    "airportICAO": "LFBF", 
-    "elevation": 600, 
-    "name": "GS", 
-    "longitude": 1.360019, 
-    "associatedRunwayNumber": "12", 
-    "frequency": 109100, 
-    "glideslope": 3.00115036, 
-    "latitude": 43.549322, 
-    "identifier": "TFZ"
-  }, 
-  {
-    "receptionRange": 10, 
     "bearing": 50.156, 
     "airportICAO": "LFBG", 
     "elevation": 102, 
@@ -32594,16 +32581,16 @@
     "identifier": "ITJ"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 20.7, 
+    "receptionRange": 18, 
+    "bearing": 19.800, 
     "airportICAO": "RJAH", 
-    "elevation": 105, 
+    "elevation": 107, 
     "name": "GS", 
-    "longitude": 140.410278, 
-    "associatedRunwayNumber": "03", 
+    "longitude": 140.41047629, 
+    "associatedRunwayNumber": "03R", 
     "frequency": 109300, 
-    "glideslope": 2.7501985, 
-    "latitude": 36.172222, 
+    "glideslope": 2.75019800, 
+    "latitude": 36.16973050, 
     "identifier": "IHY"
   }, 
   {
