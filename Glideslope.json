@@ -32894,15 +32894,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 282.554, 
+    "bearing": 281.66, 
     "airportICAO": "RJFN", 
-    "elevation": 39, 
+    "elevation": 259, 
     "name": "GS", 
-    "longitude": 131.462878, 
+    "longitude": 131.465718, 
     "associatedRunwayNumber": "28", 
     "frequency": 111300, 
-    "glideslope": 3.00281777, 
-    "latitude": 32.080681, 
+    "glideslope": 3.0028166, 
+    "latitude": 32.081267, 
     "identifier": "INH"
   }, 
   {
@@ -32972,15 +32972,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 259.742, 
+    "bearing": 259.28, 
     "airportICAO": "RJFY", 
-    "elevation": 51, 
+    "elevation": 213, 
     "name": "GS", 
-    "longitude": 130.847672, 
+    "longitude": 130.85068, 
     "associatedRunwayNumber": "26L", 
     "frequency": 110300, 
-    "glideslope": 3.00259371, 
-    "latitude": 31.367417, 
+    "glideslope": 3.0025928, 
+    "latitude": 31.368647, 
     "identifier": "IJA"
   }, 
   {
@@ -33154,15 +33154,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 253.644, 
+    "bearing": 252.82, 
     "airportICAO": "RJOT", 
-    "elevation": 53, 
+    "elevation": 604, 
     "name": "GS", 
-    "longitude": 134.026247, 
+    "longitude": 134.028736, 
     "associatedRunwayNumber": "26", 
     "frequency": 109700, 
-    "glideslope": 3.00252822, 
-    "latitude": 34.2156, 
+    "glideslope": 3.0025282, 
+    "latitude": 34.217367, 
     "identifier": "IKT"
   }, 
   {
@@ -33310,15 +33310,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 359.312, 
+    "bearing": 359.15, 
     "airportICAO": "RJTA", 
-    "elevation": 46, 
+    "elevation": 205, 
     "name": "GS", 
-    "longitude": 139.448931, 
+    "longitude": 139.450308, 
     "associatedRunwayNumber": "01", 
     "frequency": 111300, 
-    "glideslope": 3.00359156, 
-    "latitude": 35.445778, 
+    "glideslope": 3.0035915, 
+    "latitude": 35.443626, 
     "identifier": "IAG"
   }, 
   {
