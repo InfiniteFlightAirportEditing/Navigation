@@ -9961,16 +9961,16 @@
     "identifier": "IAYS"
   }, 
   {
-    "receptionRange": 10, 
+    "receptionRange": 18, 
     "bearing": 351.14, 
     "airportICAO": "KAZO", 
     "elevation": 874, 
     "name": "GS", 
-    "longitude": -85.54793251, 
+    "longitude": -85.54796066, 
     "associatedRunwayNumber": "35", 
     "frequency": 110900, 
     "glideslope": 3.0035114, 
-    "latitude": 42.22399832, 
+    "latitude": 42.22375999, 
     "identifier": "IAZO"
   }, 
   {
@@ -16734,16 +16734,16 @@
     "identifier": "IJVY"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 231.68, 
+    "receptionRange": 18, 
+    "bearing": 230.84, 
     "airportICAO": "KJXN", 
-    "elevation": 994, 
+    "elevation": 1000, 
     "name": "GS", 
-    "longitude": -84.456031, 
-    "associatedRunwayNumber": "24", 
+    "longitude": -84.45134853, 
+    "associatedRunwayNumber": "25", 
     "frequency": 109100, 
     "glideslope": 3.0023084, 
-    "latitude": 42.264292, 
+    "latitude": 42.26534805, 
     "identifier": "IJXN"
   }, 
   {
