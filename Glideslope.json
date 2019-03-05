@@ -3537,16 +3537,16 @@
     "identifier": "PO"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 217.32, 
+    "receptionRange": 18, 
+    "bearing": 217.18, 
     "airportICAO": "EFRO", 
-    "elevation": 632, 
+    "elevation": 643, 
     "name": "GS", 
-    "longitude": 25.845394, 
+    "longitude": 25.85092958, 
     "associatedRunwayNumber": "21", 
     "frequency": 111700, 
     "glideslope": 3.0021716, 
-    "latitude": 66.574461, 
+    "latitude": 66.57558949, 
     "identifier": "RO"
   }, 
   {

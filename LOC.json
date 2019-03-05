@@ -3485,14 +3485,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 217.135, 
+    "bearing": 217.18, 
     "airportICAO": "EFRO", 
-    "elevation": 632, 
+    "elevation": 643, 
     "name": "ILS-cat-II", 
-    "longitude": 25.805108, 
+    "longitude": 25.85092958, 
     "associatedRunwayNumber": "21", 
     "frequency": 111700, 
-    "latitude": 66.551536, 
+    "latitude": 66.57558949, 
     "identifier": "RO", 
     "type": 4
   }, 
