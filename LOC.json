@@ -32099,7 +32099,7 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 80.01 
+    "bearing": 80.01,
     "airportICAO": "PAED", 
     "elevation": 212, 
     "name": "ILS-cat-I", 
