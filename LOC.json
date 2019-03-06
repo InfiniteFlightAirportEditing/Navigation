@@ -32099,14 +32099,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 80.384, 
+    "bearing": 80.01 
     "airportICAO": "PAED", 
     "elevation": 212, 
     "name": "ILS-cat-I", 
-    "longitude": -149.779983, 
+    "longitude": -149.84440296, 
     "associatedRunwayNumber": "06", 
     "frequency": 110300, 
-    "latitude": 61.253894, 
+    "latitude": 61.24861802, 
     "identifier": "IEDF", 
     "type": 4
   }, 

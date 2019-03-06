@@ -31918,16 +31918,16 @@
     "identifier": "IADQ"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 80.006, 
+    "receptionRange": 18, 
+    "bearing": 80.01, 
     "airportICAO": "PAED", 
     "elevation": 212, 
     "name": "GS", 
-    "longitude": -149.836372, 
+    "longitude": -149.84440296, 
     "associatedRunwayNumber": "06", 
     "frequency": 110300, 
     "glideslope": 2.83080003, 
-    "latitude": 61.250283, 
+    "latitude": 61.24861802, 
     "identifier": "IEDF"
   }, 
   {
