@@ -9742,8 +9742,8 @@
   {
     "name": "ERABU (OKIERABU)",
     "identifier": "ONC",
-    "latitude": 27.432883333,
-    "longitude": 128.698963889,
+    "latitude": 27.432888889,
+    "longitude": 128.698972222,
     "elevation": 218,
     "frequency": 11310,
     "receptionRange": 130,
@@ -15942,8 +15942,8 @@
   {
     "name": "KASARI (AMAMI)",
     "identifier": "AME",
-    "latitude": 28.434716667,
-    "longitude": 129.711408333,
+    "latitude": 28.434722222,
+    "longitude": 129.711388889,
     "elevation": 1,
     "frequency": 11395,
     "receptionRange": 130,
