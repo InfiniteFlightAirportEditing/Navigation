@@ -1445,15 +1445,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 317.208, 
+    "bearing": 316.96, 
     "airportICAO": "CYZR", 
-    "elevation": 594, 
+    "elevation": 595, 
     "name": "GS", 
-    "longitude": -82.30559888, 
-    "associatedRunwayNumber": "32", 
+    "longitude": -82.302831, 
+    "associatedRunwayNumber": "33", 
     "frequency": 109700, 
-    "glideslope": 3.00317104, 
-    "latitude": 42.99561636, 
+    "glideslope": 3.0031696, 
+    "latitude": 42.994567, 
     "identifier": "IZR"
   }, 
   {
@@ -22793,15 +22793,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 336.8, 
+    "bearing": 336.41, 
     "airportICAO": "KSHR", 
-    "elevation": 3979, 
+    "elevation": 4020, 
     "name": "GS", 
-    "longitude": -106.977722, 
-    "associatedRunwayNumber": "32", 
+    "longitude": -106.974921, 
+    "associatedRunwayNumber": "33", 
     "frequency": 108700, 
-    "glideslope": 3.103364, 
-    "latitude": 44.758278, 
+    "glideslope": 3.0033641 
+    "latitude": 44.756186, 
     "identifier": "ISHR"
   }, 
   {
@@ -27135,15 +27135,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 253.856, 
+    "bearing": 253.43, 
     "airportICAO": "LFRZ", 
-    "elevation": 12, 
+    "elevation": 13, 
     "name": "GS", 
-    "longitude": -2.138058, 
-    "associatedRunwayNumber": "26", 
+    "longitude": -2.133931, 
+    "associatedRunwayNumber": "25", 
     "frequency": 108500, 
-    "glideslope": 3.00253428, 
-    "latitude": 47.315558, 
+    "glideslope": 3.0025343, 
+    "latitude": 47.315264, 
     "identifier": "MT"
   }, 
   {
