@@ -416,16 +416,16 @@
     "identifier": "IJG"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 244.05, 
+    "receptionRange": 18, 
+    "bearing": 245.06, 
     "airportICAO": "CYKF", 
-    "elevation": 1033, 
+    "elevation": 1055.1181, 
     "name": "GS", 
-    "longitude": -80.368942, 
+    "longitude": -080.36581262, 
     "associatedRunwayNumber": "26", 
     "frequency": 110700, 
-    "glideslope": 3.00244025, 
-    "latitude": 43.463806, 
+    "glideslope": 3.0024506, 
+    "latitude": 43.46604350, 
     "identifier": "IKF"
   }, 
   {
