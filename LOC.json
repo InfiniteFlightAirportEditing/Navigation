@@ -404,14 +404,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 244.025, 
+    "bearing": 245.06, 
     "airportICAO": "CYKF", 
-    "elevation": 1020, 
+    "elevation": 1055, 
     "name": "ILS-cat-I", 
-    "longitude": -80.392181, 
+    "longitude": -80.36581262, 
     "associatedRunwayNumber": "26", 
     "frequency": 110700, 
-    "latitude": 43.456371, 
+    "latitude": 43.46604350, 
     "identifier": "IKF", 
     "type": 4
   }, 
