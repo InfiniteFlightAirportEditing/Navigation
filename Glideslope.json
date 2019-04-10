@@ -21063,16 +21063,16 @@
     "identifier": "IPKB"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 315.0, 
+    "receptionRange": 18, 
+    "bearing": 315.19, 
     "airportICAO": "KPKD", 
     "elevation": 1443, 
     "name": "GS", 
-    "longitude": -95.0690155, 
+    "longitude": -95.06559755, 
     "associatedRunwayNumber": "31", 
     "frequency": 110900, 
     "glideslope": 3.00315, 
-    "latitude": 46.89678192, 
+    "latitude": 46.89605918, 
     "identifier": "IPKD"
   }, 
   {

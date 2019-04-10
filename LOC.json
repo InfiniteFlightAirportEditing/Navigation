@@ -21113,14 +21113,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 315.194, 
+    "bearing": 315.19, 
     "airportICAO": "KPKD", 
     "elevation": 1443, 
     "name": "ILS-cat-I", 
-    "longitude": -95.08306885, 
+    "longitude": -95.06559755, 
     "associatedRunwayNumber": "31", 
     "frequency": 110900, 
-    "latitude": 46.90810013, 
+    "latitude": 46.89605918, 
     "identifier": "IPKD", 
     "type": 4
   }, 
