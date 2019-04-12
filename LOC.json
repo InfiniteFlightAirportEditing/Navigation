@@ -36376,14 +36376,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 349.831, 
+    "bearing": 346.87, 
     "airportICAO": "UHMP", 
-    "elevation": 11, 
+    "elevation": 10, 
     "name": "ILS-cat-I", 
-    "longitude": 170.589686, 
+    "longitude": 170.60427484, 
     "associatedRunwayNumber": "35", 
     "frequency": 108300, 
-    "latitude": 69.800578, 
+    "latitude": 69.77234388, 
     "identifier": "IBM", 
     "type": 4
   }, 
