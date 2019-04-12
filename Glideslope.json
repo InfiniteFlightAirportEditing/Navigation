@@ -36209,15 +36209,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 347.904, 
+    "bearing": 346.87, 
     "airportICAO": "UHMP", 
-    "elevation": 11, 
+    "elevation": 10, 
     "name": "GS", 
-    "longitude": 170.599103, 
+    "longitude": 170.60427484, 
     "associatedRunwayNumber": "35", 
     "frequency": 108300, 
-    "glideslope": 2.80346952, 
-    "latitude": 69.775192, 
+    "glideslope": 3.00346952, 
+    "latitude": 69.77234388, 
     "identifier": "IBM"
   }, 
   {
