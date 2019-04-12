@@ -3363,12 +3363,12 @@
     "longitude": 29.64351146, 
     "associatedRunwayNumber": "28", 
     "frequency": 109500, 
-    "glideslope": 3.00290348, 
+    "glideslope": 3.00314, 
     "latitude": 62.65679078, 
     "identifier": "JO"
   }, 
   {
-    "receptionRange": 10, 
+    "receptionRange": 18, 
     "bearing": 314, 
     "airportICAO": "EFJY", 
     "elevation": 459, 
@@ -3415,7 +3415,7 @@
     "longitude": 27.66679732, 
     "associatedRunwayNumber": "07", 
     "frequency": 109900, 
-    "glideslope": 3.00079588, 
+    "glideslope": 3.007959, 
     "latitude": 64.28344256, 
     "identifier": "KI"
   }, 
@@ -3467,7 +3467,7 @@
     "longitude": 27.80902284, 
     "associatedRunwayNumber": "33", 
     "frequency": 110300, 
-    "glideslope": 3.00337211, 
+    "glideslope": 3.00324147, 
     "latitude": 62.99487403  , 
     "identifier": "KU"
   }, 
@@ -3493,7 +3493,7 @@
     "longitude": 19.90495589, 
     "associatedRunwayNumber": "21", 
     "frequency": 110900, 
-    "glideslope": 3.0020334, 
+    "glideslope": 3.0020333, 
     "latitude": 60.13006812, 
     "identifier": "MA"
   }, 
@@ -3532,7 +3532,7 @@
     "longitude": 21.81721589, 
     "associatedRunwayNumber": "30", 
     "frequency": 109100, 
-    "glideslope": 3.00305827, 
+    "glideslope": 3.0030576, 
     "latitude": 61.45577253, 
     "identifier": "PO"
   }, 
@@ -3558,7 +3558,7 @@
     "longitude": 28.92729526, 
     "associatedRunwayNumber": "12", 
     "frequency": 109700, 
-    "glideslope": 3.00125719, 
+    "glideslope": 3.0012568, 
     "latitude": 61.94912141, 
     "identifier": "SA"
   }, 
@@ -3571,7 +3571,7 @@
     "longitude": 22.84903352, 
     "associatedRunwayNumber": "32", 
     "frequency": 111500, 
-    "glideslope": 3.00316225, 
+    "glideslope": 3.0031624, 
     "latitude": 62.68415499, 
     "identifier": "IL"
   }, 
@@ -3584,7 +3584,7 @@
     "longitude": 23.62725343, 
     "associatedRunwayNumber": "24", 
     "frequency": 109700, 
-    "glideslope": 3.00244425, 
+    "glideslope": 3.0024442, 
     "latitude": 61.41941267, 
     "identifier": "TP"
   }, 
@@ -3610,7 +3610,7 @@
     "longitude": 21.75445084, 
     "associatedRunwayNumber": "16", 
     "frequency": 108500, 
-    "glideslope": 3.00163028, 
+    "glideslope": 3.0016316, 
     "latitude": 63.06211041, 
     "identifier": "VA"
   }, 
@@ -24529,7 +24529,7 @@
     "longitude": -86.50992791, 
     "associatedRunwayNumber": "19", 
     "frequency": 109100, 
-    "glideslope": 3.00192137, 
+    "glideslope": 3.0019214, 
     "latitude": 30.49722835, 
     "identifier": "ICAH"
   }, 
@@ -24542,7 +24542,7 @@
     "longitude": -86.51784732, 
     "associatedRunwayNumber": "30", 
     "frequency": 110300, 
-    "glideslope": 3.00299802, 
+    "glideslope": 3.002998, 
     "latitude": 30.46985178, 
     "identifier": "IVPS"
   }, 
@@ -36242,7 +36242,7 @@
     "longitude": 45.26103356, 
     "associatedRunwayNumber": "13", 
     "frequency": 109700, 
-    "glideslope": 3.00244425, 
+    "glideslope": 3.0011674, 
     "latitude": 147.94274568, 
     "identifier": "TP"
   }, 
@@ -38569,7 +38569,7 @@
     "longitude": 76.41601467, 
     "associatedRunwayNumber": "27", 
     "frequency": 110300, 
-    "glideslope": 3.00267867, 
+    "glideslope": 3.0026788, 
     "latitude": 10.15167085, 
     "identifier": "ICIL"
   }, 
