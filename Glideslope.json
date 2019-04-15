@@ -19043,7 +19043,7 @@
     "longitude": -114.10657496, 
     "associatedRunwayNumber": "12", 
     "frequency": 109300, 
-    "glideslope": 3.00130562, 
+    "glideslope": 3.0013055, 
     "latitude": 46.92484722, 
     "identifier": "IMSO"
   }, 
@@ -34149,7 +34149,7 @@
     "longitude": -64.20857808, 
     "associatedRunwayNumber": "19", 
     "frequency": 110300, 
-    "glideslope": 3.00179748, 
+    "glideslope": 3.001792, 
     "latitude": -31.29567775, 
     "identifier": "CB"
   }, 
@@ -34162,7 +34162,7 @@
     "longitude": -58.61714480, 
     "associatedRunwayNumber": "17", 
     "frequency": 110500, 
-    "glideslope": 3.00156805, 
+    "glideslope": 3.0015696, 
     "latitude": -34.60115985, 
     "identifier": "PR"
   }, 
