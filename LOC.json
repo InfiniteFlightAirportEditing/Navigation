@@ -20463,14 +20463,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 304.075, 
+    "bearing": 304.09, 
     "airportICAO": "KOWA", 
-    "elevation": 1104, 
+    "elevation": 1145, 
     "name": "ILS-cat-I", 
-    "longitude": -93.272497, 
+    "longitude": -93.25194604, 
     "associatedRunwayNumber": "30", 
     "frequency": 109550, 
-    "latitude": 44.129169, 
+    "latitude": 44.11919021, 
     "identifier": "IOWA", 
     "type": 4
   }, 
