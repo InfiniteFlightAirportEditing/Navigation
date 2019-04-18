@@ -20414,15 +20414,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 304.168, 
+    "bearing": 304.09, 
     "airportICAO": "KOWA", 
-    "elevation": 1132, 
+    "elevation": 1145, 
     "name": "GS", 
     "longitude": -93.256169, 
     "associatedRunwayNumber": "30", 
     "frequency": 109550, 
-    "glideslope": 3.00304084, 
-    "latitude": 44.120083, 
+    "glideslope": 3.0030409, 
+    "latitude": 44.11919021, 
     "identifier": "IOWA"
   }, 
   {
