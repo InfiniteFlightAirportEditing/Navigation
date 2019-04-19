@@ -15536,14 +15536,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 1.589, 
+    "bearing": 5.52, 
     "airportICAO": "KHRO", 
     "elevation": 1365, 
     "name": "ILS-cat-I", 
-    "longitude": -93.155192, 
+    "longitude": -93.15574200, 
     "associatedRunwayNumber": "36", 
     "frequency": 111700, 
-    "latitude": 36.269086, 
+    "latitude": 36.25309400, 
     "identifier": "IHRO", 
     "type": 4
   }, 

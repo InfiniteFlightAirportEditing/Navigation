@@ -15513,15 +15513,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 6.046, 
+    "bearing": 5.52, 
     "airportICAO": "KHRO", 
-    "elevation": 1351, 
+    "elevation": 1365, 
     "name": "GS", 
-    "longitude": -93.156494, 
+    "longitude": -93.15574200, 
     "associatedRunwayNumber": "36", 
     "frequency": 111700, 
-    "glideslope": 3.00005523, 
-    "latitude": 36.256053, 
+    "glideslope": 3.00552, 
+    "latitude": 36.25309400, 
     "identifier": "IHRO"
   }, 
   {
@@ -24523,7 +24523,7 @@
   {
     "receptionRange": 18, 
     "bearing": 192.14, 
-    "airportICAO": "KVPS", 
+    "ai rportICAO": "KVPS", 
     "elevation": 83, 
     "name": "GS", 
     "longitude": -86.50992791, 
