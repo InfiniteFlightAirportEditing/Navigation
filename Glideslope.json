@@ -24523,7 +24523,7 @@
   {
     "receptionRange": 18, 
     "bearing": 192.14, 
-    "ai rportICAO": "KVPS", 
+    "airportICAO": "KVPS", 
     "elevation": 83, 
     "name": "GS", 
     "longitude": -86.50992791, 
