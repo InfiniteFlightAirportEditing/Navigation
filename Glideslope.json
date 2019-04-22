@@ -34362,16 +34362,16 @@
     "identifier": "CR"
   }, 
   {
-    "receptionRange": 10, 
-    "bearing": 237.816, 
+    "receptionRange": 18, 
+    "bearing": 237.02, 
     "airportICAO": "SAVE", 
-    "elevation": 2621, 
+    "elevation": 2623, 
     "name": "GS", 
-    "longitude": -71.125, 
-    "associatedRunwayNumber": "22", 
+    "longitude": -71.12321140, 
+    "associatedRunwayNumber": "23", 
     "frequency": 109700, 
-    "glideslope": 3.00236908, 
-    "latitude": -42.901667, 
+    "glideslope": 3.0023702, 
+    "latitude": -42.89796512, 
     "identifier": "ES"
   }, 
   {
