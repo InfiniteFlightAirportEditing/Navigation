@@ -36441,14 +36441,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 280.635, 
+    "bearing": 280.80, 
     "airportICAO": "UIAA", 
-    "elevation": 2282, 
+    "elevation": 2270, 
     "name": "ILS-cat-I", 
-    "longitude": 113.27378082, 
+    "longitude": 113.325173, 
     "associatedRunwayNumber": "29", 
     "frequency": 110300, 
-    "latitude": 52.02999878, 
+    "latitude": 52.023896, 
     "identifier": "IDG", 
     "type": 4
   }, 

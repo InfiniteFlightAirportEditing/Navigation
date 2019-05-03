@@ -36274,15 +36274,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 281.08, 
+    "bearing": 280.80, 
     "airportICAO": "UIAA", 
-    "elevation": 2272, 
+    "elevation": 2270, 
     "name": "GS", 
-    "longitude": 113.321222, 
+    "longitude": 113.325173, 
     "associatedRunwayNumber": "29", 
     "frequency": 110300, 
-    "glideslope": 3.5028054, 
-    "latitude": 52.023139, 
+    "glideslope": 3.5028080, 
+    "latitude": 52.023896, 
     "identifier": "IDG"
   }, 
   {
