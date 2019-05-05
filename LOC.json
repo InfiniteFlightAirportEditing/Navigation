@@ -38677,14 +38677,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 269.473, 
+    "bearing": 269.15, 
     "airportICAO": "VILK", 
-    "elevation": 410, 
+    "elevation": 403, 
     "name": "ILS-cat-I", 
-    "longitude": 80.872694, 
+    "longitude": 80.902712, 
     "associatedRunwayNumber": "27", 
     "frequency": 109900, 
-    "latitude": 26.760528, 
+    "latitude": 26.760743, 
     "identifier": "ILUC", 
     "type": 4
   }, 
