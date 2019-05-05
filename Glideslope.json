@@ -38497,15 +38497,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 269.308, 
+    "bearing": 269.15, 
     "airportICAO": "VILK", 
-    "elevation": 410, 
+    "elevation": 403, 
     "name": "GS", 
-    "longitude": 80.894083, 
+    "longitude": 80.902712, 
     "associatedRunwayNumber": "27", 
     "frequency": 109900, 
-    "glideslope": 3.00269154, 
-    "latitude": 26.761917, 
+    "glideslope": 3.0026915, 
+    "latitude": 26.760743, 
     "identifier": "ILUC"
   }, 
   {
