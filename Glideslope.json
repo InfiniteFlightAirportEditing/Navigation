@@ -29358,6 +29358,19 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 281.87, 
+    "airportICAO": "LTCB", 
+    "elevation": 11, 
+    "name": "GS", 
+    "longitude": 38.103747, 
+    "associatedRunwayNumber": "28", 
+    "frequency": 108350, 
+    "glideslope": 3.0028187, 
+    "latitude": 40.964049, 
+    "identifier": "IOGR"
+  }, 
+  {
+    "receptionRange": 10, 
     "bearing": 268.114, 
     "airportICAO": "LTCE", 
     "elevation": 5763, 
@@ -36195,6 +36208,32 @@
     "identifier": "IHI"
   }, 
   {
+    "receptionRange": 10, 
+    "bearing": 0.01, 
+    "airportICAO": "UHKD", 
+    "elevation": 82, 
+    "name": "GS", 
+    "longitude": 137.081324, 
+    "associatedRunwayNumber": "01", 
+    "frequency": 370000, 
+    "glideslope": 3.5000001, 
+    "latitude": 50.594655, 
+    "identifier": "UI"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 180.01, 
+    "airportICAO": "UHKD", 
+    "elevation": 82, 
+    "name": "GS", 
+    "longitude": 137.081331, 
+    "associatedRunwayNumber": "19", 
+    "frequency": 370000, 
+    "glideslope": 3.5018001, 
+    "latitude": 50.616865, 
+    "identifier": "FQ"
+  }, 
+  {
     "receptionRange": 50, 
     "bearing": 104.0, 
     "airportICAO": "UHMM", 
@@ -42498,44 +42537,5 @@
     "glideslope": 3.0019981, 
     "latitude": 53.823292, 
     "identifier": "IUF"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 0.01, 
-    "airportICAO": "UHKD", 
-    "elevation": 82, 
-    "name": "GS", 
-    "longitude": 137.081324, 
-    "associatedRunwayNumber": "01", 
-    "frequency": 370000, 
-    "glideslope": 3.5000001, 
-    "latitude": 50.594655, 
-    "identifier": "UI"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 180.01, 
-    "airportICAO": "UHKD", 
-    "elevation": 82, 
-    "name": "GS", 
-    "longitude": 137.081331, 
-    "associatedRunwayNumber": "19", 
-    "frequency": 370000, 
-    "glideslope": 3.5018001, 
-    "latitude": 50.616865, 
-    "identifier": "FQ"
-  }, 
-  {
-    "receptionRange": 10, 
-    "bearing": 281.87, 
-    "airportICAO": "LTCB", 
-    "elevation": 11, 
-    "name": "GS", 
-    "longitude": 38.103747, 
-    "associatedRunwayNumber": "28", 
-    "frequency": 108350, 
-    "glideslope": 3.0028187, 
-    "latitude": 40.964049, 
-    "identifier": "IOGR"
   }
 ]

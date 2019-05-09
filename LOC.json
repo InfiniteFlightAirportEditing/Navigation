@@ -29460,6 +29460,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 281.87, 
+    "airportICAO": "LTCB", 
+    "elevation": 11, 
+    "name": "ILS-cat-I", 
+    "longitude": 38.103747, 
+    "associatedRunwayNumber": "28", 
+    "frequency": 108350, 
+    "latitude": 40.964049, 
+    "identifier": "IOGR", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 267.671, 
     "airportICAO": "LTCE", 
     "elevation": 5763, 
@@ -36372,6 +36385,32 @@
     "frequency": 110900, 
     "latitude": 48.51, 
     "identifier": "IHI", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 0.01, 
+    "airportICAO": "UHKD", 
+    "elevation": 82, 
+    "name": "ILS-cat-I", 
+    "longitude": 137.081324, 
+    "associatedRunwayNumber": "01", 
+    "frequency": 370000, 
+    "latitude": 50.594655, 
+    "identifier": "UI", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 180.01, 
+    "airportICAO": "UHKD", 
+    "elevation": 82, 
+    "name": "ILS-cat-I", 
+    "longitude": 137.081331, 
+    "associatedRunwayNumber": "19", 
+    "frequency": 370000, 
+    "latitude": 50.616865, 
+    "identifier": "FQ", 
     "type": 4
   }, 
   {
@@ -46317,45 +46356,6 @@
     "frequency": 111100, 
     "latitude": 53.823292, 
     "identifier": "IUF", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 0.01, 
-    "airportICAO": "UHKD", 
-    "elevation": 82, 
-    "name": "ILS-cat-I", 
-    "longitude": 137.081324, 
-    "associatedRunwayNumber": "01", 
-    "frequency": 370000, 
-    "latitude": 50.594655, 
-    "identifier": "UI", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 180.01, 
-    "airportICAO": "UHKD", 
-    "elevation": 82, 
-    "name": "ILS-cat-I", 
-    "longitude": 137.081331, 
-    "associatedRunwayNumber": "19", 
-    "frequency": 370000, 
-    "latitude": 50.616865, 
-    "identifier": "FQ", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 281.87, 
-    "airportICAO": "LTCB", 
-    "elevation": 11, 
-    "name": "ILS-cat-I", 
-    "longitude": 38.103747, 
-    "associatedRunwayNumber": "28", 
-    "frequency": 108350, 
-    "latitude": 40.964049, 
-    "identifier": "IOGR", 
     "type": 4
   }
 ]
