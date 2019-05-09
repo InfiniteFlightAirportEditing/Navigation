@@ -3395,15 +3395,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 188.014, 
+    "bearing": 187.5, 
     "airportICAO": "EFKE", 
-    "elevation": 61, 
+    "elevation": 62, 
     "name": "GS", 
-    "longitude": 24.582356, 
+    "longitude": 24.585982, 
     "associatedRunwayNumber": "18", 
     "frequency": 110900, 
-    "glideslope": 3.50187507, 
-    "latitude": 65.789858, 
+    "glideslope": 3.501875, 
+    "latitude": 65.793063, 
     "identifier": "KE"
   }, 
   {
@@ -3421,15 +3421,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 191.26, 
+    "bearing": 190.64, 
     "airportICAO": "EFKK", 
     "elevation": 83, 
     "name": "GS", 
-    "longitude": 23.143792, 
+    "longitude": 23.147481, 
     "associatedRunwayNumber": "19", 
     "frequency": 109300, 
-    "glideslope": 3.0019063, 
-    "latitude": 63.727275, 
+    "glideslope": 3.0019064, 
+    "latitude": 63.729974, 
     "identifier": "KK"
   }, 
   {
@@ -3512,15 +3512,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 121.06, 
+    "bearing": 121.04, 
     "airportICAO": "EFOU", 
-    "elevation": 47, 
+    "elevation": 45, 
     "name": "GS", 
-    "longitude": 25.335972, 
+    "longitude": 25.331785, 
     "associatedRunwayNumber": "12", 
     "frequency": 109500, 
-    "glideslope": 3.0012103, 
-    "latitude": 64.933514, 
+    "glideslope": 3.0012104, 
+    "latitude": 64.935851, 
     "identifier": "OU"
   }, 
   {
@@ -42498,5 +42498,44 @@
     "glideslope": 3.0019981, 
     "latitude": 53.823292, 
     "identifier": "IUF"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 0.01, 
+    "airportICAO": "UHKD", 
+    "elevation": 82, 
+    "name": "GS", 
+    "longitude": 137.081324, 
+    "associatedRunwayNumber": "01", 
+    "frequency": 370000, 
+    "glideslope": 3.5000001, 
+    "latitude": 50.594655, 
+    "identifier": "UI"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 180.01, 
+    "airportICAO": "UHKD", 
+    "elevation": 82, 
+    "name": "GS", 
+    "longitude": 137.081331, 
+    "associatedRunwayNumber": "19", 
+    "frequency": 370000, 
+    "glideslope": 3.5018001, 
+    "latitude": 50.616865, 
+    "identifier": "FQ"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 281.87, 
+    "airportICAO": "LTCB", 
+    "elevation": 11, 
+    "name": "GS", 
+    "longitude": 38.103747, 
+    "associatedRunwayNumber": "28", 
+    "frequency": 108350, 
+    "glideslope": 3.0028187, 
+    "latitude": 40.964049, 
+    "identifier": "IOGR"
   }
 ]
