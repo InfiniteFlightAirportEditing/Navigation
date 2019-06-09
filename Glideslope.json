@@ -29628,6 +29628,19 @@
   },
   {
     "name": "GS",
+    "airportICAO": "LTBS",
+    "identifier": "IDLM",
+    "associatedRunwayNumber": "01",
+    "latitude": 36.70018739,
+    "longitude": 28.78804381,
+    "elevation": 20,
+    "frequency": 110100,
+    "receptionRange": 10,
+    "bearing": 015.250,
+    "glideslope": 3.00015250
+  },
+  {
+    "name": "GS",
     "airportICAO": "LTBU",
     "identifier": "ICRL",
     "associatedRunwayNumber": "05",

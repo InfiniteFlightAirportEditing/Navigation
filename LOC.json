@@ -29721,6 +29721,19 @@
   {
     "name": "ILS-cat-I",
     "type": 4,
+    "airportICAO": "LTBS",
+    "identifier": "IDLM",
+    "associatedRunwayNumber": "01",
+    "latitude": 36.70018739,
+    "longitude": 28.78804381,
+    "elevation": 20,
+    "frequency": 110100,
+    "receptionRange": 18,
+    "bearing": 015.250
+  },
+  {
+    "name": "ILS-cat-I",
+    "type": 4,
     "airportICAO": "LTBU",
     "identifier": "ICRL",
     "associatedRunwayNumber": "05",
