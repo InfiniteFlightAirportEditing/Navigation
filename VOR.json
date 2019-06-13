@@ -510,6 +510,16 @@
     "slavedVariation": 2
   },
   {
+    "name": "AL ASAD (AL-ANBAR)",
+    "identifier": "RAA",
+    "latitude": 33.787389,
+    "longitude": 42.443500,
+    "elevation": 586,
+    "frequency": 11330,
+    "receptionRange": 130,
+    "slavedVariation": 5
+  },
+  {
     "name": "AL BAHA",
     "identifier": "BHA",
     "latitude": 20.292472222,
