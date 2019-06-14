@@ -29460,6 +29460,19 @@
   },
   {
     "receptionRange": 18, 
+    "bearing": 195.25, 
+    "airportICAO": "LTBS", 
+    "elevation": 20, 
+    "name": "LOC", 
+    "longitude": 28.796903, 
+    "associatedRunwayNumber": "01", 
+    "frequency": 110900, 
+    "latitude": 36.726234, 
+    "identifier": "IDMN", 
+    "type": 5
+  },
+  {
+    "receptionRange": 18, 
     "bearing": 49.29, 
     "airportICAO": "LTBU", 
     "elevation": 574, 
