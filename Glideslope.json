@@ -29343,6 +29343,19 @@
     "latitude": 40.259903, 
     "identifier": "IYEN"
   }, 
+{
+    "receptionRange": 10, 
+    "bearing": 015.250, 
+    "airportICAO": "LTBS", 
+    "elevation": 20, 
+    "name": "GS", 
+    "longitude": 28.788044, 
+    "associatedRunwayNumber": "01", 
+    "frequency": 110100, 
+    "glideslope": 3.00015250, 
+    "latitude": 36.700187, 
+    "identifier": "IDLM"
+  },
   {
     "receptionRange": 10, 
     "bearing": 49.728, 
