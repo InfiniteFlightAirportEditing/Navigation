@@ -42578,19 +42578,6 @@
   }
   {
     "receptionRange": 10, 
-    "bearing": 281.87, 
-    "airportICAO": "LTCB", 
-    "elevation": 11, 
-    "name": "GS", 
-    "longitude": 38.103747, 
-    "associatedRunwayNumber": "28", 
-    "frequency": 108350, 
-    "glideslope": 3.0028187, 
-    "latitude": 40.964049, 
-    "identifier": "IOGR"
-  }
-  {
-    "receptionRange": 10, 
     "bearing": 213.37, 
     "airportICAO": "UNTT", 
     "elevation": 597, 
