@@ -31254,14 +31254,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 208.029, 
+    "bearing": 207.63, 
     "airportICAO": "OIKB", 
-    "elevation": 3, 
+    "elevation": 21, 
     "name": "ILS-cat-I", 
-    "longitude": 56.367889, 
+    "longitude": 56.387534, 
     "associatedRunwayNumber": "21L", 
     "frequency": 109900, 
-    "latitude": 27.199528, 
+    "latitude": 27.232374, 
     "identifier": "IBND", 
     "type": 4
   }, 
@@ -46394,6 +46394,19 @@
     "frequency": 108350, 
     "latitude": 40.964049, 
     "identifier": "IOGR", 
+    "type": 4
+  }
+  {
+    "receptionRange": 18, 
+    "bearing": 213.37, 
+    "airportICAO": "UNTT", 
+    "elevation": 597, 
+    "name": "ILS-cat-I", 
+    "longitude": 85.221701, 
+    "associatedRunwayNumber": "21", 
+    "frequency": 110300, 
+    "latitude": 56.392518, 
+    "identifier": "ITI", 
     "type": 4
   }
 ]
