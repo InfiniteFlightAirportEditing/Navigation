@@ -510,6 +510,16 @@
     "slavedVariation": 2
   },
   {
+    "name": "AL ASAD (AL-ANBAR)",
+    "identifier": "RAA",
+    "latitude": 33.787389,
+    "longitude": 42.443500,
+    "elevation": 586,
+    "frequency": 11330,
+    "receptionRange": 130,
+    "slavedVariation": 5
+  },
+  {
     "name": "AL BAHA",
     "identifier": "BHA",
     "latitude": 20.292472222,
@@ -24470,6 +24480,16 @@
     "slavedVariation": -8
   },
   {
+    "name": "ORBR",
+    "identifier": "ORB",
+    "latitude": 36.531389,
+    "longitude": 44.344722,
+    "elevation": 2125,
+    "frequency": 11100,
+    "receptionRange": 130,
+    "slavedVariation": 0
+  },
+  {
     "name": "ORDOS",
     "identifier": "HDS",
     "latitude": 39.49,
@@ -36740,7 +36760,7 @@
     "slavedVariation": -10
   },
   {
-    "name": "WILL ROGERS (OKLAHOMA CITy)",
+    "name": "WILL ROGERS (OKLAHOMA CITY)",
     "identifier": "IRW",
     "latitude": 35.358597222,
     "longitude": -97.609227778,
