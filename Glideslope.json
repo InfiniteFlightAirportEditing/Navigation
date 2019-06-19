@@ -31178,15 +31178,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 208.284, 
+    "bearing": 207.63, 
     "airportICAO": "OIKB", 
-    "elevation": 12, 
+    "elevation": 21, 
     "name": "GS", 
-    "longitude": 56.385056, 
+    "longitude": 56.387534, 
     "associatedRunwayNumber": "21L", 
     "frequency": 109900, 
-    "glideslope": 2.98207642, 
-    "latitude": 27.230583, 
+    "glideslope": 3.0020763, 
+    "latitude": 27.232374, 
     "identifier": "IBND"
   }, 
   {
@@ -42575,6 +42575,19 @@
     "glideslope": 3.0022205, 
     "latitude": 59.284469, 
     "identifier": "IFP"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 213.37, 
+    "airportICAO": "UNTT", 
+    "elevation": 597, 
+    "name": "GS", 
+    "longitude": 85.221701, 
+    "associatedRunwayNumber": "21", 
+    "frequency": 110300, 
+    "glideslope": 2.5521337, 
+    "latitude": 56.392518, 
+    "identifier": "ITI"
   }, 
   {
     "receptionRange": 10, 
