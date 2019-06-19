@@ -28955,15 +28955,28 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 228.6, 
+    "bearing": 48.43, 
     "airportICAO": "LSMP", 
-    "elevation": 1456, 
+    "elevation": 1464, 
     "name": "GS", 
-    "longitude": 6.922981, 
+    "longitude": 6.900749, 
+    "associatedRunwayNumber": "05", 
+    "frequency": 109950, 
+    "glideslope": 4.7004843, 
+    "latitude": 46.834633, 
+    "identifier": "IPN"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 228.43, 
+    "airportICAO": "LSMP", 
+    "elevation": 1464, 
+    "name": "GS", 
+    "longitude": 6.929149, 
     "associatedRunwayNumber": "23", 
     "frequency": 109300, 
-    "glideslope": 3.702283, 
-    "latitude": 46.847344, 
+    "glideslope": 3.7022843, 
+    "latitude": 46.851861, 
     "identifier": "IPY"
   }, 
   {
