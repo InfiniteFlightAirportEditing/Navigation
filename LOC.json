@@ -27431,6 +27431,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 68.00, 
+    "airportICAO": "LGPZ", 
+    "elevation": 11, 
+    "name": "ILS-cat-I", 
+    "longitude": 20.749516, 
+    "associatedRunwayNumber": "07L", 
+    "frequency": 110900, 
+    "latitude": 38.920723, 
+    "identifier": "IPRV", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 249.99, 
     "airportICAO": "LGRP", 
     "elevation": 17, 
