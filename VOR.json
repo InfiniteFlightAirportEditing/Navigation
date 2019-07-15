@@ -6080,16 +6080,6 @@
     "slavedVariation": 3
   },
   {
-    "name": "CHEDAOYU",
-    "identifier": "CDY",
-    "latitude": 40.5783333,
-    "longitude": 117.2233333,
-    "elevation": 827,
-    "frequency": 29200,
-    "receptionRange": 130,
-    "slavedVariation": 3
-  },
-  {
     "name": "CHEKA",
     "identifier": "CAK",
     "latitude": 34.300502778,
