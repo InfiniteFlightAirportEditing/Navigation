@@ -6412,12 +6412,12 @@
     "receptionRange": 18, 
     "bearing": 250.6, 
     "airportICAO": "EPLL", 
-    "elevation": 604, 
+    "elevation": 606, 
     "name": "ILS-cat-I", 
-    "longitude": 19.37001086, 
-    "associatedRunwayNumber": "25R", 
+    "longitude": 19.406351, 
+    "associatedRunwayNumber": "25", 
     "frequency": 110500, 
-    "latitude": 51.71573798, 
+    "latitude": 51.723675, 
     "identifier": "ILOD", 
     "type": 4
   }, 
@@ -27431,6 +27431,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 68.00, 
+    "airportICAO": "LGPZ", 
+    "elevation": 11, 
+    "name": "ILS-cat-I", 
+    "longitude": 20.749516, 
+    "associatedRunwayNumber": "07L", 
+    "frequency": 110900, 
+    "latitude": 38.920723, 
+    "identifier": "IPRV", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 249.99, 
     "airportICAO": "LGRP", 
     "elevation": 17, 
@@ -38442,15 +38455,15 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 143.995, 
+    "bearing": 144.01, 
     "airportICAO": "VEBS", 
-    "elevation": 138, 
+    "elevation": 137, 
     "name": "ILS-cat-I", 
-    "longitude": 85.821583, 
+    "longitude": 85.805045, 
     "associatedRunwayNumber": "14", 
     "frequency": 109100, 
-    "latitude": 20.2395, 
-    "identifier": "BHR", 
+    "latitude": 20.240856, 
+    "identifier": "IBHR", 
     "type": 4
   }, 
   {
@@ -46433,6 +46446,19 @@
     "frequency": 110300, 
     "latitude": 56.392518, 
     "identifier": "ITI", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 249.05, 
+    "airportICAO": "VOKN", 
+    "elevation": 343, 
+    "name": "ILS-cat-I", 
+    "longitude": 75.557431, 
+    "associatedRunwayNumber": "25", 
+    "frequency": 108900, 
+    "latitude": 11.922478, 
+    "identifier": "IKAN", 
     "type": 4
   }, 
   {

@@ -6426,15 +6426,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 251.2, 
+    "bearing": 250.6, 
     "airportICAO": "EPLL", 
-    "elevation": 604, 
+    "elevation": 606, 
     "name": "GS", 
-    "longitude": 19.40173812, 
-    "associatedRunwayNumber": "25R", 
+    "longitude": 19.406351, 
+    "associatedRunwayNumber": "25", 
     "frequency": 110500, 
     "glideslope": 3.002506, 
-    "latitude": 51.72353153, 
+    "latitude": 51.723675, 
     "identifier": "ILOD"
   }, 
   {
@@ -27369,6 +27369,19 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 68.00, 
+    "airportICAO": "LGPZ", 
+    "elevation": 11.00, 
+    "name": "GS", 
+    "longitude": 20.749516, 
+    "associatedRunwayNumber": "07L", 
+    "frequency": 110900, 
+    "glideslope": 2.70068, 
+    "latitude": 38.920723, 
+    "identifier": "IPRV"
+  }, 
+  {
+    "receptionRange": 10, 
     "bearing": 249.99, 
     "airportICAO": "LGRP", 
     "elevation": 17, 
@@ -38249,16 +38262,16 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 144.086, 
+    "bearing": 144.01, 
     "airportICAO": "VEBS", 
-    "elevation": 138, 
+    "elevation": 137, 
     "name": "GS", 
-    "longitude": 85.808528, 
+    "longitude": 85.805045, 
     "associatedRunwayNumber": "14", 
     "frequency": 109100, 
-    "glideslope": 3.00144043, 
-    "latitude": 20.2545, 
-    "identifier": "BHR"
+    "glideslope": 3.0014401, 
+    "latitude": 20.240856, 
+    "identifier": "IBHR"
   }, 
   {
     "receptionRange": 10, 
@@ -42601,6 +42614,19 @@
     "glideslope": 2.5521337, 
     "latitude": 56.392518, 
     "identifier": "ITI"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 249.05, 
+    "airportICAO": "VOKN", 
+    "elevation": 343, 
+    "name": "GS", 
+    "longitude": 75.557431, 
+    "associatedRunwayNumber": "25", 
+    "frequency": 108900, 
+    "glideslope": 3.0024905, 
+    "latitude": 11.922478, 
+    "identifier": "IKAN"
   }, 
   {
     "receptionRange": 10, 
