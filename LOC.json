@@ -4941,15 +4941,15 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 204.458, 
+    "bearing": 203.65, 
     "airportICAO": "EGXW", 
-    "elevation": 231, 
+    "elevation": 229, 
     "name": "ILS-cat-I", 
-    "longitude": -0.531642, 
+    "longitude": -0.51670265, 
     "associatedRunwayNumber": "20", 
-    "frequency": 110500, 
-    "latitude": 53.157386, 
-    "identifier": "WA", 
+    "frequency": 110700, 
+    "latitude": 53.17696120, 
+    "identifier": "IWA", 
     "type": 4
   }, 
   {

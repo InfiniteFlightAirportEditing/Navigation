@@ -4996,16 +4996,16 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 202.274, 
+    "bearing": 203.65, 
     "airportICAO": "EGXW", 
-    "elevation": 231, 
+    "elevation": 229, 
     "name": "GS", 
-    "longitude": -0.519364, 
+    "longitude": -0.51670265, 
     "associatedRunwayNumber": "20", 
-    "frequency": 110500, 
-    "glideslope": 3.00201637, 
-    "latitude": 53.176119, 
-    "identifier": "WA"
+    "frequency": 110700, 
+    "glideslope": 3.0020365, 
+    "latitude": 53.17696120, 
+    "identifier": "IWA"
   }, 
   {
     "receptionRange": 10, 
