@@ -32816,6 +32816,19 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 172.624, 
+    "airportICAO": "RJCC", 
+    "elevation": 0, 
+    "name": "GS", 
+    "longitude": 141.693714, 
+    "associatedRunwayNumber": "19L", 
+    "frequency": 109350, 
+    "glideslope": 3.00172634, 
+    "latitude": 42.785986, 
+    "identifier": "ICM"
+  }, 
+  {
+    "receptionRange": 10, 
     "bearing": 173.268, 
     "airportICAO": "RJCC", 
     "elevation": 0, 
