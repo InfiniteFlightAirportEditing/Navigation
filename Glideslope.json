@@ -39354,6 +39354,19 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 157.37, 
+    "airportICAO": "VYNT", 
+    "elevation": 295, 
+    "name": "GS", 
+    "longitude": 96.194253, 
+    "associatedRunwayNumber": "16", 
+    "frequency": 110100, 
+    "glideslope": 3.0015737, 
+    "latitude": 19.638776, 
+    "identifier": "INPT"
+  }, 
+  {
+    "receptionRange": 10, 
     "bearing": 213.2, 
     "airportICAO": "VYYY", 
     "elevation": 65, 

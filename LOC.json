@@ -39547,6 +39547,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 157.37, 
+    "airportICAO": "VYNT", 
+    "elevation": 295, 
+    "name": "ILS-cat-I", 
+    "longitude": 96.194253, 
+    "associatedRunwayNumber": "16", 
+    "frequency": 110100, 
+    "latitude": 19.638776, 
+    "identifier": "INPT", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 213.023, 
     "airportICAO": "VYYY", 
     "elevation": 65, 
