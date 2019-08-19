@@ -1926,15 +1926,15 @@
   }, 
   {
     "receptionRange": 15, 
-    "bearing": 223.0, 
+    "bearing": 218.38, 
     "airportICAO": "DXXX", 
-    "elevation": 72, 
+    "elevation": 71, 
     "name": "GS", 
-    "longitude": 1.26026666, 
+    "longitude": 1.262615, 
     "associatedRunwayNumber": "22", 
     "frequency": 110100, 
-    "glideslope": 3.00223, 
-    "latitude": 6.17578316, 
+    "glideslope": 2.9721838, 
+    "latitude": 6.176362, 
     "identifier": "LO"
   }, 
   {
@@ -20431,11 +20431,11 @@
     "airportICAO": "KOWA", 
     "elevation": 1145, 
     "name": "GS", 
-    "longitude": -93.256169, 
+    "longitude": -93.251946, 
     "associatedRunwayNumber": "30", 
     "frequency": 109550, 
     "glideslope": 3.0030409, 
-    "latitude": 44.11919021, 
+    "latitude": 44.11919, 
     "identifier": "IOWA"
   }, 
   {
@@ -21922,15 +21922,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 319.554, 
+    "bearing": 319.3, 
     "airportICAO": "KRMN", 
-    "elevation": 175, 
+    "elevation": 211, 
     "name": "GS", 
-    "longitude": -77.452228, 
+    "longitude": -77.449756, 
     "associatedRunwayNumber": "33", 
     "frequency": 108750, 
-    "glideslope": 3.00319277, 
-    "latitude": 38.394039, 
+    "glideslope": 3.003193, 
+    "latitude": 38.392906, 
     "identifier": "IRMN"
   }, 
   {
@@ -24535,15 +24535,15 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 192.14, 
+    "bearing": 192.13, 
     "airportICAO": "KVPS", 
     "elevation": 83, 
     "name": "GS", 
-    "longitude": -86.50992791, 
+    "longitude": -86.511154, 
     "associatedRunwayNumber": "19", 
     "frequency": 109100, 
-    "glideslope": 3.0019214, 
-    "latitude": 30.49722835, 
+    "glideslope": 2.8019213, 
+    "latitude": 30.499815, 
     "identifier": "ICAH"
   }, 
   {
@@ -24552,11 +24552,11 @@
     "airportICAO": "KVPS", 
     "elevation": 83, 
     "name": "GS", 
-    "longitude": -86.51784732, 
+    "longitude": -86.519073, 
     "associatedRunwayNumber": "30", 
-    "frequency": 110300, 
-    "glideslope": 3.002998, 
-    "latitude": 30.46985178, 
+    "frequency": 109100, 
+    "glideslope": 2.502998, 
+    "latitude": 30.472439, 
     "identifier": "IVPS"
   }, 
   {
@@ -34843,15 +34843,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 141.162, 
+    "bearing": 141.11, 
     "airportICAO": "SBNT", 
-    "elevation": 169, 
+    "elevation": 170, 
     "name": "GS", 
-    "longitude": -35.25051727, 
+    "longitude": -35.251587, 
     "associatedRunwayNumber": "16L", 
     "frequency": 109300, 
-    "glideslope": 3.00141081, 
-    "latitude": -5.90448709, 
+    "glideslope": 3.0014111, 
+    "latitude": -5.901838, 
     "identifier": "INT"
   }, 
   {
