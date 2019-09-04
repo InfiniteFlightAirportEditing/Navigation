@@ -27980,15 +27980,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 42.0, 
+    "bearing": 42.04, 
     "airportICAO": "LIPZ", 
-    "elevation": 52, 
+    "elevation": 4, 
     "name": "GS", 
-    "longitude": 12.341706, 
+    "longitude": 12.337708, 
     "associatedRunwayNumber": "04R", 
     "frequency": 109950, 
-    "glideslope": 3.00042, 
-    "latitude": 45.495281, 
+    "glideslope": 3.00042040, 
+    "latitude": 45.494115, 
     "identifier": "VTS"
   }, 
   {

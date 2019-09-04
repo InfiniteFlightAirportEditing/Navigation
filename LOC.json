@@ -28081,14 +28081,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 42.023, 
+    "bearing": 42.04, 
     "airportICAO": "LIPZ", 
-    "elevation": 13, 
+    "elevation": 4, 
     "name": "ILS-cat-I", 
-    "longitude": 12.369253, 
+    "longitude": 12.337708, 
     "associatedRunwayNumber": "04R", 
     "frequency": 109950, 
-    "latitude": 45.518647, 
+    "latitude": 45.494115, 
     "identifier": "VTS", 
     "type": 4
   }, 
