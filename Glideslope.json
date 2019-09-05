@@ -25965,15 +25965,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 269.266, 
+    "bearing": 269.17, 
     "airportICAO": "LFBZ", 
     "elevation": 234, 
     "name": "GS", 
-    "longitude": -1.512942, 
+    "longitude": -1.509384, 
     "associatedRunwayNumber": "27", 
     "frequency": 111350, 
-    "glideslope": 3.00269133, 
-    "latitude": 43.4676, 
+    "glideslope": 3.00269170, 
+    "latitude": 43.468545, 
     "identifier": "BZ"
   }, 
   {
