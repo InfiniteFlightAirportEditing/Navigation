@@ -21469,13 +21469,13 @@
     "receptionRange": 10, 
     "bearing": 95.33, 
     "airportICAO": "KPWM", 
-    "elevation": 77, 
+    "elevation": 75, 
     "name": "GS", 
-    "longitude": -70.32611673, 
+    "longitude": -70.326143, 
     "associatedRunwayNumber": "11", 
     "frequency": 109900, 
     "glideslope": 3.0009533, 
-    "latitude": 43.64587176, 
+    "latitude": 43.645875, 
     "identifier": "IPWM"
   }, 
   {
