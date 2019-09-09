@@ -43369,28 +43369,15 @@
   }, 
   {
     "receptionRange": 25, 
-    "bearing": 312.0, 
+    "bearing": 159.72, 
     "airportICAO": "KASE", 
-    "elevation": 10768, 
+    "elevation": 7835, 
     "name": "LOC", 
-    "longitude": -106.819343, 
+    "longitude": -106.873157, 
     "associatedRunwayNumber": "15", 
     "frequency": 108500, 
-    "latitude": 39.152403, 
+    "latitude": 39.232172, 
     "identifier": "IPKN", 
-    "type": 5
-  }, 
-  {
-    "receptionRange": 18, 
-    "bearing": 159.712, 
-    "airportICAO": "KASE", 
-    "elevation": 7832, 
-    "name": "LOC", 
-    "longitude": -106.8633, 
-    "associatedRunwayNumber": "15", 
-    "frequency": 111150, 
-    "latitude": 39.211539, 
-    "identifier": "IASE", 
     "type": 5
   }, 
   {
