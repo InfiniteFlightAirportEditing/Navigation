@@ -209,15 +209,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 315.414, 
+    "bearing": 315.21, 
     "airportICAO": "CYBL", 
-    "elevation": 344, 
+    "elevation": 346, 
     "name": "GS", 
-    "longitude": -125.278175, 
-    "associatedRunwayNumber": "29", 
+    "longitude": -125.263266, 
+    "associatedRunwayNumber": "12", 
     "frequency": 109100, 
-    "glideslope": 3.00315207, 
-    "latitude": 49.953697, 
+    "glideslope": 4.00315210, 
+    "latitude": 49.945787, 
     "identifier": "IBL"
   }, 
   {
