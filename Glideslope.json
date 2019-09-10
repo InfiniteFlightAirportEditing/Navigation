@@ -27304,15 +27304,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 293.284, 
+    "bearing": 293.14, 
     "airportICAO": "LFSX", 
     "elevation": 912, 
     "name": "GS", 
-    "longitude": 6.356512, 
+    "longitude": 6.364408, 
     "associatedRunwayNumber": "29", 
     "frequency": 108090, 
-    "glideslope": 3.00293142, 
-    "latitude": 47.787991, 
+    "glideslope": 3.00293140, 
+    "latitude": 47.783014, 
     "identifier": "LXI"
   }, 
   {

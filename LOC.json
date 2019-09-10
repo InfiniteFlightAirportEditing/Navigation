@@ -27366,14 +27366,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 113.0, 
+    "bearing": 293.14, 
     "airportICAO": "LFSX", 
     "elevation": 912, 
     "name": "ILS-cat-I", 
-    "longitude": 6.371162, 
+    "longitude": 6.364408, 
     "associatedRunwayNumber": "29", 
     "frequency": 108090, 
-    "latitude": 47.781052, 
+    "latitude": 47.783014, 
     "identifier": "LXI", 
     "type": 4
   }, 
