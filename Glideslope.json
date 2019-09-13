@@ -10495,15 +10495,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 180.754, 
+    "bearing": 179.84, 
     "airportICAO": "KBLI", 
-    "elevation": 154, 
+    "elevation": 170, 
     "name": "GS", 
-    "longitude": -122.538689, 
+    "longitude": -122.537576, 
     "associatedRunwayNumber": "16", 
     "frequency": 108500, 
-    "glideslope": 3.00179877, 
-    "latitude": 48.799453, 
+    "glideslope": 3.00179840, 
+    "latitude": 48.801882, 
     "identifier": "IBLI"
   }, 
   {

@@ -10531,14 +10531,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 179.828, 
+    "bearing": 179.84, 
     "airportICAO": "KBLI", 
-    "elevation": 152, 
+    "elevation": 170, 
     "name": "ILS-cat-I", 
-    "longitude": -122.537472, 
+    "longitude": -122.537576, 
     "associatedRunwayNumber": "16", 
     "frequency": 108500, 
-    "latitude": 48.781456, 
+    "latitude": 48.801882, 
     "identifier": "IBLI", 
     "type": 4
   }, 
