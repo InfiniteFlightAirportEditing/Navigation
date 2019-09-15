@@ -42966,14 +42966,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 297.0, 
+    "bearing": 297.54, 
     "airportICAO": "ENHK", 
-    "elevation": 48, 
+    "elevation": 22, 
     "name": "LOC", 
-    "longitude": 22.136119, 
+    "longitude": 22.151727, 
     "associatedRunwayNumber": "29", 
     "frequency": 111500, 
-    "latitude": 70.486672, 
+    "latitude": 70.484479, 
     "identifier": "VK", 
     "type": 5
   }, 
