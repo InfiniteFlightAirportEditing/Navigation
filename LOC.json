@@ -8139,6 +8139,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 184.6, 
+    "airportICAO": "FQNC", 
+    "elevation": 398, 
+    "name": "ILS-cat-I", 
+    "longitude": 40.713586, 
+    "associatedRunwayNumber": "19", 
+    "frequency": 110300, 
+    "latitude": -14.472489, 
+    "identifier": "NC", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 305.212, 
     "airportICAO": "FSIA", 
     "elevation": 10, 
