@@ -4671,15 +4671,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 230.6, 
+    "bearing": 229.80,
     "airportICAO": "EGSC", 
-    "elevation": 40, 
+    "elevation": 47,
     "name": "GS", 
-    "longitude": 0.181828, 
+    "longitude": 0.18602317,
     "associatedRunwayNumber": "23", 
     "frequency": 111300, 
-    "glideslope": 3.002298, 
-    "latitude": 52.207294, 
+    "glideslope": 3.0022980,
+    "latitude": 52.21071685,
     "identifier": "ICMG"
   }, 
   {
