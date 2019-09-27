@@ -4616,14 +4616,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 229.806, 
+    "bearing": 229.80,
     "airportICAO": "EGSC", 
     "elevation": 47, 
     "name": "ILS-cat-I", 
-    "longitude": 0.163172, 
+    "longitude": 0.18602317,
     "associatedRunwayNumber": "23", 
     "frequency": 111300, 
-    "latitude": 52.198889, 
+    "latitude":  52.21071685,
     "identifier": "ICMG", 
     "type": 4
   }, 
