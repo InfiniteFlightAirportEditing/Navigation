@@ -7760,6 +7760,16 @@
     "slavedVariation": 5
   },
   {
+    "name": "DAIXING",
+    "identifier": "DXG",
+    "latitude": 39.4739444,
+    "longitude": 116.3946667,
+    "elevation": 118,
+    "frequency": 11535,
+    "receptionRange": 130,
+    "slavedVariation": -6
+  },
+  {
     "name": "DAKAR",
     "identifier": "YF",
     "latitude": 14.744833333,
