@@ -15786,6 +15786,19 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 89.95,
+    "airportICAO": "KHYX",
+    "elevation": 601,
+    "name": "GS",
+    "longitude": -83.871874,
+    "associatedRunwayNumber": "09",
+    "frequency": 111350,
+    "glideslope": 3.00089950,
+    "latitude": 43.433930,
+    "identifier": "IHQW"
+  },
+  {
+    "receptionRange": 10, 
     "bearing": 12.84, 
     "airportICAO": "KIAB", 
     "elevation": 1336, 
