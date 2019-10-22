@@ -5299,11 +5299,11 @@
     "airportICAO": "EHRD", 
     "elevation": -15, 
     "name": "GS", 
-    "longitude": 4.43365, 
+    "longitude":    4.455120, 
     "associatedRunwayNumber": "06", 
-    "frequency": 110900, 
+    "frequency": 331400, 
     "glideslope": 3.00056944, 
-    "latitude": 51.95552778, 
+    "latitude":  51.962823, 
     "identifier": "ROS"
   }, 
   {
@@ -5312,11 +5312,11 @@
     "airportICAO": "EHRD", 
     "elevation": -15, 
     "name": "GS", 
-    "longitude": 4.447936, 
+    "longitude": 4.428262, 
     "associatedRunwayNumber": "24", 
-    "frequency": 110900, 
+    "frequency": 330800, 
     "glideslope": 3.00236944, 
-    "latitude": 51.961239, 
+    "latitude": 51.952090, 
     "identifier": "RSV"
   }, 
   {
