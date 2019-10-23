@@ -4794,7 +4794,7 @@
     "name": "GS", 
     "longitude": 0.549008, 
     "associatedRunwayNumber": "06", 
-    "frequency": 109900, 
+    "frequency": 109950, 
     "glideslope": 2.500556, 
     "latitude": 52.403069, 
     "identifier": "ILAK"
@@ -29719,6 +29719,19 @@
     "glideslope": 2.5012531, 
     "latitude": 44.944806, 
     "identifier": "BTJ"
+  }, 
+  {
+    "receptionRange": 25, 
+    "bearing": 290.00, 
+    "airportICAO": "LYNI", 
+    "elevation": 665, 
+    "name": "GS", 
+    "longitude": 021.8622222, 
+    "associatedRunwayNumber": "29", 
+    "frequency": 109300, 
+    "glideslope": 3.5029000, 
+    "latitude": 43.3335556, 
+    "identifier": "YNI"
   }, 
   {
     "receptionRange": 25, 

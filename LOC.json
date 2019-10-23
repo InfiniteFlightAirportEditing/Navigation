@@ -4739,7 +4739,7 @@
     "name": "ILS-cat-I", 
     "longitude": 0.582061, 
     "associatedRunwayNumber": "06", 
-    "frequency": 109900, 
+    "frequency": 109950, 
     "latitude": 52.418175, 
     "identifier": "ILAK", 
     "type": 4
@@ -29833,6 +29833,19 @@
     "frequency": 108900, 
     "latitude": 44.931944, 
     "identifier": "BTJ", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 25, 
+    "bearing": 285.00, 
+    "airportICAO": "LYNI", 
+    "elevation": 648, 
+    "name": "ILS-cat-I", 
+    "longitude": 19.253278, 
+    "associatedRunwayNumber": "29", 
+    "frequency": 109300, 
+    "latitude": 	43.3359722, 
+    "identifier": "YNI", 
     "type": 4
   }, 
   {
