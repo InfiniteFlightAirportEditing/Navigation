@@ -29841,10 +29841,10 @@
     "airportICAO": "LYNI", 
     "elevation": 648, 
     "name": "ILS-cat-I", 
-    "longitude": 19.253278, 
+    "longitude": 021.852361, 
     "associatedRunwayNumber": "29", 
     "frequency": 109300, 
-    "latitude": 	43.3359722, 
+    "latitude": 43.335972, 
     "identifier": "YNI", 
     "type": 4
   }, 

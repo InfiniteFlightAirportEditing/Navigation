@@ -29726,11 +29726,11 @@
     "airportICAO": "LYNI", 
     "elevation": 665, 
     "name": "GS", 
-    "longitude": 021.8622222, 
+    "longitude": 021.862222, 
     "associatedRunwayNumber": "29", 
     "frequency": 109300, 
     "glideslope": 3.5029000, 
-    "latitude": 43.3335556, 
+    "latitude": 43.333555, 
     "identifier": "YNI"
   }, 
   {
