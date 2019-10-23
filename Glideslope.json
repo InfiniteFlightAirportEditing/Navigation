@@ -781,16 +781,29 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 230.59, 
+    "bearing": 243.00, 
     "airportICAO": "CYTR", 
     "elevation": 283, 
     "name": "GS", 
     "longitude": -77.513484, 
     "associatedRunwayNumber": "24", 
     "frequency": 109700, 
-    "glideslope": 3.0023059, 
+    "glideslope": 3.0024300, 
     "latitude": 44.127735, 
     "identifier": "ITR"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 63.00, 
+    "airportICAO": "CYTR", 
+    "elevation": 283, 
+    "name": "GS", 
+    "longitude": -77.542937, 
+    "associatedRunwayNumber": "06", 
+    "frequency": 110750, 
+    "glideslope": 3.0006300, 
+    "latitude": 44.110361, 
+    "identifier": "INT"
   }, 
   {
     "receptionRange": 10, 
@@ -4794,7 +4807,7 @@
     "name": "GS", 
     "longitude": 0.549008, 
     "associatedRunwayNumber": "06", 
-    "frequency": 109900, 
+    "frequency": 109950, 
     "glideslope": 2.500556, 
     "latitude": 52.403069, 
     "identifier": "ILAK"
@@ -5299,11 +5312,11 @@
     "airportICAO": "EHRD", 
     "elevation": -15, 
     "name": "GS", 
-    "longitude": 4.43365, 
+    "longitude":    4.455120, 
     "associatedRunwayNumber": "06", 
-    "frequency": 110900, 
+    "frequency": 331400, 
     "glideslope": 3.00056944, 
-    "latitude": 51.95552778, 
+    "latitude":  51.962823, 
     "identifier": "ROS"
   }, 
   {
@@ -5312,11 +5325,11 @@
     "airportICAO": "EHRD", 
     "elevation": -15, 
     "name": "GS", 
-    "longitude": 4.447936, 
+    "longitude": 4.428262, 
     "associatedRunwayNumber": "24", 
-    "frequency": 110900, 
+    "frequency": 330800, 
     "glideslope": 3.00236944, 
-    "latitude": 51.961239, 
+    "latitude": 51.952090, 
     "identifier": "RSV"
   }, 
   {
@@ -29719,6 +29732,19 @@
     "glideslope": 2.5012531, 
     "latitude": 44.944806, 
     "identifier": "BTJ"
+  }, 
+  {
+    "receptionRange": 25, 
+    "bearing": 290.00, 
+    "airportICAO": "LYNI", 
+    "elevation": 665, 
+    "name": "GS", 
+    "longitude": 21.862222, 
+    "associatedRunwayNumber": "29", 
+    "frequency": 109300, 
+    "glideslope": 3.5029000, 
+    "latitude": 43.333555, 
+    "identifier": "YNI"
   }, 
   {
     "receptionRange": 25, 

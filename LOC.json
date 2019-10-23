@@ -768,7 +768,7 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 230.59, 
+    "bearing": 243.00, 
     "airportICAO": "CYTR", 
     "elevation": 283, 
     "name": "ILS-cat-I", 
@@ -777,6 +777,19 @@
     "frequency": 109700, 
     "latitude": 44.127735, 
     "identifier": "ITR", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 63.00, 
+    "airportICAO": "CYTR", 
+    "elevation": 283, 
+    "name": "ILS-cat-I", 
+    "longitude": -77.542937, 
+    "associatedRunwayNumber": "06", 
+    "frequency": 110750, 
+    "latitude": 44.110361, 
+    "identifier": "INT", 
     "type": 4
   }, 
   {
@@ -4739,7 +4752,7 @@
     "name": "ILS-cat-I", 
     "longitude": 0.582061, 
     "associatedRunwayNumber": "06", 
-    "frequency": 109900, 
+    "frequency": 109950, 
     "latitude": 52.418175, 
     "identifier": "ILAK", 
     "type": 4
@@ -5244,10 +5257,10 @@
     "airportICAO": "EHRD", 
     "elevation": -15, 
     "name": "ILS-cat-I", 
-    "longitude": 4.4577, 
+    "longitude": 4.455120, 
     "associatedRunwayNumber": "06", 
-    "frequency": 110900, 
-    "latitude": 51.96385834, 
+    "frequency": 109100, 
+    "latitude": 51.962823, 
     "identifier": "ROS", 
     "type": 4
   }, 
@@ -5257,10 +5270,10 @@
     "airportICAO": "EHRD", 
     "elevation": -15, 
     "name": "ILS-cat-I", 
-    "longitude": 4.424717, 
+    "longitude": 4.428262, 
     "associatedRunwayNumber": "24", 
     "frequency": 110900, 
-    "latitude": 51.950678, 
+    "latitude": 51.952090, 
     "identifier": "RSV", 
     "type": 4
   }, 
@@ -29833,6 +29846,19 @@
     "frequency": 108900, 
     "latitude": 44.931944, 
     "identifier": "BTJ", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 25, 
+    "bearing": 285.00, 
+    "airportICAO": "LYNI", 
+    "elevation": 648, 
+    "name": "ILS-cat-I", 
+    "longitude": 21.852361, 
+    "associatedRunwayNumber": "29", 
+    "frequency": 109300, 
+    "latitude": 43.335972, 
+    "identifier": "YNI", 
     "type": 4
   }, 
   {
