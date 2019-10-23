@@ -781,16 +781,29 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 230.59, 
+    "bearing": 243.00, 
     "airportICAO": "CYTR", 
     "elevation": 283, 
     "name": "GS", 
     "longitude": -77.513484, 
     "associatedRunwayNumber": "24", 
     "frequency": 109700, 
-    "glideslope": 3.0023059, 
+    "glideslope": 3.0024300, 
     "latitude": 44.127735, 
     "identifier": "ITR"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 63.00, 
+    "airportICAO": "CYTR", 
+    "elevation": 283, 
+    "name": "GS", 
+    "longitude": -77.542937, 
+    "associatedRunwayNumber": "06", 
+    "frequency": 110750, 
+    "glideslope": 3.0006300, 
+    "latitude": 44.110361, 
+    "identifier": "INT"
   }, 
   {
     "receptionRange": 10, 

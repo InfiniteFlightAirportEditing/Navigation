@@ -768,7 +768,7 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 230.59, 
+    "bearing": 243.00, 
     "airportICAO": "CYTR", 
     "elevation": 283, 
     "name": "ILS-cat-I", 
@@ -777,6 +777,19 @@
     "frequency": 109700, 
     "latitude": 44.127735, 
     "identifier": "ITR", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 63.00, 
+    "airportICAO": "CYTR", 
+    "elevation": 283, 
+    "name": "ILS-cat-I", 
+    "longitude": -77.542937, 
+    "associatedRunwayNumber": "06", 
+    "frequency": 110750, 
+    "latitude": 44.110361, 
+    "identifier": "INT", 
     "type": 4
   }, 
   {
