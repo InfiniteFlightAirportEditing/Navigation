@@ -25640,7 +25640,7 @@
     "airportICAO": "LETO", 
     "elevation": 3553, 
     "name": "ILS-cat-I", 
-    "longitude": -003.4682778, 
+    "longitude": -3.4682778, 
     "associatedRunwayNumber": "22", 
     "frequency": 109500, 
     "latitude": 40.4786389, 
