@@ -25601,15 +25601,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 223.572, 
+    "bearing": 223.290, 
     "airportICAO": "LETO", 
     "elevation": 2025, 
     "name": "GS", 
-    "longitude": -3.435297, 
+    "longitude": -3.4353056, 
     "associatedRunwayNumber": "23", 
     "frequency": 109500, 
-    "glideslope": 3.00223286, 
-    "latitude": 40.506731, 
+    "glideslope": 3.00223290, 
+    "latitude": 40.5067500, 
     "identifier": "ITJA"
   }, 
   {
@@ -28123,16 +28123,16 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 58.08, 
-    "airportICAO": "LIRN", 
-    "elevation": 292, 
+    "bearing": 124.54, 
+    "airportICAO": "LIRL", 
+    "elevation": 92, 
     "name": "GS", 
-    "longitude": 14.2775536, 
-    "associatedRunwayNumber": "06", 
-    "frequency": 110150, 
-    "glideslope": 3.5005808, 
-    "latitude": 40.87979891, 
-    "identifier": "NPC"
+    "longitude": 12.90351007, 
+    "associatedRunwayNumber": "12", 
+    "frequency": 110200, 
+    "glideslope": 3.5012454, 
+    "latitude":  41.54440259, 
+    "identifier": "IRL"
   }, 
   {
     "receptionRange": 10, 
