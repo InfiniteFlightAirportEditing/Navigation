@@ -32787,15 +32787,28 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 358.832, 
+    "bearing": 358.72, 
     "airportICAO": "RCNN", 
-    "elevation": 63, 
+    "elevation": 62, 
     "name": "ILS-cat-I", 
-    "longitude": 120.207167, 
+    "longitude": 120.207854, 
     "associatedRunwayNumber": "36R", 
     "frequency": 110100, 
-    "latitude": 22.96675, 
+    "latitude": 22.936659, 
     "identifier": "ITNN", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 178.72, 
+    "airportICAO": "RCNN", 
+    "elevation": 62, 
+    "name": "ILS-cat-I", 
+    "longitude": 120.207184, 
+    "associatedRunwayNumber": "18L", 
+    "frequency": 111100, 
+    "latitude": 22.964172, 
+    "identifier": "ITNA", 
     "type": 4
   }, 
   {
