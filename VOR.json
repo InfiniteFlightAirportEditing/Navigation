@@ -18242,12 +18242,12 @@
   {
     "name": "LATINA",
     "identifier": "LAT",
-    "latitude": 41.541111111,
-    "longitude": 12.918055556,
-    "elevation": 79,
+    "latitude": 41.54111110,
+    "longitude": 12.91805560,
+    "elevation": 74,
     "frequency": 11120,
-    "receptionRange": 130,
-    "slavedVariation": 2
+    "receptionRange": 150,
+    "slavedVariation": 3
   },
   {
     "name": "LAUGHLIN (DEL RIO)",
@@ -22690,8 +22690,8 @@
     "slavedVariation": 0
   },
   {
-    "name": "MUNICH",
-    "identifier": "MUN",
+    "name": "OTTERSBERG",
+    "identifier": "OTT",
     "latitude": 48.180325,
     "longitude": 11.816016667,
     "elevation": 1758,
@@ -34216,6 +34216,16 @@
     "longitude": -3.472027778,
     "elevation": 2165,
     "frequency": 11510,
+    "receptionRange": 130,
+    "slavedVariation": -1
+  },
+  {
+    "name": "TORREJON",
+    "identifier": "CJN",
+    "latitude": 40.3719722,
+    "longitude": -2.5446111,
+    "elevation": 3543,
+    "frequency": 11600,
     "receptionRange": 130,
     "slavedVariation": -1
   },
