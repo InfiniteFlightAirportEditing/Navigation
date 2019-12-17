@@ -33788,6 +33788,32 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 157.41, 
+    "airportICAO": "RJTT", 
+    "elevation": 34, 
+    "name": "ILS-cat-I", 
+    "longitude": 139.806214, 
+    "associatedRunwayNumber": "16L", 
+    "frequency": 111950, 
+    "latitude": 35.538175, 
+    "identifier": "IOC", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 157.41, 
+    "airportICAO": "RJTT", 
+    "elevation": 31, 
+    "name": "ILS-cat-I", 
+    "longitude": 139.78675, 
+    "associatedRunwayNumber": "16R", 
+    "frequency": 111550, 
+    "latitude": 35.535081, 
+    "identifier": "ITA", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 215.022, 
     "airportICAO": "RJTT", 
     "elevation": 20, 
