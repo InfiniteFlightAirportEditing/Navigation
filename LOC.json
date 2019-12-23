@@ -7852,6 +7852,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 195.628, 
+    "airportICAO": "FAOR", 
+    "elevation": 5518, 
+    "name": "ILS-cat-I", 
+    "longitude": 028.2453583, 
+    "associatedRunwayNumber": "21R", 
+    "frequency": 109900, 
+    "latitude": -26.1148417, 
+    "identifier": "JBI", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 34.586, 
     "airportICAO": "FAKN", 
     "elevation": 2828, 
@@ -31743,6 +31756,58 @@
     "frequency": 108750, 
     "latitude": 24.44240976, 
     "identifier": "IAN", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 24, 
+    "bearing": 127.13, 
+    "airportICAO": "OMAM", 
+    "elevation": 77, 
+    "name": "ILS-cat-I", 
+    "longitude": 54.53060007, 
+    "associatedRunwayNumber": "13L", 
+    "frequency": 109000, 
+    "latitude": 24.26009695, 
+    "identifier": "IAML", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 24, 
+    "bearing": 307.93, 
+    "airportICAO": "OMAM", 
+    "elevation": 77, 
+    "name": "ILS-cat-I", 
+    "longitude": 54.53414098, 
+    "associatedRunwayNumber": "13R", 
+    "frequency": 109250, 
+    "latitude": 24.24262937, 
+    "identifier": "IAME", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 24, 
+    "bearing": 307.92, 
+    "airportICAO": "OMAM", 
+    "elevation": 77, 
+    "name": "ILS-cat-I", 
+    "longitude": 54.56806124, 
+    "associatedRunwayNumber": "31L", 
+    "frequency": 109500, 
+    "latitude": 24.21922073, 
+    "identifier": "IAMW", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 24, 
+    "bearing": 307.93, 
+    "airportICAO": "OMAM", 
+    "elevation": 77, 
+    "name": "ILS-cat-I", 
+    "longitude": 54.56475678, 
+    "associatedRunwayNumber": "31R", 
+    "frequency": 109750, 
+    "latitude":  24.23652188, 
+    "identifier": "IAMR", 
     "type": 4
   }, 
   {
