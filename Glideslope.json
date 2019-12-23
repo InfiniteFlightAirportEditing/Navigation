@@ -7856,8 +7856,8 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 196.2, 
-    "airportICAO": "FAOR", 
+    "bearing": 196.2,
+    "airportICAO": "FAOR",
     "elevation": 5499, 
     "name": "GS", 
     "longitude": 28.25771883, 
