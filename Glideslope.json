@@ -4924,7 +4924,7 @@
     "name": "GS", 
     "longitude": -1.561787, 
     "associatedRunwayNumber": "25", 
-    "frequency": 108550, 
+    "frequency": 108555, 
     "glideslope": 3.0025345, 
     "latitude": 51.753873, 
     "identifier": "IBZB"
@@ -7856,16 +7856,29 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 196.2,
+    "airportICAO": "FAOR",
+    "elevation": 5499, 
+    "name": "GS", 
+    "longitude": 28.25771883, 
+    "associatedRunwayNumber": "21L", 
+    "frequency": 109900, 
+    "glideslope": 3.001962, 
+    "latitude": -26.13775761, 
+    "identifier": "JAI"
+  }, 
+  {
+    "receptionRange": 10, 
     "bearing": 196.2, 
     "airportICAO": "FAOR", 
     "elevation": 5499, 
     "name": "GS", 
-    "longitude": 28.257723, 
-    "associatedRunwayNumber": "21L", 
-    "frequency": 109900, 
-    "glideslope": 3.001956, 
-    "latitude": -26.137777, 
-    "identifier": "JAI"
+    "longitude": 28.24535596, 
+    "associatedRunwayNumber": "21R", 
+    "frequency": 110900, 
+    "glideslope": 3.001962, 
+    "latitude": -26.11486006, 
+    "identifier": "JBI"
   }, 
   {
     "receptionRange": 10, 
@@ -31607,7 +31620,7 @@
   }, 
   {
     "receptionRange": 24, 
-    "bearing": 307.93, 
+    "bearing": 277.12, 
     "airportICAO": "OMAA", 
     "elevation": 85, 
     "name": "GS", 
@@ -31617,6 +31630,58 @@
     "glideslope": 3.00307930, 
     "latitude": 24.44240976, 
     "identifier": "IAN"
+  }, 
+  {
+    "receptionRange": 24, 
+    "bearing": 127.13, 
+    "airportICAO": "OMAM", 
+    "elevation": 77, 
+    "name": "GS", 
+    "longitude": 54.53651015, 
+    "associatedRunwayNumber": "13L", 
+    "frequency": 109000, 
+    "glideslope": 3.00307930, 
+    "latitude": 24.25720397, 
+    "identifier": "IAML"
+  }, 
+  {
+    "receptionRange": 24, 
+    "bearing": 307.93, 
+    "airportICAO": "OMAM", 
+    "elevation": 77, 
+    "name": "GS", 
+    "longitude": 54.53971626, 
+    "associatedRunwayNumber": "13R", 
+    "frequency": 109250, 
+    "glideslope": 3.00307930, 
+    "latitude": 24.24009347, 
+    "identifier": "IAME"
+  }, 
+  {
+    "receptionRange": 24, 
+    "bearing": 307.92, 
+    "airportICAO": "OMAM", 
+    "elevation": 77, 
+    "name": "GS", 
+    "longitude": 54.56375274, 
+    "associatedRunwayNumber": "31L", 
+    "frequency": 109500, 
+    "glideslope": 3.00307920, 
+    "latitude": 24.22341153, 
+    "identifier": "IAMW"
+  }, 
+  {
+    "receptionRange": 24, 
+    "bearing": 307.93, 
+    "airportICAO": "OMAM", 
+    "elevation": 77, 
+    "name": "GS", 
+    "longitude": 54.55884979, 
+    "associatedRunwayNumber": "31R", 
+    "frequency": 109750, 
+    "glideslope": 3.00307930, 
+    "latitude": 24.24166717, 
+    "identifier": "IAMR"
   }, 
   {
     "receptionRange": 10, 
