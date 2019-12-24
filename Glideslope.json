@@ -28510,7 +28510,20 @@
     "glideslope": 3.00349369, 
     "latitude": 46.980178, 
     "identifier": "OEG"
-  }, 
+  },
+  {
+    "receptionRange": 10, 
+    "bearing": 260.96, 
+    "airportICAO": "LOWI", 
+    "elevation": 1907, 
+    "name": "GS", 
+    "longitude": 11.357055, 
+    "associatedRunwayNumber": "26", 
+    "frequency": 111100, 
+    "glideslope": 3.77260960, 
+    "latitude": 47.261621, 
+    "identifier": "OEV"
+  },
   {
     "receptionRange": 10, 
     "bearing": 286.666, 

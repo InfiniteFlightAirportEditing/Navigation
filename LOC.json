@@ -28614,14 +28614,14 @@
   }, 
   {
     "receptionRange": 27, 
-    "bearing": 261.03, 
+    "bearing": 260.96, 
     "airportICAO": "LOWI", 
-    "elevation": 1906, 
+    "elevation": 1907, 
     "name": "LOC-GS", 
-    "longitude": 11.35702, 
+    "longitude": 11.357055, 
     "associatedRunwayNumber": "26", 
     "frequency": 111100, 
-    "latitude": 47.261624, 
+    "latitude": 47.261621, 
     "identifier": "OEV", 
     "type": 4
   }, 
@@ -45834,19 +45834,6 @@
     "frequency": 111550, 
     "latitude": 50.207047, 
     "identifier": "KVY", 
-    "type": 5
-  }, 
-  {
-    "receptionRange": 30, 
-    "bearing": 260.94, 
-    "airportICAO": "LOWI", 
-    "elevation": 1905, 
-    "name": "LOC", 
-    "longitude": 11.357021, 
-    "associatedRunwayNumber": "26", 
-    "frequency": 109700, 
-    "latitude": 47.26160740, 
-    "identifier": "OEJ", 
     "type": 5
   }, 
   {
