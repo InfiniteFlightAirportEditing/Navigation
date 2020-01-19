@@ -15424,8 +15424,8 @@
     "type": 7,
     "airportICAO": "YPTN",
     "associatedRunwayNumber": "14",
-    "latitude": -14.46269989,
-    "longitude": 132.32461548,
+    "latitude": -14.4627222,
+    "longitude": 132.3246111,
     "elevation": 443,
     "bearing": 139.088
   },
@@ -31224,8 +31224,8 @@
     "type": 8,
     "airportICAO": "YPTN",
     "associatedRunwayNumber": "14",
-    "latitude": -14.50500584,
-    "longitude": 132.36247253,
+    "latitude": -14.5050556,
+    "longitude": 132.3624722,
     "elevation": 443,
     "bearing": 139.088
   },
