@@ -4803,7 +4803,7 @@
     "name": "ILS-cat-I", 
     "longitude": 0.462325, 
     "associatedRunwayNumber": "29", 
-    "frequency": 110150, 
+    "frequency": 110155, 
     "latitude": 52.365217, 
     "identifier": "IMLD", 
     "type": 4
@@ -4842,7 +4842,7 @@
     "name": "ILS-cat-I", 
     "longitude": -1.817619, 
     "associatedRunwayNumber": "27", 
-    "frequency": 111100, 
+    "frequency": 111105, 
     "latitude": 51.682939, 
     "identifier": "IFFA", 
     "type": 4
@@ -4868,7 +4868,7 @@
     "name": "ILS-cat-I", 
     "longitude": -1.561787, 
     "associatedRunwayNumber": "25", 
-    "frequency": 108550, 
+    "frequency": 108555, 
     "latitude": 51.753873, 
     "identifier": "IBZB", 
     "type": 4
@@ -5804,7 +5804,7 @@
     "name": "ILS-cat-I", 
     "longitude": 9.28948490, 
     "associatedRunwayNumber": "28R", 
-    "frequency": 109350, 
+    "frequency": 109355, 
     "latitude": 55.21739806, 
     "identifier": "SRY", 
     "type": 4
@@ -5856,7 +5856,7 @@
     "name": "ILS-cat-II", 
     "longitude": 9.827394, 
     "associatedRunwayNumber": "26R", 
-    "frequency": 109900, 
+    "frequency": 109905, 
     "latitude": 57.093325, 
     "identifier": "YT", 
     "type": 4
@@ -7675,7 +7675,7 @@
     "elevation": 646, 
     "name": "ILS-cat-I", 
     "longitude": 25.295725, 
-    "associatedRunwayNumber": "02", 
+    "associatedRunwayNumber": "01", 
     "frequency": 110500, 
     "latitude": 54.648494, 
     "identifier": "IAV", 
@@ -7688,7 +7688,7 @@
     "elevation": 646, 
     "name": "ILS-cat-I", 
     "longitude": 25.27355, 
-    "associatedRunwayNumber": "20", 
+    "associatedRunwayNumber": "19", 
     "frequency": 109100, 
     "latitude": 54.616497, 
     "identifier": "IBK", 
