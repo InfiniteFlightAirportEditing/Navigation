@@ -24977,15 +24977,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 225.316, 
+    "bearing": 225.09, 
     "airportICAO": "LCLK", 
-    "elevation": 24, 
+    "elevation": 11, 
     "name": "GS", 
-    "longitude": 33.6325, 
+    "longitude": 33.63561135, 
     "associatedRunwayNumber": "22", 
     "frequency": 110300, 
-    "glideslope": 2.75225158, 
-    "latitude": 34.879833, 
+    "glideslope": 2.75022509, 
+    "latitude":  34.88327293, 
     "identifier": "ILC"
   }, 
   {

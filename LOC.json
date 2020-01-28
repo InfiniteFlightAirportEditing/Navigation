@@ -25012,14 +25012,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 225.167, 
+    "bearing": 225.09, 
     "airportICAO": "LCLK", 
-    "elevation": 8, 
+    "elevation": 11, 
     "name": "ILS-cat-I", 
-    "longitude": 33.608333, 
+    "longitude": 33.63561135, 
     "associatedRunwayNumber": "22", 
     "frequency": 110300, 
-    "latitude": 34.861667, 
+    "latitude":  34.88327293, 
     "identifier": "ILC", 
     "type": 4
   }, 
