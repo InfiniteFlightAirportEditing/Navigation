@@ -4803,7 +4803,7 @@
     "receptionRange": 10, 
     "bearing": 187.780, 
     "airportICAO": "EGUB", 
-    "elevation":  203, 
+    "elevation": 203, 
     "name": "GS", 
     "longitude": -1.094045, 
     "associatedRunwayNumber": "19", 
