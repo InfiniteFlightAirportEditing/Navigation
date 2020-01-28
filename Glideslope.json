@@ -3369,15 +3369,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 227.972, 
+    "bearing": 227, 
     "airportICAO": "EFIV", 
-    "elevation": 481, 
+    "elevation": 482, 
     "name": "GS", 
-    "longitude": 27.419853, 
+    "longitude": 27.42767019, 
     "associatedRunwayNumber": "22", 
     "frequency": 109900, 
-    "glideslope": 3.00226986, 
-    "latitude": 68.613678, 
+    "glideslope": 3.00227000, 
+    "latitude": 68.61487233, 
     "identifier": "IV"
   }, 
   {
@@ -3473,15 +3473,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 346.244, 
+    "bearing": 346.16, 
     "airportICAO": "EFKT", 
-    "elevation": 644, 
+    "elevation": 645, 
     "name": "GS", 
-    "longitude": 24.849294, 
+    "longitude": 24.85391244, 
     "associatedRunwayNumber": "34", 
     "frequency": 111900, 
-    "glideslope": 3.40346122, 
-    "latitude": 67.693214, 
+    "glideslope": 3.40346160, 
+    "latitude": 67.69012260, 
     "identifier": "KT"
   }, 
   {
@@ -24977,15 +24977,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 225.316, 
+    "bearing": 225.09, 
     "airportICAO": "LCLK", 
-    "elevation": 24, 
+    "elevation": 11, 
     "name": "GS", 
-    "longitude": 33.6325, 
+    "longitude": 33.63561135, 
     "associatedRunwayNumber": "22", 
     "frequency": 110300, 
-    "glideslope": 2.75225158, 
-    "latitude": 34.879833, 
+    "glideslope": 2.75022509, 
+    "latitude":  34.88327293, 
     "identifier": "ILC"
   }, 
   {
