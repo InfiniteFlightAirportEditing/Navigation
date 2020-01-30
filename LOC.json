@@ -31604,6 +31604,32 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 311.05, 
+    "airportICAO": "OJMS", 
+    "elevation": 1706, 
+    "name": "ILS-cat-I", 
+    "longitude": 36.768973, 
+    "associatedRunwayNumber": "31", 
+    "frequency": 112900, 
+    "latitude": 31.844232, 
+    "identifier": "IMS", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 259.94, 
+    "airportICAO": "OJMS", 
+    "elevation": 1706, 
+    "name": "ILS-cat-I", 
+    "longitude": 36.762309, 
+    "associatedRunwayNumber": "26", 
+    "frequency": 112905, 
+    "latitude": 31.815185, 
+    "identifier": "IMSA", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 120.325, 
     "airportICAO": "OKAS", 
     "elevation": 470, 
@@ -39988,6 +40014,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 176.080, 
+    "airportICAO": "WARI", 
+    "elevation": 359.9, 
+    "name": "ILS-cat-I", 
+    "longitude": 111.434400, 
+    "associatedRunwayNumber": "17", 
+    "frequency": 111100, 
+    "latitude": -7.632357, 
+    "identifier": "IRB", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 99.295, 
     "airportICAO": "WARR", 
     "elevation": 8, 
@@ -40283,6 +40322,19 @@
     "frequency": 111300, 
     "latitude": 5.509944, 
     "identifier": "IBAC", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 3.58, 
+    "airportICAO": "WMGK", 
+    "elevation": 11.2, 
+    "name": "ILS-cat-I", 
+    "longitude": 100.392008, 
+    "associatedRunwayNumber": "36", 
+    "frequency": 111700, 
+    "latitude": 5.479473, 
+    "identifier": "IBW", 
     "type": 4
   }, 
   {
