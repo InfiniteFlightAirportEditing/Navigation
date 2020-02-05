@@ -4801,16 +4801,16 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 188.618, 
+    "bearing": 187.780, 
     "airportICAO": "EGUB", 
-    "elevation": 226, 
+    "elevation": 203, 
     "name": "GS", 
-    "longitude": -1.092692, 
+    "longitude": -1.094045, 
     "associatedRunwayNumber": "19", 
-    "frequency": 108500, 
-    "glideslope": 3.00187809, 
-    "latitude": 51.620322, 
-    "identifier": "BO"
+    "frequency": 110950, 
+    "glideslope": 3.00187780, 
+    "latitude": 51.623179, 
+    "identifier": "IBO"
   }, 
   {
     "receptionRange": 10, 

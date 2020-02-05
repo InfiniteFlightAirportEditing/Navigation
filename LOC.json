@@ -4745,15 +4745,15 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 187.809, 
+    "bearing": 187.780, 
     "airportICAO": "EGUB", 
-    "elevation": 226, 
+    "elevation": 203, 
     "name": "ILS-cat-I", 
-    "longitude": -1.098694, 
+    "longitude": -1.094045, 
     "associatedRunwayNumber": "19", 
-    "frequency": 108500, 
-    "latitude": 51.6022, 
-    "identifier": "BO", 
+    "frequency": 110950, 
+    "latitude": 51.623179, 
+    "identifier": "IBO", 
     "type": 4
   }, 
   {
