@@ -8242,14 +8242,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 44.815, 
-    "airportICAO": "FVHA", 
+    "bearing": 44.8, 
+    "airportICAO": "FVRG", 
     "elevation": 4887, 
     "name": "ILS-cat-I", 
-    "longitude": 31.115689, 
+    "longitude": 31.077132, 
     "associatedRunwayNumber": "05", 
     "frequency": 110300, 
-    "latitude": -17.909925, 
+    "latitude": -17.946840, 
     "identifier": "ISB", 
     "type": 4
   }, 

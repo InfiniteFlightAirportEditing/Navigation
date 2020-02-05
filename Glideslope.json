@@ -8259,15 +8259,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 45.688, 
-    "airportICAO": "FVHA", 
+    "bearing": 44.8, 
+    "airportICAO": "FVRG", 
     "elevation": 4887, 
     "name": "GS", 
-    "longitude": 31.079894, 
+    "longitude": 31.077132, 
     "associatedRunwayNumber": "05", 
     "frequency": 110300, 
     "glideslope": 3.00044844, 
-    "latitude": -17.945722, 
+    "latitude": -17.946840, 
     "identifier": "ISB"
   }, 
   {
