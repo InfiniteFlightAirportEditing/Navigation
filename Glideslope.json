@@ -22338,15 +22338,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 35.984, 
+    "bearing": 35.000,
     "airportICAO": "KSAF", 
-    "elevation": 6285, 
+    "elevation": 6348,
     "name": "GS", 
-    "longitude": -106.095797, 
+    "longitude": -106.09619063, 
     "associatedRunwayNumber": "02", 
     "frequency": 111700, 
-    "glideslope": 3.00034992, 
-    "latitude": 35.610772, 
+    "glideslope": 3.00035000,
+    "latitude": 35.60834884,
     "identifier": "ISGB"
   }, 
   {

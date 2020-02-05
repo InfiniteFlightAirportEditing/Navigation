@@ -22373,14 +22373,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 35.002, 
+    "bearing": 35.000,
     "airportICAO": "KSAF", 
-    "elevation": 6322, 
+    "elevation": 6348,
     "name": "ILS-cat-I", 
-    "longitude": -106.077475, 
+    "longitude": -106.09619063, 
     "associatedRunwayNumber": "02", 
     "frequency": 111700, 
-    "latitude": 35.630058, 
+    "latitude": 35.60834884,
     "identifier": "ISGB", 
     "type": 4
   }, 
