@@ -38054,7 +38054,7 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 255.06‬, 
+    "bearing": 255.06, 
     "airportICAO": "UUEE", 
     "elevation": 625, 
     "name": "GS", 
@@ -38080,7 +38080,7 @@
   },
   {
     "receptionRange": 18, 
-    "bearing": 254.99‬, 
+    "bearing": 254.99, 
     "airportICAO": "UUEE", 
     "elevation": 625, 
     "name": "GS", 
