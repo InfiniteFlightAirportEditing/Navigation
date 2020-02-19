@@ -34986,15 +34986,16 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 131.658, 
+    "bearing": 130.83, 
     "airportICAO": "SBFI", 
-    "elevation": 761, 
+    "elevation": 787, 
     "name": "GS", 
     "longitude": -54.493286, 
+    "longitude": -54.49560732, 
     "associatedRunwayNumber": "15", 
     "frequency": 109100, 
-    "glideslope": 3.00130829, 
-    "latitude": -25.592364, 
+    "glideslope": 3.00130830, 
+    "latitude": -25.58936557, 
     "identifier": "IFI"
   }, 
   {
@@ -40197,6 +40198,19 @@
     "latitude": 5.532306, 
     "identifier": "IBAC"
   }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 3.58, 
+    "airportICAO": "WMGK", 
+    "elevation": 11.2, 
+    "name": "ILS-cat-I", 
+    "longitude": 100.392008, 
+    "associatedRunwayNumber": "26", 
+    "frequency": 111700, 
+    "latitude": 5.479473, 
+    "identifier": "IBW", 
+    "type": 4
+  },
   {
     "receptionRange": 10, 
     "bearing": 3.58, 
