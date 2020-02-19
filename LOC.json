@@ -40392,19 +40392,6 @@
   },
   {
     "receptionRange": 18, 
-    "bearing": 3.58, 
-    "airportICAO": "WMGK", 
-    "elevation": 11.2, 
-    "name": "ILS-cat-I", 
-    "longitude": 100.392008, 
-    "associatedRunwayNumber": "26", 
-    "frequency": 111700, 
-    "latitude": 5.479473, 
-    "identifier": "IBW", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
     "bearing": 42.471, 
     "airportICAO": "WMKA", 
     "elevation": 15, 

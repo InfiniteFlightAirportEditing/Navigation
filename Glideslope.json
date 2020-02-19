@@ -40210,19 +40210,6 @@
     "latitude": 5.479473, 
     "identifier": "IBW", 
     "type": 4
-  },
-  {
-    "receptionRange": 10, 
-    "bearing": 3.58, 
-    "airportICAO": "WMGK", 
-    "elevation": 11.2, 
-    "name": "GS", 
-    "longitude": 100.391552, 
-    "associatedRunwayNumber": "26", 
-    "frequency": 108300, 
-    "glideslope": 3.00035800, 
-    "latitude": 5.458009, 
-    "identifier": "IBW"
   }, 
   {
     "receptionRange": 10, 
