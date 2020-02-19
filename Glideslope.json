@@ -40199,17 +40199,18 @@
     "identifier": "IBAC"
   }, 
   {
-    "receptionRange": 18, 
+    "receptionRange": 10, 
     "bearing": 3.58, 
     "airportICAO": "WMGK", 
     "elevation": 11, 
-    "name": "ILS-cat-I", 
+    "name": "GS", 
     "longitude": 100.392008, 
     "associatedRunwayNumber": "26", 
-    "frequency": 111700, 
+    "frequency": 111700,
+    "glideslope": 3.00003580,
     "latitude": 5.479473, 
     "identifier": "IBW", 
-  }, 
+  },
   {
     "receptionRange": 10, 
     "bearing": 42.628, 
