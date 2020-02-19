@@ -40133,17 +40133,17 @@
     "identifier": "IBAC"
   }, 
   {
-    "receptionRange": 10, 
+    "receptionRange": 18, 
     "bearing": 3.58, 
     "airportICAO": "WMGK", 
     "elevation": 11.2, 
-    "name": "GS", 
-    "longitude": 100.391552, 
+    "name": "ILS-cat-I", 
+    "longitude": 100.392008, 
     "associatedRunwayNumber": "26", 
-    "frequency": 108300, 
-    "glideslope": 3.00035800, 
-    "latitude": 5.458009, 
-    "identifier": "IBW"
+    "frequency": 111700, 
+    "latitude": 5.479473, 
+    "identifier": "IBW", 
+    "type": 4
   },
   {
     "receptionRange": 10, 
