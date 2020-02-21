@@ -33479,6 +33479,19 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 130.67, 
+    "airportICAO": "RJOM", 
+    "elevation": 23, 
+    "name": "GS", 
+    "longitude": 132.689359, 
+    "associatedRunwayNumber": "14", 
+    "frequency": 109300, 
+    "glideslope": 3.0013067, 
+    "latitude": 33.834572, 
+    "identifier": "IMP"
+  }, 
+  {
+    "receptionRange": 10, 
     "bearing": 315.28, 
     "airportICAO": "RJOO", 
     "elevation": 54, 
