@@ -8827,6 +8827,19 @@
   }, 
   {
     "receptionRange": 18, 
+    "bearing": 346.000, 
+    "airportICAO": "HESX", 
+    "elevation": 537, 
+    "name": "ILS-cat-II", 
+    "longitude": 030.8902778, 
+    "associatedRunwayNumber": "34L", 
+    "frequency": 111500, 
+    "latitude": 30.1268333, 
+    "identifier": "IPSX", 
+    "type": 4
+  }, 
+  {
+    "receptionRange": 18, 
     "bearing": 41.65, 
     "airportICAO": "HETB", 
     "elevation": 2407, 
@@ -43118,6 +43131,19 @@
     "latitude": 4.964615, 
     "identifier": "ICL", 
     "type": 5
+  }, 
+  {
+    "receptionRange": 18, 
+    "bearing": 306.66, 
+    "airportICAO": "DAUB", 
+    "elevation": 289, 
+    "name": "ILS-cat-I", 
+    "longitude": 5.723333, 
+    "associatedRunwayNumber": "31", 
+    "frequency": 110900, 
+    "latitude": 34.803333, 
+    "identifier": "BI", 
+    "type": 4
   }, 
   {
     "receptionRange": 18, 

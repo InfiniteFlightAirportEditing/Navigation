@@ -1562,6 +1562,19 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 306.660, 
+    "airportICAO": "DAUB", 
+    "elevation": 289, 
+    "name": "GS", 
+    "longitude": 5.746967, 
+    "associatedRunwayNumber": "31", 
+    "frequency": 330800, 
+    "glideslope": 3.00306660, 
+    "latitude": 34.785986, 
+    "identifier": "BI"
+  }, 
+  {
+    "receptionRange": 10, 
     "bearing": 233.886, 
     "airportICAO": "DBBB", 
     "elevation": 19, 
@@ -8815,6 +8828,19 @@
     "glideslope": 3.00042653, 
     "latitude": 27.96975, 
     "identifier": "KIL"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 346.000, 
+    "airportICAO": "HESX", 
+    "elevation": 537, 
+    "name": "GS", 
+    "longitude": 00.9004722, 
+    "associatedRunwayNumber": "04L", 
+    "frequency": 332900, 
+    "glideslope": 3.05346000, 
+    "latitude": 30.0952778, 
+    "identifier": "IPSX"
   }, 
   {
     "receptionRange": 10, 
