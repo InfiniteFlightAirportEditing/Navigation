@@ -1562,6 +1562,19 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 306.660, 
+    "airportICAO": "DAUB", 
+    "elevation": 289, 
+    "name": "GS", 
+    "longitude": 5.746967, 
+    "associatedRunwayNumber": "31", 
+    "frequency": 330800, 
+    "glideslope": 3.00306660, 
+    "latitude": 34.785986, 
+    "identifier": "BI"
+  }, 
+  {
+    "receptionRange": 10, 
     "bearing": 233.886, 
     "airportICAO": "DBBB", 
     "elevation": 19, 
@@ -8779,6 +8792,19 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 345.715, 
+    "airportICAO": "HECW", 
+    "elevation": 553, 
+    "name": "GS", 
+    "longitude": 30.918818, 
+    "associatedRunwayNumber": "04R", 
+    "frequency": 342900, 
+    "glideslope": 3.05346000, 
+    "latitude": 30.109320, 
+    "identifier": "CWA"
+  }, 
+  {
+    "receptionRange": 10, 
     "bearing": 345.28, 
     "airportICAO": "HEGN", 
     "elevation": 52, 
@@ -8786,7 +8812,7 @@
     "longitude": 33.80611991, 
     "associatedRunwayNumber": "34R", 
     "frequency": 110300, 
-    "glideslope": 3.0034528, 
+    "glideslope": 3.00345715, 
     "latitude": 27.16116103, 
     "identifier": "HIL"
   }, 
@@ -8828,6 +8854,19 @@
     "glideslope": 3.00350927, 
     "latitude": 23.951722, 
     "identifier": "AIL"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 346.000, 
+    "airportICAO": "HESX", 
+    "elevation": 553, 
+    "name": "GS", 
+    "longitude": 30.095286, 
+    "associatedRunwayNumber": "04L", 
+    "frequency": 332900, 
+    "glideslope": 3.05346000, 
+    "latitude": 30.900655, 
+    "identifier": "IPSX"
   }, 
   {
     "receptionRange": 10, 
@@ -31981,6 +32020,32 @@
     "glideslope": 3.0032579, 
     "latitude": 33.932583, 
     "identifier": "IBLD"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 325.47, 
+    "airportICAO": "ORKK", 
+    "elevation": 1061, 
+    "name": "GS", 
+    "longitude": 44.35884266, 
+    "associatedRunwayNumber": "32", 
+    "frequency": 109900, 
+    "glideslope": 3.0032547, 
+    "latitude": 35.46279395, 
+    "identifier": "IAK"
+  }, 
+  {
+    "receptionRange": 10, 
+    "bearing": 145.47, 
+    "airportICAO": "ORKK", 
+    "elevation": 1061, 
+    "name": "GS", 
+    "longitude": 44.34674355, 
+    "associatedRunwayNumber": "14", 
+    "frequency": 109905, 
+    "glideslope": 3.0014547, 
+    "latitude": 35.47713595, 
+    "identifier": "IBK"
   }, 
   {
     "receptionRange": 10, 
