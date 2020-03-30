@@ -7836,7 +7836,7 @@
     "longitude": -87.557261111,
     "elevation": 699,
     "frequency": 11100,
-    "receptionRange": 30,
+    "receptionRange": 40,
     "slavedVariation": 1
     },
   {
@@ -7846,7 +7846,7 @@
     "longitude": 100.0466667,
     "elevation": 4411,
     "frequency": 11159,
-    "receptionRange": 40,
+    "receptionRange": 30,
     "slavedVariation": -1.5
   },
   {
