@@ -7836,8 +7836,18 @@
     "longitude": -87.557261111,
     "elevation": 699,
     "frequency": 11100,
+    "receptionRange": 30,
+    "slavedVariation": 1
+    },
+  {
+    "name": "DAOCHENG",
+    "identifier": "MYD",
+    "latitude": 29.3583333,
+    "longitude": 100.0466667,
+    "elevation": 4411,
+    "frequency": 11159,
     "receptionRange": 40,
-    "slavedVariation": 2
+    "slavedVariation": -1.5
   },
   {
     "name": "DAR EL BEIDA",
