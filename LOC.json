@@ -46112,14 +46112,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 18.815, 
+    "bearing": 10.220, 
     "airportICAO": "LIPB", 
     "elevation": 789, 
     "name": "LOC", 
-    "longitude": 11.328111, 
+    "longitude": 11.32459670, 
     "associatedRunwayNumber": "01", 
     "frequency": 109100, 
-    "latitude": 46.455693, 
+    "latitude": 46.45334231, 
     "identifier": "IBZ", 
     "type": 5
   }, 
