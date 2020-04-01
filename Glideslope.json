@@ -27967,6 +27967,19 @@
   }, 
   {
     "receptionRange": 10, 
+    "bearing": 10.220, 
+    "airportICAO": "LIPB", 
+    "elevation": 789, 
+    "name": "GS", 
+    "longitude": 11.32459670, 
+    "associatedRunwayNumber": "01", 
+    "frequency": 109100, 
+    "glideslope": 5.0010220, 
+    "latitude": 46.45334231, 
+    "identifier": "IBZ"
+  }, 
+  {
+    "receptionRange": 10, 
     "bearing": 116.662, 
     "airportICAO": "LIPC", 
     "elevation": 19, 
