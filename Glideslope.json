@@ -27564,14 +27564,14 @@
   }, 
   {
     "receptionRange": 27, 
-    "bearing": 132.41, 
+    "bearing": 132.46, 
     "airportICAO": "LHBP", 
     "elevation": 496, 
     "name": "GS", 
     "longitude": 19.257561, 
     "associatedRunwayNumber": "13L", 
     "frequency": 109150, 
-    "glideslope": 3.0013241, 
+    "glideslope": 3.0013246, 
     "latitude": 47.44543, 
     "identifier": "BPL"
   }, 
