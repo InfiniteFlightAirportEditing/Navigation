@@ -40628,14 +40628,14 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 230.4, 
+    "bearing": 230.04, 
     "airportICAO": "YPAD", 
     "elevation": 20, 
     "name": "GS", 
-    "longitude": 138.54321878, 
+    "longitude": 138.543219, 
     "associatedRunwayNumber": "23", 
     "frequency": 109700, 
-    "glideslope": 3.00230134, 
+    "glideslope": 3.0023004, 
     "latitude": -34.94066177, 
     "identifier": "IAD"
   }, 
