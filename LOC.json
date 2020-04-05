@@ -40716,14 +40716,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 187.621, 
+    "bearing": 187.5, 
     "airportICAO": "YMAV", 
-    "elevation": 32, 
+    "elevation": 35, 
     "name": "ILS-cat-I", 
-    "longitude": 144.463889, 
+    "longitude": 144.469405, 
     "associatedRunwayNumber": "18", 
     "frequency": 109500, 
-    "latitude": -38.059722, 
+    "latitude": -38.027246, 
     "identifier": "IAV", 
     "type": 4
   }, 

@@ -40537,15 +40537,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 188.0, 
+    "bearing": 187.5, 
     "airportICAO": "YMAV", 
     "elevation": 35, 
     "name": "GS", 
-    "longitude": 144.470833, 
+    "longitude": 144.469405, 
     "associatedRunwayNumber": "18", 
     "frequency": 109500, 
     "glideslope": 3.001875, 
-    "latitude": -38.030556, 
+    "latitude": -38.027246, 
     "identifier": "IAV"
   }, 
   {
