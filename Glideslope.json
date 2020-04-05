@@ -40641,15 +40641,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 289.036, 
+    "bearing": 289.02, 
     "airportICAO": "YPDN", 
     "elevation": 103, 
     "name": "GS", 
-    "longitude": 130.891111, 
+    "longitude": 130.894419, 
     "associatedRunwayNumber": "29", 
     "frequency": 109700, 
-    "glideslope": 3.00289018, 
-    "latitude": -12.416667, 
+    "glideslope": 3.0028902, 
+    "latitude": -12.419233, 
     "identifier": "IDN"
   }, 
   {
