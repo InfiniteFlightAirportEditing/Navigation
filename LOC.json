@@ -40742,14 +40742,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 233.671, 
+    "bearing": 233.77, 
     "airportICAO": "YMES", 
     "elevation": 22, 
     "name": "ILS-cat-I", 
-    "longitude": 147.135, 
+    "longitude": 147.160893, 
     "associatedRunwayNumber": "22", 
     "frequency": 109500, 
-    "latitude": -38.108056, 
+    "latitude": -38.093068, 
     "identifier": "IES", 
     "type": 4
   }, 
