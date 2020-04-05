@@ -40667,19 +40667,6 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 354.2, 
-    "airportICAO": "YPEA", 
-    "elevation": 149, 
-    "name": "GS", 
-    "longitude": 116.0175, 
-    "associatedRunwayNumber": "36R", 
-    "frequency": 111900, 
-    "glideslope": 3.003536, 
-    "latitude": -31.681111, 
-    "identifier": "IPC"
-  }, 
-  {
-    "receptionRange": 10, 
     "bearing": 189.0, 
     "airportICAO": "YPED", 
     "elevation": 67, 

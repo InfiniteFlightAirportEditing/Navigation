@@ -40846,19 +40846,6 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 353.712, 
-    "airportICAO": "YPEA", 
-    "elevation": 149, 
-    "name": "ILS-cat-I", 
-    "longitude": 116.013333, 
-    "associatedRunwayNumber": "36R", 
-    "frequency": 111900, 
-    "latitude": -31.660278, 
-    "identifier": "IPC", 
-    "type": 4
-  }, 
-  {
-    "receptionRange": 18, 
     "bearing": 188.51, 
     "airportICAO": "YPED", 
     "elevation": 67, 
