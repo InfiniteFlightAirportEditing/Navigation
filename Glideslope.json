@@ -40654,15 +40654,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 174.2, 
+    "bearing": 173.6, 
     "airportICAO": "YPEA", 
-    "elevation": 149, 
+    "elevation": 150, 
     "name": "GS", 
-    "longitude": 116.012778, 
+    "longitude": 116.013545, 
     "associatedRunwayNumber": "18L", 
     "frequency": 110700, 
     "glideslope": 3.001736, 
-    "latitude": -31.665, 
+    "latitude": -31.662305, 
     "identifier": "IPE"
   }, 
   {
