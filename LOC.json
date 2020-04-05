@@ -40729,14 +40729,14 @@
   }, 
   {
     "receptionRange": 18, 
-    "bearing": 268.065, 
+    "bearing": 268.02, 
     "airportICAO": "YMEN", 
-    "elevation": 282, 
+    "elevation": 281, 
     "name": "ILS-cat-I", 
-    "longitude": 144.891281, 
+    "longitude": 144.914657, 
     "associatedRunwayNumber": "26", 
     "frequency": 109900, 
-    "latitude": -37.731431, 
+    "latitude": -37.730804, 
     "identifier": "IEN", 
     "type": 4
   }, 

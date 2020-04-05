@@ -40550,15 +40550,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 268.03, 
+    "bearing": 268.02, 
     "airportICAO": "YMEN", 
-    "elevation": 282, 
+    "elevation": 281, 
     "name": "GS", 
-    "longitude": 144.910547, 
+    "longitude": 144.914657, 
     "associatedRunwayNumber": "26", 
     "frequency": 109900, 
-    "glideslope": 3.00268015, 
-    "latitude": -37.729825, 
+    "glideslope": 3.0026802, 
+    "latitude": -37.730804, 
     "identifier": "IEN"
   }, 
   {
