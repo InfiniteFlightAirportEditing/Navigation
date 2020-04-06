@@ -32673,15 +32673,15 @@
   }, 
   {
     "receptionRange": 10, 
-    "bearing": 185.54, 
+    "bearing": 184.78, 
     "airportICAO": "PHKO", 
-    "elevation": 43, 
+    "elevation": 47, 
     "name": "GS", 
-    "longitude": -156.045453, 
+    "longitude": -156.044323, 
     "associatedRunwayNumber": "17", 
     "frequency": 109700, 
     "glideslope": 3.0018477, 
-    "latitude": 19.750772, 
+    "latitude": 19.753863, 
     "identifier": "IKOA"
   }, 
   {
