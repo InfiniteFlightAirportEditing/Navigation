@@ -20550,7 +20550,20 @@
     "latitude": 40.077942, 
     "identifier": "IOSU", 
     "type": 4
-  }, 
+  },
+  {
+    "receptionRange": 18,
+    "bearing": 294.81,
+    "airportICAO": "KOTG",
+    "elevation": 1574,
+    "name": "ILS-cat-I",
+    "longitude": -95.566523,
+    "associatedRunwayNumber": "29",
+    "frequency": 111700,
+    "latitude": 43.651319,
+    "identifier": "IOTG",
+    "type": 4
+  },
   {
     "receptionRange": 18, 
     "bearing": 60.585, 

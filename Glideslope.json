@@ -20515,6 +20515,19 @@
     "glideslope": 3.00087068, 
     "latitude": 40.078369, 
     "identifier": "IOSU"
+  },
+  {
+    "receptionRange": 10,
+    "bearing": 294.81,
+    "airportICAO": "KOTG",
+    "elevation": 1574,
+    "name": "GS",
+    "longitude": -95.566523,
+    "associatedRunwayNumber": "29",
+    "frequency": 111700,
+    "glideslope": 3.0029481,
+    "latitude": 43.651319,
+    "identifier": "IOTG"
   }, 
   {
     "receptionRange": 10, 
