@@ -27821,10 +27821,10 @@
   {
     "name": "OXFORD",
     "identifier": "OX",
-    "latitude": 51.83341111,
-    "longitude": -1.323458333,
+    "latitude": 51.8334167,
+    "longitude": -1.3234444,
     "elevation": 0,
-    "frequency": 36700,
+    "frequency": 36750,
     "receptionRange": 15
   },
   {
