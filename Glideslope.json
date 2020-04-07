@@ -14379,7 +14379,20 @@
     "glideslope": 3.00132344, 
     "latitude": 40.734643, 
     "identifier": "IFRG"
-  }, 
+  },
+  {
+	"receptionRange": 10,
+	"bearing": 314.21,
+	"airportICAO": "KFRM",
+	"elevation": 1162,
+	"name": "GS",
+	"longitude": -94.410190,
+	"associatedRunwayNumber": "31",
+	"frequency": 111.100,
+	"glideslope": 3.00031421,
+	"latitude": 43.638807,
+	"identifier": "IFQJ"
+  },
   {
     "receptionRange": 10, 
     "bearing": 35.6, 

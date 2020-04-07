@@ -14375,7 +14375,20 @@
     "latitude": 40.734643, 
     "identifier": "IFRG", 
     "type": 4
-  }, 
+  },
+  {
+	"receptionRange": 18,
+	"bearing": 314.21,
+	"airportICAO": "KFRM",
+	"elevation": 1162,
+	"name": "ILS-cat-I",
+	"longitude": -94.410190,
+	"associatedRunwayNumber": "31",
+	"frequency": 111.100,
+	"latitude": 43.638807,
+	"identifier": "IFQJ",
+	"type": 4
+  },  
   {
     "receptionRange": 18, 
     "bearing": 34.808, 
