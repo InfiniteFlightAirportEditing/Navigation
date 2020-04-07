@@ -4868,10 +4868,10 @@
    "associatedRunwayNumber": "19",
    "frequency": 108350,
    "elevation": 270,
-   "latitude": 51.84335664,
-   "longitude": -1.31799375,
-   "bearing": 190.66,
-   "glideslope": 3.0019066,
+   "latitude": 51.843371,
+   "longitude": -1.318000,
+   "bearing": 190.65,
+   "glideslope": 3.0019065,
    "receptionRange": 10
  },
  {
