@@ -85,6 +85,7 @@ for gs in gsData:
 	elevation = int(gs["elevation"])
 	frequency = gs["frequency"]
 	receptionRange = gs["receptionRange"]
+	bearing = gs["bearing"]
 	icao = gs["airportICAO"]
 	runwayNumber = gs["associatedRunwayNumber"]
 	glideslope = int(gs["glideslope"] * 100)
