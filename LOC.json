@@ -29979,6 +29979,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTCR",
+   "identifier": "IMRD",
+   "associatedRunwayNumber": "03",
+   "frequency": 108900,
+   "elevation": 1729,
+   "latitude": 37.214422,
+   "longitude": 40.623172,
+   "bearing": 37.24,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTFE",
    "identifier": "IBDR",
    "associatedRunwayNumber": "11",
