@@ -19375,11 +19375,11 @@
    "identifier": "IMRY",
    "associatedRunwayNumber": "10R",
    "frequency": 110700,
-   "elevation": 162,
-   "latitude": 36.590886,
-   "longitude": -121.853794,
-   "bearing": 113.696,
-   "glideslope": 3.00112848,
+   "elevation": 255,
+   "latitude": 36.590888,
+   "longitude": -121.855859,
+   "bearing": 112.86,
+   "glideslope": 3.00112860,
    "receptionRange": 10
  },
  {
