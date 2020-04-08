@@ -14254,10 +14254,10 @@
    "associatedRunwayNumber": "10R",
    "frequency": 109700,
    "elevation": 906,
-   "latitude": 44.827954,
-   "longitude": -93.46803,
-   "bearing": 101.118,
-   "glideslope": 3.00101059,
+   "latitude": 44.829059,
+   "longitude": -93.470724,
+   "bearing": 101.06,
+   "glideslope": 3.00101060,
    "receptionRange": 10
  },
  {
