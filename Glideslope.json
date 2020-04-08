@@ -12524,11 +12524,11 @@
    "identifier": "ICVO",
    "associatedRunwayNumber": "17",
    "frequency": 111900,
-   "elevation": 242,
-   "latitude": 44.501344,
-   "longitude": -123.292983,
-   "bearing": 187.322,
-   "glideslope": 3.00187161,
+   "elevation": 249,
+   "latitude": 44.503455,
+   "longitude": -123.291081,
+   "bearing": 186.94,
+   "glideslope": 3.00186940,
    "receptionRange": 10
  },
  {
