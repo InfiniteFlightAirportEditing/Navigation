@@ -29671,11 +29671,11 @@
    "identifier": "IATY",
    "associatedRunwayNumber": "18C",
    "frequency": 108700,
-   "elevation": 176.8,
-   "latitude": 36.915553,
-   "longitude": 30.794796,
-   "bearing": 186.25,
-   "glideslope": 3.0018625,
+   "elevation": 175,
+   "latitude": 36.915555,
+   "longitude": 30.794743,
+   "bearing": 186.24,
+   "glideslope": 3.00186240,
    "receptionRange": 10
  },
  {
