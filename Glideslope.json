@@ -8391,10 +8391,10 @@
    "associatedRunwayNumber": "22",
    "frequency": 108900,
    "elevation": 5348,
-   "latitude": -29.443611,
-   "longitude": 27.5575,
-   "bearing": 195.442,
-   "glideslope": 3.00195221,
+   "latitude": -29.441706,
+   "longitude": 27.558933,
+   "bearing": 195.21,
+   "glideslope": 3.00195210,
    "receptionRange": 10
  },
  {
