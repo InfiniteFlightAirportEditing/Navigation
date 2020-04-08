@@ -29862,6 +29862,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTBQ",
+   "identifier": "ICNG",
+   "associatedRunwayNumber": "27",
+   "frequency": 108350,
+   "elevation": 182,
+   "latitude": 40.733580,
+   "longitude": 30.100833,
+   "bearing": 276.33,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTBR",
    "identifier": "IYEN",
    "associatedRunwayNumber": "25R",
