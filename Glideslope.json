@@ -39794,6 +39794,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VOGO",
+   "identifier": "IDAB",
+   "associatedRunwayNumber": "26",
+   "frequency": 110300,
+   "elevation": 183,
+   "latitude": 15.383856,
+   "longitude": 73.848373,
+   "bearing": 258.64,
+   "glideslope": 3.1025864,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VOHS",
    "identifier": "IHBD",
    "associatedRunwayNumber": "09R",
