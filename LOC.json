@@ -46801,6 +46801,19 @@
  },
  {
    "name": "LOC",
+   "airportICAO": "LTAI",
+   "identifier": "ILRA",
+   "associatedRunwayNumber": "18L",
+   "frequency": 109750,
+   "elevation": 175,
+   "latitude": 36.8780833,
+   "longitude": 30.8068333,
+   "bearing": 186.29,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
+   "name": "LOC",
    "airportICAO": "LTBS",
    "identifier": "IDMN",
    "associatedRunwayNumber": "1",
