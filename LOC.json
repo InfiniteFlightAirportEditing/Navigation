@@ -29718,15 +29718,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "LTAI",
    "identifier": "IALY",
    "associatedRunwayNumber": "36R",
    "frequency": 108100,
-   "elevation": 177,
-   "latitude": 36.914167,
-   "longitude": 30.811667,
-   "bearing": 6.111,
+   "elevation": 175,
+   "latitude": 36.880905,
+   "longitude": 30.807196,
+   "bearing": 6.29,
    "receptionRange": 18,
    "type": 4
  },

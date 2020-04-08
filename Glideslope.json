@@ -29697,11 +29697,11 @@
    "identifier": "IALY",
    "associatedRunwayNumber": "36R",
    "frequency": 108100,
-   "elevation": 176.8,
-   "latitude": 36.911348,
-   "longitude": 30.811435,
-   "bearing": 6.28,
-   "glideslope": 3.00006281,
+   "elevation": 175,
+   "latitude": 36.880905,
+   "longitude": 30.807196,
+   "bearing": 6.29,
+   "glideslope": 3.00006290,
    "receptionRange": 10
  },
  {
