@@ -22014,11 +22014,11 @@
    "identifier": "IRDD",
    "associatedRunwayNumber": "34",
    "frequency": 108700,
-   "elevation": 490,
-   "latitude": 40.503858,
-   "longitude": -122.293464,
-   "bearing": 0.15,
-   "glideslope": 3.00000075,
+   "elevation": 504,
+   "latitude": 40.501114,
+   "longitude": -122.294901,
+   "bearing": 0.07,
+   "glideslope": 3.00000070,
    "receptionRange": 10
  },
  {
