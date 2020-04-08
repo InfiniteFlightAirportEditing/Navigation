@@ -22781,11 +22781,11 @@
    "identifier": "ISBD",
    "associatedRunwayNumber": "06",
    "frequency": 109300,
-   "elevation": 1157,
-   "latitude": 34.090565,
-   "longitude": -117.247246,
-   "bearing": 70.53,
-   "glideslope": 3.00070265,
+   "elevation": 1159,
+   "latitude": 34.090760,
+   "longitude": -117.250460,
+   "bearing": 70.35,
+   "glideslope": 3.00070350,
    "receptionRange": 10
  },
  {
