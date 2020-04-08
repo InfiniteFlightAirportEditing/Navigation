@@ -29684,11 +29684,11 @@
    "identifier": "IAYT",
    "associatedRunwayNumber": "36C",
    "frequency": 110300,
-   "elevation": 176.8,
-   "latitude": 36.885051,
-   "longitude": 30.790621,
-   "bearing": 6.25,
-   "glideslope": 3.0000625,
+   "elevation": 175,
+   "latitude": 36.885139,
+   "longitude": 30.790581,
+   "bearing": 6.24,
+   "glideslope": 3.00006240,
    "receptionRange": 10
  },
  {

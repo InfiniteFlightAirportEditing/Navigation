@@ -29705,15 +29705,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "LTAI",
    "identifier": "IAYT",
    "associatedRunwayNumber": "36C",
    "frequency": 110300,
-   "elevation": 177,
-   "latitude": 36.918889,
-   "longitude": 30.795278,
-   "bearing": 6.342,
+   "elevation": 175,
+   "latitude": 36.885139,
+   "longitude": 30.790581,
+   "bearing": 6.24,
    "receptionRange": 18,
    "type": 4
  },
