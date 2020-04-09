@@ -24584,6 +24584,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KTVF",
+   "identifier": "IHYZ",
+   "associatedRunwayNumber": "31",
+   "frequency": 110500,
+   "elevation": 1118,
+   "latitude": 48.05840323,
+   "longitude": -96.17449663,
+   "bearing": 314.88,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KTVY",
    "identifier": "ITVY",
    "associatedRunwayNumber": "17",

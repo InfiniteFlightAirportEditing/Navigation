@@ -24597,6 +24597,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KTVF",
+   "identifier": "IHYZ",
+   "associatedRunwayNumber": "31",
+   "frequency": 110500,
+   "elevation": 1118,
+   "latitude": 48.05840323,
+   "longitude": -96.17449663,
+   "bearing": 314.88,
+   "glideslope": 3.0031488,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KTVY",
    "identifier": "ITVY",
    "associatedRunwayNumber": "17",
