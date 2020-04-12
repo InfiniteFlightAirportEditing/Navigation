@@ -14561,6 +14561,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KFRM",
+   "identifier": "IFQJ",
+   "associatedRunwayNumber": "31",
+   "frequency": 111100,
+   "elevation": 1162,
+   "latitude": 43.638880719,
+   "longitude": -94.41018963,
+   "bearing": 314.21,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KFSD",
    "identifier": "IFSD",
    "associatedRunwayNumber": "3",
@@ -24566,6 +24579,19 @@
    "latitude": 44.741342,
    "longitude": -85.59425,
    "bearing": 273.712,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "KTVF",
+   "identifier": "IHYZ",
+   "associatedRunwayNumber": "31",
+   "frequency": 110500,
+   "elevation": 1118,
+   "latitude": 48.05840323,
+   "longitude": -96.17449663,
+   "bearing": 314.88,
    "receptionRange": 18,
    "type": 4
  },
