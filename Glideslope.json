@@ -42862,6 +42862,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZSNT",
+   "identifier": "IXD",
+   "associatedRunwayNumber": "18",
+   "frequency": 329600,
+   "elevation": 16,
+   "latitude": 32.08947942,
+   "longitude": 120.97954038,
+   "bearing": 178.36,
+   "glideslope": 3.0017836,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZSNT",
+   "identifier": "INT",
+   "associatedRunwayNumber": "36",
+   "frequency": 331400,
+   "elevation": 16,
+   "latitude": 32.05881883,
+   "longitude": 120.98057573,
+   "bearing": 358.36,
+   "glideslope": 3.0035836,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZSOF",
    "identifier": "IHF",
    "associatedRunwayNumber": "15",
