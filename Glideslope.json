@@ -41320,9 +41320,9 @@
    "associatedRunwayNumber": "12",
    "frequency": 109900,
    "elevation": 1789,
-   "latitude": -23.803889,
-   "longitude": 133.895,
-   "bearing": 120.8,
+   "latitude": -23.801002,
+   "longitude": 133.893369,
+   "bearing": 120.4,
    "glideslope": 3.001204,
    "receptionRange": 10
  },
