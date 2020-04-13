@@ -40483,6 +40483,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VVPQ",
+   "identifier": "IPH",
+   "associatedRunwayNumber": "28",
+   "frequency": 108700,
+   "elevation": 22,
+   "latitude": 10.168524,
+   "longitude": 104.006668,
+   "bearing": 275.74,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VVTS",
    "identifier": "ITS",
    "associatedRunwayNumber": "07R",

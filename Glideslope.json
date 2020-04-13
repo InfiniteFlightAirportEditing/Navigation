@@ -40470,6 +40470,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VVPQ",
+   "identifier": "IPH",
+   "associatedRunwayNumber": "28",
+   "frequency": 108700,
+   "elevation": 22,
+   "latitude": 10.168524,
+   "longitude": 104.006668,
+   "bearing": 275.74,
+   "glideslope": 3.00275740,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VVTS",
    "identifier": "ITS",
    "associatedRunwayNumber": "07R",
