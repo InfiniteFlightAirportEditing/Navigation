@@ -29302,15 +29302,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "LRIA",
    "identifier": "IIS",
-   "associatedRunwayNumber": "15",
+   "associatedRunwayNumber": "14",
    "frequency": 109100,
-   "elevation": 397,
-   "latitude": 47.169742,
-   "longitude": 27.626553,
-   "bearing": 154.92,
+   "elevation": 410,
+   "latitude": 47.189495,
+   "longitude": 27.612666,
+   "bearing": 148.83,
    "receptionRange": 18,
    "type": 4
  },
