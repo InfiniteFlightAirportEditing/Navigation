@@ -26434,11 +26434,11 @@
    "identifier": "EN",
    "associatedRunwayNumber": "14",
    "frequency": 111350,
-   "elevation": 726,
-   "latitude": 43.560617,
-   "longitude": 2.286239,
-   "bearing": 141.666,
-   "glideslope": 3.50141333,
+   "elevation": 787,
+   "latitude": 43.562649,
+   "longitude": 2.282107,
+   "bearing": 141.29,
+   "glideslope": 3.50141290,
    "receptionRange": 10
  },
  {

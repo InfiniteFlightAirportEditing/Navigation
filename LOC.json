@@ -26416,15 +26416,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "LFCK",
    "identifier": "EN",
    "associatedRunwayNumber": "14",
    "frequency": 111350,
-   "elevation": 790,
-   "latitude": 43.547667,
-   "longitude": 2.298658,
-   "bearing": 141.34,
+   "elevation": 787,
+   "latitude": 43.562649,
+   "longitude": 2.282107,
+   "bearing": 141.29,
    "receptionRange": 18,
    "type": 4
  },
