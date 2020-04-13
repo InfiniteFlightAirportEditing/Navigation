@@ -34365,10 +34365,10 @@
    "associatedRunwayNumber": "23",
    "frequency": 110500,
    "elevation": 20,
-   "latitude": 35.53913498,
-   "longitude": 139.81858826,
-   "bearing": 225,
-   "glideslope": 3.00225,
+   "latitude": 35.540597,
+   "longitude": 139.822114,
+   "bearing": 222.45,
+   "glideslope": 3.00222450,
    "receptionRange": 10
  },
  {
