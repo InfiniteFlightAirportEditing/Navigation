@@ -1911,15 +1911,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "DTTJ",
    "identifier": "JAZ",
-   "associatedRunwayNumber": "9",
+   "associatedRunwayNumber": "09",
    "frequency": 109500,
    "elevation": 18,
-   "latitude": 33.875917,
-   "longitude": 10.796194,
-   "bearing": 88.305,
+   "latitude": 33.875013,
+   "longitude": 10.760357,
+   "bearing": 88.28,
    "receptionRange": 18,
    "type": 4
  },
