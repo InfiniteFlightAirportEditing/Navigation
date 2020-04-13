@@ -36401,6 +36401,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SPHY",
+   "identifier": "IAND",
+   "associatedRunwayNumber": "21",
+   "frequency": 109700,
+   "elevation": 11706,
+   "latitude": -13.699328,
+   "longitude": -73.345324,
+   "bearing": 211.84,
+   "glideslope": 3.00211840,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SPJC",
    "identifier": "JCH",
    "associatedRunwayNumber": "15",
