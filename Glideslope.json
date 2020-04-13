@@ -34390,11 +34390,11 @@
    "identifier": "ITC",
    "associatedRunwayNumber": "34R",
    "frequency": 108900,
-   "elevation": 35,
-   "latitude": 35.545503,
-   "longitude": 139.804572,
-   "bearing": 330.008,
-   "glideslope": 3.00330004,
+   "elevation": 20,
+   "latitude": 35.539694,
+   "longitude": 139.805136,
+   "bearing": 330.02,
+   "glideslope": 3.00330020,
    "receptionRange": 10
  },
  {
