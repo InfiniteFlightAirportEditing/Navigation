@@ -47373,19 +47373,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "SBRJ",
-   "identifier": "IRJ",
-   "associatedRunwayNumber": "20L",
-   "frequency": 111100,
-   "elevation": 11,
-   "latitude": -22.912667,
-   "longitude": -43.161833,
-   "bearing": 172.421,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "SBSP",
    "identifier": "ICO",
    "associatedRunwayNumber": "35L",
