@@ -35621,6 +35621,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SBCJ",
+   "identifier": "ICJ",
+   "associatedRunwayNumber": "10",
+   "frequency": 109300,
+   "elevation": 2063,
+   "latitude": -6.118945,
+   "longitude": -50.012442,
+   "bearing": 83.22,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SBCT",
    "identifier": "ICT",
    "associatedRunwayNumber": "15",

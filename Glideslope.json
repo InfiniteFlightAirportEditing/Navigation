@@ -35608,6 +35608,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SBCJ",
+   "identifier": "ICJ",
+   "associatedRunwayNumber": "10",
+   "frequency": 109300,
+   "elevation": 2063,
+   "latitude": -6.118945,
+   "longitude": -50.012442,
+   "bearing": 83.22,
+   "glideslope": 3.00083220,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SBCT",
    "identifier": "ICT",
    "associatedRunwayNumber": "15",
