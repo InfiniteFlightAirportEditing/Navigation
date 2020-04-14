@@ -18114,11 +18114,11 @@
    "identifier": "ILYH",
    "associatedRunwayNumber": "04",
    "frequency": 110100,
-   "elevation": 901,
-   "latitude": 37.320656,
-   "longitude": -79.205119,
-   "bearing": 28.572,
-   "glideslope": 3.00027786,
+   "elevation": 937,
+   "latitude": 37.314723,
+   "longitude": -79.207969,
+   "bearing": 27.69,
+   "glideslope": 3.00027690,
    "receptionRange": 10
  },
  {
