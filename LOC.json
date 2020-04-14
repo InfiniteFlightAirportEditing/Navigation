@@ -35959,6 +35959,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SBVT",
+   "identifier": "IVI",
+   "associatedRunwayNumber": "24",
+   "frequency": 109300,
+   "elevation": 34,
+   "latitude": -20.251121,
+   "longitude": -40.282317,
+   "bearing": 211.69,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SBYS",
    "identifier": "IYS",
    "associatedRunwayNumber": "02C",

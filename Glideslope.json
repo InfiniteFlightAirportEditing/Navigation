@@ -35946,6 +35946,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SBVT",
+   "identifier": "IVI",
+   "associatedRunwayNumber": "24",
+   "frequency": 109300,
+   "elevation": 34,
+   "latitude": -20.251121,
+   "longitude": -40.282317,
+   "bearing": 211.69,
+   "glideslope": 3.00211690,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SBYS",
    "identifier": "IYS",
    "associatedRunwayNumber": "02C",
