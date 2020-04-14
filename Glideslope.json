@@ -12368,11 +12368,11 @@
    "identifier": "ICSG",
    "associatedRunwayNumber": "06",
    "frequency": 110300,
-   "elevation": 379,
-   "latitude": 32.514008,
-   "longitude": -84.943753,
-   "bearing": 54.432,
-   "glideslope": 2.61053716,
+   "elevation": 396,
+   "latitude": 32.511171,
+   "longitude": -84.945324,
+   "bearing": 53.71,
+   "glideslope": 2.61053710,
    "receptionRange": 10
  },
  {
