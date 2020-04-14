@@ -18049,11 +18049,11 @@
    "identifier": "ILVN",
    "associatedRunwayNumber": "30",
    "frequency": 108900,
-   "elevation": 953,
-   "latitude": 44.626203,
-   "longitude": -93.225011,
-   "bearing": 298.016,
-   "glideslope": 3.00297508,
+   "elevation": 959,
+   "latitude": 44.625275,
+   "longitude": -93.221115,
+   "bearing": 297.53 ,
+   "glideslope": 3.00297530,
    "receptionRange": 10
  },
  {
