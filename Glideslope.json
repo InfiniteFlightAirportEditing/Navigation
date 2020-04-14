@@ -35508,11 +35508,11 @@
    "identifier": "IBE",
    "associatedRunwayNumber": "06",
    "frequency": 109300,
-   "elevation": 48,
-   "latitude": -1.385,
-   "longitude": -48.483333,
-   "bearing": 45.606,
-   "glideslope": 3.00045303,
+   "elevation": 56,
+   "latitude": -1.388019,
+   "longitude": -48.484999,
+   "bearing": 45.25,
+   "glideslope": 3.00045250,
    "receptionRange": 10
  },
  {
