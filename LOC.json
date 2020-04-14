@@ -47373,19 +47373,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "SBSN",
-   "identifier": "ISN",
-   "associatedRunwayNumber": "10",
-   "frequency": 109300,
-   "elevation": 198,
-   "latitude": -2.421917,
-   "longitude": -54.789083,
-   "bearing": 81.055,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "SBSP",
    "identifier": "ICO",
    "associatedRunwayNumber": "35L",
