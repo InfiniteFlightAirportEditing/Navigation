@@ -10335,6 +10335,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "KBDE",
+   "identifier": "IBDE",
+   "associatedRunwayNumber": "30",
+   "frequency": 108300,
+   "elevation": 1085,
+   "latitude": 48.724590,
+   "longitude": -94.602439,
+   "bearing": 300.88,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-III",
    "airportICAO": "KBDL",
    "identifier": "IBDL",

@@ -10310,6 +10310,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KBDE",
+   "identifier": "IBDE",
+   "associatedRunwayNumber": "30",
+   "frequency": 108300,
+   "elevation": 1085,
+   "latitude": 48.724590,
+   "longitude": -94.602439,
+   "bearing": 300.88,
+   "glideslope": 3.00300880,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KBDL",
    "identifier": "IBDL",
    "associatedRunwayNumber": "06",
