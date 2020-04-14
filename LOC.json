@@ -35386,15 +35386,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "SAVC",
    "identifier": "CR",
    "associatedRunwayNumber": "25",
    "frequency": 110300,
-   "elevation": 190,
-   "latitude": -45.788056,
-   "longitude": -67.486944,
-   "bearing": 259.382,
+   "elevation": 188,
+   "latitude": -45.782927,
+   "longitude": -67.447878,
+   "bearing": 259.31,
    "receptionRange": 18,
    "type": 4
  },
