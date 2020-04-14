@@ -35404,11 +35404,11 @@
    "identifier": "GL",
    "associatedRunwayNumber": "25",
    "frequency": 110300,
-   "elevation": 61,
-   "latitude": -51.609186,
-   "longitude": -69.291933,
-   "bearing": 266.152,
-   "glideslope": 3.00265576,
+   "elevation": 62,
+   "latitude": -51.607575,
+   "longitude": -69.287158,
+   "bearing": 265.58,
+   "glideslope": 3.00265580,
    "receptionRange": 10
  },
  {

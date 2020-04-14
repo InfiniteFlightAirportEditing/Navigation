@@ -35412,15 +35412,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "SAWG",
    "identifier": "GL",
    "associatedRunwayNumber": "25",
    "frequency": 110300,
-   "elevation": 61,
-   "latitude": -51.610278,
-   "longitude": -69.342806,
-   "bearing": 265.672,
+   "elevation": 62,
+   "latitude": -51.607575,
+   "longitude": -69.287158,
+   "bearing": 265.58,
    "receptionRange": 18,
    "type": 4
  },
