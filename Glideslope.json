@@ -32215,6 +32215,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "OMDM",
+   "identifier": "IDME",
+   "associatedRunwayNumber": "09",
+   "frequency": 113900,
+   "elevation": 165,
+   "latitude": 25.027809,
+   "longitude": 55.349669,
+   "bearing": 89.32,
+   "glideslope": 3.0008932,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "OMDM",
+   "identifier": "IDMW",
+   "associatedRunwayNumber": "27",
+   "frequency": 113950,
+   "elevation": 165,
+   "latitude": 25.028151,
+   "longitude": 55.382609,
+   "bearing": 269.32,
+   "glideslope": 3.0026932,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "OMDB",
    "identifier": "IDBE",
    "associatedRunwayNumber": "12R",

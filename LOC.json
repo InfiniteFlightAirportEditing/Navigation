@@ -32267,6 +32267,32 @@
  },
  {
    "name": "ILS-cat-III",
+   "airportICAO": "OMDM",
+   "identifier": "IDME",
+   "associatedRunwayNumber": "09",
+   "frequency": 113900,
+   "elevation": 165,
+   "latitude": 25.027157,
+   "longitude": 55.388962,
+   "bearing": 89.32,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-III",
+   "airportICAO": "OMDM",
+   "identifier": "IDMW",
+   "associatedRunwayNumber": "27",
+   "frequency": 113950,
+   "elevation": 165,
+   "latitude": 25.026649,
+   "longitude": 55.343527,
+   "bearing": 269.32,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-III",
    "airportICAO": "OMDB",
    "identifier": "IDBR",
    "associatedRunwayNumber": "30R",
