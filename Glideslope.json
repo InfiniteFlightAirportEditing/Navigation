@@ -43187,6 +43187,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZSYA",
+   "identifier": "ITZ",
+   "associatedRunwayNumber": "17",
+   "frequency": 330200,
+   "elevation": 16,
+   "latitude": 32.58091862,
+   "longitude": 119.71490966,
+   "bearing": 166.89,
+   "glideslope": 3.0016689,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZSYA",
+   "identifier": "ISZ",
+   "associatedRunwayNumber": "35",
+   "frequency": 334400,
+   "elevation": 16,
+   "latitude": 32.55284154,
+   "longitude": 119.72266796,
+   "bearing": 346.89,
+   "glideslope": 3.0034689,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZSYT",
    "identifier": "IYN",
    "associatedRunwayNumber": "05",
