@@ -42368,6 +42368,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZJQH",
+   "identifier": "IBO",
+   "associatedRunwayNumber": "15",
+   "frequency": 109700,
+   "elevation": 53,
+   "latitude": 19.12890477,
+   "longitude": 110.46029931,
+   "bearing": 150.37,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZJQH",
+   "identifier": "IAT",
+   "associatedRunwayNumber": "33",
+   "frequency": 109300,
+   "elevation": 53,
+   "latitude": 19.15398006,
+   "longitude": 110.44520116,
+   "bearing": 330.37,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZJSY",
    "identifier": "IKK",
    "associatedRunwayNumber": "8",
