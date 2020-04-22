@@ -8573,10 +8573,10 @@
    "associatedRunwayNumber": "27",
    "frequency": 110300,
    "elevation": 250,
-   "latitude": 30.381257,
-   "longitude": -9.555919,
-   "bearing": 272.18,
-   "glideslope": 3.0027159,
+   "latitude": 30.32220046,
+   "longitude": -9.39488051,
+   "bearing": 271.18,
+   "glideslope": 3.0,
    "receptionRange": 10
  },
  {
@@ -15020,11 +15020,11 @@
    "identifier": "IGNV",
    "associatedRunwayNumber": "29",
    "frequency": 111300,
-   "elevation": 109,
-   "latitude": 29.687814,
-   "longitude": -82.260225,
-   "bearing": 282.682,
-   "glideslope": 3.00282341,
+   "elevation": 151,
+   "latitude": 29.68616868,
+   "longitude": -82.25748685,
+   "bearing": 282.33,
+   "glideslope": 3.0,
    "receptionRange": 10
  },
  {
