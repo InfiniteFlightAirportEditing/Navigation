@@ -23158,11 +23158,11 @@
    "identifier": "ISGF",
    "associatedRunwayNumber": "02",
    "frequency": 109900,
-   "elevation": 1259,
-   "latitude": 37.238636,
-   "longitude": -93.388844,
-   "bearing": 22.416,
-   "glideslope": 3.00021708,
+   "elevation": 1268,
+   "latitude": 37.23565555,
+   "longitude": -93.38923776,
+   "bearing": 21.72,
+   "glideslope": 3.0,
    "receptionRange": 10
  },
  {
@@ -23171,11 +23171,11 @@
    "identifier": "IGWA",
    "associatedRunwayNumber": "14",
    "frequency": 109700,
-   "elevation": 1254,
-   "latitude": 37.252222,
-   "longitude": -93.399331,
-   "bearing": 142.808,
-   "glideslope": 3.00141904,
+   "elevation": 1268,
+   "latitude": 37.25524671,
+   "longitude": -093.40051584,
+   "bearing": 141.91,
+   "glideslope": 3.0,
    "receptionRange": 10
  },
  {
