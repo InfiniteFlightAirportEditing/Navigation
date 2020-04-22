@@ -24822,11 +24822,11 @@
    "identifier": "IUNV",
    "associatedRunwayNumber": "24",
    "frequency": 111700,
-   "elevation": 1191,
-   "latitude": 40.853458,
-   "longitude": -77.840067,
-   "bearing": 232.98,
-   "glideslope": 3.0023249,
+   "elevation": 1231,
+   "latitude": 40.85560104,
+   "longitude": -77.83791420,
+   "bearing": 236.66,
+   "glideslope": 3.023666,
    "receptionRange": 10
  },
  {
