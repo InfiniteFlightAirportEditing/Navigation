@@ -20896,11 +20896,11 @@
    "identifier": "IOXR",
    "associatedRunwayNumber": "25",
    "frequency": 108700,
-   "elevation": 41,
-   "latitude": 34.200056,
-   "longitude": -119.202767,
-   "bearing": 271.062,
-   "glideslope": 3.00270531,
+   "elevation": 44,
+   "latitude": 34.20074063,
+   "longitude": -119.19739780,
+   "bearing": 270.52,
+   "glideslope": 3.00,
    "receptionRange": 10
  },
  {
