@@ -14825,11 +14825,11 @@
    "identifier": "IOLJ",
    "associatedRunwayNumber": "03",
    "frequency": 111100,
-   "elevation": 2370,
-   "latitude": 47.615258,
-   "longitude": -117.539978,
-   "bearing": 45.83,
-   "glideslope": 3.00045415,
+   "elevation": 2375,
+   "latitude": 47.61696144,
+   "longitude": -117.55332038,
+   "bearing": 45.450,
+   "glideslope": 3.00045450,
    "receptionRange": 10
  },
  {
@@ -14838,11 +14838,11 @@
    "identifier": "IGEG",
    "associatedRunwayNumber": "21",
    "frequency": 111100,
-   "elevation": 2322,
-   "latitude": 47.630192,
-   "longitude": -117.522125,
-   "bearing": 225.83,
-   "glideslope": 3.00225415,
+   "elevation": 2375,
+   "latitude": 47.61676314,
+   "longitude": -117.51995912,
+   "bearing": 225.450,
+   "glideslope": 3.00225450,
    "receptionRange": 10
  },
  {
