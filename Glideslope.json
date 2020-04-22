@@ -174,11 +174,11 @@
    "identifier": "IAM",
    "associatedRunwayNumber": "12",
    "frequency": 109500,
-   "elevation": 630,
-   "latitude": 46.48424911,
-   "longitude": -84.51811981,
-   "bearing": 115,
-   "glideslope": 3.00115,
+   "elevation": 628,
+   "latitude": 46.48601533,
+   "longitude": -84.52100062,
+   "bearing": 107.96,
+   "glideslope": 3.0,
    "receptionRange": 10
  },
  {
