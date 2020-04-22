@@ -8078,11 +8078,11 @@
    "identifier": "PEI",
    "associatedRunwayNumber": "08",
    "frequency": 111100,
-   "elevation": 20,
-   "latitude": -33.990223,
-   "longitude": 25.604555,
-   "bearing": 58.24,
-   "glideslope": 3.0005812,
+   "elevation": 229,
+   "latitude": -33.99385622,
+   "longitude":  25.60002178,
+   "bearing": 57.99,
+   "glideslope": 3.05799,
    "receptionRange": 10
  },
  {
@@ -8091,11 +8091,11 @@
    "identifier": "PDI",
    "associatedRunwayNumber": "26",
    "frequency": 109500,
-   "elevation": 20,
-   "latitude": -33.986416,
-   "longitude": 25.616917,
-   "bearing": 238.24,
-   "glideslope": 3.0023812,
+   "elevation": 229,
+   "latitude": -33.98357123,
+   "longitude": 25.61986278,
+   "bearing": 237.99,
+   "glideslope": 3.023799,
    "receptionRange": 10
  },
  {
