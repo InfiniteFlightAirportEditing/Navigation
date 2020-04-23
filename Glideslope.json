@@ -10289,10 +10289,10 @@
    "associatedRunwayNumber": "20",
    "frequency": 111900,
    "elevation": 271,
-   "latitude": 42.167167,
-   "longitude": -72.714458,
-   "bearing": 190.37,
-   "glideslope": 3.00190185,
+   "latitude": 42.16961315,
+   "longitude": -72.71293214,
+   "bearing": 190.19,
+   "glideslope": 3.0019019,
    "receptionRange": 10
  },
  {
