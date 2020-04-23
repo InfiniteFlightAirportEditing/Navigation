@@ -20313,7 +20313,7 @@
    "frequency": 111750,
    "elevation": 983,
    "latitude": 41.31353334,
-   "longitude": -095.90042197,
+   "longitude": -95.90042197,
    "bearing": 144.500,
    "glideslope": 3.00144500,
    "receptionRange": 10
@@ -20326,7 +20326,7 @@
    "frequency": 110300,
    "elevation": 983,
    "latitude": 41.31384820,
-   "longitude": -095.90609459,
+   "longitude": -95.90609459,
    "bearing": 144.500,
    "glideslope": 3.00144500,
    "receptionRange": 10
@@ -20339,7 +20339,7 @@
    "frequency": 110900,
    "elevation": 983,
    "latitude": 41.31335699,
-   "longitude": -095.89451688,
+   "longitude": -95.89451688,
    "bearing": 180.220,
    "glideslope": 3.00180220,
    "receptionRange": 10
@@ -20352,7 +20352,7 @@
    "frequency": 111900,
    "elevation": 983,
    "latitude": 41.29264650,
-   "longitude": -095.88595767,
+   "longitude": -95.88595767,
    "bearing": 324.500,
    "glideslope": 3.00324500,
    "receptionRange": 10
@@ -20365,7 +20365,7 @@
    "frequency": 111150,
    "elevation": 983,
    "latitude": 41.29457102,
-   "longitude": -095.88241602,
+   "longitude": -95.88241602,
    "bearing": 324.500,
    "glideslope": 3.00324500,
    "receptionRange": 10
@@ -20378,7 +20378,7 @@
    "frequency": 110700,
    "elevation": 983,
    "latitude": 41.29097954,
-   "longitude": -095.89462892,
+   "longitude": -95.89462892,
    "bearing": 0.220,
    "glideslope": 3.00000220,
    "receptionRange": 10
