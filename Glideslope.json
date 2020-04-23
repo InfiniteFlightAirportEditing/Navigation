@@ -14227,11 +14227,11 @@
    "identifier": "IFAT",
    "associatedRunwayNumber": "29R",
    "frequency": 111300,
-   "elevation": 332,
-   "latitude": 36.7719,
-   "longitude": -119.706522,
-   "bearing": 305.964,
-   "glideslope": 3.00305482,
+   "elevation": 334,
+   "latitude": 36.76883606,
+   "longitude": -119.70353406,
+   "bearing": 305.980,
+   "glideslope": 3.00305980,
    "receptionRange": 10
  },
  {
