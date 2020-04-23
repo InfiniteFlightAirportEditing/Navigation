@@ -10574,11 +10574,11 @@
    "identifier": "IBHM",
    "associatedRunwayNumber": "06",
    "frequency": 110300,
-   "elevation": 603,
-   "latitude": 33.557303,
-   "longitude": -86.769589,
-   "bearing": 55.694,
-   "glideslope": 3.00055347,
+   "elevation": 649,
+   "latitude": 33.55478205,
+   "longitude": -086.77157233,
+   "bearing": 55.350,
+   "glideslope": 3.00055350,
    "receptionRange": 10
  },
  {
@@ -10587,11 +10587,11 @@
    "identifier": "IROE",
    "associatedRunwayNumber": "24",
    "frequency": 109500,
-   "elevation": 614,
-   "latitude": 33.570752,
-   "longitude": -86.745911,
-   "bearing": 235.662,
-   "glideslope": 3.00235331,
+   "elevation": 649,
+   "latitude": 33.57347307,
+   "longitude": -086.73911994,
+   "bearing": 235.350,
+   "glideslope": 3.00235350,
    "receptionRange": 10
  },
  {
