@@ -19193,11 +19193,11 @@
    "identifier": "IMLU",
    "associatedRunwayNumber": "04",
    "frequency": 109500,
-   "elevation": 76,
-   "latitude": 32.504892,
-   "longitude": -92.042567,
-   "bearing": 45.772,
-   "glideslope": 3.00044886,
+   "elevation": 79,
+   "latitude": 32.50385565,
+   "longitude": -92.04565891,
+   "bearing": 44.910,
+   "glideslope": 3.00044910,
    "receptionRange": 10
  },
  {
@@ -19206,11 +19206,11 @@
    "identifier": "IMZR",
    "associatedRunwayNumber": "22",
    "frequency": 109500,
-   "elevation": 76,
-   "latitude": 32.515683,
-   "longitude": -92.029842,
-   "bearing": 225.772,
-   "glideslope": 3.00224886,
+   "elevation": 79,
+   "latitude": 32.51843087,
+   "longitude": -92.02843200,
+   "bearing": 224.910,
+   "glideslope": 3.00224910,
    "receptionRange": 10
  },
  {
