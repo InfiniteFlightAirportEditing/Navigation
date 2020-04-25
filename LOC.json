@@ -42394,6 +42394,32 @@
  },
  {
    "name": "ILS-cat-I",
+    "airportICAO": "ZGOW",
+   "identifier": "IJY",
+   "associatedRunwayNumber": "04",
+   "frequency": 109300,
+   "elevation": 52,
+   "latitude": 23.56168032,
+   "longitude": 116.51208588,
+   "bearing": 39.84,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZGOW",
+   "identifier": "ICS",
+   "associatedRunwayNumber": "22",
+   "frequency": 108700,
+   "elevation": 52,
+   "latitude": 23.54232617,
+   "longitude": 116.49447024,
+   "bearing": 219.84,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZGSZ",
    "identifier": "IQJ",
    "associatedRunwayNumber": "15",
