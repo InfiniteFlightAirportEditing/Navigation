@@ -39730,14 +39730,27 @@
  {
    "name": "GS",
    "airportICAO": "VIDP",
+   "identifier": "IDIA",
+   "associatedRunwayNumber": "09",
+   "frequency": 108500,
+   "elevation": 778,
+   "latitude": 28.57054287,
+   "longitude": 77.08813945,
+   "bearing": 91.45,
+   "glideslope": 3.0009145,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "VIDP",
    "identifier": "IDEL",
    "associatedRunwayNumber": "10",
    "frequency": 109500,
    "elevation": 778,
-   "latitude": 28.562892,
-   "longitude": 77.084807,
+   "latitude": 28.56724121,
+   "longitude": 77.08480736,
    "bearing": 104.7,
-   "glideslope": 3.201047,
+   "glideslope": 3.001047,
    "receptionRange": 10
  },
  {
@@ -39747,8 +39760,8 @@
    "associatedRunwayNumber": "27",
    "frequency": 110500,
    "elevation": 778,
-   "latitude": 28.569904,
-   "longitude": 77.116896,
+   "latitude": 28.56990407,
+   "longitude": 77.11689623,
    "bearing": 271.45,
    "glideslope": 3.0027145,
    "receptionRange": 10
@@ -39760,10 +39773,10 @@
    "associatedRunwayNumber": "28",
    "frequency": 110300,
    "elevation": 778,
-   "latitude": 28.558543,
-   "longitude": 77.122567,
+   "latitude": 28.55854255,
+   "longitude": 77.12256657,
    "bearing": 284.7,
-   "glideslope": 3.202847,
+   "glideslope": 3.002847,
    "receptionRange": 10
  },
  {
@@ -39773,8 +39786,8 @@
    "associatedRunwayNumber": "11",
    "frequency": 111300,
    "elevation": 778,
-   "latitude": 28.54715,
-   "longitude": 77.065508,
+   "latitude": 28.54714963,
+   "longitude": 77.06550816,
    "bearing": 103.71,
    "glideslope": 3.0010371,
    "receptionRange": 10
@@ -39786,8 +39799,8 @@
    "associatedRunwayNumber": "29",
    "frequency": 110900,
    "elevation": 778,
-   "latitude": 28.537729,
-   "longitude": 77.10948,
+   "latitude": 28.53772909,
+   "longitude": 77.10947964,
    "bearing": 283.71,
    "glideslope": 3.0028371,
    "receptionRange": 10
