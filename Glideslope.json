@@ -38429,6 +38429,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "URMM",
+   "identifier": "IMD",
+   "associatedRunwayNumber": "12",
+   "frequency": 111700,
+   "elevation": 1046,
+   "latitude": 44.23621222,
+   "longitude": 43.06224125,
+   "bearing": 122.27,
+   "glideslope": 3.0012227,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "URMM",
+   "identifier": "IMW",
+   "associatedRunwayNumber": "30",
+   "frequency": 109300,
+   "elevation": 1046,
+   "latitude": 44.21746515,
+   "longitude": 43.10367249,
+   "bearing": 302.27,
+   "glideslope": 3.0030227,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "URMN",
    "identifier": "INL",
    "associatedRunwayNumber": "24",
@@ -41545,6 +41571,19 @@
    "longitude": 146.764722,
    "bearing": 23.99,
    "glideslope": 3.0002399,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "YGLA",
+   "identifier": "IGL",
+   "associatedRunwayNumber": "10",
+   "frequency": 110900,
+   "elevation": 58,
+   "latitude": -23.86661057,
+   "longitude": 151.21613738,
+   "bearing": 110.23,
+   "glideslope": 3.0011023,
    "receptionRange": 10
  },
  {
