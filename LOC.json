@@ -39780,7 +39780,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-IIIB",
+   "name": "ILS-cat-III",
    "airportICAO": "VIDP",
    "identifier": "IPLM",
    "associatedRunwayNumber": "28",
@@ -39793,7 +39793,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-IIIB",
+   "name": "ILS-cat-III",
    "airportICAO": "VIDP",
    "identifier": "IDMR",
    "associatedRunwayNumber": "11",
@@ -39806,7 +39806,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-IIIB",
+   "name": "ILS-cat-III",
    "airportICAO": "VIDP",
    "identifier": "IDGM",
    "associatedRunwayNumber": "29",
