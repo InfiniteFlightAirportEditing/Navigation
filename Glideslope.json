@@ -11276,11 +11276,11 @@
    "identifier": "IBUR",
    "associatedRunwayNumber": "08",
    "frequency": 109500,
-   "elevation": 720,
-   "latitude": 34.198683,
-   "longitude": -118.365067,
-   "bearing": 91.852,
-   "glideslope": 3.00090926,
+   "elevation": 776,
+   "latitude": 34.19792115,
+   "longitude": -118.36915743,
+   "bearing": 90.95,
+   "glideslope": 3.009095,
    "receptionRange": 10
  },
  {
@@ -24380,11 +24380,11 @@
    "identifier": "ITOA",
    "associatedRunwayNumber": "29R",
    "frequency": 111900,
-   "elevation": 96,
-   "latitude": 33.802692,
-   "longitude": -118.335725,
-   "bearing": 309.182,
-   "glideslope": 3.40308591,
+   "elevation": 103,
+   "latitude": 33.79951691,
+   "longitude": -118.33279985,
+   "bearing": 308.61,
+   "glideslope": 3.4030861,
    "receptionRange": 10
  },
  {
