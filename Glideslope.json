@@ -17087,11 +17087,11 @@
    "identifier": "IJQF",
    "associatedRunwayNumber": "20",
    "frequency": 111950,
-   "elevation": 690,
-   "latitude": 35.3898,
-   "longitude": -80.707869,
-   "bearing": 190.8,
-   "glideslope": 3.001904,
+   "elevation": 704,
+   "latitude": 35.39774381,
+   "longitude": -80.70688884,
+   "bearing": 190.43,
+   "glideslope": 3.0019043,
    "receptionRange": 10
  },
  {
