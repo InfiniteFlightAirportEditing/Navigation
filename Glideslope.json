@@ -15629,7 +15629,7 @@
    "name": "GS",
    "airportICAO": "KHIO",
    "identifier": "IHIO",
-   "associatedRunwayNumber": "13",
+   "associatedRunwayNumber": "13R",
    "frequency": 110700,
    "elevation": 204,
    "latitude": 45.54954578,
