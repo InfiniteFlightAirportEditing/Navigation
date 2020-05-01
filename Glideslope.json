@@ -35196,11 +35196,11 @@
    "identifier": "AE",
    "associatedRunwayNumber": "13",
    "frequency": 109500,
-   "elevation": 17,
-   "latitude": -34.5561409,
-   "longitude": -58.42324829,
-   "bearing": 124.938,
-   "glideslope": 3.00124469,
+   "elevation": 18,
+   "latitude": -34.55393710,
+   "longitude": -58.42522562,
+   "bearing": 124.09,
+   "glideslope": 3.0012409,
    "receptionRange": 10
  },
  {
