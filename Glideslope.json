@@ -17802,11 +17802,11 @@
    "identifier": "IOCZ",
    "associatedRunwayNumber": "18",
    "frequency": 111100,
-   "elevation": 1192,
-   "latitude": 40.859969,
-   "longitude": -96.760247,
-   "bearing": 180.566,
-   "glideslope": 3.00180283,
+   "elevation": 1219,
+   "latitude": 40.86299834,
+   "longitude": -96.76169311,
+   "bearing": 180.280,
+   "glideslope": 3.00180280,
    "receptionRange": 10
  },
  {
@@ -17815,11 +17815,11 @@
    "identifier": "ILNK",
    "associatedRunwayNumber": "36",
    "frequency": 109900,
-   "elevation": 1162,
-   "latitude": 40.831158,
-   "longitude": -96.763322,
-   "bearing": 0.566,
-   "glideslope": 3.00000283,
+   "elevation": 1219,
+   "latitude": 40.82762014,
+   "longitude": -96.76191877,
+   "bearing": 0.280,
+   "glideslope": 3.00000280,
    "receptionRange": 10
  },
  {
