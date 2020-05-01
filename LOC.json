@@ -35933,6 +35933,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SBRB",
+   "identifier": "IRB",
+   "associatedRunwayNumber": "06",
+   "frequency": 109300,
+   "elevation": 633,
+   "latitude": -9.87435561,
+   "longitude": -67.90218659,
+   "bearing": 56.88,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SBRF",
    "identifier": "IRF",
    "associatedRunwayNumber": "18",

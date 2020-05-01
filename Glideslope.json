@@ -35907,6 +35907,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SBRB",
+   "identifier": "IRB",
+   "associatedRunwayNumber": "06",
+   "frequency": 109300,
+   "elevation": 633,
+   "latitude": -9.87435561,
+   "longitude": -67.90218659,
+   "bearing": 56.88,
+   "glideslope": 3.005688,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SBRF",
    "identifier": "IRF",
    "associatedRunwayNumber": "18",
@@ -35918,6 +35931,7 @@
    "glideslope": 3.0016191,
    "receptionRange": 10
  },
+  
  {
    "name": "GS",
    "airportICAO": "SBSG",
