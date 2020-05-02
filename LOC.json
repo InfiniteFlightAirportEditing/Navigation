@@ -39716,7 +39716,7 @@
  },
  {
    "name": "IGS",
-   "airportICAO": "VHXX",
+   "airportICAO": "VHHX",
    "identifier": "KL",
    "associatedRunwayNumber": "13",
    "frequency": 111900,
@@ -39729,7 +39729,7 @@
  },
  {
    "name": "ILS-cat-I",
-   "airportICAO": "VHXX",
+   "airportICAO": "VHHX",
    "identifier": "IHK",
    "associatedRunwayNumber": "31",
    "frequency": 109900,
