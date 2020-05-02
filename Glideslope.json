@@ -18101,11 +18101,11 @@
    "identifier": "ILWM",
    "associatedRunwayNumber": "05",
    "frequency": 111700,
-   "elevation": 141,
-   "latitude": 42.712394,
-   "longitude": -71.125744,
-   "bearing": 38.148,
-   "glideslope": 3.00038074,
+   "elevation": 148,
+   "latitude": 42.71091366,
+   "longitude": -71.12889624,
+   "bearing": 38.080,
+   "glideslope": 3.00038080,
    "receptionRange": 10
  },
  {

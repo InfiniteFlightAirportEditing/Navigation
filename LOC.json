@@ -18102,9 +18102,9 @@
    "associatedRunwayNumber": "5",
    "frequency": 111700,
    "elevation": 148,
-   "latitude": 42.724964,
-   "longitude": -71.113911,
-   "bearing": 38.068,
+   "latitude": 42.71091366,
+   "longitude": -71.12889624,
+   "bearing": 38.080,
    "receptionRange": 18,
    "type": 4
  },
