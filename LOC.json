@@ -40614,7 +40614,7 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "VVBM",
-   "identifier": "IIBM",
+   "identifier": "IBM",
    "associatedRunwayNumber": "09",
    "frequency": 109700,
    "elevation": 1722,
