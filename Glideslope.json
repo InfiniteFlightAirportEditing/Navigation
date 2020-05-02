@@ -41554,11 +41554,11 @@
    "identifier": "IAM",
    "associatedRunwayNumber": "15",
    "frequency": 110700,
-   "elevation": 84,
-   "latitude": -27.623889,
-   "longitude": 152.708333,
-   "bearing": 159.8,
-   "glideslope": 3.001589,
+   "elevation": 85,
+   "latitude": -27.62119948,
+   "longitude": 152.70504450,
+   "bearing": 158.84,
+   "glideslope": 3.0015884,
    "receptionRange": 10
  },
  {
