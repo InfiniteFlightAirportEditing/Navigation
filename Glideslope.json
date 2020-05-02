@@ -4166,11 +4166,11 @@
    "identifier": "IUY",
    "associatedRunwayNumber": "09",
    "frequency": 108100,
-   "elevation": 334,
-   "latitude": 49.4346278,
-   "longitude": -2.61369623,
-   "bearing": 87.57,
-   "glideslope": 3.0008757,
+   "elevation": 335,
+   "latitude": 49.43463477,
+   "longitude": -2.61369457,
+   "bearing": 87.56,
+   "glideslope": 3.00087560,
    "receptionRange": 10
  },
  {
@@ -4179,11 +4179,11 @@
    "identifier": "IGH",
    "associatedRunwayNumber": "27",
    "frequency": 108100,
-   "elevation": 334,
-   "latitude": 49.43522855,
-   "longitude": -2.5919246,
-   "bearing": 267.57,
-   "glideslope": 3.0026757,
+   "elevation": 335,
+   "latitude": 49.43523881,
+   "longitude": -2.59189670,
+   "bearing": 267.56,
+   "glideslope": 3.00267560,
    "receptionRange": 10
  },
  {
