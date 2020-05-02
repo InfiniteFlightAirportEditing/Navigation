@@ -9326,11 +9326,11 @@
    "identifier": "IACV",
    "associatedRunwayNumber": "32",
    "frequency": 109500,
-   "elevation": 215,
-   "latitude": 40.974011,
-   "longitude": -124.103833,
-   "bearing": 333.68,
-   "glideslope": 3.0033284,
+   "elevation": 223,
+   "latitude": 40.97049405,
+   "longitude": -124.10306243,
+   "bearing": 333.780,
+   "glideslope": 3.00332780,
    "receptionRange": 10
  },
  {
