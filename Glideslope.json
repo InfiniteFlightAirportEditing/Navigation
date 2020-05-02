@@ -25173,11 +25173,11 @@
    "identifier": "IYIP",
    "associatedRunwayNumber": "05R",
    "frequency": 109500,
-   "elevation": 714,
-   "latitude": 42.231886,
-   "longitude": -83.535811,
-   "bearing": 47.216,
-   "glideslope": 3.00046608,
+   "elevation": 713,
+   "latitude": 42.23063412,
+   "longitude": -83.53986004,
+   "bearing": 46.630,
+   "glideslope": 3.00046630,
    "receptionRange": 10
  },
  {
@@ -25186,11 +25186,11 @@
    "identifier": "ILSW",
    "associatedRunwayNumber": "23L",
    "frequency": 109500,
-   "elevation": 705,
-   "latitude": 42.242047,
-   "longitude": -83.521353,
-   "bearing": 227.216,
-   "glideslope": 3.00226608,
+   "elevation": 713,
+   "latitude": 42.24482209,
+   "longitude": -83.51957806,
+   "bearing": 226.630,
+   "glideslope": 3.00226630,
    "receptionRange": 10
  },
  {
