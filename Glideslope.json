@@ -10688,14 +10688,27 @@
  {
    "name": "GS",
    "airportICAO": "KBJI",
+   "identifier": "IBJI",
+   "associatedRunwayNumber": "25",
+   "frequency": 109350,
+   "elevation": 1391,
+   "latitude": 47.511563,
+   "longitude": -94.921342,
+   "bearing": 253.95,
+   "glideslope": 3.0025395,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "KBJI",
    "identifier": "IMDI",
    "associatedRunwayNumber": "31",
    "frequency": 111900,
-   "elevation": 1384,
-   "latitude": 47.506108,
-   "longitude": -94.925619,
-   "bearing": 314.168,
-   "glideslope": 3.00314084,
+   "elevation": 1391,
+   "latitude": 47.505116,
+   "longitude": -94.926428,
+   "bearing": 314.09,
+   "glideslope": 3.0031409,
    "receptionRange": 10
  },
  {
