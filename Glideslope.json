@@ -10860,11 +10860,11 @@
    "identifier": "IBMG",
    "associatedRunwayNumber": "35",
    "frequency": 108300,
-   "elevation": 837,
-   "latitude": 39.143008,
-   "longitude": -86.6167,
-   "bearing": 352.38,
-   "glideslope": 3.0035169,
+   "elevation": 846,
+   "latitude": 39.14057754,
+   "longitude": -86.61483901,
+   "bearing": 351.660,
+   "glideslope": 3.00351660,
    "receptionRange": 10
  },
  {
