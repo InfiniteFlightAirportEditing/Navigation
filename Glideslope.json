@@ -17503,11 +17503,11 @@
    "identifier": "ILCI",
    "associatedRunwayNumber": "08",
    "frequency": 108500,
-   "elevation": 537,
-   "latitude": 43.571822,
-   "longitude": -71.425358,
-   "bearing": 67.93,
-   "glideslope": 3.00067465,
+   "elevation": 545,
+   "latitude": 43.56995862,
+   "longitude": -71.42814242,
+   "bearing": 67.470,
+   "glideslope": 3.00067470,
    "receptionRange": 10
  },
  {
