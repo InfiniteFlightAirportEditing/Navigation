@@ -417,6 +417,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "CYHY",
+   "identifier": "IHY",
+   "associatedRunwayNumber": "32",
+   "frequency": 110300,
+   "elevation": 542,
+   "latitude": 60.83234082,
+   "longitude": -115.78185078,
+   "bearing": 335.05,
+   "glideslope": 3.00335050,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "CYHZ",
    "identifier": "IHZ",
    "associatedRunwayNumber": "14",
