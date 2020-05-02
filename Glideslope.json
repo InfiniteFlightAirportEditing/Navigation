@@ -13820,6 +13820,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KEKM",
+   "identifier": "IOUP",
+   "associatedRunwayNumber": "27",
+   "frequency": 111500,
+   "elevation": 776,
+   "latitude": 41.72094018,
+   "longitude": -85.99558440,
+   "bearing": 269.900,
+   "glideslope": 3.00269900,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KEKY",
    "identifier": "IEKY",
    "associatedRunwayNumber": "05",

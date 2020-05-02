@@ -13846,6 +13846,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KEKM",
+   "identifier": "IOUP",
+   "associatedRunwayNumber": "27",
+   "frequency": 111500,
+   "elevation": 1776,
+   "latitude": 41.72094018,
+   "longitude": -85.99558440,
+   "bearing": 269.900,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KEKY",
    "identifier": "IEKY",
    "associatedRunwayNumber": "5",
