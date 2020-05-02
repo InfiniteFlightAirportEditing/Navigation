@@ -11081,11 +11081,11 @@
    "identifier": "IBQK",
    "associatedRunwayNumber": "07",
    "frequency": 108500,
-   "elevation": 22,
-   "latitude": 31.256653,
-   "longitude": -81.475431,
-   "bearing": 65.498,
-   "glideslope": 3.00065249,
+   "elevation": 25,
+   "latitude": 31.25445017,
+   "longitude": -81.47798021,
+   "bearing": 65.26,
+   "glideslope": 3.00065260,
    "receptionRange": 10
  },
  {
