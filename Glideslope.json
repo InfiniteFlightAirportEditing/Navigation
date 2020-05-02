@@ -16112,11 +16112,11 @@
    "identifier": "IRUM",
    "associatedRunwayNumber": "13",
    "frequency": 108700,
-   "elevation": 591,
-   "latitude": 29.895814,
-   "longitude": -97.866433,
-   "bearing": 133.03,
-   "glideslope": 3.00133015,
+   "elevation": 597,
+   "latitude": 29.89703307,
+   "longitude": -97.87002752,
+   "bearing": 132.990,
+   "glideslope": 3.00132990,
    "receptionRange": 10
  },
  {
