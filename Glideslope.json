@@ -28199,6 +28199,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LICD",
+   "identifier": "ILMA",
+   "associatedRunwayNumber": "26",
+   "frequency": 111300,
+   "elevation": 65,
+   "latitude": 35.49929177,
+   "longitude": 12.62787233,
+   "bearing": 260.59,
+   "glideslope": 3.03260590,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LICJ",
    "identifier": "ITO",
    "associatedRunwayNumber": "20",
