@@ -40679,6 +40679,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VVPK",
+   "identifier": "PLK",
+   "associatedRunwayNumber": "27",
+   "frequency": 113400,
+   "elevation": 2414,
+   "latitude": 14.00429674,
+   "longitude": 108.02575934,
+   "bearing": 270.90,
+   "glideslope": 3.00270900,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VVPQ",
    "identifier": "IPQ",
    "associatedRunwayNumber": "10",

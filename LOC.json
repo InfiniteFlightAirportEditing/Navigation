@@ -40691,6 +40691,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VVPK",
+   "identifier": "PLK",
+   "associatedRunwayNumber": "27",
+   "frequency": 113400,
+   "elevation": 2414,
+   "latitude": 14.00429674,
+   "longitude": 108.02575934,
+   "bearing": 270.90,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VVPQ",
    "identifier": "IPQ",
    "associatedRunwayNumber": "10",
