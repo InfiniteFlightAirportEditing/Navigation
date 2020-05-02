@@ -513,11 +513,11 @@
    "identifier": "IMM",
    "associatedRunwayNumber": "25",
    "frequency": 109900,
-   "elevation": 1195,
-   "latitude": 56.653774,
-   "longitude": -111.209198,
-   "bearing": 269.068,
-   "glideslope": 3.00269034,
+   "elevation": 1209,
+   "latitude": 56.65321576,
+   "longitude": -111.20471545,
+   "bearing": 270.01,
+   "glideslope": 3.00270010,
    "receptionRange": 10
  },
  {
