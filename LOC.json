@@ -45870,9 +45870,9 @@
    "associatedRunwayNumber": "20",
    "frequency": 109500,
    "elevation": 957,
-   "latitude": 39.580322,
-   "longitude": -84.229417,
-   "bearing": 202.142,
+   "latitude": 39.59531794,
+   "longitude": -84.22151873,
+   "bearing": 202.160,
    "receptionRange": 18,
    "type": 5
  },
