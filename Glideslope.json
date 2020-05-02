@@ -24705,11 +24705,24 @@
    "identifier": "ITYS",
    "associatedRunwayNumber": "05L",
    "frequency": 110300,
-   "elevation": 932,
-   "latitude": 35.806897,
-   "longitude": -84.004242,
-   "bearing": 45.398,
-   "glideslope": 3.00044699,
+   "elevation": 980,
+   "latitude": 35.80435019,
+   "longitude": -84.00549281,
+   "bearing": 44.710,
+   "glideslope": 3.00044710,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "KTYS",
+   "identifier": "IOXH"
+   "associatedRunwayNumber": "23L",
+   "frequency": 110750,
+   "elevation": 980,
+   "latitude": 35.81763492,
+   "longitude": -83.98262477,
+   "bearing": 224.630,
+   "glideslope": 3.00224630,
    "receptionRange": 10
  },
  {
@@ -24718,11 +24731,11 @@
    "identifier": "IBUI",
    "associatedRunwayNumber": "23R",
    "frequency": 111700,
-   "elevation": 975,
-   "latitude": 35.820647,
-   "longitude": -83.987458,
-   "bearing": 225.398,
-   "glideslope": 3.00224699,
+   "elevation": 980,
+   "latitude": 35.81605248,
+   "longitude": -83.99121078,
+   "bearing": 224.710,
+   "glideslope": 3.00224710,
    "receptionRange": 10
  },
  {
