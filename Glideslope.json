@@ -352,6 +352,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "CYFI",
+   "identifier": "ISR",
+   "associatedRunwayNumber": "35",
+   "frequency": 110500,
+   "elevation": 1762,
+   "latitude": 57.26629010,
+   "longitude": -110.97667752,
+   "bearing": 359.95,
+   "glideslope": 3.00359950,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "CYGK",
    "identifier": "IGK",
    "associatedRunwayNumber": "19",
