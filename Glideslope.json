@@ -24715,7 +24715,7 @@
  {
    "name": "GS",
    "airportICAO": "KTYS",
-   "identifier": "IOXH"
+   "identifier": "IOXH",
    "associatedRunwayNumber": "23L",
    "frequency": 110750,
    "elevation": 980,
