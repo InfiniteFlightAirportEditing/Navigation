@@ -456,6 +456,20 @@
  },
  {
    "name": "GS",
+   "airportICAO": "CYKA",
+   "identifier": "IKA",
+   "associatedRunwayNumber": "09",
+   "frequency": 109300,
+   "elevation": 1131,
+   "latitude": 50.70554110,
+   "longitude": -120.46541200,
+   "bearing": 103.29,
+   "glideslope": 3.10103290,
+   "receptionRange": 10
+ },
+
+ {
+   "name": "GS",
    "airportICAO": "CYKF",
    "identifier": "IKF",
    "associatedRunwayNumber": "26",
