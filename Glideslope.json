@@ -22001,11 +22001,11 @@
    "identifier": "IRAP",
    "associatedRunwayNumber": "32",
    "frequency": 109300,
-   "elevation": 3144,
-   "latitude": 44.035311,
-   "longitude": -103.049922,
-   "bearing": 332.822,
-   "glideslope": 3.00331911,
+   "elevation": 3202,
+   "latitude": 44.03299141,
+   "longitude": -103.05058670,
+   "bearing": 331.910,
+   "glideslope": 3.00331910,
    "receptionRange": 10
  },
  {
