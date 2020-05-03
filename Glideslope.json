@@ -42486,6 +42486,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZGMX",
+   "identifier": "IQU",
+   "associatedRunwayNumber": "04",
+   "frequency": 334100,
+   "elevation": 305,
+   "latitude": 24.25524203,
+   "longitude": 116.08997445,
+   "bearing": 41.14,
+   "glideslope": 3.3004114,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZGNN",
    "identifier": "IUY",
    "associatedRunwayNumber": "05",
