@@ -35651,11 +35651,11 @@
    "identifier": "ICF",
    "associatedRunwayNumber": "16",
    "frequency": 109700,
-   "elevation": 2716,
-   "latitude": -19.627136,
-   "longitude": -43.976747,
-   "bearing": 139.924,
-   "glideslope": 3.00138962,
+   "elevation": 2713,
+   "latitude": -19.62350338,
+   "longitude": -43.97819684,
+   "bearing": 138.95,
+   "glideslope": 3.0013895,
    "receptionRange": 10
  },
  {
