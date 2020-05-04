@@ -35647,6 +35647,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SBCC",
+   "identifier": "ICC",
+   "associatedRunwayNumber": "12",
+   "frequency": 109700,
+   "elevation": 1764,
+   "latitude": -9.33135200,
+   "longitude": -54.97689014,
+   "bearing": 101.79,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SBCF",
    "identifier": "ICF",
    "associatedRunwayNumber": "16",

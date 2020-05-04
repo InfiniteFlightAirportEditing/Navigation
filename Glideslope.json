@@ -35632,6 +35632,19 @@
    "glideslope": 3.00062876,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "SBCC",
+   "identifier": "ICC",
+   "associatedRunwayNumber": "12",
+   "frequency": 109700,
+   "elevation": 1764,
+   "latitude": -9.33135200,
+   "longitude": -54.97689014,
+   "bearing": 101.79,
+   "glideslope": 3.0010179,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "SBCF",
