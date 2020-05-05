@@ -28580,11 +28580,11 @@
    "identifier": "IFA",
    "associatedRunwayNumber": "22",
    "frequency": 111900,
-   "elevation": 34,
-   "latitude": 43.621889,
-   "longitude": 13.372278,
-   "bearing": 225.64,
-   "glideslope": 3.5022482,
+   "elevation": 48,
+   "latitude": 43.62582919,
+   "longitude": 13.37530606,
+   "bearing": 224.800,
+   "glideslope": 3.50224800,
    "receptionRange": 10
  },
  {
