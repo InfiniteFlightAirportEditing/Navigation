@@ -42654,6 +42654,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZHES",
+   "identifier": "IGG",
+   "associatedRunwayNumber": "01",
+   "frequency": 110300,
+   "elevation": 1624,
+   "latitude": 30.33298797,
+   "longitude": 109.48744018,
+   "bearing": 8.95,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZHHH",
    "identifier": "IDA",
    "associatedRunwayNumber": "04L",
@@ -43434,6 +43447,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZSSH",
+   "identifier": "IHA",
+   "associatedRunwayNumber": "04",
+   "frequency": 108700,
+   "elevation": 36,
+   "latitude": 33.80259403,
+   "longitude": 119.13520180,
+   "bearing": 35.68,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZSSH",
+   "identifier": "IPY",
+   "associatedRunwayNumber": "22",
+   "frequency": 109150,
+   "elevation": 36,
+   "latitude": 33.78211143,
+   "longitude": 119.11750531,
+   "bearing": 215.68,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZSSS",
    "identifier": "IPK",
    "associatedRunwayNumber": "18L",
@@ -43481,6 +43520,19 @@
    "latitude": 31.18262427,
    "longitude": 121.3371316,
    "bearing": 357.35,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZSTX",
+   "identifier": "IWS",
+   "associatedRunwayNumber": "13",
+   "frequency": 108300,
+   "elevation": 440,
+   "latitude": 29.72645934,
+   "longitude": 118.26677318,
+   "bearing": 128.08,
    "receptionRange": 18,
    "type": 4
  },
