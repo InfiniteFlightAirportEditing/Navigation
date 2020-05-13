@@ -26806,15 +26806,28 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-II",
+   "airportICAO": "LFMH",
+   "identifier": "EB",
+   "associatedRunwayNumber": "17",
+   "frequency": 110350,
+   "elevation": 1325,
+   "latitude": 45.55116765,
+   "longitude": 4.29514812,
+   "bearing": 174.93,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "LFMH",
    "identifier": "EB",
-   "associatedRunwayNumber": "36",
+   "associatedRunwayNumber": "35",
    "frequency": 110900,
    "elevation": 1325,
-   "latitude": 45.552593,
-   "longitude": 4.294832,
-   "bearing": 354.69,
+   "latitude": 45.53055037,
+   "longitude": 4.29776101,
+   "bearing": 354.93,
    "receptionRange": 18,
    "type": 4
  },
