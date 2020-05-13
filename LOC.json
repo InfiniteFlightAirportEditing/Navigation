@@ -37260,7 +37260,7 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "UBBG",
-   "identifier": "IGR"
+   "identifier": "IGR",
    "associatedRunwayNumber": "30",
    "frequency": 110900,
    "elevation": 1084,
