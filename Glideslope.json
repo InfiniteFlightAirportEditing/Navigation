@@ -43893,12 +43893,12 @@
    "airportICAO": "ZWTN",
    "identifier": "IRB",
    "associatedRunwayNumber": "29",
-   "frequency": 110300,
-   "elevation": 4762,
-   "latitude": 37.033558,
-   "longitude": 79.877994,
-   "bearing": 291.018,
-   "glideslope": 3.00290509,
+   "frequency": 335000,
+   "elevation": 4671,
+   "latitude": 37.03346433,
+   "longitude": 79.88065554,
+   "bearing": 290.32,
+   "glideslope": 3.0029032,
    "receptionRange": 10
  },
  {
