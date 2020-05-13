@@ -10509,11 +10509,11 @@
    "identifier": "IBFL",
    "associatedRunwayNumber": "30R",
    "frequency": 111900,
-   "elevation": 476,
-   "latitude": 35.432864,
-   "longitude": -119.056867,
-   "bearing": 315.904,
-   "glideslope": 3.00315452,
+   "elevation": 509,
+   "latitude": 35.42514949,
+   "longitude": -119.04568050,
+   "bearing": 315.45,
+   "glideslope": 3.0031545,
    "receptionRange": 10
  },
  {
@@ -20051,11 +20051,11 @@
    "identifier": "INSI",
    "associatedRunwayNumber": "30",
    "frequency": 109700,
-   "elevation": 497,
-   "latitude": 33.232861,
-   "longitude": -119.447942,
-   "bearing": 313.466,
-   "glideslope": 3.00312733,
+   "elevation": 506,
+   "latitude": 33.23047859,
+   "longitude": -119.44615991,
+   "bearing": 312.73,
+   "glideslope": 3.0031273,
    "receptionRange": 10
  },
  {
@@ -37230,6 +37230,32 @@
    "longitude": 50.063165,
    "bearing": 359.35,
    "glideslope": 3.0035935,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UBBG",
+   "identifier": "IGL",
+   "associatedRunwayNumber": "12",
+   "frequency": 111300,
+   "elevation": 1084,
+   "latitude": 40.74801194,
+   "longitude": 46.30479208,
+   "bearing": 128.18,
+   "glideslope": 3.0012813,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UBBG",
+   "identifier": "IBA",
+   "associatedRunwayNumber": "30",
+   "frequency": 110900,
+   "elevation": 1084,
+   "latitude": 40.72976788,
+   "longitude": 46.33546812,
+   "bearing": 308.13,
+   "glideslope": 3.0030813,
    "receptionRange": 10
  },
  {
