@@ -19219,11 +19219,11 @@
    "identifier": "IGBY",
    "associatedRunwayNumber": "12",
    "frequency": 109700,
-   "elevation": 1180,
-   "latitude": 44.457731,
-   "longitude": -95.83429,
-   "bearing": 130.02,
-   "glideslope": 3.0013001,
+   "elevation": 1182,
+   "latitude": 44.45856433,
+   "longitude": -95.83811262,
+   "bearing": 130.00,
+   "glideslope": 3.0013000,
    "receptionRange": 10
  },
  {
