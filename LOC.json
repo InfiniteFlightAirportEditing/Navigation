@@ -18837,15 +18837,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "KMHR",
    "identifier": "IMHR",
    "associatedRunwayNumber": "22L",
    "frequency": 111350,
    "elevation": 96,
-   "latitude": 38.542269,
-   "longitude": -121.317747,
-   "bearing": 233.579,
+   "latitude": 38.56305489,
+   "longitude": -121.28173522,
+   "bearing": 233.58,
    "receptionRange": 18,
    "type": 4
  },

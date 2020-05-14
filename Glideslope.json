@@ -18855,11 +18855,11 @@
    "identifier": "IMHR",
    "associatedRunwayNumber": "22L",
    "frequency": 111350,
-   "elevation": 93,
-   "latitude": 38.560128,
-   "longitude": -121.283772,
-   "bearing": 234.19,
-   "glideslope": 3.00233595,
+   "elevation": 96,
+   "latitude": 38.56305489,
+   "longitude": -121.28173522,
+   "bearing": 233.58,
+   "glideslope": 3.0023358,
    "receptionRange": 10
  },
  {
