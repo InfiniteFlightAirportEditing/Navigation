@@ -7923,11 +7923,11 @@
    "identifier": "CTI",
    "associatedRunwayNumber": "01",
    "frequency": 110300,
-   "elevation": 151,
-   "latitude": -33.984341,
-   "longitude": 18.609509,
-   "bearing": 345.54,
-   "glideslope": 3.0034527,
+   "elevation": 147,
+   "latitude": -33.98773259,
+   "longitude": 18.60886988,
+   "bearing": 345.3,
+   "glideslope": 3.00345300,
    "receptionRange": 10
  },
  {
@@ -7936,11 +7936,11 @@
    "identifier": "KSI",
    "associatedRunwayNumber": "19",
    "frequency": 109100,
-   "elevation": 151,
-   "latitude": -33.962593,
-   "longitude": 18.602261,
-   "bearing": 165.54,
-   "glideslope": 3.2016527,
+   "elevation": 147,
+   "latitude": -33.95986918,
+   "longitude": 18.60005347,
+   "bearing": 165.3,
+   "glideslope": 3.20165300,
    "receptionRange": 10
  },
  {
