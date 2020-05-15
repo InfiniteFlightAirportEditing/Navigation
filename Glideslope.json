@@ -30760,6 +30760,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "MMTG",
+   "identifier": "ITGZ",
+   "associatedRunwayNumber": "32",
+   "frequency": 109700,
+   "elevation": 1491,
+   "latitude": 16.55218386,
+   "longitude": -93.01992351,
+   "bearing": 328.45,
+   "glideslope": 3.0032845,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "MMTJ",
    "identifier": "ITIJ",
    "associatedRunwayNumber": "09",

@@ -30772,6 +30772,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "MMTG",
+   "identifier": "ITGZ",
+   "associatedRunwayNumber": "32",
+   "frequency": 109700,
+   "elevation": 1491,
+   "latitude": 16.55218386,
+   "longitude": -93.01992351,
+   "bearing": 328.45,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "MMTJ",
    "identifier": "ITIJ",
    "associatedRunwayNumber": "09",
@@ -30819,6 +30832,19 @@
    "latitude": 21.05474545,
    "longitude": -86.88138367,
    "bearing": 123.84,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "MMUN",
+   "identifier": "ICUN",
+   "associatedRunwayNumber": "12R",
+   "frequency": 111100,
+   "elevation": 21,
+   "latitude": 21.04530213,
+   "longitude": -86.89100446,
+   "bearing": 123.85,
    "receptionRange": 18,
    "type": 4
  },
