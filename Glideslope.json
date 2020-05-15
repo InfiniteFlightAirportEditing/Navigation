@@ -17881,11 +17881,11 @@
    "identifier": "ILMT",
    "associatedRunwayNumber": "32",
    "frequency": 109500,
-   "elevation": 4090,
-   "latitude": 42.146117,
-   "longitude": -121.726525,
-   "bearing": 338.604,
-   "glideslope": 3.00338302,
+   "elevation": 4095,
+   "latitude": 42.14296083,
+   "longitude": -121.72633673,
+   "bearing": 338.3,
+   "glideslope": 3.00338300,
    "receptionRange": 10
  },
  {
