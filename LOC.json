@@ -40691,6 +40691,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VVCI",
+   "identifier": "ICB",
+   "associatedRunwayNumber": "07",
+   "frequency": 110100,
+   "elevation": 10,
+   "latitude": 20.81272933,
+   "longitude": 106.70917122,
+   "bearing": 72.24,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VVCR",
    "identifier": "ICR",
    "associatedRunwayNumber": "02",

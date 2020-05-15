@@ -40693,6 +40693,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VVCI",
+   "identifier": "ICB",
+   "associatedRunwayNumber": "07",
+   "frequency": 110100,
+   "elevation": 10,
+   "latitude": 20.81272933,
+   "longitude": 106.70917122,
+   "bearing": 72.24,
+   "glideslope": 3.00072240,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VVCR",
    "identifier": "ICR",
    "associatedRunwayNumber": "02",
