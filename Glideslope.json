@@ -630,11 +630,11 @@
    "identifier": "IQB",
    "associatedRunwayNumber": "06",
    "frequency": 109500,
-   "elevation": 233,
-   "latitude": 46.7840004,
-   "longitude": -71.40703583,
-   "bearing": 42,
-   "glideslope": 3.00042,
+   "elevation": 244,
+   "latitude": 46.78246305,
+   "longitude": -71.40626213,
+   "bearing": 44.62,
+   "glideslope": 3.00044620,
    "receptionRange": 10
  },
  {
