@@ -30825,6 +30825,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "MMVA",
+   "identifier": "IVSA",
+   "associatedRunwayNumber": "08",
+   "frequency": 110500,
+   "elevation": 44,
+   "latitude": 17.99626970,
+   "longitude": -092.82753079,
+   "bearing": 86.55,
+   "glideslope": 3.0008655,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "MNMG",
    "identifier": "IMGA",
    "associatedRunwayNumber": "10",
