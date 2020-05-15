@@ -30823,14 +30823,14 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-CAT-I",
    "airportICAO": "MMVA",
    "identifier": "IVSA",
    "associatedRunwayNumber": "08",
    "frequency": 110500,
    "elevation": 44,
    "latitude": 17.99626970,
-   "longitude": -092.82753079,
+   "longitude": -92.82753079,
    "bearing": 86.55,
    "receptionRange": 18,
    "type": 4
