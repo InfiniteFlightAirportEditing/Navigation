@@ -42511,6 +42511,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZBYC",
+   "identifier": "ICC",
+   "associatedRunwayNumber": "26",
+   "frequency": 108700,
+   "elevation": 1250,
+   "latitude": 35.11372231,
+   "longitude": 111.01536027,
+   "bearing": 257.96,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZBYN",
    "identifier": "ICC",
    "associatedRunwayNumber": "13",

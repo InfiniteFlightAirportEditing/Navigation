@@ -42513,6 +42513,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZBYC",
+   "identifier": "ICC",
+   "associatedRunwayNumber": "26",
+   "frequency": 330500,
+   "elevation": 1250,
+   "latitude": 35.11935354,
+   "longitude": 111.04763967,
+   "bearing": 257.96,
+   "glideslope": 3.0025796,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZBYN",
    "identifier": "ICC",
    "associatedRunwayNumber": "13",
