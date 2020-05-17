@@ -14394,7 +14394,7 @@
     "identifier": "NCN",
     "latitude": 37.494916667,
     "longitude": 126.430333333,
-    "elevation": 98,
+      "elevation": 100,
     "frequency": 11380,
     "receptionRange": 25,
     "slavedVariation": -8
@@ -31754,7 +31754,7 @@
     "identifier": "SOT",
     "latitude": 37.094361111,
     "longitude": 127.031663889,
-    "elevation": 39,
+    "elevation": 100,
     "frequency": 11690,
     "receptionRange": 130,
     "slavedVariation": -7.8
@@ -36324,7 +36324,7 @@
     "identifier": "WNG",
     "latitude": 37.432944444,
     "longitude": 126.449972222,
-    "elevation": 1,
+    "elevation": 0,
     "frequency": 11290,
     "receptionRange": 25,
     "slavedVariation": -8
@@ -37464,7 +37464,7 @@
     "identifier": "YAG",
     "latitude": 38.063333333,
     "longitude": 128.661472222,
-    "elevation": 394,
+    "elevation": 400,
     "frequency": 11060,
     "receptionRange": 25,
     "slavedVariation": -8
@@ -37740,11 +37740,11 @@
     "slavedVariation": -4
   },
   {
-    "name": "YONG DAM (JEJU)",
+    "name": "YONGDAM",
     "identifier": "YDM",
     "latitude": 33.511472222,
     "longitude": 126.487611111,
-    "elevation": 98,
+    "elevation": 100,
     "frequency": 10900,
     "receptionRange": 130,
     "slavedVariation": -7
