@@ -22262,11 +22262,11 @@
    "identifier": "IRFD",
    "associatedRunwayNumber": "01",
    "frequency": 109300,
-   "elevation": 717,
-   "latitude": 42.186364,
-   "longitude": -89.089569,
-   "bearing": 5.832,
-   "glideslope": 2.75005416,
+   "elevation": 742,
+   "latitude": 42.18346886,
+   "longitude": -89.09143068,
+   "bearing": 5.42,
+   "glideslope": 2.75005420,
    "receptionRange": 10
  },
  {
@@ -22275,11 +22275,11 @@
    "identifier": "IUDY",
    "associatedRunwayNumber": "07",
    "frequency": 109550,
-   "elevation": 726,
-   "latitude": 42.190647,
-   "longitude": -89.11515,
-   "bearing": 65.686,
-   "glideslope": 3.00065343,
+   "elevation": 742,
+   "latitude": 42.19024091,
+   "longitude": -89.11991594,
+   "bearing": 65.34,
+   "glideslope": 3.00065340,
    "receptionRange": 10
  },
  {
