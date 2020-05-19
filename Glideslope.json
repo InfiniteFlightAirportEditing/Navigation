@@ -30760,6 +30760,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "MMTG",
+   "identifier": "ITGZ",
+   "associatedRunwayNumber": "32",
+   "frequency": 109700,
+   "elevation": 1491,
+   "latitude": 16.55218386,
+   "longitude": -93.01992351,
+   "bearing": 328.45,
+   "glideslope": 3.0032845,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "MMTJ",
    "identifier": "ITIJ",
    "associatedRunwayNumber": "09",
@@ -30821,6 +30834,19 @@
    "longitude": -86.89105958,
    "bearing": 123.85,
    "glideslope": 3.0012385,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "MMVA",
+   "identifier": "IVSA",
+   "associatedRunwayNumber": "08",
+   "frequency": 110500,
+   "elevation": 44,
+   "latitude": 17.99626970,
+   "longitude": -92.82753079,
+   "bearing": 86.55,
+   "glideslope": 3.0008655,
    "receptionRange": 10
  },
  {
