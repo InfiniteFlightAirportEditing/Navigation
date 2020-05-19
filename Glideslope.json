@@ -33094,8 +33094,8 @@
    "elevation": 438,
    "latitude": 64.80257846,
    "longitude": -147.88599315,
-   "bearing": 38.06,
-   "glideslope": 3.0003806,
+   "bearing": 38.07,
+   "glideslope": 3.0003807,
    "receptionRange": 10
  },
  {
@@ -33107,8 +33107,8 @@
    "elevation": 438,
    "latitude": 64.82806517,
    "longitude": -147.83909542,
-   "bearing": 218.06,
-   "glideslope": 3.0021806,
+   "bearing": 218.07,
+   "glideslope": 3.0021807,
    "receptionRange": 10
  },
  {
@@ -42548,6 +42548,19 @@
    "longitude": 117.378534,
    "bearing": 334.58,
    "glideslope": 3.0033458,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZBYC",
+   "identifier": "ICC",
+   "associatedRunwayNumber": "26",
+   "frequency": 330500,
+   "elevation": 1250,
+   "latitude": 35.11935354,
+   "longitude": 111.04763967,
+   "bearing": 257.96,
+   "glideslope": 3.0025796,
    "receptionRange": 10
  },
  {
