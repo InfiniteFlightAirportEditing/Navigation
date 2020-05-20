@@ -11734,7 +11734,7 @@
     "identifier": "KIP",
     "latitude": 37.557527778,
     "longitude": 126.792027778,
-    "elevation": 98,
+    "elevation": 100,
     "frequency": 11360,
     "receptionRange": 25,
     "slavedVariation": -8
@@ -12644,7 +12644,7 @@
     "identifier": "KUZ",
     "latitude": 35.910361111,
     "longitude": 126.611372222,
-    "elevation": 22,
+    "elevation": 0,
     "frequency": 11280,
     "receptionRange": 130,
     "slavedVariation": -7
@@ -15064,7 +15064,7 @@
     "identifier": "JDG",
     "latitude": 33.392166667,
     "longitude": 126.714472222,
-    "elevation": 1181,
+    "elevation": 1200,
     "frequency": 11790,
     "receptionRange": 25,
     "slavedVariation": -7
@@ -22574,7 +22574,7 @@
     "identifier": "MUN",
     "latitude": 34.970194444,
     "longitude": 126.383333333,
-    "elevation": 98,
+    "elevation": 100,
     "frequency": 11100,
     "receptionRange": 125,
     "slavedVariation": -7
@@ -23414,7 +23414,7 @@
     "identifier": "NPH",
     "latitude": 35.986361111,
     "longitude": 129.408833333,
-    "elevation": 117,
+    "elevation": 100,
     "frequency": 10960,
     "receptionRange": 130,
     "slavedVariation": -8
@@ -28894,7 +28894,7 @@
     "identifier": "SAC",
     "latitude": 35.09775,
     "longitude": 128.076305556,
-    "elevation": 1,
+    "elevation": 0,
     "frequency": 11510,
     "receptionRange": 125,
     "slavedVariation": -8
@@ -35044,7 +35044,7 @@
     "identifier": "UJN",
     "latitude": 36.776444444,
     "longitude": 129.457472222,
-    "elevation": 295,
+    "elevation": 300,
     "frequency": 11530,
     "receptionRange": 40,
     "slavedVariation": -8
@@ -35054,7 +35054,7 @@
     "identifier": "USN",
     "latitude": 35.5985,
     "longitude": 129.353277778,
-    "elevation": 98,
+    "elevation": 100,
     "frequency": 11140,
     "receptionRange": 125,
     "slavedVariation": -8
@@ -37454,7 +37454,7 @@
     "identifier": "YJU",
     "latitude": 37.748055556,
     "longitude": 126.991111111,
-    "elevation": 1368,
+    "elevation": 1400,
     "frequency": 11490,
     "receptionRange": 40,
     "slavedVariation": -8
@@ -37644,7 +37644,7 @@
     "identifier": "YSU",
     "latitude": 34.842833333,
     "longitude": 127.618944444,
-    "elevation": 98,
+    "elevation": 100,
     "frequency": 11570,
     "receptionRange": 130,
     "slavedVariation": -8
