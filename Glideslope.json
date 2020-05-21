@@ -4047,7 +4047,7 @@
    "name": "GS",
    "airportICAO": "EGGW",
    "identifier": "ILTN",
-   "associatedRunwayNumber": "08",
+   "associatedRunwayNumber": "07",
    "frequency": 109150,
    "elevation": 526,
    "latitude": 51.87202604,
@@ -4060,7 +4060,7 @@
    "name": "GS",
    "airportICAO": "EGGW",
    "identifier": "ILJ",
-   "associatedRunwayNumber": "26",
+   "associatedRunwayNumber": "25",
    "frequency": 109150,
    "elevation": 526,
    "latitude": 51.87724608,
@@ -36127,7 +36127,6 @@
    "glideslope": 3.0016191,
    "receptionRange": 10
  },
-
  {
    "name": "GS",
    "airportICAO": "SBSG",
