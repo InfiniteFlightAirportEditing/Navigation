@@ -34904,19 +34904,6 @@
    "receptionRange": 18,
    "type": 4
  },
- {
-   "name": "ILS-cat-I",
-   "airportICAO": "RKSM",
-   "identifier": "ISUL",
-   "associatedRunwayNumber": "19",
-   "frequency": 108950,
-   "elevation": 92,
-   "latitude": 37.45875000,
-   "longitude": 127.11583300,
-   "bearing": 179.080,
-   "receptionRange": 18,
-   "type": 4
- },
 {
    "name": "ILS-cat-I",
    "airportICAO": "RKSM",

@@ -34895,19 +34895,6 @@
  {
    "name": "GS",
    "airportICAO": "RKSM",
-   "identifier": "ISUL",
-   "associatedRunwayNumber": "19",
-   "frequency": 108950,
-   "elevation": 92,
-   "latitude": 37.45875000,
-   "longitude": 127.11583300,
-   "bearing": 179.080,
-   "glideslope": 3.00179080,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "RKSM",
    "identifier": "ISOL",
    "associatedRunwayNumber": "20",
    "frequency": 110900,
