@@ -14394,7 +14394,7 @@
     "identifier": "NCN",
     "latitude": 37.494916667,
     "longitude": 126.430333333,
-      "elevation": 100,
+    "elevation": 100,
     "frequency": 11380,
     "receptionRange": 25,
     "slavedVariation": -8
