@@ -33659,6 +33659,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "RCYU",
+   "identifier": "IHUA",
+   "associatedRunwayNumber": "23L",
+   "frequency": 109900,
+   "elevation": 50,
+   "latitude": 24.01257638,
+   "longitude": 121.61092629,
+   "bearing": 26.20,
+   "glideslope": 3.002620,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "RCTP",
    "identifier": "ICJN",
    "associatedRunwayNumber": "23L",

@@ -47710,15 +47710,15 @@
    "type": 5
  },
  {
-   "name": "LDA",
+   "name": "ILS-cat-I",
    "airportICAO": "RCYU",
-   "identifier": "IHLN",
-   "associatedRunwayNumber": "21",
-   "frequency": 110300,
-   "elevation": 52,
-   "latitude": 24.039694,
-   "longitude": 121.62225,
-   "bearing": 224.525,
+   "identifier": "IHUA",
+   "associatedRunwayNumber": "03",
+   "frequency": 109900,
+   "elevation": 50,
+   "latitude": 24.01257638,
+   "longitude": 121.61092629,
+   "bearing": 26.20,
    "receptionRange": 18,
    "type": 5
  },
