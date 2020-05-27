@@ -9601,9 +9601,9 @@
    "associatedRunwayNumber": "10",
    "frequency": 109100,
    "elevation": 1250,
-   "latitude": 40.353739,
-   "longitude": -79.937869,
-   "bearing": 90.82,
+   "latitude": 40.35429210,
+   "longitude": -79.94111672,
+   "bearing": 89.91,
    "glideslope": 3.0008991,
    "receptionRange": 10
  },
@@ -9614,9 +9614,9 @@
    "associatedRunwayNumber": "28",
    "frequency": 109100,
    "elevation": 1251,
-   "latitude": 40.355028,
-   "longitude": -79.921228,
-   "bearing": 270.82,
+   "latitude": 40.35431994,
+   "longitude": -79.91778837,
+   "bearing": 269.1,
    "glideslope": 3.0026991,
    "receptionRange": 10
  },
@@ -33668,6 +33668,19 @@
    "longitude": 121.24344277,
    "bearing": 229.01,
    "glideslope": 3.0022901,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "RCYU",
+   "identifier": "IHUA",
+   "associatedRunwayNumber": "23L",
+   "frequency": 109900,
+   "elevation": 50,
+   "latitude": 24.01257638,
+   "longitude": 121.61092629,
+   "bearing": 26.20,
+   "glideslope": 3.002620,
    "receptionRange": 10
  },
  {
