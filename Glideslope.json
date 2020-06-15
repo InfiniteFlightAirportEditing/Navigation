@@ -1865,11 +1865,11 @@
    "identifier": "IPC",
    "associatedRunwayNumber": "21",
    "frequency": 110300,
-   "elevation": 131,
-   "latitude": 5.02525,
-   "longitude": 6.95355,
-   "bearing": 208.18,
-   "glideslope": 3.0020809,
+   "elevation": 86,
+   "latitude": 5.02737300,
+   "longitude": 6.95591423,
+   "bearing": 208.06,
+   "glideslope": 3.0020806,
    "receptionRange": 10
  },
  {
