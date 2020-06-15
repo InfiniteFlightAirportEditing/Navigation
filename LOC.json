@@ -37402,6 +37402,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UBBN",
+   "identifier": "INL",
+   "associatedRunwayNumber": "32L",
+   "frequency": 111100,
+   "elevation": 2861,
+   "latitude": 39.17673095,
+   "longitude": 45.47042746,
+   "bearing": 317.73,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "UBBN",
+   "identifier": "INR",
+   "associatedRunwayNumber": "14R",
+   "frequency": 111700,
+   "elevation": 2861,
+   "latitude": 39.19865038,
+   "longitude": 45.44471832,
+   "bearing": 137.73,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UCFO",
    "identifier": "IOU",
    "associatedRunwayNumber": "12",
