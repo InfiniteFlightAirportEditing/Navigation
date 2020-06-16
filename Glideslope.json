@@ -41044,6 +41044,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WAHH",
+   "identifier": "IJOG",
+   "associatedRunwayNumber": "09",
+   "frequency": 109100,
+   "elevation": 378,
+   "latitude": -7.78858835,
+   "longitude": 110.42198429,
+   "bearing": 87.75,
+   "glideslope": 3.0008775,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WAJJ",
    "identifier": "IJPA",
    "associatedRunwayNumber": "30",
