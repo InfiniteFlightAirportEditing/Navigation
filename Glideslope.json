@@ -41408,6 +41408,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WIJJ",
+   "identifier": "IJMB",
+   "associatedRunwayNumber": "31",
+   "frequency": 109900,
+   "elevation": 82,
+   "latitude": -1.64502708,
+   "longitude": 103.65275207,
+   "bearing": 309.62,
+   "glideslope": 3.0030962,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WIMM",
    "identifier": "IDES",
    "associatedRunwayNumber": "05",
