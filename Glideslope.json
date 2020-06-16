@@ -41057,6 +41057,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WAHQ",
+   "identifier": "ISLO",
+   "associatedRunwayNumber": "26",
+   "frequency": 111500,
+   "elevation": 421,
+   "latitude": -7.51863697,
+   "longitude": 110.74562241,
+   "bearing": 257.38,
+   "glideslope": 3.0025738,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WAJJ",
    "identifier": "IJPA",
    "associatedRunwayNumber": "30",
