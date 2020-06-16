@@ -38679,14 +38679,14 @@
  {
    "name": "GS",
    "airportICAO": "URMN",
-   "identifier": "INL",
+   "identifier": "INF",
    "associatedRunwayNumber": "24",
    "frequency": 110500,
-   "elevation": 1462,
-   "latitude": 43.517286,
-   "longitude": 43.644939,
-   "bearing": 242.826,
-   "glideslope": 2.70242413,
+   "elevation": 1461,
+   "latitude": 43.51747891,
+   "longitude": 43.64875271,
+   "bearing": 242.75,
+   "glideslope": 2.6724275,
    "receptionRange": 10
  },
  {
