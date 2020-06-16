@@ -18597,10 +18597,10 @@
    "associatedRunwayNumber": "04R",
    "frequency": 111500,
    "elevation": 620,
-   "latitude": 41.783003,
-   "longitude": -87.756469,
-   "bearing": 43.736,
-   "glideslope": 3.40043368,
+   "latitude": 41.77916816,
+   "longitude": -87.75932486,
+   "bearing": 43.37,
+   "glideslope": 3.0004337,
    "receptionRange": 10
  },
  {
@@ -18609,11 +18609,11 @@
    "identifier": "IMDW",
    "associatedRunwayNumber": "13C",
    "frequency": 109900,
-   "elevation": 615,
-   "latitude": 41.788314,
-   "longitude": -87.758456,
-   "bearing": 134.334,
-   "glideslope": 3.00133667,
+   "elevation": 620,
+   "latitude": 41.79158447,
+   "longitude": -87.76108979,
+   "bearing": 133.66,
+   "glideslope": 3.0013366,
    "receptionRange": 10
  },
  {
@@ -18622,11 +18622,11 @@
    "identifier": "IMXT",
    "associatedRunwayNumber": "31C",
    "frequency": 109900,
-   "elevation": 613,
-   "latitude": 41.781522,
-   "longitude": -87.748914,
-   "bearing": 314.334,
-   "glideslope": 3.00313667,
+   "elevation": 620,
+   "latitude": 41.77924123,
+   "longitude": -87.74373838,
+   "bearing": 313.66,
+   "glideslope": 3.0031366,
    "receptionRange": 10
  },
  {
