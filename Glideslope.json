@@ -41148,6 +41148,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WAQQ",
+   "identifier": "ITRK",
+   "associatedRunwayNumber": "06",
+   "frequency": 109700,
+   "elevation": 19,
+   "latitude": 3.31985067,
+   "longitude": 117.55565650,
+   "bearing": 58.18,
+   "glideslope": 3.0005818,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WAR1",
    "identifier": "IRB",
    "associatedRunwayNumber": "17",

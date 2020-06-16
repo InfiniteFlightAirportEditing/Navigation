@@ -41146,6 +41146,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WAQQ",
+   "identifier": "ITRK",
+   "associatedRunwayNumber": "06",
+   "frequency": 109700,
+   "elevation": 19,
+   "latitude": 3.31985067,
+   "longitude": 117.55565650,
+   "bearing": 58.18,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WARI",
    "identifier": "IRB",
    "associatedRunwayNumber": "17",
