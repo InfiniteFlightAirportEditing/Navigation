@@ -43148,6 +43148,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZLXN",
+   "identifier": "ICB",
+   "associatedRunwayNumber": "11",
+   "frequency": 110700,
+   "elevation": 7167,
+   "latitude": 36.52476649,
+   "longitude": 102.05951401,
+   "bearing": 109.09,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZLXN",
+   "identifier": "IXN",
+   "associatedRunwayNumber": "29",
+   "frequency": 108700,
+   "elevation": 7167,
+   "latitude": 36.53590277,
+   "longitude": 102.01946649,
+   "bearing": 289.09,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZLXY",
    "identifier": "IGG",
    "associatedRunwayNumber": "05L",
