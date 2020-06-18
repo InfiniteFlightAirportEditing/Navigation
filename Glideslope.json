@@ -26899,19 +26899,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "LFMH",
-   "identifier": "EB",
-   "associatedRunwayNumber": "36",
-   "frequency": 110900,
-   "elevation": 1325,
-   "latitude": 45.532364,
-   "longitude": 4.298561,
-   "bearing": 355.862,
-   "glideslope": 3.00354931,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "LFMI",
    "identifier": "IST",
    "associatedRunwayNumber": "15",
