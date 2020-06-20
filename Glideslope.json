@@ -39769,6 +39769,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VEBN",
+   "identifier": "IVN",
+   "associatedRunwayNumber": "27",
+   "frequency": 109900,
+   "elevation": 270,
+   "latitude": 25.45143381,
+   "longitude": 82.87555130,
+   "bearing": 273.120,
+   "glideslope": 3.00273217,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VEBS",
    "identifier": "IBHR",
    "associatedRunwayNumber": "14",
@@ -40012,19 +40025,6 @@
    "longitude": 74.80383086,
    "bearing": 337.66,
    "glideslope": 3.0033766,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "VIBN",
-   "identifier": "IVN",
-   "associatedRunwayNumber": "27",
-   "frequency": 109900,
-   "elevation": 266,
-   "latitude": 25.450944,
-   "longitude": 82.867167,
-   "bearing": 273.434,
-   "glideslope": 3.00273217,
    "receptionRange": 10
  },
  {
