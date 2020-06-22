@@ -15,7 +15,7 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "AYPY",
-   "identifier": "IBB",
+   "identifier": "IBB",ä
    "associatedRunwayNumber": "32R",
    "frequency": 109500,
    "elevation": 103,
@@ -37486,8 +37486,8 @@
    "frequency": 111750,
    "elevation": 2090,
    "latitude": 43.065244,
-   "longitude": 74.5082556,
-   "bearing": 079.98,
+   "longitude": 74.508255,
+   "bearing": 79.98,
    "receptionRange": 18,
    "type": 4
  },
