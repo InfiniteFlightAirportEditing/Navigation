@@ -37481,6 +37481,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UCFM",
+   "identifier": "IBK",
+   "associatedRunwayNumber": "26",
+   "frequency": 333500,
+   "elevation": 2090,
+   "latitude": 43.065408,
+   "longitude": 74.498775,
+   "bearing": 260.02,
+   "glideslope": 3.0026002,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UCFM",
+   "identifier": "IMN",
+   "associatedRunwayNumber": "08",
+   "frequency": 333550,
+   "elevation": 2090,
+   "latitude": -43.059819,
+   "longitude": 74.455550,
+   "bearing": 079.98,
+   "glideslope": 3.0007998,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UCFO",
    "identifier": "IOU",
    "associatedRunwayNumber": "12",
