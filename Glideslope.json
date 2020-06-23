@@ -22977,11 +22977,11 @@
    "identifier": "ISBP",
    "associatedRunwayNumber": "11",
    "frequency": 109700,
-   "elevation": 172,
-   "latitude": 35.239081,
-   "longitude": -120.645686,
-   "bearing": 125.746,
-   "glideslope": 3.00124873,
+   "elevation": 212,
+   "latitude": 35.24222518,
+   "longitude": -120.64958998,
+   "bearing": 124.89,
+   "glideslope": 3.00124890,
    "receptionRange": 10
  },
  {
