@@ -15034,11 +15034,11 @@
    "identifier": "IGJT",
    "associatedRunwayNumber": "11",
    "frequency": 110300,
-   "elevation": 4824,
-   "latitude": 39.13445,
-   "longitude": -108.540947,
-   "bearing": 125.586,
-   "glideslope": 2.75125293,
+   "elevation": 4861,
+   "latitude": 39.13497148,
+   "longitude": -108.54435794,
+   "bearing": 125.28,
+   "glideslope": 3.00125293,
    "receptionRange": 10
  },
  {
