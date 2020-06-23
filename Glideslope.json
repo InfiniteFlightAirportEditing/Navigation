@@ -40913,6 +40913,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VVDL",
+   "identifier": "ILK",
+   "associatedRunwayNumber": "09",
+   "frequency": 110900,
+   "elevation": 3155,
+   "latitude": 11.75220125,
+   "longitude": 108.34695872,
+   "bearing": 86.83,
+   "glideslope": 3.00086830,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VVDN",
    "identifier": "DAD",
    "associatedRunwayNumber": "35L",
@@ -40935,19 +40948,6 @@
    "longitude": 108.20253814,
    "bearing": 352.06,
    "glideslope": 3.00352060,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "VVDL",
-   "identifier": "ILK",
-   "associatedRunwayNumber": "09",
-   "frequency": 110900,
-   "elevation": 3155,
-   "latitude": 11.75220125,
-   "longitude": 108.34695872,
-   "bearing": 86.83,
-   "glideslope": 3.00086830,
    "receptionRange": 10
  },
  {
