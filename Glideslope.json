@@ -18614,6 +18614,8 @@
    "longitude": -87.75932486,
    "bearing": 43.37,
    "glideslope": 3.00043370,
+   "glideslope": 3.0004337,
+
    "receptionRange": 10
  },
  {
@@ -38782,14 +38784,14 @@
  {
    "name": "GS",
    "airportICAO": "URMN",
-   "identifier": "INL",
+   "identifier": "INF",
    "associatedRunwayNumber": "24",
    "frequency": 110500,
-   "elevation": 1462,
-   "latitude": 43.517286,
-   "longitude": 43.644939,
-   "bearing": 242.826,
-   "glideslope": 2.70242413,
+   "elevation": 1461,
+   "latitude": 43.51747891,
+   "longitude": 43.64875271,
+   "bearing": 242.75,
+   "glideslope": 2.6724275,
    "receptionRange": 10
  },
  {
@@ -39782,6 +39784,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VEBN",
+   "identifier": "IVN",
+   "associatedRunwayNumber": "27",
+   "frequency": 109900,
+   "elevation": 270,
+   "latitude": 25.45143381,
+   "longitude": 82.87555130,
+   "bearing": 273.120,
+   "glideslope": 3.00273217,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VEBS",
    "identifier": "IBHR",
    "associatedRunwayNumber": "14",
@@ -40025,19 +40040,6 @@
    "longitude": 74.80383086,
    "bearing": 337.66,
    "glideslope": 3.0033766,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "VIBN",
-   "identifier": "IVN",
-   "associatedRunwayNumber": "27",
-   "frequency": 109900,
-   "elevation": 266,
-   "latitude": 25.450944,
-   "longitude": 82.867167,
-   "bearing": 273.434,
-   "glideslope": 3.00273217,
    "receptionRange": 10
  },
  {
@@ -41151,24 +41153,37 @@
    "identifier": "IUPG",
    "associatedRunwayNumber": "13",
    "frequency": 111300,
-   "elevation": 44,
-   "latitude": -5.056792,
-   "longitude": 119.546872,
-   "bearing": 131.424,
-   "glideslope": 2.90130712,
+   "elevation": 46,
+   "latitude": -5.05434270,
+   "longitude": 119.54542640,
+   "bearing": 130.74,
+   "glideslope": 2.9013074,
    "receptionRange": 10
  },
  {
    "name": "GS",
    "airportICAO": "WAAA",
-   "identifier": "IMKS",
-   "associatedRunwayNumber": "31",
-   "frequency": 111300,
-   "elevation": 36,
-   "latitude": -5.068022,
-   "longitude": 119.559811,
-   "bearing": 311.424,
-   "glideslope": 3.00310712,
+   "identifier": "IUJP",
+   "associatedRunwayNumber": "03",
+   "frequency": 110500,
+   "elevation": 46,
+   "latitude": -5.09225397,
+   "longitude": 119.54403123,
+   "bearing": 29.9,
+   "glideslope": 3.000299,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "WAAA",
+   "identifier": "IMAK",
+   "associatedRunwayNumber": "21",
+   "frequency": 110100,
+   "elevation": 46,
+   "latitude": -5.06806895,
+   "longitude": 119.55799183,
+   "bearing": 209.9,
+   "glideslope": 3.002099,
    "receptionRange": 10
  },
  {
@@ -41195,6 +41210,32 @@
    "longitude": 115.178458,
    "bearing": 268.41,
    "glideslope": 3.00267705,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "WAHH",
+   "identifier": "IJOG",
+   "associatedRunwayNumber": "09",
+   "frequency": 109100,
+   "elevation": 378,
+   "latitude": -7.78858835,
+   "longitude": 110.42198429,
+   "bearing": 87.75,
+   "glideslope": 3.0008775,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "WAHQ",
+   "identifier": "ISLO",
+   "associatedRunwayNumber": "26",
+   "frequency": 111500,
+   "elevation": 421,
+   "latitude": -7.51863697,
+   "longitude": 110.74562241,
+   "bearing": 257.38,
+   "glideslope": 3.0025738,
    "receptionRange": 10
  },
  {
@@ -41260,6 +41301,19 @@
    "longitude": 114.754064,
    "bearing": 100.9,
    "glideslope": 3.0010045,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "WAQQ",
+   "identifier": "ITRK",
+   "associatedRunwayNumber": "06",
+   "frequency": 109700,
+   "elevation": 19,
+   "latitude": 3.31985067,
+   "longitude": 117.55565650,
+   "bearing": 58.18,
+   "glideslope": 3.0005818,
    "receptionRange": 10
  },
  {
@@ -41520,6 +41574,19 @@
    "longitude": 106.665914,
    "bearing": 248.248,
    "glideslope": 3.00248124,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "WIJJ",
+   "identifier": "IJMB",
+   "associatedRunwayNumber": "31",
+   "frequency": 109900,
+   "elevation": 82,
+   "latitude": -1.64502708,
+   "longitude": 103.65275207,
+   "bearing": 309.62,
+   "glideslope": 3.0030962,
    "receptionRange": 10
  },
  {
@@ -43249,6 +43316,32 @@
    "longitude": 103.62283325,
    "bearing": 357.75,
    "glideslope": 3.00357375,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZLXN",
+   "identifier": "ICB",
+   "associatedRunwayNumber": "11",
+   "frequency": 330200,
+   "elevation": 7167,
+   "latitude": 36.53590277,
+   "longitude": 102.01946649,
+   "bearing": 109.09,
+   "glideslope": 3.0010909,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZLXN",
+   "identifier": "IXN",
+   "associatedRunwayNumber": "29",
+   "frequency": 330500,
+   "elevation": 7167,
+   "latitude": 36.52476649,
+   "longitude": 102.05951401,
+   "bearing": 289.09,
+   "glideslope": 3.0028909,
    "receptionRange": 10
  },
  {
