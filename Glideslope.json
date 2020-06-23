@@ -32620,14 +32620,27 @@
  {
    "name": "GS",
    "airportICAO": "OPKC",
+   "identifier": "IQA",
+   "associatedRunwayNumber": "25L",
+   "frequency": 109700,
+   "elevation": 100,
+   "latitude": 24.90880877,
+   "longitude": 67.17505542,
+   "bearing": 254.4,
+   "glideslope": 3.00254400,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "OPKC",
    "identifier": "IKC",
    "associatedRunwayNumber": "25R",
-   "frequency": 109700,
-   "elevation": 156,
-   "latitude": 24.913072,
-   "longitude": 67.174828,
-   "bearing": 254.816,
-   "glideslope": 3.00254408,
+   "frequency": 110100,
+   "elevation": 100,
+   "latitude": 24.91242277,
+   "longitude": 67.17803002,
+   "bearing": 254.4,
+   "glideslope": 3.00254400,
    "receptionRange": 10
  },
  {
