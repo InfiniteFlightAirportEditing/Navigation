@@ -40925,6 +40925,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VVDL",
+   "identifier": "ILK",
+   "associatedRunwayNumber": "09",
+   "frequency": 110900,
+   "elevation": 3155,
+   "latitude": 11.75220125,
+   "longitude": 108.34695872,
+   "bearing": 86.83,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VVNB",
    "identifier": "NB",
    "associatedRunwayNumber": "11L",
