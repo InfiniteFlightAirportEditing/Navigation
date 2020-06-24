@@ -44150,6 +44150,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZSYW",
+   "identifier": "IZX",
+   "associatedRunwayNumber": "02",
+   "frequency": 111700,
+   "elevation": 262,
+   "latitude": 29.33409731,
+   "longitude": 120.02829679,
+   "bearing": 18.2,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZUBD",
    "identifier": "IOO",
    "associatedRunwayNumber": "14",

@@ -44176,6 +44176,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZSYW",
+   "identifier": "IZX",
+   "associatedRunwayNumber": "02",
+   "frequency": 333500,
+   "elevation": 262,
+   "latitude": 29.33409731,
+   "longitude": 120.02829679,
+   "bearing": 18.2,
+   "glideslope": 3.000182,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZUBD",
    "identifier": "IOO",
    "associatedRunwayNumber": "14",
