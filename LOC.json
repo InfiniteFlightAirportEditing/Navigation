@@ -43890,6 +43890,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZSQZ",
+   "identifier": "IDD",
+   "associatedRunwayNumber": "03",
+   "frequency": 111700,
+   "elevation": 20,
+   "latitude": 24.78709565,
+   "longitude": 118.58278972,
+   "bearing": 30.3,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZSQZ",
+   "identifier": "IJZ",
+   "associatedRunwayNumber": "21",
+   "frequency": 108700,
+   "elevation": 20,
+   "latitude": 24.80729816,
+   "longitude": 118.59579319,
+   "bearing": 210.3,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZSSH",
    "identifier": "IHA",
    "associatedRunwayNumber": "04",
