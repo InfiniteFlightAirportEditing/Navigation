@@ -32922,11 +32922,11 @@
    "identifier": "KRL",
    "associatedRunwayNumber": "08",
    "frequency": 110300,
-   "elevation": 12,
-   "latitude": 12.827806,
-   "longitude": 45.017694,
-   "bearing": 77.288,
-   "glideslope": 3.00077144,
+   "elevation": 5,
+   "latitude": 12.82638071,
+   "longitude": 45.01491566,
+   "bearing": 77.21,
+   "glideslope": 3.007721,
    "receptionRange": 10
  },
  {
