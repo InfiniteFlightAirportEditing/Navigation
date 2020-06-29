@@ -33653,10 +33653,10 @@
    "associatedRunwayNumber": "05L",
    "frequency": 111100,
    "elevation": 104,
-   "latitude": 25.07293875,
-   "longitude": 121.21601942,
-   "bearing": 49.01,
-   "glideslope": 3.0004901,
+   "latitude": 25.0728944,
+   "longitude": 121.2159861,
+   "bearing": 49.02,
+   "glideslope": 3.0004902,
    "receptionRange": 10
  },
  {
@@ -33666,10 +33666,23 @@
    "associatedRunwayNumber": "05R",
    "frequency": 110700,
    "elevation": 104,
-   "latitude": 25.06146589,
-   "longitude": 121.22429728,
-   "bearing": 48.99,
-   "glideslope": 3.0004899,
+   "latitude": 25.0608389,
+   "longitude": 121.2234972,
+   "bearing": 49.02,
+   "glideslope": 3.0004902,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "RCTP",
+   "identifier": "ICJN",
+   "associatedRunwayNumber": "23L",
+   "frequency": 111900,
+   "elevation": 104,
+   "latitude": 25.0832667,
+   "longitude": 121.2519944,
+   "bearing": 229.02,
+   "glideslope": 3.0022902,
    "receptionRange": 10
  },
  {
@@ -33679,10 +33692,10 @@
    "associatedRunwayNumber": "23R",
    "frequency": 109300,
    "elevation": 104,
-   "latitude": 25.0945224,
-   "longitude": 121.24344277,
-   "bearing": 229.01,
-   "glideslope": 3.0022901,
+   "latitude": 25.0944972,
+   "longitude": 121.2434417,
+   "bearing": 229.02,
+   "glideslope": 3.0022902,
    "receptionRange": 10
  },
  {
@@ -33696,19 +33709,6 @@
    "longitude": 121.61092629,
    "bearing": 26.20,
    "glideslope": 3.002620,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "RCTP",
-   "identifier": "ICJN",
-   "associatedRunwayNumber": "23L",
-   "frequency": 111900,
-   "elevation": 104,
-   "latitude": 25.08121159,
-   "longitude": 121.24936003,
-   "bearing": 228.99,
-   "glideslope": 3.0022899,
    "receptionRange": 10
  },
  {
