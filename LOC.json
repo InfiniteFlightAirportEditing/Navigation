@@ -37466,6 +37466,32 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-II",
+   "airportICAO": "UCFM",
+   "identifier": "IBK",
+   "associatedRunwayNumber": "26",
+   "frequency": 111700,
+   "elevation": 2090,
+   "latitude": 43.057386,
+   "longitude": 74.447491,
+   "bearing": 260.02,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-II",
+   "airportICAO": "UCFM",
+   "identifier": "IMN",
+   "associatedRunwayNumber": "08",
+   "frequency": 111750,
+   "elevation": 2090,
+   "latitude": 43.065244,
+   "longitude": 74.508255,
+   "bearing": 79.98,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "UCFO",
    "identifier": "IOU",
