@@ -15034,11 +15034,11 @@
    "identifier": "IGJT",
    "associatedRunwayNumber": "11",
    "frequency": 110300,
-   "elevation": 4824,
-   "latitude": 39.13445,
-   "longitude": -108.540947,
-   "bearing": 125.586,
-   "glideslope": 2.75125293,
+   "elevation": 4861,
+   "latitude": 39.13497148,
+   "longitude": -108.54435794,
+   "bearing": 125.28,
+   "glideslope": 3.00125293,
    "receptionRange": 10
  },
  {
@@ -18613,7 +18613,9 @@
    "latitude": 41.77916816,
    "longitude": -87.75932486,
    "bearing": 43.37,
+   "glideslope": 3.00043370,
    "glideslope": 3.0004337,
+
    "receptionRange": 10
  },
  {
@@ -18626,7 +18628,7 @@
    "latitude": 41.79158447,
    "longitude": -87.76108979,
    "bearing": 133.66,
-   "glideslope": 3.0013366,
+   "glideslope": 3.00133660,
    "receptionRange": 10
  },
  {
@@ -18639,7 +18641,7 @@
    "latitude": 41.77924123,
    "longitude": -87.74373838,
    "bearing": 313.66,
-   "glideslope": 3.0031366,
+   "glideslope": 3.00313660,
    "receptionRange": 10
  },
  {
@@ -22977,11 +22979,11 @@
    "identifier": "ISBP",
    "associatedRunwayNumber": "11",
    "frequency": 109700,
-   "elevation": 172,
-   "latitude": 35.239081,
-   "longitude": -120.645686,
-   "bearing": 125.746,
-   "glideslope": 3.00124873,
+   "elevation": 212,
+   "latitude": 35.24222518,
+   "longitude": -120.64958998,
+   "bearing": 124.89,
+   "glideslope": 3.00124890,
    "receptionRange": 10
  },
  {
@@ -30115,10 +30117,10 @@
    "associatedRunwayNumber": "11",
    "frequency": 109100,
    "elevation": 104,
-   "latitude": 41,
-   "longitude": 39.778889,
-   "bearing": 112.662,
-   "glideslope": 3.30112331,
+   "latitude": 40.99953916,
+   "longitude": 39.7750899,
+   "bearing": 112.34,
+   "glideslope": 3.30112340,
    "receptionRange": 10
  },
  {
@@ -32620,14 +32622,27 @@
  {
    "name": "GS",
    "airportICAO": "OPKC",
+   "identifier": "IQA",
+   "associatedRunwayNumber": "25L",
+   "frequency": 109700,
+   "elevation": 100,
+   "latitude": 24.90880877,
+   "longitude": 67.17505542,
+   "bearing": 254.4,
+   "glideslope": 3.00254400,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "OPKC",
    "identifier": "IKC",
    "associatedRunwayNumber": "25R",
-   "frequency": 109700,
-   "elevation": 156,
-   "latitude": 24.913072,
-   "longitude": 67.174828,
-   "bearing": 254.816,
-   "glideslope": 3.00254408,
+   "frequency": 110100,
+   "elevation": 100,
+   "latitude": 24.91242277,
+   "longitude": 67.17803002,
+   "bearing": 254.4,
+   "glideslope": 3.00254400,
    "receptionRange": 10
  },
  {
@@ -40926,15 +40941,41 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VVDL",
+   "identifier": "ILK",
+   "associatedRunwayNumber": "09",
+   "frequency": 110900,
+   "elevation": 3155,
+   "latitude": 11.75220125,
+   "longitude": 108.34695872,
+   "bearing": 86.83,
+   "glideslope": 3.00086830,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VVDN",
    "identifier": "DAD",
-   "associatedRunwayNumber": "35R",
+   "associatedRunwayNumber": "35L",
    "frequency": 110500,
-   "elevation": 36,
-   "latitude": 16.033347,
-   "longitude": 108.202931,
-   "bearing": 352.114,
-   "glideslope": 3.00352057,
+   "elevation": 32,
+   "latitude": 16.03016866,
+   "longitude": 108.20030719,
+   "bearing": 352.16,
+   "glideslope": 3.00352160,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "VVDN",
+   "identifier": "IDR",
+   "associatedRunwayNumber": "35R",
+   "frequency": 111500,
+   "elevation": 32,
+   "latitude": 16.02901433,
+   "longitude": 108.20253814,
+   "bearing": 352.06,
+   "glideslope": 3.00352060,
    "receptionRange": 10
  },
  {
@@ -40961,6 +41002,19 @@
    "longitude": 107.713831,
    "bearing": 273.342,
    "glideslope": 3.00273171,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "VVPC",
+   "identifier": "IPC",
+   "associatedRunwayNumber": "33",
+   "frequency": 110100,
+   "elevation": 95,
+   "latitude": 13.94344830,
+   "longitude": 109.05005334,
+   "bearing": 326.83,
+   "glideslope": 3.00326830,
    "receptionRange": 10
  },
  {
