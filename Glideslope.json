@@ -37496,6 +37496,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UBBQ",
+   "identifier": "IQL",
+   "associatedRunwayNumber": "16",
+   "frequency": 111900,
+   "elevation": 1129,
+   "latitude": 40.82401352,
+   "longitude": 47.72052447,
+   "bearing": 167.05,
+   "glideslope": 3.0016705,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UBBQ",
+   "identifier": "IQR",
+   "associatedRunwayNumber": "34",
+   "frequency": 110300,
+   "elevation": 1129,
+   "latitude": 40.79349409,
+   "longitude": 47.72980057,
+   "bearing": 347.05,
+   "glideslope": 3.5034705,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UCFM",
    "identifier": "IBK",
    "associatedRunwayNumber": "26",
