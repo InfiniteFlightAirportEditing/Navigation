@@ -38835,6 +38835,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "URKA",
+   "identifier": "IAN",
+   "associatedRunwayNumber": "04",
+   "frequency": 109100,
+   "elevation": 176,
+   "latitude": 44.99377874,
+   "longitude": 37.33659717,
+   "bearing": 42.14,
+   "glideslope": 3.0004214,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "URKA",
+   "identifier": "IAP",
+   "associatedRunwayNumber": "22",
+   "frequency": 110900,
+   "elevation": 176,
+   "latitude": 45.0104616,
+   "longitude": 37.35794603,
+   "bearing": 222.14,
+   "glideslope": 3.0022214,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "URMG",
    "identifier": "IWK",
    "associatedRunwayNumber": "26",
