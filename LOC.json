@@ -38624,6 +38624,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UNEE",
+   "identifier": "INC",
+   "associatedRunwayNumber": "23",
+   "frequency": 109100,
+   "elevation": 861,
+   "latitude": 55.27860268,
+   "longitude": 86.12787644,
+   "bearing": 233.51,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UNNT",
    "identifier": "IRO",
    "associatedRunwayNumber": "07",

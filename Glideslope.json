@@ -38640,6 +38640,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UNEE",
+   "identifier": "INC",
+   "associatedRunwayNumber": "23",
+   "frequency": 109100,
+   "elevation": 861,
+   "latitude": 55.27860268,
+   "longitude": 86.12787644,
+   "bearing": 233.51,
+   "glideslope": 2.7523351,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UNNT",
    "identifier": "IRO",
    "associatedRunwayNumber": "07",
