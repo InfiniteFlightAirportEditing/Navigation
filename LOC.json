@@ -37492,6 +37492,32 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-II",
+   "airportICAO": "UBBQ",
+   "identifier": "IQL",
+   "associatedRunwayNumber": "16",
+   "frequency": 111900,
+   "elevation": 1129,
+   "latitude": 40.82401352,
+   "longitude": 47.72052447,
+   "bearing": 167.05,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "UBBQ",
+   "identifier": "IQR",
+   "associatedRunwayNumber": "34",
+   "frequency": 110300,
+   "elevation": 1129,
+   "latitude": 40.79349409,
+   "longitude": 47.72980057,
+   "bearing": 347.05,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "UCFO",
    "identifier": "IOU",
