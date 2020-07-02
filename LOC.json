@@ -38845,6 +38845,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "URKG",
+   "identifier": "IGN",
+   "associatedRunwayNumber": "01",
+   "frequency": 110100,
+   "elevation": 98,
+   "latitude": 44.56848401,
+   "longitude": 38.00822915,
+   "bearing": 14.04,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "URMG",
    "identifier": "IWK",
    "associatedRunwayNumber": "26",

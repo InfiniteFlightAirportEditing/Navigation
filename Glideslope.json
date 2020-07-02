@@ -38861,6 +38861,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "URKG",
+   "identifier": "IGN",
+   "associatedRunwayNumber": "01",
+   "frequency": 110100,
+   "elevation": 98,
+   "latitude": 44.56848401,
+   "longitude": 38.00822915,
+   "bearing": 14.04,
+   "glideslope": 2.4001404,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "URMG",
    "identifier": "IWK",
    "associatedRunwayNumber": "26",
