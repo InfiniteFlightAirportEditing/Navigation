@@ -38653,6 +38653,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UNKL",
+   "identifier": "IAJ",
+   "associatedRunwayNumber": "11",
+   "frequency": 110500,
+   "elevation": 939,
+   "latitude": 56.17947271,
+   "longitude": 92.46583891,
+   "bearing": 113.16,
+   "glideslope": 3.0011316,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UNKL",
+   "identifier": "IBK",
+   "associatedRunwayNumber": "29",
+   "frequency": 111700,
+   "elevation": 939,
+   "latitude": 56.16641448,
+   "longitude": 92.52068928,
+   "bearing": 293.16,
+   "glideslope": 3.0029316,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UNNT",
    "identifier": "IRO",
    "associatedRunwayNumber": "07",
