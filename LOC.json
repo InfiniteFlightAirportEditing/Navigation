@@ -41524,6 +41524,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WIGG",
+   "identifier": "IBKL",
+   "associatedRunwayNumber": "13",
+   "frequency": 111700,
+   "elevation": 50,
+   "latitude": -03.85700570,
+   "longitude": 102.33179024,
+   "bearing": 133.26,
+   "receptionRange": 18,
+   "type": 4
+},
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WIHH",
    "identifier": "IHAL",
    "associatedRunwayNumber": "24",
