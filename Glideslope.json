@@ -38952,6 +38952,33 @@
  },
  {
    "name": "GS",
+   "airportICAO": "URMO",
+   "identifier": "ICH",
+   "associatedRunwayNumber": "09",
+   "frequency": 110500,
+   "elevation": 1670,
+   "latitude": 43.20786509,
+   "longitude": 44.58859935,
+   "bearing": 101.54,
+   "glideslope": 3.0010154,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "URMO",
+   "identifier": "IWL",
+   "associatedRunwayNumber": "27",
+   "frequency": 111300,
+   "elevation": 1670,
+   "latitude": 43.20247623,
+   "longitude": 44.62479887,
+   "bearing": 281.54,
+   "glideslope": 3.0028154,
+   "receptionRange": 10
+ },
+
+ {
+   "name": "GS",
    "airportICAO": "URMT",
    "identifier": "IOP",
    "associatedRunwayNumber": "07",
