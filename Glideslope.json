@@ -39160,6 +39160,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "USII",
+   "identifier": "IMD",
+   "associatedRunwayNumber": "01",
+   "frequency": 110300,
+   "elevation": 530,
+   "latitude": 56.824986,
+   "longitude": 53.453896,
+   "bearing": 24.96,
+   "glideslope": 3.0002496,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "USII",
+   "identifier": "ILV",
+   "associatedRunwayNumber": "19",
+   "frequency": 108700,
+   "elevation": 530,
+   "latitude": 56.84532065,
+   "longitude": 53.47119645,
+   "bearing": 204.96,
+   "glideslope": 3.0020496,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "USPP",
    "identifier": "IPX",
    "associatedRunwayNumber": "21",
