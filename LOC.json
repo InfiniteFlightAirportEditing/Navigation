@@ -35764,6 +35764,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SBBH",
+   "identifier": "IPM",
+   "associatedRunwayNumber": "13",
+   "frequency": 109300,
+   "elevation": 2589,
+   "latitude": -19.84706277,
+   "longitude": -43.96049233,
+   "bearing": 110.88,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SBBR",
    "identifier": "IBR",
    "associatedRunwayNumber": "11L",
