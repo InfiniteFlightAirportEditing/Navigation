@@ -40900,6 +40900,19 @@
    "glideslope": 3.00090920,
    "receptionRange": 10
  },
+{
+   "name": "GS",
+   "airportICAO": "VVCA",
+   "identifier": "ICL",
+   "associatedRunwayNumber": "32",
+   "frequency": 108500,
+   "elevation": 22,
+   "latitude": 15.39631343,
+   "longitude": 108.71601001,
+   "bearing": 314.70,
+   "glideslope": 3.00004291,
+   "receptionRange": 10,
+ },
  {
    "name": "GS",
    "airportICAO": "VVCI",
