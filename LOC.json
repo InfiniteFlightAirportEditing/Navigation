@@ -38987,6 +38987,32 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-II",
+   "airportICAO": "URRP",
+   "identifier": "IRD",
+   "associatedRunwayNumber": "05",
+   "frequency": 111500,
+   "elevation": 282,
+   "latitude": 47.48452231,
+   "longitude": 39.90531952,
+   "bearing": 54.29,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-II",
+   "airportICAO": "URRP",
+   "identifier": "IRS",
+   "associatedRunwayNumber": "23",
+   "frequency": 110900,
+   "elevation": 282,
+   "latitude": 47.5034045,
+   "longitude": 39.94418388,
+   "bearing": 234.29,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "URSS",
    "identifier": "IAD",

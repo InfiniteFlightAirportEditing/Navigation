@@ -38976,7 +38976,6 @@
    "glideslope": 3.0028154,
    "receptionRange": 10
  },
-
  {
    "name": "GS",
    "airportICAO": "URMT",
@@ -39001,6 +39000,32 @@
    "longitude": 42.126667,
    "bearing": 256.162,
    "glideslope": 2.70256081,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "URRP",
+   "identifier": "IRD",
+   "associatedRunwayNumber": "05",
+   "frequency": 111500,
+   "elevation": 282,
+   "latitude": 47.48452231,
+   "longitude": 39.90531952,
+   "bearing": 54.29,
+   "glideslope": 3.0005429,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "URRP",
+   "identifier": "IRS",
+   "associatedRunwayNumber": "23",
+   "frequency": 110900,
+   "elevation": 282,
+   "latitude": 47.5034045,
+   "longitude": 39.94418388,
+   "bearing": 234.29,
+   "glideslope": 3.0023429,
    "receptionRange": 10
  },
  {
