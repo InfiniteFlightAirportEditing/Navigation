@@ -14717,7 +14717,7 @@
    "receptionRange": 10
  },
  {
-   "name": "ILS-cat-I",
+   "name": "GS",
    "airportICAO": "KFSD",
    "identifier": "IFSD",
    "associatedRunwayNumber": "3",
@@ -14730,7 +14730,7 @@
    "receptionRange": 10
  },
  {
-   "name": "ILS-cat-I",
+   "name": "GS",
    "airportICAO": "KFSD",
    "identifier": "IJOU",
    "associatedRunwayNumber": "21",
