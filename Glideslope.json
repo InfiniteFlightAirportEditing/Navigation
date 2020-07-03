@@ -14727,7 +14727,7 @@
    "longitude": -96.75372194,
    "bearing": 34.81,
    "glideslope": 3.00003836,
-   "receptionRange": 10,
+   "receptionRange": 10
  },
  {
    "name": "ILS-cat-I",
@@ -14740,7 +14740,7 @@
    "longitude": -96.73427219,
    "bearing": 214.81,
    "glideslope": 3.00003836,
-   "receptionRange": 10,
+   "receptionRange": 10
  },
  {
    "name": "GS",
