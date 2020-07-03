@@ -41544,11 +41544,11 @@
    "associatedRunwayNumber": "13",
    "frequency": 111700,
    "elevation": 50,
-   "latitude": -03.85700570,
+   "latitude": -3.85700570,
    "longitude": 102.33179024,
    "bearing": 133.26,
    "glideslope": 3.0003133,
-   "receptionRange": 10,
+   "receptionRange": 10
  },
  {
    "name": "GS",
