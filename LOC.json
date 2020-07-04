@@ -35866,16 +35866,16 @@
    "receptionRange": 18,
    "type": 4
  },
- {
+  {
    "name": "ILS-cat-I",
    "airportICAO": "SBCG",
    "identifier": "ICG",
    "associatedRunwayNumber": "06",
    "frequency": 110300,
    "elevation": 1833,
-   "latitude": -20.458583,
-   "longitude": -54.662708,
-   "bearing": 41.619,
+   "latitude": -20.47868026,
+   "longitude": -54.68233954,
+   "bearing": 42.06,
    "receptionRange": 18,
    "type": 4
  },
