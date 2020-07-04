@@ -36076,6 +36076,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SBKG",
+   "identifier": "IKG",
+   "associatedRunwayNumber": "15",
+   "frequency": 109100,
+   "elevation": 1647,
+   "latitude": -7.26550061,
+   "longitude": -35.90183297,
+   "bearing": 125.25,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SBKP",
    "identifier": "IKP",
    "associatedRunwayNumber": "15",
