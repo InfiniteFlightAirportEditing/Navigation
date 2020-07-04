@@ -36348,15 +36348,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "SCIE",
    "identifier": "ICEP",
    "associatedRunwayNumber": "02",
    "frequency": 109900,
-   "elevation": 25,
-   "latitude": -36.76153183,
-   "longitude": -73.05858612,
-   "bearing": 17.95,
+   "elevation": 26,
+   "latitude": -36.78203300,
+   "longitude": -73.06869900,
+   "bearing": 25.02,
    "receptionRange": 18,
    "type": 4
  },
