@@ -37773,11 +37773,11 @@
    "identifier": "IFK",
    "associatedRunwayNumber": "10",
    "frequency": 110300,
-   "elevation": 574,
-   "latitude": 59.9123,
-   "longitude": 150.695343,
-   "bearing": 104,
-   "glideslope": 2.80104,
+   "elevation": 573,
+   "latitude": 59.91176077,
+   "longitude": 150.68921104,
+   "bearing": 93,
+   "glideslope": 3.00093,
    "receptionRange": 10
  },
  {
