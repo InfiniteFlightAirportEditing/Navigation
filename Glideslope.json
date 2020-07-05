@@ -37743,6 +37743,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UHMA",
+   "identifier": "IKB",
+   "associatedRunwayNumber": "01",
+   "frequency": 110300,
+   "elevation": 194,
+   "latitude": 64.71977224,
+   "longitude": 177.73219134,
+   "bearing": 14.75,
+   "glideslope": 3.0001475,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UHMA",
+   "identifier": "IUR",
+   "associatedRunwayNumber": "19",
+   "frequency": 110700,
+   "elevation": 194,
+   "latitude": 64.75013673,
+   "longitude": 177.75091624,
+   "bearing": 194.75,
+   "glideslope": 3.0019475,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UHMM",
    "identifier": "IFK",
    "associatedRunwayNumber": "10",
