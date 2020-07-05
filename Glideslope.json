@@ -38524,14 +38524,27 @@
  {
    "name": "GS",
    "airportICAO": "UMKK",
+   "identifier": "IFG",
+   "associatedRunwayNumber": "06",
+   "frequency": 110300,
+   "elevation": 41,
+   "latitude": 54.885481,
+   "longitude": 20.57483899,
+   "bearing": 65.75,
+   "glideslope": 3.0006575,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UMKK",
    "identifier": "IKR",
    "associatedRunwayNumber": "24",
    "frequency": 109500,
-   "elevation": 42,
-   "latitude": 54.895,
-   "longitude": 20.606667,
-   "bearing": 246.898,
-   "glideslope": 2.70245949,
+   "elevation": 41,
+   "latitude": 54.89467257,
+   "longitude": 20.61030675,
+   "bearing": 245.75,
+   "glideslope": 3.0024575,
    "receptionRange": 10
  },
  {
