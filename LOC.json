@@ -43097,6 +43097,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZGSD",
+   "identifier": "IUJ",
+   "associatedRunwayNumber": "05",
+   "frequency": 110100,
+   "elevation": 22,
+   "latitude": 21.99388858,
+   "longitude": 113.36304207,
+   "bearing": 44.58,
+   "receptionRange": 18,
+   "type": 4 
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZGSD",
+   "identifier": "IMA",
+   "associatedRunwayNumber": "23",
+   "frequency": 108300,
+   "elevation": 22,
+   "latitude": 22.01955432,
+   "longitude": 113.39032179,
+   "bearing": 224.58,
+   "receptionRange": 18,
+   "type": 4  
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZGSZ",
    "identifier": "IQJ",
    "associatedRunwayNumber": "15",
