@@ -37375,7 +37375,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "UBBB",
    "identifier": "IBI",
    "associatedRunwayNumber": "16",
@@ -37388,7 +37388,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "UBBB",
    "identifier": "IBU",
    "associatedRunwayNumber": "17",
@@ -37401,7 +37401,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "UBBB",
    "identifier": "IBN",
    "associatedRunwayNumber": "34",
@@ -37414,7 +37414,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "UBBB",
    "identifier": "IBA",
    "associatedRunwayNumber": "35",
