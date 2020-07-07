@@ -27022,11 +27022,11 @@
    "identifier": "ORG",
    "associatedRunwayNumber": "14",
    "frequency": 109900,
-   "elevation": 250,
-   "latitude": 44.145183,
-   "longitude": 4.861772,
-   "bearing": 144.526,
-   "glideslope": 2.50144263,
+   "elevation": 196,
+   "latitude": 44.1488972,
+   "longitude": 4.8597472,
+   "bearing": 144.27,
+   "glideslope": 2.50144270,
    "receptionRange": 10
  },
  {
