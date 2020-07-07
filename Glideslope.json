@@ -33497,10 +33497,23 @@
    "associatedRunwayNumber": "09",
    "frequency": 108300,
    "elevation": 31,
-   "latitude": 22.578194,
-   "longitude": 120.339611,
-   "bearing": 92.844,
-   "glideslope": 3.00091922,
+   "latitude": 22.57753092,
+   "longitude": 120.33487647,
+   "bearing": 92.05,
+   "glideslope": 3.00092050,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "RCKH",
+   "identifier": "IKAS",
+   "associatedRunwayNumber": "27",
+   "frequency": 109700,
+   "elevation": 31,
+   "latitude": 22.57651909,
+   "longitude": 120.3655574,
+   "bearing": 272.05,
+   "glideslope": 3.00092050,
    "receptionRange": 10
  },
  {

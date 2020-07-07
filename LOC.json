@@ -33507,11 +33507,24 @@
    "associatedRunwayNumber": "09",
    "frequency": 108300,
    "elevation": 31,
-   "latitude": 22.5765,
-   "longitude": 120.368417,
-   "bearing": 91.97,
+   "latitude": 22.57753092,
+   "longitude": 120.33487647,
+   "bearing": 92.05,
    "receptionRange": 18,
    "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "RCKH",
+   "identifier": "IKAS",
+   "associatedRunwayNumber": "27",
+   "frequency": 109700,
+   "elevation": 31,
+   "latitude": 22.57651909,
+   "longitude": 120.3655574,
+   "bearing": 272.05,
+   "receptionRange": 18,
+   "type": 5
  },
  {
    "name": "ILS-cat-I",
@@ -48058,19 +48071,6 @@
    "latitude": 21.326378,
    "longitude": -157.907828,
    "bearing": 304,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "RCKH",
-   "identifier": "IKAS",
-   "associatedRunwayNumber": "27",
-   "frequency": 109700,
-   "elevation": 31,
-   "latitude": 22.577583,
-   "longitude": 120.333167,
-   "bearing": 271.854,
    "receptionRange": 18,
    "type": 5
  },
