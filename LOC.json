@@ -35750,6 +35750,19 @@
    "type": 4
  },
  {
+   "name": "LOC",
+   "airportICAO": "SBAN",
+   "identifier": "IAN",
+   "associatedRunwayNumber": "24R",
+   "frequency": 111100,
+   "elevation": 3732,
+   "latitude": -16.241759,
+   "longitude": -48.976070,
+   "bearing": 218.92,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "SBBE",
    "identifier": "IBE",
