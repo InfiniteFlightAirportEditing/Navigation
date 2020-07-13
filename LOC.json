@@ -32655,16 +32655,16 @@
    "receptionRange": 18,
    "type": 4
  },
- {
-   "name": "ILS-cat-I",
+{
+   "name": "ILS-cat-II",
    "airportICAO": "OPLA",
    "identifier": "ILA",
    "associatedRunwayNumber": "36R",
    "frequency": 109900,
-   "elevation": 707,
-   "latitude": 31.539858,
-   "longitude": 74.404844,
-   "bearing": 0.792,
+   "elevation": 712,
+   "latitude": 31.50644845,
+   "longitude": 74.40431570,
+   "bearing": 0.87,
    "receptionRange": 18,
    "type": 4
  },
