@@ -43580,6 +43580,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZPLC",
+   "identifier": "ILG",
+   "associatedRunwayNumber": "16",
+   "frequency": 108500,
+   "elevation": 6204,
+   "latitude": 23.74877778,   
+   "longitude": 100.01944371,
+   "bearing": 154.57,
+   "glideslope": 3.0001314,
+   "receptionRange": 18
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZPLJ",
    "identifier": "IYL",
    "associatedRunwayNumber": "02",
