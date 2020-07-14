@@ -43853,6 +43853,33 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZSLY",
+   "identifier": "IXI",
+   "associatedRunwayNumber": "01",
+   "frequency": 110700,
+   "elevation": 223,
+   "latitude": 35.03825189,
+   "longitude": 118.41186079,
+   "bearing": 359.99,
+   "glideslope": 3.00001836,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZSLY",
+   "identifier": "ILY",
+   "associatedRunwayNumber": "19",
+   "frequency": 109700,
+   "elevation": 223,
+   "latitude": 35.06708868,
+   "longitude": 118.41185653,
+   "bearing": 179.99,
+   "glideslope": 3.00001836,
+   "receptionRange": 10
+
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZSNB",
    "identifier": "IBK",
    "associatedRunwayNumber": "13",
