@@ -37856,7 +37856,7 @@
    "type": 4
  },
  {
-   "name": "GLS",
+   "name": "ILS-cat-I",
    "airportICAO": "UHSI",
    "identifier": "ITP",
    "associatedRunwayNumber": "13",
@@ -37869,7 +37869,7 @@
    "type": 4
  },
  {
-   "name": "GLS",
+   "name": "ILS-cat-I",
    "airportICAO": "UHSI",
    "identifier": "ITU",
    "associatedRunwayNumber": "31",
@@ -39704,12 +39704,25 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "UUOO",
+   "identifier": "IWR",
+   "associatedRunwayNumber": "12",
+   "frequency": 110500,
+   "elevation": 515,
+   "latitude": 51.82179576,
+   "longitude": 39.21702299,
+   "bearing": 130.88,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "UUOO",
    "identifier": "IAP",
    "associatedRunwayNumber": "30",
    "frequency": 111900,
    "elevation": 515,
-   "latitude": 51.808249,
-   "longitude": 39.24234,
+   "latitude": 51.80824926,
+   "longitude": 39.24234096,
    "bearing": 310.88,
    "receptionRange": 18,
    "type": 4
