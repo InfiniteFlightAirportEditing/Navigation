@@ -37861,14 +37861,27 @@
  {
    "name": "GS",
    "airportICAO": "UHSI",
-   "identifier": "TP",
+   "identifier": "ITP",
    "associatedRunwayNumber": "13",
-   "frequency": 109700,
+   "frequency": 111300,
    "elevation": 387,
-   "latitude": 147.94274568,
-   "longitude": 45.26103356,
+   "latitude": 45.26103356,
+   "longitude": 147.94274568,
    "bearing": 116.74,
    "glideslope": 3.0011674,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UHSI",
+   "identifier": "ITU",
+   "associatedRunwayNumber": "31",
+   "frequency": 111100,
+   "elevation": 387,
+   "latitude": 45.25171996,
+   "longitude": 147.96900669,
+   "bearing": 296.74,
+   "glideslope": 3.0029674,
    "receptionRange": 10
  },
  {
