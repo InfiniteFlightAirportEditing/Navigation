@@ -39963,32 +39963,6 @@
  },
  {
    "name": "ILS-cat-I",
-   "airportICAO": "UWSS",
-   "identifier": "IOH",
-   "associatedRunwayNumber": "12",
-   "frequency": 110500,
-   "elevation": 499,
-   "latitude": 51.558333,
-   "longitude": 46.061667,
-   "bearing": 127.139,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
-   "airportICAO": "UWSS",
-   "identifier": "IDK",
-   "associatedRunwayNumber": "30",
-   "frequency": 109100,
-   "elevation": 499,
-   "latitude": 51.573333,
-   "longitude": 46.03,
-   "bearing": 305.552,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
    "airportICAO": "UWWW",
    "identifier": "IWG",
    "associatedRunwayNumber": "15",

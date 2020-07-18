@@ -39953,32 +39953,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "UWSS",
-   "identifier": "IOH",
-   "associatedRunwayNumber": "12",
-   "frequency": 110500,
-   "elevation": 499,
-   "latitude": 51.571667,
-   "longitude": 46.038333,
-   "bearing": 125.278,
-   "glideslope": 3.00125139,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "UWSS",
-   "identifier": "IDK",
-   "associatedRunwayNumber": "30",
-   "frequency": 109100,
-   "elevation": 499,
-   "latitude": 51.563333,
-   "longitude": 46.056667,
-   "bearing": 305.278,
-   "glideslope": 2.80305139,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "UWWW",
    "identifier": "IWG",
    "associatedRunwayNumber": "15",
