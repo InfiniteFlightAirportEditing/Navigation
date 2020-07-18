@@ -39771,6 +39771,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UWKD",
+   "identifier": "IAM",
+   "associatedRunwayNumber": "11",
+   "frequency": 110500,
+   "elevation": 411,
+   "latitude": 55.61709464,
+   "longitude": 49.25083197,
+   "bearing": 124.48,
+   "glideslope": 3.0012448,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UWKD",
+   "identifier": "IBL",
+   "associatedRunwayNumber": "29",
+   "frequency": 111700,
+   "elevation": 411,
+   "latitude": 55.59799151,
+   "longitude": 49.30008321,
+   "bearing": 304.48,
+   "glideslope": 3.0030448,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UWKE",
    "identifier": "INK",
    "associatedRunwayNumber": "22",
