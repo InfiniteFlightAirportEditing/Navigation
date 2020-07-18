@@ -39953,6 +39953,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UWPS",
+   "identifier": "IGE",
+   "associatedRunwayNumber": "20",
+   "frequency": 110350,
+   "elevation": 708,
+   "latitude": 54.13583976,
+   "longitude": 45.224276,
+   "bearing": 212.9,
+   "glideslope": 3.002129,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UWWW",
    "identifier": "IWG",
    "associatedRunwayNumber": "15",
