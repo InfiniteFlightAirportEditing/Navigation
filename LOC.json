@@ -37869,6 +37869,32 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "UHSS",
+   "identifier": "ISL",
+   "associatedRunwayNumber": "01",
+   "frequency": 109500,
+   "elevation": 59,
+   "latitude": 46.87018385,
+   "longitude": 142.71695418,
+   "bearing": 0.93,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "UHSS",
+   "identifier": "IPI",
+   "associatedRunwayNumber": "19",
+   "frequency": 111700,
+   "elevation": 59,
+   "latitude": 46.90074345,
+   "longitude": 142.71767745,
+   "bearing": 180.98,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "UHWW",
    "identifier": "ILN",
