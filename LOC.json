@@ -38988,6 +38988,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "URFF",
+   "identifier": "ISN",
+   "associatedRunwayNumber": "01",
+   "frequency": 109300,
+   "elevation": 600,
+   "latitude": 45.03586118,
+   "longitude": 33.96821603,
+   "bearing": 13.54,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "URFF",
+   "identifier": "ISF",
+   "associatedRunwayNumber": "19",
+   "frequency": 111100,
+   "elevation": 600,
+   "latitude": 45.06823292,
+   "longitude": 33.97924802,
+   "bearing": 193.54,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "URKA",
    "identifier": "IAN",
    "associatedRunwayNumber": "04",
