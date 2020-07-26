@@ -31299,11 +31299,11 @@
    "identifier": "IBIB",
    "associatedRunwayNumber": "12L",
    "frequency": 111500,
-   "elevation": 6,
-   "latitude": 26.280497,
-   "longitude": 50.616946,
-   "bearing": 122.84,
-   "glideslope": 3.00122746,
+   "elevation": 8,
+   "latitude": 26.28045782,
+   "longitude": 50.61695147,
+   "bearing": 122.78,
+   "glideslope": 3.0012278,
    "receptionRange": 10
  },
  {
@@ -31312,11 +31312,11 @@
    "identifier": "IBIA",
    "associatedRunwayNumber": "30R",
    "frequency": 110300,
-   "elevation": 6,
-   "latitude": 26.261154,
-   "longitude": 50.650371,
-   "bearing": 302.84,
-   "glideslope": 3.00302746,
+   "elevation": 8,
+   "latitude": 26.26118192,
+   "longitude": 50.6503406,
+   "bearing": 302.78,
+   "glideslope": 3.0030278,
    "receptionRange": 10
  },
  {
