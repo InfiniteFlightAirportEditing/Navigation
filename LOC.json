@@ -31304,7 +31304,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "OBBI",
    "identifier": "IBIB",
    "associatedRunwayNumber": "12L",
@@ -31317,7 +31317,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "OBBI",
    "identifier": "IBIA",
    "associatedRunwayNumber": "30R",
