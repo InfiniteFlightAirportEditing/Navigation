@@ -43746,6 +43746,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZSGS",
+   "identifier": "IJJ",
+   "associatedRunwayNumber": "08",
+   "frequency": 108700,
+   "elevation": 281,
+   "latitude": 26.85537721,
+   "longitude": 114.72259014,
+   "bearing": 80.72,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "ZSHC",
    "identifier": "IXS",
