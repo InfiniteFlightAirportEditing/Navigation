@@ -33470,11 +33470,11 @@
    "identifier": "IOGG",
    "associatedRunwayNumber": "02",
    "frequency": 110100,
-   "elevation": 46,
-   "latitude": 20.891542,
-   "longitude": -156.433119,
-   "bearing": 35.62,
-   "glideslope": 3.0003481,
+   "elevation": 53,
+   "latitude": 20.907217,
+   "longitude": -156.422890,
+   "bearing": 34.83 ,
+   "glideslope": 3.10,
    "receptionRange": 10
  },
  {
