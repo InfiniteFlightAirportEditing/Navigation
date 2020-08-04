@@ -39563,6 +39563,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UUBW",
+   "identifier": "IRT",
+   "associatedRunwayNumber": "30",
+   "frequency": 110900,
+   "elevation": 404,
+   "latitude": 55.53648642,
+   "longitude": 38.18228784,
+   "bearing": 311.66,
+   "glideslope": 3.0031166,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UUDD",
    "identifier": "IDW",
    "associatedRunwayNumber": "14L",
