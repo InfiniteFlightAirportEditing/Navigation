@@ -48933,30 +48933,56 @@
    "type": 5
  },
  {
-   "name": "LOC",
+   "name": "ILS-cat-II",
    "airportICAO": "UTAA",
    "identifier": "ABW",
    "associatedRunwayNumber": "12L",
    "frequency": 108500,
-   "elevation": 692,
-   "latitude": 37.979256,
-   "longitude": 58.390206,
-   "bearing": 119.516,
+   "elevation": 690,
+   "latitude": 38.00027767,
+   "longitude": 58.34304157,
+   "bearing": 119.42,
    "receptionRange": 18,
-   "type": 5
+   "type": 4
  },
  {
-   "name": "LOC",
+   "name": "ILS-cat-III",
+   "airportICAO": "UTAA",
+   "identifier": "IAD",
+   "associatedRunwayNumber": "12R",
+   "frequency": 111100,
+   "elevation": 690,
+   "latitude": 37.98999073,
+   "longitude": 58.33573971,
+   "bearing": 119.47,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-III",
+   "airportICAO": "UTAA",
+   "identifier": "IPQ",
+   "associatedRunwayNumber": "30L",
+   "frequency": 110500,
+   "elevation": 690,
+   "latitude": 37.97316175,
+   "longitude": 58.37352511,
+   "bearing": 299.47,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-II",
    "airportICAO": "UTAA",
    "identifier": "AHD",
    "associatedRunwayNumber": "30R",
    "frequency": 108700,
-   "elevation": 692,
-   "latitude": 38.004822,
-   "longitude": 58.332886,
-   "bearing": 299.495,
+   "elevation": 690,
+   "latitude": 37.98347556,
+   "longitude": 58.38085039,
+   "bearing": 299.42,
    "receptionRange": 18,
-   "type": 5
+   "type": 4
  },
  {
    "name": "LOC",
