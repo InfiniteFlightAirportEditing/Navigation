@@ -39472,6 +39472,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "USUU",
+   "identifier": "IRD",
+   "associatedRunwayNumber": "02",
+   "frequency": 110900,
+   "elevation": 240,
+   "latitude": 55.46495657,
+   "longitude": 65.40480144,
+   "bearing": 30.11,
+   "glideslope": 3.0003011,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "USUU",
+   "identifier": "IUN",
+   "associatedRunwayNumber": "20",
+   "frequency": 109900,
+   "elevation": 240,
+   "latitude": 55.48519144,
+   "longitude": 65.42549741,
+   "bearing": 210.11,
+   "glideslope": 2.6721011,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UTAA",
    "identifier": "ABW",
    "associatedRunwayNumber": "12L",
