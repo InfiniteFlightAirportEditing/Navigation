@@ -37630,11 +37630,11 @@
    "identifier": "IZR",
    "associatedRunwayNumber": "09",
    "frequency": 108100,
-   "elevation": 2838,
-   "latitude": 40.145911,
-   "longitude": 44.377867,
-   "bearing": 90.216,
-   "glideslope": 2.67089608,
+   "elevation": 2837,
+   "latitude": 40.14718969,
+   "longitude": 44.37333647,
+   "bearing": 89.67,
+   "glideslope": 3.0008967,
    "receptionRange": 10
  },
  {
