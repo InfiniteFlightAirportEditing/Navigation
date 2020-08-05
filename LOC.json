@@ -8177,7 +8177,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "FAPE",
    "identifier": "PEI",
    "associatedRunwayNumber": "08",
@@ -8190,7 +8190,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "FAPE",
    "identifier": "PDI",
    "associatedRunwayNumber": "26",
