@@ -43903,6 +43903,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZLDH",
+   "identifier": "IMG",
+   "associatedRunwayNumber": "08",
+   "frequency": 109300,
+   "elevation": 3691,
+   "latitude": 40.16037444,
+   "longitude": 94.79266114,
+   "bearing": 84.15,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZLDH",
+   "identifier": "IDH",
+   "associatedRunwayNumber": "26",
+   "frequency": 108700,
+   "elevation": 3691,
+   "latitude": 40.16348266,
+   "longitude": 94.83236231,
+   "bearing": 264.15,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZLIC",
    "identifier": "ITY",
    "associatedRunwayNumber": "03",
