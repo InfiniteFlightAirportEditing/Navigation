@@ -6696,6 +6696,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "EPMO",
+   "identifier": "IMDX",
+   "associatedRunwayNumber": "08",
+   "frequency": 108300,
+   "elevation": 340,
+   "latitude": 52.44949753,
+   "longitude": 20.63364153,
+   "bearing": 81.24,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "EPPO",
    "identifier": "POZ",
    "associatedRunwayNumber": "28",

@@ -6671,6 +6671,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "EPMO",
+   "identifier": "IMDX",
+   "associatedRunwayNumber": "08",
+   "frequency": 108300,
+   "elevation": 340,
+   "latitude": 52.44949753,
+   "longitude": 20.63364153,
+   "bearing": 81.24,
+   "glideslope": 3.0008124,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "EPPO",
    "identifier": "POZ",
    "associatedRunwayNumber": "28",
