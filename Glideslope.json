@@ -7273,11 +7273,11 @@
    "identifier": "SCD",
    "associatedRunwayNumber": "19",
    "frequency": 108300,
-   "elevation": 21,
-   "latitude": 59.598611,
-   "longitude": 16.635278,
-   "bearing": 192.256,
-   "glideslope": 3.25191628,
+   "elevation": 19,
+   "latitude": 59.60121862,
+   "longitude": 16.63851123,
+   "bearing": 191.65,
+   "glideslope": 3.2519165,
    "receptionRange": 10
  },
  {

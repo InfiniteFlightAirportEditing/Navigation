@@ -7298,9 +7298,9 @@
    "identifier": "SCD",
    "associatedRunwayNumber": "19",
    "frequency": 108300,
-   "elevation": 21,
-   "latitude": 59.575917,
-   "longitude": 16.628194,
+   "elevation": 19,
+   "latitude": 59.60121862,
+   "longitude": 16.63851123,
    "bearing": 191.65,
    "receptionRange": 18,
    "type": 4
