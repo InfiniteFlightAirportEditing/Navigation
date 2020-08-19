@@ -20520,9 +20520,9 @@
    "associatedRunwayNumber": "16",
    "frequency": 111500,
    "elevation": 160,
-   "latitude": 44.57125,
-   "longitude": -124.058361,
-   "bearing": 177.377,
+   "latitude": 44.58684772,
+   "longitude": -124.05938583,
+   "bearing": 177.32,
    "receptionRange": 18,
    "type": 4
  },

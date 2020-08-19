@@ -20535,11 +20535,11 @@
    "identifier": "IONP",
    "associatedRunwayNumber": "16",
    "frequency": 111500,
-   "elevation": 138,
-   "latitude": 44.583819,
-   "longitude": -124.057736,
-   "bearing": 177.716,
-   "glideslope": 3.00177358,
+   "elevation": 160,
+   "latitude": 44.58684772,
+   "longitude": -124.05938583,
+   "bearing": 177.32,
+   "glideslope": 3.0017732,
    "receptionRange": 10
  },
  {
