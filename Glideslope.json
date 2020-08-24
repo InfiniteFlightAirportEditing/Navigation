@@ -35377,32 +35377,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "RPVM",
-   "identifier": "IMT",
-   "associatedRunwayNumber": "04",
-   "frequency": 109900,
-   "elevation": 31,
-   "latitude": 10.298164,
-   "longitude": 123.971533,
-   "bearing": 45.308,
-   "glideslope": 3.10044654,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "RPVM",
-   "identifier": "IMCT",
-   "associatedRunwayNumber": "22",
-   "frequency": 109100,
-   "elevation": 31,
-   "latitude": 10.31545,
-   "longitude": 123.988897,
-   "bearing": 225.308,
-   "glideslope": 3.00224654,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "SAAP",
    "identifier": "PA",
    "associatedRunwayNumber": "19",
