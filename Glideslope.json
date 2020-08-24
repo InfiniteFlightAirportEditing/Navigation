@@ -29336,11 +29336,11 @@
    "identifier": "MOS",
    "associatedRunwayNumber": "33",
    "frequency": 334700,
-   "elevation": 174,
-   "latitude": 43.273325,
-   "longitude": 17.854980,
-   "bearing": 358.77,
-   "glideslope": 3.40358,
+   "elevation": 154,
+   "latitude": 43.2729667,
+   "longitude": 17.8514361,
+   "bearing": 337.83,
+   "glideslope": 3.40337830,
    "receptionRange": 10
  },
  {
