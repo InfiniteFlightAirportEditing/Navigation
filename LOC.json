@@ -36114,7 +36114,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "LOC",
    "airportICAO": "SBJV",
    "identifier": "IJV",
    "associatedRunwayNumber": "33",
@@ -36124,7 +36124,7 @@
    "longitude": -48.804208,
    "bearing": 308.88,
    "receptionRange": 18,
-   "type": 4
+   "type": 5
  },
  {
    "name": "ILS-cat-I",
