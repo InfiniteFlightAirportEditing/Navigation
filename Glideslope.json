@@ -41760,6 +41760,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WAGG",
+   "identifier": "IPLR",
+   "associatedRunwayNumber": "34",
+   "frequency": 111700,
+   "elevation": 85,
+   "latitude": -2.23813762,
+   "longitude": 113.94752917,
+   "bearing": 339.12,
+   "glideslope": 3.00339120,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WAHQ",
    "identifier": "ISLO",
    "associatedRunwayNumber": "26",
