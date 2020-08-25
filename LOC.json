@@ -42785,6 +42785,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZBNY",
+   "identifier": "IOR",
+   "associatedRunwayNumber": "36",
+   "frequency": 107900,
+   "elevation": 131,
+   "latitude": 39.76651444,
+   "longitude:": 116.38748093,
+   "bearing": 356.84,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZBSJ",
    "identifier": "IOO",
    "associatedRunwayNumber": "15",

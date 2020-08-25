@@ -42800,6 +42800,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZBNY",
+   "identifier": "IOR",
+   "associatedRunwayNumber": "36",
+   "frequency": 107900,
+   "elevation": 131,
+   "latitude": 39.76651444,
+   "longitude:": 116.38748093,
+   "bearing": 356.84,
+   "glideslope": 3.0035684,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZBSJ",
    "identifier": "IOO",
    "associatedRunwayNumber": "15",
