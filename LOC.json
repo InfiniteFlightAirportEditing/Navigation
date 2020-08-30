@@ -46307,15 +46307,15 @@
    "type": 5
  },
  {
-   "name": "LOC",
+   "name": "ILS-cat-I",
    "airportICAO": "KEKO",
    "identifier": "IEKO",
-   "associatedRunwayNumber": "23",
+   "associatedRunwayNumber": "24",
    "frequency": 108500,
-   "elevation": 5140,
-   "latitude": 40.822397,
-   "longitude": -115.801211,
-   "bearing": 255.456,
+   "elevation": 5139,
+   "latitude": 40.82653622,
+   "longitude": -115.78055509,
+   "bearing": 248.56,
    "receptionRange": 18,
    "type": 5
  },

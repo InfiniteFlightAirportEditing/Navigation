@@ -13951,6 +13951,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KEKO",
+   "identifier": "IEKO",
+   "associatedRunwayNumber": "24",
+   "frequency": 108500,
+   "elevation": 5139,
+   "latitude": 40.82653622,
+   "longitude": -115.78055509,
+   "bearing": 248.56,
+   "glideslope": 3.0024856,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KEKY",
    "identifier": "IEKY",
    "associatedRunwayNumber": "05",
