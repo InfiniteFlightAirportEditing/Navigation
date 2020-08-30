@@ -46307,7 +46307,7 @@
    "type": 5
  },
  {
-   "name": "ILS-cat-I",
+   "name": "LOC",
    "airportICAO": "KEKO",
    "identifier": "IEKO",
    "associatedRunwayNumber": "24",
