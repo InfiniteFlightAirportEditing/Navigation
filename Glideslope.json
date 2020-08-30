@@ -6177,6 +6177,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ENBS",
+   "identifier": "BT",
+   "associatedRunwayNumber": "22",
+   "frequency": 111100,
+   "elevation": 490,
+   "latitude": 70.60348626,
+   "longitude": 29.70203238,
+   "bearing": 223.99,
+   "glideslope": 4.5022399,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ENCN",
    "identifier": "CN",
    "associatedRunwayNumber": "03",

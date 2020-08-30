@@ -45436,15 +45436,15 @@
    "type": 5
  },
  {
-   "name": "LOC",
+   "name": "ILS-cat-I",
    "airportICAO": "ENBS",
    "identifier": "BT",
-   "associatedRunwayNumber": "21",
+   "associatedRunwayNumber": "22",
    "frequency": 111100,
-   "elevation": 514,
-   "latitude": 70.596292,
-   "longitude": 29.681147,
-   "bearing": 223.97,
+   "elevation": 490,
+   "latitude": 70.60348626,
+   "longitude": 29.70203238,
+   "bearing": 223.99,
    "receptionRange": 18,
    "type": 5
  },
