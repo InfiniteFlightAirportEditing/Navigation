@@ -39277,6 +39277,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "USCM",
+   "identifier": "ICP",
+   "associatedRunwayNumber": "18",
+   "frequency": 109900,
+   "elevation": 1430,
+   "latitude": 53.40719216,
+   "longitude": 58.76244553,
+   "bearing": 196.04,
+   "glideslope": 2.6719604,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "USCM",
+   "identifier": "IRF",
+   "associatedRunwayNumber": "36",
+   "frequency": 108700,
+   "elevation": 1430,
+   "latitude": 53.37908343,
+   "longitude": 58.74888634,
+   "bearing": 16.04,
+   "glideslope": 2.67001604,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "USDD",
    "identifier": "INA",
    "associatedRunwayNumber": "04",

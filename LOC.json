@@ -39300,6 +39300,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "USCM",
+   "identifier": "ICP",
+   "associatedRunwayNumber": "18",
+   "frequency": 109900,
+   "elevation": 1430,
+   "latitude": 53.40719216,
+   "longitude": 58.76244553,
+   "bearing": 196.04,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "USCM",
+   "identifier": "IRF",
+   "associatedRunwayNumber": "36",
+   "frequency": 108700,
+   "elevation": 1430,
+   "latitude": 53.37908343,
+   "longitude": 58.74888634,
+   "bearing": 16.04,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "USDD",
    "identifier": "INA",
    "associatedRunwayNumber": "04",
