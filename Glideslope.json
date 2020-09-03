@@ -9141,6 +9141,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "HKEL",
+   "identifier": "ELL",
+   "associatedRunwayNumber": "08",
+   "frequency": 110500,
+   "elevation": 7050,
+   "latitude": 0.40021508,
+   "longitude": 35.22387422,
+   "bearing": 78.00,
+   "glideslope": 3.0007800,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "HKMO",
    "identifier": "IMI",
    "associatedRunwayNumber": "21",
