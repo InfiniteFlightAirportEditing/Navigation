@@ -41344,6 +41344,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WADL",
+   "associatedRunwayNumber": "13",
+   "identifier": "ILMB",
+   "frequency": 109900,
+   "elevation": 318,
+   "latitude": -8.74940796,
+   "longitude": 116.26556345,
+   "bearing": 129.16,
+   "glideslope": 3.0012916,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WAHH",
    "identifier": "IJOG",
    "associatedRunwayNumber": "09",
