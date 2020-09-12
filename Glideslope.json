@@ -39836,6 +39836,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VEAT",
+   "identifier": "IAGE",
+   "associatedRunwayNumber": "18",
+   "frequency": 110300,
+   "elevation": 56,
+   "latitude": 23.89748389,
+   "longitude": 91.24170438,
+   "bearing": 184.31,
+   "glideslope": 3.0018431,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VEBN",
    "identifier": "IVN",
    "associatedRunwayNumber": "27",
