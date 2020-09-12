@@ -10783,11 +10783,11 @@
    "identifier": "IBJC",
    "associatedRunwayNumber": "30R",
    "frequency": 111700,
-   "elevation": 5572,
-   "latitude": 39.901382,
-   "longitude": -105.101921,
-   "bearing": 304.39,
-   "glideslope": 3.00304397,
+   "elevation": 5673,
+   "latitude": 39.90137814,
+   "longitude": -105.10192972,
+   "bearing": 304.41,
+   "glideslope": 3.0030441,
    "receptionRange": 10
  },
  {
