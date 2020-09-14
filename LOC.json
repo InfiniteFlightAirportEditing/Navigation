@@ -28848,6 +28848,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LKCV",
+   "identifier": "CF",
+   "associatedRunwayNumber": "31",
+   "frequency": 111750,
+   "elevation": 793,
+   "latitude": 49.949600,
+   "longitude": 15.367552,
+   "bearing": 317.00,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LKKB",
    "identifier": "KD",
    "associatedRunwayNumber": "24",
