@@ -36243,7 +36243,7 @@
    "latitude": -23.635205,
    "longitude": -46.650564,
    "bearing": 147.63,
-   "glideslope": 2.90,
+   "glideslope": 2.90147630,
    "receptionRange": 10
  },
  {
@@ -36254,9 +36254,9 @@
    "frequency": 109700,
    "elevation": 2631,
    "latitude": -23.619298,
-   "longitude": -46.661577
+   "longitude": -46.661577,
    "bearing": 327.63,
-   "glideslope": 3.00,
+   "glideslope": 3.00327630,
    "receptionRange": 10
  },
  {
