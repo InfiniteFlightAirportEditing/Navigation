@@ -18063,11 +18063,11 @@
    "identifier": "IDIQ",
    "associatedRunwayNumber": "21L",
    "frequency": 109100,
-   "elevation": 1857,
-   "latitude": 36.242403,
-   "longitude": -115.023006,
-   "bearing": 221.32,
-   "glideslope": 3.0022116,
+   "elevation": 1869,
+   "latitude": 36.245628,
+   "longitude": -115.021772,
+   "bearing": 221.16,
+   "glideslope": 3.00221160,
    "receptionRange": 10
  },
  {
