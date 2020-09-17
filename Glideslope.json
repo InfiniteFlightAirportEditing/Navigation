@@ -29282,11 +29282,11 @@
    "identifier": "ILI",
    "associatedRunwayNumber": "03",
    "frequency": 109100,
-   "elevation": 419,
-   "latitude": 38.769367,
-   "longitude": -9.143831,
-   "bearing": 23.42,
-   "glideslope": 3.0002271,
+   "elevation": 374,
+   "latitude": 38.765689,
+   "longitude": -9.144307,
+   "bearing": 22.66,
+   "glideslope": 3.00022660,
    "receptionRange": 10
  },
  {
