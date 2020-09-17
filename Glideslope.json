@@ -13925,19 +13925,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "KEGE",
-   "identifier": "IESJ",
-   "associatedRunwayNumber": "25",
-   "frequency": 109750,
-   "elevation": 6543,
-   "latitude": 39.64449037,
-   "longitude": -106.90010108,
-   "bearing": 261.916,
-   "glideslope": 3.80261916,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "KEGI",
    "identifier": "IEGI",
    "associatedRunwayNumber": "18",
