@@ -14865,11 +14865,11 @@
    "identifier": "IHVD",
    "associatedRunwayNumber": "05",
    "frequency": 111900,
-   "elevation": 806,
-   "latitude": 40.965653,
-   "longitude": -85.2109,
-   "bearing": 44.316,
-   "glideslope": 3.00044158,
+   "elevation": 812,
+   "latitude": 40.962686,
+   "longitude": -85.212692,
+   "bearing": 44.16,
+   "glideslope": 3.0044160,
    "receptionRange": 10
  },
  {
@@ -14878,11 +14878,11 @@
    "identifier": "IFWA",
    "associatedRunwayNumber": "32",
    "frequency": 109900,
-   "elevation": 798,
-   "latitude": 40.979306,
-   "longitude": -85.186808,
-   "bearing": 315.73,
-   "glideslope": 3.00314865,
+   "elevation": 812,
+   "latitude": 40.978058,
+   "longitude": -85.183083,
+   "bearing": 314.87,
+   "glideslope": 3.00314870,
    "receptionRange": 10
  },
  {
