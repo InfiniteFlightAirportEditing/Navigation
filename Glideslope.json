@@ -31283,14 +31283,14 @@
  {
    "name": "GS",
    "airportICAO": "OAKB",
-   "identifier": "OAKB",
+   "identifier": "IAKW",
    "associatedRunwayNumber": "29",
    "frequency": 110500,
-   "elevation": 5943,
-   "latitude": 34.562944,
-   "longitude": 69.228083,
-   "bearing": 287.8,
-   "glideslope": 3.852874,
+   "elevation": 5876,
+   "latitude": 34.561146,
+   "longitude": 69.230620,
+   "bearing": 287.34,
+   "glideslope": 3.5028734,
    "receptionRange": 10
  },
  {

@@ -31293,13 +31293,13 @@
  {
    "name": "ILS-cat-II",
    "airportICAO": "OAKB",
-   "identifier": "OAKB",
+   "identifier": "IAKW",
    "associatedRunwayNumber": "29",
    "frequency": 110500,
-   "elevation": 5962,
-   "latitude": 34.571194,
-   "longitude": 69.191528,
-   "bearing": 287.326,
+   "elevation": 5876,
+   "latitude": 34.561146,
+   "longitude": 69.230620,
+   "bearing": 287.34,
    "receptionRange": 18,
    "type": 4
  },
