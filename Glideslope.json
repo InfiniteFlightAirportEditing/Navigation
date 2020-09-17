@@ -21989,11 +21989,11 @@
    "identifier": "IPVU",
    "associatedRunwayNumber": "13",
    "frequency": 110300,
-   "elevation": 4492,
-   "latitude": 40.228558,
-   "longitude": -111.729244,
-   "bearing": 146.796,
-   "glideslope": 3.00145898,
+   "elevation": 4497,
+   "latitude": 40.230211,
+   "longitude": -111.732442,
+   "bearing": 145.90,
+   "glideslope": 3.00145900,
    "receptionRange": 10
  },
  {
