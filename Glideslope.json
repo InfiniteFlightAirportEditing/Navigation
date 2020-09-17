@@ -33481,11 +33481,11 @@
    "identifier": "IITO",
    "associatedRunwayNumber": "26",
    "frequency": 110700,
-   "elevation": 37,
-   "latitude": 19.722469,
-   "longitude": -155.032806,
-   "bearing": 270.09,
-   "glideslope": 2.60270045,
+   "elevation": 38,
+   "latitude": 19.721380,
+   "longitude": -155.029298,
+   "bearing": 270.00,
+   "glideslope": 2.60270000,
    "receptionRange": 10
  },
  {
