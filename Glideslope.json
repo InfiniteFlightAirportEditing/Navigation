@@ -40254,11 +40254,11 @@
    "identifier": "IBOM",
    "associatedRunwayNumber": "09",
    "frequency": 109500,
-   "elevation": 37,
-   "latitude": 19.088422,
-   "longitude": 72.847992,
-   "bearing": 89.17,
-   "glideslope": 3.00089166,
+   "elevation": 39,
+   "latitude": 19.088414,
+   "longitude": 72.847916,
+   "bearing": 89.16,
+   "glideslope": 3.00089160,
    "receptionRange": 10
  },
  {
@@ -40267,11 +40267,11 @@
    "identifier": "IBBY",
    "associatedRunwayNumber": "14",
    "frequency": 110100,
-   "elevation": 37,
-   "latitude": 19.098506,
-   "longitude": 72.857294,
-   "bearing": 134.34,
-   "glideslope": 3.00134336,
+   "elevation": 39,
+   "latitude": 19.098492,
+   "longitude": 72.857202,
+   "bearing": 134.28,
+   "glideslope": 3.00134280,
    "receptionRange": 10
  },
  {
