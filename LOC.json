@@ -35179,32 +35179,6 @@
  },
  {
    "name": "ILS-cat-I",
-   "airportICAO": "RPLB",
-   "identifier": "ISBA",
-   "associatedRunwayNumber": "07",
-   "frequency": 109500,
-   "elevation": 47,
-   "latitude": 14.794667,
-   "longitude": 120.2695,
-   "bearing": 62.529,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
-   "airportICAO": "RPLB",
-   "identifier": "ISBI",
-   "associatedRunwayNumber": "25",
-   "frequency": 110900,
-   "elevation": 53,
-   "latitude": 14.795167,
-   "longitude": 120.2755,
-   "bearing": 241.296,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
    "airportICAO": "RPLC",
    "identifier": "ICA",
    "associatedRunwayNumber": "02R",
