@@ -45196,8 +45196,8 @@
    "associatedRunwayNumber": "02L",
    "frequency": 109700,
    "elevation": 1365,
-   "latitude": 29.70517658,
-   "longitude": 106.63671874,
+   "latitude": 29.705174,
+   "longitude": 106.636739,
    "bearing": 16.72,
    "glideslope": 3.0001672,
    "receptionRange": 10
@@ -45209,10 +45209,10 @@
    "associatedRunwayNumber": "02R",
    "frequency": 108900,
    "elevation": 1365,
-   "latitude": 29.70475242,
-   "longitude": 106.64068547,
-   "bearing": 16.7,
-   "glideslope": 3.000167,
+   "latitude": 29.704703,
+   "longitude": 106.640716,
+   "bearing": 16.61,
+   "glideslope": 3.0001661,
    "receptionRange": 10
  },
  {
@@ -45222,10 +45222,10 @@
    "associatedRunwayNumber": "03",
    "frequency": 108500,
    "elevation": 1365,
-   "latitude": 29.71419167,
-   "longitude": 106.66138797,
-   "bearing": 16.78,
-   "glideslope": 3.0001678,
+   "latitude": 29.714274,
+   "longitude": 106.66139,
+   "bearing": 16.84,
+   "glideslope": 3.0001684,
    "receptionRange": 10
  },
  {
@@ -45235,10 +45235,10 @@
    "associatedRunwayNumber": "20L",
    "frequency": 110100,
    "elevation": 1365,
-   "latitude": 29.73578393,
-   "longitude": 106.65140324,
-   "bearing": 196.7,
-   "glideslope": 3.001967,
+   "latitude": 29.735805,
+   "longitude": 106.651399,
+   "bearing": 196.61,
+   "glideslope": 3.0019661,
    "receptionRange": 10
  },
  {
@@ -45248,8 +45248,8 @@
    "associatedRunwayNumber": "20R",
    "frequency": 108100,
    "elevation": 1365,
-   "latitude": 29.73281375,
-   "longitude": 106.64627783,
+   "latitude": 29.732804,
+   "longitude": 106.646295,
    "bearing": 196.72,
    "glideslope": 3.0019672,
    "receptionRange": 10
@@ -45261,10 +45261,10 @@
    "associatedRunwayNumber": "21",
    "frequency": 110500,
    "elevation": 1365,
-   "latitude": 29.7471683,
-   "longitude": 106.67283496,
-   "bearing": 196.78,
-   "glideslope": 3.0019678,
+   "latitude": 29.747116,
+   "longitude": 106.67284,
+   "bearing": 196.84,
+   "glideslope": 3.0019684,
    "receptionRange": 10
  },
  {
