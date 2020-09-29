@@ -31104,11 +31104,11 @@
    "identifier": "IAA",
    "associatedRunwayNumber": "05R",
    "frequency": 110300,
-   "elevation": 20,
-   "latitude": -37.01705222,
-   "longitude": 174.76809542,
-   "bearing": 70.95,
-   "glideslope": 3.0007095,
+   "elevation": 22,
+   "latitude": -37.01744306,
+   "longitude": 174.76671404,
+   "bearing": 70.91,
+   "glideslope": 3.0007091,
    "receptionRange": 10
  },
  {
@@ -31117,11 +31117,11 @@
    "identifier": "IMG",
    "associatedRunwayNumber": "23L",
    "frequency": 109900,
-   "elevation": 20,
-   "latitude": -37.00667023,
-   "longitude": 174.80575627,
-   "bearing": 250.95,
-   "glideslope": 3.0025095,
+   "elevation": 22,
+   "latitude": -37.00665295,
+   "longitude": 174.80576229,
+   "bearing": 250.91,
+   "glideslope": 3.0025091,
    "receptionRange": 10
  },
  {
