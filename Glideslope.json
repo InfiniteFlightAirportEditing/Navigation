@@ -31388,11 +31388,11 @@
    "identifier": "IBHA",
    "associatedRunwayNumber": "25",
    "frequency": 110500,
-   "elevation": 5486,
-   "latitude": 20.298417,
-   "longitude": 41.645003,
-   "bearing": 251.57,
-   "glideslope": 3.00250785,
+   "elevation": 5459,
+   "latitude": 20.303284,
+   "longitude": 41.651014,
+   "bearing": 250.77,
+   "glideslope": 3.0025077,
    "receptionRange": 10
  },
  {
