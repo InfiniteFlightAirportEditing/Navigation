@@ -1374,8 +1374,8 @@
    "elevation": 564,
    "latitude": 43.674131,
    "longitude": -79.664113,
-   "bearing": 46.41,
-   "glideslope": 3.0004641,
+   "bearing": 46.4,
+   "glideslope": 3.000464,
    "receptionRange": 10
  },
  {
@@ -1399,7 +1399,7 @@
    "frequency": 111950,
    "elevation": 564,
    "latitude": 43.658297,
-   "longitude": -79.621950,
+   "longitude": -79.62195,
    "bearing": 46.44,
    "glideslope": 3.0004644,
    "receptionRange": 10
@@ -1407,7 +1407,7 @@
  {
    "name": "GS",
    "airportICAO": "CYYZ",
-   "identifier": "ILW",
+   "identifier": "IRW",
    "associatedRunwayNumber": "15L",
    "frequency": 110500,
    "elevation": 564,
@@ -1437,10 +1437,10 @@
    "associatedRunwayNumber": "23",
    "frequency": 111500,
    "elevation": 564,
-   "latitude": 43.695160,
+   "latitude": 43.69516,
    "longitude": -79.633572,
-   "bearing": 226.41,
-   "glideslope": 3.0022641,
+   "bearing": 226.4,
+   "glideslope": 3.002264,
    "receptionRange": 10
  },
  {
@@ -1464,7 +1464,7 @@
    "frequency": 109300,
    "elevation": 564,
    "latitude": 43.679359,
-   "longitude": -79.596830,
+   "longitude": -79.59683,
    "bearing": 226.44,
    "glideslope": 3.0022644,
    "receptionRange": 10
@@ -1476,8 +1476,8 @@
    "associatedRunwayNumber": "33L",
    "frequency": 110950,
    "elevation": 564,
-   "latitude": 43.667953,
-   "longitude": -79.629067,
+   "latitude": 43.667952,
+   "longitude": -79.629064,
    "bearing": 316.63,
    "glideslope": 3.0031663,
    "receptionRange": 10
