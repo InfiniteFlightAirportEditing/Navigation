@@ -39899,13 +39899,13 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "VERC",
-   "identifier": "RAN",
+   "identifier": "IRAN",
    "associatedRunwayNumber": "31",
    "frequency": 110500,
    "elevation": 2148,
-   "latitude": 23.324222,
-   "longitude": 85.309667,
-   "bearing": 310.647,
+   "latitude": 23.30658156,
+   "longitude": 85.331858,
+   "bearing": 311.49,
    "receptionRange": 18,
    "type": 4
  },

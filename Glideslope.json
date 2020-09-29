@@ -39928,14 +39928,14 @@
  {
    "name": "GS",
    "airportICAO": "VERC",
-   "identifier": "RAN",
+   "identifier": "IRAN",
    "associatedRunwayNumber": "31",
    "frequency": 110500,
    "elevation": 2148,
-   "latitude": 23.3095,
-   "longitude": 85.330417,
-   "bearing": 310.698,
-   "glideslope": 3.00310349,
+   "latitude": 23.30658156,
+   "longitude": 85.331858,
+   "bearing": 311.49,
+   "glideslope": 3.0031149,
    "receptionRange": 10
  },
  {
