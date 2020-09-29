@@ -8847,23 +8847,10 @@
    "associatedRunwayNumber": "25L",
    "frequency": 112900,
    "elevation": 7625,
-   "latitude": 8.971289,
-   "longitude": 38.779842,
-   "bearing": 253.53,
-   "glideslope": 3.00,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "HAAB",
-   "identifier": "ADS",
-   "associatedRunwayNumber": "25R",
-   "frequency": 112900,
-   "elevation": 7625,
-   "latitude": 8.973335,
-   "longitude": 38.780205,
-   "bearing": 253.57,
-   "glideslope": 3.00,
+   "latitude": 8.981989,
+   "longitude": 38.816642,
+   "bearing": 253.56,
+   "glideslope": 3253560,
    "receptionRange": 10
  },
  {
