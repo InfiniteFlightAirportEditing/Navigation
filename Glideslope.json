@@ -22832,13 +22832,13 @@
    "name": "GS",
    "airportICAO": "KSAN",
    "identifier": "ISAN",
-   "associatedRunwayNumber": "09",
+   "associatedRunwayNumber": "9",
    "frequency": 111550,
    "elevation": 17,
-   "latitude": 32.73710876,
-   "longitude": -117.2043641,
-   "bearing": 106.08,
-   "glideslope": 3.1010608,
+   "latitude": 32.737163,
+   "longitude": -117.204374,
+   "bearing": 106.14,
+   "glideslope": 3.1010614,
    "receptionRange": 10
  },
  {
