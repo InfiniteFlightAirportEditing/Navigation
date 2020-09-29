@@ -2606,8 +2606,8 @@
    "associatedRunwayNumber": "08L",
    "frequency": 109500,
    "elevation": 1484,
-   "latitude": 48.36275393,
-   "longitude": 11.76745809,
+   "latitude": 48.36277,
+   "longitude": 11.767463,
    "bearing": 83.41,
    "receptionRange": 18,
    "type": 4
@@ -2619,8 +2619,8 @@
    "associatedRunwayNumber": "08R",
    "frequency": 109300,
    "elevation": 1484,
-   "latitude": 48.34065573,
-   "longitude": 11.75092745,
+   "latitude": 48.340672,
+   "longitude": 11.750932,
    "bearing": 83.39,
    "receptionRange": 18,
    "type": 4
@@ -2632,8 +2632,8 @@
    "associatedRunwayNumber": "26L",
    "frequency": 108300,
    "elevation": 1484,
-   "latitude": 48.34479743,
-   "longitude": 11.8047239,
+   "latitude": 48.344813,
+   "longitude": 11.804729,
    "bearing": 263.39,
    "receptionRange": 18,
    "type": 4
@@ -2645,8 +2645,8 @@
    "associatedRunwayNumber": "26R",
    "frequency": 108700,
    "elevation": 1484,
-   "latitude": 48.36688634,
-   "longitude": 11.82127949,
+   "latitude": 48.366902,
+   "longitude": 11.821284,
    "bearing": 263.41,
    "receptionRange": 18,
    "type": 4
