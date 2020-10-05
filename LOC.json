@@ -326,6 +326,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "CYFB",
+   "identifier": "IFB",
+   "associatedRunwayNumber": "34",
+   "frequency": 109900,
+   "elevation": 110,
+   "latitude": 63.76631959,
+   "longitude": -68.57760128,
+   "bearing": 315.68,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "CYFC",
    "identifier": "IDC",
    "associatedRunwayNumber": "09",
