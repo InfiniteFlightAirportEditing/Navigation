@@ -38497,6 +38497,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ULDW",
+   "identifier": "IWR",
+   "associatedRunwayNumber": "04",
+   "frequency": 108500,
+   "elevation": 6,
+   "latitude": 68.84489364,
+   "longitude": 58.18089569,
+   "bearing": 64.01,
+   "glideslope": 2.6706401,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ULLI",
    "identifier": "IPU",
    "associatedRunwayNumber": "10L",

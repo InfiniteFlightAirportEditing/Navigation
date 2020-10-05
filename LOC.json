@@ -38506,6 +38506,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "ULDW",
+   "identifier": "IWR",
+   "associatedRunwayNumber": "04",
+   "frequency": 108500,
+   "elevation": 6,
+   "latitude": 68.84489364,
+   "longitude": 58.18089569,
+   "bearing": 64.01,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "ULLI",
    "identifier": "IPU",
