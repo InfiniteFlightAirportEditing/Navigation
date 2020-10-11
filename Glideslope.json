@@ -23577,11 +23577,11 @@
    "identifier": "ISLE",
    "associatedRunwayNumber": "31",
    "frequency": 110300,
-   "elevation": 210,
-   "latitude": 44.905667,
-   "longitude": -122.9964,
-   "bearing": 330.342,
-   "glideslope": 3.00330171,
+   "elevation": 213,
+   "latitude": 44.9030605,
+   "longitude": -122.9960829,
+   "bearing": 330.18,
+   "glideslope": 3.0033018,
    "receptionRange": 10
  },
  {
