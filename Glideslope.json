@@ -14137,11 +14137,11 @@
    "identifier": "IADE",
    "associatedRunwayNumber": "16L",
    "frequency": 111750,
-   "elevation": 357,
-   "latitude": 44.1311173,
-   "longitude": -123.201271,
-   "bearing": 179.64,
-   "glideslope": 3.0017932,
+   "elevation": 374,
+   "latitude": 44.13298033,
+   "longitude": -123.20274439,
+   "bearing": 179.39,
+   "glideslope": 3.0017939,
    "receptionRange": 10
  },
  {
@@ -14150,11 +14150,11 @@
    "identifier": "IEUG",
    "associatedRunwayNumber": "16R",
    "frequency": 110100,
-   "elevation": 357,
-   "latitude": 44.132831,
-   "longitude": -123.220639,
-   "bearing": 179.78,
-   "glideslope": 3.0017939,
+   "elevation": 374,
+   "latitude": 44.13544892,
+   "longitude": -123.21916517,
+   "bearing": 179.38,
+   "glideslope": 3.0017938,
    "receptionRange": 10
  },
  {
