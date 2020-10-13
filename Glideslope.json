@@ -43113,14 +43113,27 @@
  {
    "name": "GS",
    "airportICAO": "ZGNN",
+   "identifier": "IXU",
+   "associatedRunwayNumber": "5",
+   "frequency": 108900,
+   "elevation": 420,
+   "latitude": 22.59862243,
+   "longitude": 108.16413615,
+   "bearing": 46.67,
+   "glideslope": 3.0004667,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZGNN",
    "identifier": "IUY",
-   "associatedRunwayNumber": "05",
+   "associatedRunwayNumber": "23",
    "frequency": 110900,
    "elevation": 420,
-   "latitude": 22.600708,
-   "longitude": 108.165703,
-   "bearing": 47.35,
-   "glideslope": 3.00046675,
+   "latitude": 22.61837161,
+   "longitude": 108.18681424,
+   "bearing": 226.67,
+   "glideslope": 3.0022667,
    "receptionRange": 10
  },
  {
