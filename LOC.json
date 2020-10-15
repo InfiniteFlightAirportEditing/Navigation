@@ -39078,6 +39078,32 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-II",
+   "airportICAO": "URKK",
+   "identifier": "IKR",
+   "associatedRunwayNumber": "05R",
+   "frequency": 110700,
+   "elevation": 118,
+   "latitude": 45.02608427,
+   "longitude": 39.17303288,
+   "bearing": 52.5,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-II",
+   "airportICAO": "URKK",
+   "identifier": "ILD",
+   "associatedRunwayNumber": "23L",
+   "frequency": 109500,
+   "elevation": 118,
+   "latitude": 45.04248831,
+   "longitude": 39.20328428,
+   "bearing": 232.5,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "URMG",
    "identifier": "IWK",
