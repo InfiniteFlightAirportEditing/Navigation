@@ -16204,11 +16204,11 @@
    "identifier": "IHWV",
    "associatedRunwayNumber": "06",
    "frequency": 108950,
-   "elevation": 67,
-   "latitude": 40.822814,
-   "longitude": -72.869917,
-   "bearing": 45.768,
-   "glideslope": 3.00044884,
+   "elevation": 81,
+   "latitude": 40.82160831,
+   "longitude": -72.87292019,
+   "bearing": 44.89,
+   "glideslope": 3.0004489,
    "receptionRange": 10
  },
  {
