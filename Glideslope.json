@@ -27659,11 +27659,11 @@
    "identifier": "CN",
    "associatedRunwayNumber": "31",
    "frequency": 110950,
-   "elevation": 233,
-   "latitude": 49.173322,
-   "longitude": -0.447111,
-   "bearing": 305.698,
-   "glideslope": 3.00305349,
+   "elevation": 256,
+   "latitude": 49.17108105,
+   "longitude": -0.44511727,
+   "bearing": 305.35,
+   "glideslope": 3.0030535,
    "receptionRange": 10
  },
  {
