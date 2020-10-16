@@ -35108,9 +35108,9 @@
    "identifier": "IOK",
    "associatedRunwayNumber": "36",
    "frequency": 110300,
-   "elevation": 12,
-   "latitude": 26.182272,
-   "longitude": 127.646506,
+   "elevation": 11,
+   "latitude": 26.18227651,
+   "longitude": 127.64650621,
    "bearing": 357.59,
    "glideslope": 3.0035759,
    "receptionRange": 10
