@@ -40445,6 +40445,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VOTP",
+   "identifier": "ITPY",
+   "associatedRunwayNumber": "26",
+   "frequency": 111300,
+   "elevation": 352,
+   "latitude": 13.63413619,
+   "longitude": 79.55404241,
+   "bearing": 261.47,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VOTR",
    "identifier": "ITCY",
    "associatedRunwayNumber": "27",

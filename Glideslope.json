@@ -40473,6 +40473,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VOTP",
+   "identifier": "ITPY",
+   "associatedRunwayNumber": "26",
+   "frequency": 111300,
+   "elevation": 352,
+   "latitude": 13.63413619,
+   "longitude": 79.55404241,
+   "bearing": 261.47,
+   "glideslope": 3.0026147,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VOTR",
    "identifier": "ITCY",
    "associatedRunwayNumber": "27",
