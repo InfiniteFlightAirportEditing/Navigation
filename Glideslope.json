@@ -18975,11 +18975,11 @@
    "identifier": "IMHK",
    "associatedRunwayNumber": "03",
    "frequency": 111300,
-   "elevation": 1046,
-   "latitude": 39.135283,
-   "longitude": -96.678033,
-   "bearing": 40.586,
-   "glideslope": 3.00039793,
+   "elevation": 1066,
+   "latitude": 39.13155669,
+   "longitude": -96.68021615,
+   "bearing": 39.79,
+   "glideslope": 3.0003979,
    "receptionRange": 10
  },
  {
