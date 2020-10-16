@@ -28040,7 +28040,7 @@
    "latitude": 40.52414012,
    "longitude": 22.94762355,
    "bearing": 104,
-   "glideslope": 3.0010400,
+   "glideslope": 3.00104000,
    "receptionRange": 10
  },
  {
@@ -28050,7 +28050,7 @@
    "associatedRunwayNumber": "16",
    "frequency": 110300,
    "elevation": 21,
-   "latitude": 40.53038625,
+   "latitude": 40.5308625,
    "longitude": 22.96758398,
    "bearing": 166.44,
    "glideslope": 3.00166440,
