@@ -16828,11 +16828,11 @@
    "identifier": "IISM",
    "associatedRunwayNumber": "15",
    "frequency": 109750,
-   "elevation": 80,
-   "latitude": 28.293675,
-   "longitude": -81.440839,
-   "bearing": 148.432,
-   "glideslope": 3.00148216,
+   "elevation": 82,
+   "latitude": 28.29623503,
+   "longitude": -81.44168711,
+   "bearing": 148.22,
+   "glideslope": 3.0014822,
    "receptionRange": 10
  },
  {
