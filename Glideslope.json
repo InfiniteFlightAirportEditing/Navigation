@@ -29699,12 +29699,12 @@
    "airportICAO": "LSZA",
    "identifier": "ILU",
    "associatedRunwayNumber": "01",
-   "frequency": 111500,
-   "elevation": 928,
-   "latitude": 46.000517,
-   "longitude": 8.909631,
-   "bearing": 20.98,
-   "glideslope": 6.0001999,
+   "frequency": 108900,
+   "elevation": 915,
+   "latitude": 45.99853525,
+   "longitude": 8.9077716,
+   "bearing": 18.79,
+   "glideslope": 6.0001879,
    "receptionRange": 10
  },
  {
