@@ -16225,6 +16225,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KHYS",
+   "identifier": "HYS",
+   "associatedRunwayNumber": "34",
+   "frequency": 110400,
+   "elevation": 1999,
+   "latitude": 38.83542076,
+   "longitude": -99.27132342,
+   "bearing": 347.44,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KHYX",
    "identifier": "IHQW",
    "associatedRunwayNumber": "9",
