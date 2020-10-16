@@ -20184,11 +20184,11 @@
    "identifier": "IRRG",
    "associatedRunwayNumber": "21",
    "frequency": 109300,
-   "elevation": 1,
-   "latitude": 34.128158,
-   "longitude": -119.110356,
-   "bearing": 224.018,
-   "glideslope": 3.00224009,
+   "elevation": 13,
+   "latitude": 34.1304595,
+   "longitude": -119.1091047,
+   "bearing": 227.69,
+   "glideslope": 3.0022769,
    "receptionRange": 10
  },
  {
