@@ -19391,11 +19391,11 @@
    "identifier": "IMMV",
    "associatedRunwayNumber": "22",
    "frequency": 110900,
-   "elevation": 160,
-   "latitude": 45.197397,
-   "longitude": -123.133156,
-   "bearing": 237.222,
-   "glideslope": 3.00237111,
+   "elevation": 163,
+   "latitude": 45.19982254,
+   "longitude": -123.13050471,
+   "bearing": 237.12,
+   "glideslope": 3.0023712,
    "receptionRange": 10
  },
  {
