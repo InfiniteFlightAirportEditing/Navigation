@@ -43519,11 +43519,11 @@
    "identifier": "IKQ",
    "associatedRunwayNumber": "18",
    "frequency": 108500,
-   "elevation": 6387,
-   "latitude": 36.52853394,
-   "longitude": 103.62106323,
-   "bearing": 177.75,
-   "glideslope": 3.00177375,
+   "elevation": 6388,
+   "latitude": 36.53145395,
+   "longitude": 103.61971612,
+   "bearing": 177.12,
+   "glideslope": 3.0017712,
    "receptionRange": 10
  },
  {
@@ -43532,11 +43532,11 @@
    "identifier": "IYY",
    "associatedRunwayNumber": "36",
    "frequency": 109300,
-   "elevation": 6336,
-   "latitude": 36.50173187,
-   "longitude": 103.62283325,
-   "bearing": 357.75,
-   "glideslope": 3.00357375,
+   "elevation": 6388,
+   "latitude": 36.49545548,
+   "longitude": 103.62196959,
+   "bearing": 357.12,
+   "glideslope": 3.00357125,
    "receptionRange": 10
  },
  {
