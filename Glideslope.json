@@ -10415,6 +10415,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KBDH",
+   "identifier": "BDH",
+   "associatedRunwayNumber": "13",
+   "frequency": 113700,
+   "elevation": 1125,
+   "latitude": 45.12256622,
+   "longitude": -95.14053544,
+   "bearing": 129.83,
+   "glideslope": 3.0012983,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KBDL",
    "identifier": "IBDL",
    "associatedRunwayNumber": "06",
@@ -20004,7 +20017,7 @@
    "frequency": 109500,
    "elevation": 2,
    "latitude": 29.82350639,
-   "longitude": -090.03729931,
+   "longitude": -90.03729931,
    "bearing": 44.12,
    "glideslope": 3.0004412,
    "receptionRange": 10
