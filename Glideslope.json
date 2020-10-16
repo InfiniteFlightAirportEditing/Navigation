@@ -18858,11 +18858,11 @@
    "identifier": "IMFR",
    "associatedRunwayNumber": "14",
    "frequency": 110300,
-   "elevation": 1292,
-   "latitude": 42.383753,
-   "longitude": -122.876503,
-   "bearing": 159.674,
-   "glideslope": 3.00158837,
+   "elevation": 1334,
+   "latitude": 42.38621961,
+   "longitude": -122.87920384,
+   "bearing": 158.85,
+   "glideslope": 3.0015885,
    "receptionRange": 10
  },
  {
