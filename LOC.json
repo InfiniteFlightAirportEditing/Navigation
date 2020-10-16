@@ -39846,6 +39846,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VEDG",
+   "identifier": "IDPR",
+   "associatedRunwayNumber": "16",
+   "frequency": 110900,
+   "elevation": 302,
+   "latitude": 23.63428617,
+   "longitude": 87.23786536,
+   "bearing": 158.38,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VEGT",
    "identifier": "IGHT",
    "associatedRunwayNumber": "02",
