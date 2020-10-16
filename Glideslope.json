@@ -20002,11 +20002,11 @@
    "identifier": "INBG",
    "associatedRunwayNumber": "04",
    "frequency": 109500,
-   "elevation": 3,
-   "latitude": 29.830181,
-   "longitude": -90.031811,
-   "bearing": 44.198,
-   "glideslope": 3.00044099,
+   "elevation": 2,
+   "latitude": 29.82350639,
+   "longitude": -090.03729931,
+   "bearing": 44.12,
+   "glideslope": 3.0004412,
    "receptionRange": 10
  },
  {
