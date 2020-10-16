@@ -17751,11 +17751,11 @@
    "identifier": "ILFK",
    "associatedRunwayNumber": "07",
    "frequency": 111300,
-   "elevation": 284,
-   "latitude": 31.235817,
-   "longitude": -94.754853,
-   "bearing": 75.36,
-   "glideslope": 3.0007518,
+   "elevation": 295,
+   "latitude": 31.23428181,
+   "longitude": -94.75744903,
+   "bearing": 75.19,
+   "glideslope": 3.0007519,
    "receptionRange": 10
  },
  {
