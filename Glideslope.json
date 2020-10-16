@@ -28812,6 +28812,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LKCV",
+   "identifier": "CF",
+   "associatedRunwayNumber": "31",
+   "frequency": 111750,
+   "elevation": 792,
+   "latitude": 49.93163953,
+   "longitude": 15.39327794,
+   "bearing": 317.33,
+   "glideslope": 3.0031733,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LKKB",
    "identifier": "KD",
    "associatedRunwayNumber": "24",
@@ -35108,9 +35121,9 @@
    "identifier": "IOK",
    "associatedRunwayNumber": "36",
    "frequency": 110300,
-   "elevation": 11,
-   "latitude": 26.18227651,
-   "longitude": 127.64650621,
+   "elevation": 12,
+   "latitude": 26.182272,
+   "longitude": 127.646506,
    "bearing": 357.59,
    "glideslope": 3.0035759,
    "receptionRange": 10
