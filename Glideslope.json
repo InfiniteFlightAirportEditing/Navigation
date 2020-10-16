@@ -44937,11 +44937,24 @@
    "identifier": "IJA",
    "associatedRunwayNumber": "09",
    "frequency": 108700,
-   "elevation": 624,
-   "latitude": 42.881514,
-   "longitude": 129.439139,
-   "bearing": 82.308,
-   "glideslope": 3.00081654,
+   "elevation": 623,
+   "latitude": 42.88115095,
+   "longitude": 129.43559699,
+   "bearing": 81.73,
+   "glideslope": 3.0008173,
+   "receptionRange": 10
+ }
+ {
+   "name": "GS",
+   "airportICAO": "ZYYJ",
+   "identifier": "IYJ",
+   "associatedRunwayNumber": "27",
+   "frequency": 109300,
+   "elevation": 623,
+   "latitude": 42.88450832,
+   "longitude": 129.46712541,
+   "bearing": 261.73,
+   "glideslope": 3.0026173,
    "receptionRange": 10
  }
 ]
