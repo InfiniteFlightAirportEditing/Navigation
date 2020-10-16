@@ -19378,11 +19378,11 @@
    "identifier": "IMMU",
    "associatedRunwayNumber": "23",
    "frequency": 110300,
-   "elevation": 184,
-   "latitude": 40.803647,
-   "longitude": -74.407914,
-   "bearing": 216.592,
-   "glideslope": 3.00216296,
+   "elevation": 186,
+   "latitude": 40.80641194,
+   "longitude": -74.40647661,
+   "bearing": 216.02,
+   "glideslope": 3.0021602,
    "receptionRange": 10
  },
  {
