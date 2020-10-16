@@ -26346,11 +26346,11 @@
    "identifier": "BD",
    "associatedRunwayNumber": "23",
    "frequency": 110300,
-   "elevation": 152,
-   "latitude": 44.837819,
-   "longitude": -0.704939,
-   "bearing": 225.984,
-   "glideslope": 3.00225492,
+   "elevation": 166,
+   "latitude": 44.83867114,
+   "longitude": -0.70100686,
+   "bearing": 225.36,
+   "glideslope": 3.0022536,
    "receptionRange": 10
  },
  {
@@ -26359,11 +26359,11 @@
    "identifier": "BEI",
    "associatedRunwayNumber": "29",
    "frequency": 111150,
-   "elevation": 158,
-   "latitude": 44.825217,
-   "longitude": -0.703878,
-   "bearing": 286.924,
-   "glideslope": 3.00286462,
+   "elevation": 166,
+   "latitude": 44.82537502,
+   "longitude": -0.69989031,
+   "bearing": 286.47,
+   "glideslope": 3.0028647,
    "receptionRange": 10
  },
  {
