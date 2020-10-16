@@ -29341,28 +29341,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
-   "airportICAO": "LRAR",
-   "identifier": "IAR",
-   "associatedRunwayNumber": "09",
-   "frequency": 109900,
-   "elevation": 347,
-   "latitude": 46.175419,
-   "longitude": 21.279706,
-   "bearing": 95.301,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "LRAR",
    "identifier": "IAD",
    "associatedRunwayNumber": "27",
    "frequency": 110700,
-   "elevation": 347,
-   "latitude": 46.178069,
-   "longitude": 21.245356,
-   "bearing": 276.531,
+   "elevation": 353,
+   "latitude": 46.1757199,
+   "longitude": 21.2749272,
+   "bearing": 275.33,
    "receptionRange": 18,
    "type": 4
  },

@@ -29346,27 +29346,14 @@
  {
    "name": "GS",
    "airportICAO": "LRAR",
-   "identifier": "IAR",
-   "associatedRunwayNumber": "09",
-   "frequency": 109900,
-   "elevation": 347,
-   "latitude": 46.178411,
-   "longitude": 21.254153,
-   "bearing": 95.602,
-   "glideslope": 2.50095301,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "LRAR",
    "identifier": "IAD",
    "associatedRunwayNumber": "27",
    "frequency": 110700,
-   "elevation": 347,
-   "latitude": 46.177053,
-   "longitude": 21.271067,
-   "bearing": 275.602,
-   "glideslope": 3.00275301,
+   "elevation": 353,
+   "latitude": 46.1757199,
+   "longitude": 21.2749272,
+   "bearing": 275.33,
+   "glideslope": 3.0027533,
    "receptionRange": 10
  },
  {
