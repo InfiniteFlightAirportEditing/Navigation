@@ -29514,6 +29514,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LRSV",
+   "identifier": "ISV",
+   "associatedRunwayNumber": "34",
+   "frequency": 110100,
+   "elevation": 1375,
+   "latitude": 47.67592667,
+   "longitude": 26.35922457,
+   "bearing": 343.2,
+   "glideslope": 3.003432,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LRTM",
    "identifier": "ITM",
    "associatedRunwayNumber": "07",
