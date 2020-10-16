@@ -46256,6 +46256,19 @@
  },
  {
    "name": "LOC",
+   "airportICAO": "KDLS",
+   "identifier": "IDLS",
+   "associatedRunwayNumber": "25",
+   "frequency": 109350,
+   "elevation": 246,
+   "latitude": 45.62125134,
+   "longitude": -121.1598725,
+   "bearing": 267.99,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
+   "name": "LOC",
    "airportICAO": "KDRI",
    "identifier": "IDRI",
    "associatedRunwayNumber": "36",
