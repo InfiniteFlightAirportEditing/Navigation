@@ -46009,6 +46009,19 @@
  },
  {
    "name": "LOC",
+   "airportICAO": "KAXH",
+   "identifier": "IAXH",
+   "associatedRunwayNumber": "09",
+   "frequency": 108900,
+   "elevation": 68,
+   "latitude": 29.50664868,
+   "longitude": -95.48477275,
+   "bearing": 94.26,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
+   "name": "LOC",
    "airportICAO": "KBFF",
    "identifier": "IRMT",
    "associatedRunwayNumber": "12",
