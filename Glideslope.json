@@ -43606,6 +43606,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZMCK",
+   "identifier": "CDA",
+   "associatedRunwayNumber": "29",
+   "frequency": 109900,
+   "elevation": 4485,
+   "latitude": 47.64281918,
+   "longitude": 106.84308274,
+   "bearing": 284.72,
+   "glideslope": 3.0028472,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZMUB",
    "identifier": "IDA",
    "associatedRunwayNumber": "14",

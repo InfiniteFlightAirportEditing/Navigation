@@ -43565,6 +43565,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZMCK",
+   "identifier": "CDA",
+   "associatedRunwayNumber": "29",
+   "frequency": 109900,
+   "elevation": 4485,
+   "latitude": 47.64281918,
+   "longitude": 106.84308274,
+   "bearing": 284.72,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZMUB",
    "identifier": "IDA",
    "associatedRunwayNumber": "14",
