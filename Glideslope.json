@@ -19274,11 +19274,11 @@
    "identifier": "IMKT",
    "associatedRunwayNumber": "33",
    "frequency": 108700,
-   "elevation": 1019,
-   "latitude": 44.219553,
-   "longitude": -93.914286,
-   "bearing": 335.4,
-   "glideslope": 3.003347,
+   "elevation": 1020,
+   "latitude": 44.21685766,
+   "longitude": -93.91385388,
+   "bearing": 334.64,
+   "glideslope": 3.0033464,
    "receptionRange": 10
  },
  {
