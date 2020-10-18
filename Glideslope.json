@@ -38209,33 +38209,7 @@
    "glideslope": 3.00005728,
    "receptionRange": 10
  },
- {
-   "name": "GS",
-   "airportICAO": "UKFF",
-   "identifier": "ISN",
-   "associatedRunwayNumber": "01",
-   "frequency": 109300,
-   "elevation": 639,
-   "latitude": 45.038889,
-   "longitude": 33.968333,
-   "bearing": 13.6,
-   "glideslope": 3.000133,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "UKFF",
-   "identifier": "ISF",
-   "associatedRunwayNumber": "19",
-   "frequency": 111100,
-   "elevation": 639,
-   "latitude": 45.065833,
-   "longitude": 33.9775,
-   "bearing": 193.6,
-   "glideslope": 3.001933,
-   "receptionRange": 10
- },
- {
+{
    "name": "GS",
    "airportICAO": "UKHH",
    "identifier": "IHR",

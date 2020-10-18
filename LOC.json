@@ -38219,33 +38219,7 @@
    "receptionRange": 18,
    "type": 4
  },
- {
-   "name": "ILS-cat-I",
-   "airportICAO": "UKFF",
-   "identifier": "ISN",
-   "associatedRunwayNumber": "1",
-   "frequency": 109300,
-   "elevation": 639,
-   "latitude": 45.0694811,
-   "longitude": 33.97908256,
-   "bearing": 13.3,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
-   "airportICAO": "UKFF",
-   "identifier": "ISF",
-   "associatedRunwayNumber": "19",
-   "frequency": 111100,
-   "elevation": 639,
-   "latitude": 45.03487962,
-   "longitude": 33.96750453,
-   "bearing": 193.3,
-   "receptionRange": 18,
-   "type": 4
- },
- {
+{
    "name": "ILS-cat-I",
    "airportICAO": "UKHH",
    "identifier": "IHR",
