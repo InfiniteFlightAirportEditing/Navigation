@@ -37761,10 +37761,10 @@
    "associatedRunwayNumber": "01",
    "frequency": 370000,
    "elevation": 82,
-   "latitude": 50.594655,
-   "longitude": 137.081324,
+   "latitude": 50.59465533,
+   "longitude": 137.08132468,
    "bearing": 0.01,
-   "glideslope": 3.5000001,
+   "glideslope": 3.8300001,
    "receptionRange": 10
  },
  {
@@ -37774,10 +37774,10 @@
    "associatedRunwayNumber": "19",
    "frequency": 370000,
    "elevation": 82,
-   "latitude": 50.616865,
-   "longitude": 137.081331,
+   "latitude": 50.61686555,
+   "longitude": 137.08133177,
    "bearing": 180.01,
-   "glideslope": 3.5018001,
+   "glideslope": 3.8318001,
    "receptionRange": 10
  },
  {
@@ -37829,20 +37829,7 @@
    "latitude": 69.77234388,
    "longitude": 170.60427484,
    "bearing": 346.87,
-   "glideslope": 3.00346952,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "UHPP",
-   "identifier": "IPR",
-   "associatedRunwayNumber": "34R",
-   "frequency": 110300,
-   "elevation": 129,
-   "latitude": 53.15607671,
-   "longitude": 158.46319896,
-   "bearing": 337.46,
-   "glideslope": 2.70337278,
+   "glideslope": 2.80346952,
    "receptionRange": 10
  },
  {
@@ -37852,7 +37839,7 @@
    "associatedRunwayNumber": "16R",
    "frequency": 109900,
    "elevation": 129,
-   "latitude": 53.18361760,
+   "latitude": 53.1836176,
    "longitude": 158.44071508,
    "bearing": 157.46,
    "glideslope": 2.7015746,
@@ -37866,7 +37853,7 @@
    "frequency": 108700,
    "elevation": 129,
    "latitude": 53.15534624,
-   "longitude": 158.46029160,
+   "longitude": 158.4602916,
    "bearing": 337.46,
    "glideslope": 2.7033746,
    "receptionRange": 10
@@ -37919,8 +37906,8 @@
    "elevation": 59,
    "latitude": 46.90074345,
    "longitude": 142.71767745,
-   "bearing": 180.98,
-   "glideslope": 3.0018098,
+   "bearing": 180.93,
+   "glideslope": 3.0018093,
    "receptionRange": 10
  },
  {
