@@ -37637,7 +37637,7 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "UELL",
-   "identifier": "IRQ",
+   "identifier": "IRN",
    "associatedRunwayNumber": "08",
    "frequency": 110300,
    "elevation": 2813,
@@ -37731,10 +37731,10 @@
    "identifier": "ILZ",
    "associatedRunwayNumber": "36",
    "frequency": 108700,
-   "elevation": 638,
-   "latitude": 50.443333,
-   "longitude": 127.406667,
-   "bearing": 348.307,
+   "elevation": 639,
+   "latitude": 50.4131318,
+   "longitude": 127.41650784,
+   "bearing": 348.3,
    "receptionRange": 18,
    "type": 4
  },

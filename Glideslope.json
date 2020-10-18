@@ -37627,14 +37627,14 @@
  {
    "name": "GS",
    "airportICAO": "UELL",
-   "identifier": "IRQ",
+   "identifier": "IRN",
    "associatedRunwayNumber": "08",
    "frequency": 110300,
    "elevation": 2813,
    "latitude": 56.90933228,
    "longitude": 124.88933563,
    "bearing": 82,
-   "glideslope": 2.50082,
+   "glideslope": 2.67082,
    "receptionRange": 10
  },
  {
@@ -37647,7 +37647,7 @@
    "latitude": 60.72566605,
    "longitude": 114.83750153,
    "bearing": 248.032,
-   "glideslope": 2.40248016,
+   "glideslope": 3.17248016,
    "receptionRange": 10
  },
  {
@@ -37660,7 +37660,7 @@
    "latitude": 66.38999939,
    "longitude": 112.04049683,
    "bearing": 351,
-   "glideslope": 2.70351,
+   "glideslope": 2.67351,
    "receptionRange": 10
  },
  {
@@ -37721,11 +37721,11 @@
    "identifier": "ILZ",
    "associatedRunwayNumber": "36",
    "frequency": 108700,
-   "elevation": 638,
-   "latitude": 50.415,
-   "longitude": 127.413333,
-   "bearing": 348.6,
-   "glideslope": 3.053483,
+   "elevation": 639,
+   "latitude": 50.4131318,
+   "longitude": 127.41650784,
+   "bearing": 348.3,
+   "glideslope": 3.023483,
    "receptionRange": 10
  },
  {
