@@ -39924,6 +39924,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VELP:",
+   "identifier": "ILNP",
+   "associatedRunwayNumber": "17",
+   "frequency": 108300,
+   "elevation": 1398,
+   "latitude": 23.85183115,
+   "longitude": 92.61790886,
+   "bearing": 171.4,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VEMN",
    "identifier": "DIB",
    "associatedRunwayNumber": "05",
