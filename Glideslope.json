@@ -33327,11 +33327,11 @@
    "identifier": "IYAK",
    "associatedRunwayNumber": "11",
    "frequency": 111100,
-   "elevation": 31,
-   "latitude": 59.509714,
-   "longitude": -139.660756,
-   "bearing": 135.128,
-   "glideslope": 3.00135064,
+   "elevation": 39,
+   "latitude": 59.51143722,
+   "longitude": -139.66499319,
+   "bearing": 134.66,
+   "glideslope": 3.0013466,
    "receptionRange": 10
  },
  {
