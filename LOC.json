@@ -11869,14 +11869,14 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "KCHS",
    "identifier": "ICHS",
    "associatedRunwayNumber": "15",
    "frequency": 109700,
-   "elevation": 44,
-   "latitude": 32.91301401,
-   "longitude": -80.0481101,
+   "elevation": 45,
+   "latitude": 32.9130285,
+   "longitude": -80.04812304,
    "bearing": 147.55,
    "receptionRange": 18,
    "type": 4
@@ -11887,9 +11887,9 @@
    "identifier": "ICCI",
    "associatedRunwayNumber": "33",
    "frequency": 108900,
-   "elevation": 44,
+   "elevation": 45,
    "latitude": 32.89218317,
-   "longitude": -80.03233279,
+   "longitude": -80.03233276,
    "bearing": 327.55,
    "receptionRange": 18,
    "type": 4
