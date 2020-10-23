@@ -9964,11 +9964,11 @@
    "identifier": "IAST",
    "associatedRunwayNumber": "26",
    "frequency": 109500,
-   "elevation": 15,
-   "latitude": 46.15775,
-   "longitude": -123.874053,
-   "bearing": 276,
-   "glideslope": 3.002755,
+   "elevation": 14,
+   "latitude": 46.15831859,
+   "longitude": -123.86699918,
+   "bearing": 275.51,
+   "glideslope": 3.0027551,
    "receptionRange": 10
  },
  {
