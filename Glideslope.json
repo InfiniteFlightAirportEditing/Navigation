@@ -8014,11 +8014,11 @@
    "identifier": "GEI",
    "associatedRunwayNumber": "11",
    "frequency": 109500,
-   "elevation": 625,
-   "latitude": -34.006863,
-   "longitude": 22.37089,
-   "bearing": 88.66,
-   "glideslope": 3.0008783,
+   "elevation": 648,
+   "latitude": -34.00593524,
+   "longitude": 22.36572089,
+   "bearing": 87.82,
+   "glideslope": 3.0008782,
    "receptionRange": 10
  },
  {
@@ -8027,11 +8027,11 @@
    "identifier": "GGI",
    "associatedRunwayNumber": "29",
    "frequency": 110100,
-   "elevation": 643,
-   "latitude": -34.004417,
-   "longitude": 22.385565,
-   "bearing": 268.66,
-   "glideslope": 2.7026783,
+   "elevation": 648,
+   "latitude": -34.00519207,
+   "longitude": 22.38932437,
+   "bearing": 267.82,
+   "glideslope": 3.0026782,
    "receptionRange": 10
  },
  {
