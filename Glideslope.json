@@ -19794,11 +19794,11 @@
    "identifier": "IMTJ",
    "associatedRunwayNumber": "17",
    "frequency": 111300,
-   "elevation": 5759,
-   "latitude": 38.52709063,
-   "longitude": -107.89167906,
-   "bearing": 180.638,
-   "glideslope": 3.00179819,
+   "elevation": 5758,
+   "latitude": 38.52983842,
+   "longitude": -107.89274998,
+   "bearing": 179.82,
+   "glideslope": 3.0017982,
    "receptionRange": 10
  },
  {
