@@ -37186,11 +37186,11 @@
    "identifier": "IBDA",
    "associatedRunwayNumber": "30",
    "frequency": 109900,
-   "elevation": 11,
-   "latitude": 32.361278,
-   "longitude": -64.666681,
-   "bearing": 282.022,
-   "glideslope": 3.00281511,
+   "elevation": 18,
+   "latitude": 32.36138356,
+   "longitude": -64.66324246,
+   "bearing": 281.51,
+   "glideslope": 3.0028151,
    "receptionRange": 10
  },
  {
