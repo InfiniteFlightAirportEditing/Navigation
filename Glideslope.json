@@ -40297,7 +40297,7 @@
    "latitude": 19.088414,
    "longitude": 72.847916,
    "bearing": 89.16,
-   "glideslope": 3.00089160,
+   "glideslope": 3.0008916,
    "receptionRange": 10
  },
  {
@@ -40310,7 +40310,7 @@
    "latitude": 19.098492,
    "longitude": 72.857202,
    "bearing": 134.28,
-   "glideslope": 3.00134280,
+   "glideslope": 3.0013428,
    "receptionRange": 10
  },
  {
@@ -40319,11 +40319,11 @@
    "identifier": "ISCZ",
    "associatedRunwayNumber": "27",
    "frequency": 110300,
-   "elevation": 37,
-   "latitude": 19.088877,
-   "longitude": 72.88115,
-   "bearing": 269.17,
-   "glideslope": 3.30269166,
+   "elevation": 39,
+   "latitude": 19.08887,
+   "longitude": 72.880671,
+   "bearing": 269.16,
+   "glideslope": 3.3026916,
    "receptionRange": 10
  },
  {
