@@ -23473,11 +23473,11 @@
    "identifier": "IFRC",
    "associatedRunwayNumber": "05",
    "frequency": 110300,
-   "elevation": 2447,
-   "latitude": 47.607381,
-   "longitude": -117.676956,
-   "bearing": 67.326,
-   "glideslope": 3.00066663,
+   "elevation": 2462,
+   "latitude": 47.60751942,
+   "longitude": -117.68169649,
+   "bearing": 66.66,
+   "glideslope": 3.0006666,
    "receptionRange": 10
  },
  {
@@ -23486,11 +23486,11 @@
    "identifier": "ISKA",
    "associatedRunwayNumber": "23",
    "frequency": 110300,
-   "elevation": 2461,
-   "latitude": 47.619986,
-   "longitude": -117.633617,
-   "bearing": 247.326,
-   "glideslope": 2.50246663,
+   "elevation": 2462,
+   "latitude": 47.62258052,
+   "longitude": -117.6299211,
+   "bearing": 246.66,
+   "glideslope": 3.0024666,
    "receptionRange": 10
  },
  {
