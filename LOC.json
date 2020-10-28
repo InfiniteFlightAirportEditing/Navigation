@@ -40118,6 +40118,32 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-II",
+   "airportICAO": "UWSG",
+   "identifier": "ITW",
+   "associatedRunwayNumber": "08",
+   "frequency": 108550,
+   "elevation": 103,
+   "latitude": 51.71316007,
+   "longitude": 46.14949285,
+   "bearing": 92.14,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "UWSG",
+   "identifier": "ITL",
+   "associatedRunwayNumber": "26",
+   "frequency": 108750,
+   "elevation": 103,
+   "latitude": 51.71215477,
+   "longitude": 46.19291249,
+   "bearing": 272.14,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "UWWW",
    "identifier": "IBE",
