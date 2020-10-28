@@ -22113,15 +22113,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "LOC",
    "airportICAO": "KRAP",
    "identifier": "IRAP",
    "associatedRunwayNumber": "32",
    "frequency": 109300,
-   "elevation": 3202,
-   "latitude": 44.03299141,
-   "longitude": -103.05058670,
-   "bearing": 331.910,
+   "elevation": 3203,
+   "latitude": 44.03279594,
+   "longitude": -103.04940544,
+   "bearing": 331.93,
    "receptionRange": 18,
    "type": 4
  },
