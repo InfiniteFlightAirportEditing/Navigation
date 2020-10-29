@@ -22171,11 +22171,11 @@
    "identifier": "IRAP",
    "associatedRunwayNumber": "32",
    "frequency": 109300,
-   "elevation": 3202,
-   "latitude": 44.03299141,
-   "longitude": -103.05058670,
-   "bearing": 331.910,
-   "glideslope": 3.00331910,
+   "elevation": 3203,
+   "latitude": 44.032796,
+   "longitude": -103.049405,
+   "bearing": 331.93,
+   "glideslope": 3.0033193,
    "receptionRange": 10
  },
  {
