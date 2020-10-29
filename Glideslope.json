@@ -41827,11 +41827,11 @@
    "identifier": "PLK",
    "associatedRunwayNumber": "27",
    "frequency": 113400,
-   "elevation": 2414,
-   "latitude": 14.00429674,
-   "longitude": 108.02575934,
-   "bearing": 270.90,
-   "glideslope": 3.00270900,
+   "elevation": 2441,
+   "latitude": 14.004297,
+   "longitude": 108.025759,
+   "bearing": 270.9,
+   "glideslope": 3.002709,
    "receptionRange": 10
  },
  {
