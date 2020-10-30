@@ -34809,11 +34809,11 @@
    "identifier": "IKMA",
    "associatedRunwayNumber": "36L",
    "frequency": 108500,
-   "elevation": 13,
-   "latitude": 35.165211,
-   "longitude": 128.938800,
-   "bearing": 354.01,
-   "glideslope": 3.0035401,
+   "elevation": 8,
+   "latitude": 35.16522195,
+   "longitude": 128.93881573,
+   "bearing": 353.98,
+   "glideslope": 3.0035398,
    "receptionRange": 10
  },
  {
@@ -34822,11 +34822,11 @@
    "identifier": "IKHE",
    "associatedRunwayNumber": "36R",
    "frequency": 109500,
-   "elevation": 13,
-   "latitude": 35.169472,
-   "longitude": 128.940610,
-   "bearing": 354.01,
-   "glideslope": 3.0035401,
+   "elevation": 8,
+   "latitude": 35.16950213,
+   "longitude": 128.9405835,
+   "bearing": 353.98,
+   "glideslope": 3.0035398,
    "receptionRange": 10
  },
  {
