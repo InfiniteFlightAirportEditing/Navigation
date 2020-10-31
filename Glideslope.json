@@ -4644,14 +4644,14 @@
  {
    "name": "GS",
    "airportICAO": "EGOV",
-   "identifier": "VY",
-   "associatedRunwayNumber": "14",
-   "frequency": 109700,
-   "elevation": 37,
-   "latitude": 53.252981,
-   "longitude": -4.541603,
-   "bearing": 132,
-   "glideslope": 3.00132,
+   "identifier": "IVY",
+   "associatedRunwayNumber": "13",
+   "frequency": 108550,
+   "elevation": 36,
+   "latitude": 53.2537917,
+   "longitude": -4.5463583,
+   "bearing": 130.5,
+   "glideslope": 3.00130500,
    "receptionRange": 10
  },
  {
