@@ -26526,11 +26526,11 @@
    "identifier": "MDM",
    "associatedRunwayNumber": "27",
    "frequency": 110500,
-   "elevation": 250,
-   "latitude": 43.910747,
-   "longitude": -0.491836,
-   "bearing": 267.414,
-   "glideslope": 3.00267207,
+   "elevation": 203,
+   "latitude": 43.9122917,
+   "longitude": -0.4869639,
+   "bearing": 267.21,
+   "glideslope": 3.00267210,
    "receptionRange": 10
  },
  {
