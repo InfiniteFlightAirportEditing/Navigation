@@ -8255,6 +8255,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "FDSK",
+   "identifier": "ISK",
+   "associatedRunwayNumber": "20",
+   "frequency": 111500,
+   "elevation": 1092,
+   "latitude": -26.34250909,
+   "longitude": 31.71702091,
+   "bearing": 179.68,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "FEFF",
    "identifier": "BGI",
