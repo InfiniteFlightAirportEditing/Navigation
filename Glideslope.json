@@ -9457,11 +9457,11 @@
    "identifier": "IACT",
    "associatedRunwayNumber": "19",
    "frequency": 109700,
-   "elevation": 504,
-   "latitude": 31.618189,
-   "longitude": -97.226939,
-   "bearing": 194.332,
-   "glideslope": 2.50194166,
+   "elevation": 516,
+   "latitude": 31.6224703,
+   "longitude": -97.2243433,
+   "bearing": 194.160,
+   "glideslope": 3.00194160,
    "receptionRange": 10
  },
  {
