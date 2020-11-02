@@ -9652,11 +9652,11 @@
    "identifier": "IUPE",
    "associatedRunwayNumber": "16L",
    "frequency": 110150,
-   "elevation": 709,
-   "latitude": 32.994367,
-   "longitude": -97.320419,
-   "bearing": 170.52,
-   "glideslope": 3.0017026,
+   "elevation": 723,
+   "latitude": 33.00542613,
+   "longitude": -97.32151739,
+   "bearing": 170.29,
+   "glideslope": 3.0017029,
    "receptionRange": 10
  },
  {
@@ -9665,11 +9665,11 @@
    "identifier": "IJVX",
    "associatedRunwayNumber": "34R",
    "frequency": 110150,
-   "elevation": 669,
-   "latitude": 32.978208,
-   "longitude": -97.317119,
-   "bearing": 350.52,
-   "glideslope": 3.0035026,
+   "elevation": 723,
+   "latitude": 32.97563794,
+   "longitude": -97.31543986,
+   "bearing": 350.29,
+   "glideslope": 3.0035029,
    "receptionRange": 10
  },
  {
@@ -22184,11 +22184,11 @@
    "identifier": "IRAP",
    "associatedRunwayNumber": "32",
    "frequency": 109300,
-   "elevation": 3202,
-   "latitude": 44.03299141,
-   "longitude": -103.05058670,
-   "bearing": 331.910,
-   "glideslope": 3.00331910,
+   "elevation": 3203,
+   "latitude": 44.03279594,
+   "longitude": -103.04940544,
+   "bearing": 331.93,
+   "glideslope": 3.0033193,
    "receptionRange": 10
  },
  {
@@ -40220,6 +40220,32 @@
    "longitude": 45.224276,
    "bearing": 212.9,
    "glideslope": 3.002129,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UWSG",
+   "identifier": "ITW",
+   "associatedRunwayNumber": "08",
+   "frequency": 108550,
+   "elevation": 103,
+   "latitude": 51.71316007,
+   "longitude": 46.14949285,
+   "bearing": 92.14,
+   "glideslope": 3.0009214,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UWSG",
+   "identifier": "ITL",
+   "associatedRunwayNumber": "26",
+   "frequency": 108750,
+   "elevation": 103,
+   "latitude": 51.71215477,
+   "longitude": 46.19291249,
+   "bearing": 272.14,
+   "glideslope": 3.0027214,
    "receptionRange": 10
  },
  {
