@@ -46320,7 +46320,7 @@
    "type": 5
  },
  {
-   "name": "ILS-cat-I",
+   "name": "LOC",
    "airportICAO": "ENBS",
    "identifier": "BT",
    "associatedRunwayNumber": "21",
