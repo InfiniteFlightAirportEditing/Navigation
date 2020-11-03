@@ -47342,7 +47342,7 @@
    "elevation": 808,
    "latitude": 43.76284,
    "longitude": -88.486198,
-   "bearing": 000.050,
+   "bearing": .050,
    "receptionRange": 18,
    "type": 5
  },
