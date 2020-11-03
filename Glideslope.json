@@ -12434,11 +12434,11 @@
    "identifier": "ICPS",
    "associatedRunwayNumber": "30L",
    "frequency": 109100,
-   "elevation": 409,
-   "latitude": 38.563953,
-   "longitude": -90.148525,
-   "bearing": 302.634,
-   "glideslope": 2.85302317,
+   "elevation": 413,
+   "latitude": 38.56374349,
+   "longitude": -90.14432361,
+   "bearing": 302.330,
+   "glideslope": 3.00302330,
    "receptionRange": 10
  },
  {
