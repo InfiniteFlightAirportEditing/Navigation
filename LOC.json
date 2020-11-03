@@ -12475,7 +12475,7 @@
    "elevation": 413,
    "latitude": 38.56374349,
    "longitude": -90.14432361,
-   "bearing": 302.330,
+   "bearing": 302.33,
    "receptionRange": 18,
    "type": 4
  },
@@ -21861,7 +21861,7 @@
    "elevation": 410,
    "latitude": 46.27072007,
    "longitude": -119.11166859,
-   "bearing": 225.650,
+   "bearing": 225.65,
    "receptionRange": 18,
    "type": 4
  },
@@ -23772,7 +23772,7 @@
    "elevation": 597,
    "latitude": 39.83690246,
    "longitude": -89.68644882,
-   "bearing": 41.520,
+   "bearing": 41.52,
    "receptionRange": 18,
    "type": 4
  },
@@ -23785,7 +23785,7 @@
    "elevation": 587,
    "latitude": 39.85332038,
    "longitude": -89.66751954,
-   "bearing": 221.520,
+   "bearing": 221.52,
    "receptionRange": 18,
    "type": 4
  },
@@ -23798,7 +23798,7 @@
    "elevation": 597,
    "latitude": 39.83800261,
    "longitude": -89.66753806,
-   "bearing": 306.710,
+   "bearing": 306.71,
    "receptionRange": 18,
    "type": 4
  },
@@ -47342,7 +47342,7 @@
    "elevation": 808,
    "latitude": 43.76284,
    "longitude": -88.486198,
-   "bearing": .050,
+   "bearing": 0.05,
    "receptionRange": 18,
    "type": 5
  },
