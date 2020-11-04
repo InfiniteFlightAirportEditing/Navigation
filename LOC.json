@@ -36302,8 +36302,8 @@
    "associatedRunwayNumber": "17R",
    "frequency": 109300,
    "elevation": 2631,
-   "latitude": -23.635205,
-   "longitude": -46.650564,
+   "latitude": -23.619991,
+   "longitude": -46.661093,
    "bearing": 147.63,
    "receptionRange": 18,
    "type": 4
@@ -36315,8 +36315,8 @@
    "associatedRunwayNumber": "35L",
    "frequency": 109700,
    "elevation": 2631,
-   "latitude": -23.619298,
-   "longitude": -46.661577,
+   "latitude": -23.634711,
+   "longitude": -46.65091,
    "bearing": 327.63,
    "receptionRange": 18,
    "type": 4
@@ -49397,19 +49397,6 @@
    "latitude": -9.861306,
    "longitude": -67.881861,
    "bearing": 56.928,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "SBSP",
-   "identifier": "ICO",
-   "associatedRunwayNumber": "35L",
-   "frequency": 110100,
-   "elevation": 2625,
-   "latitude": -23.63475423,
-   "longitude": -46.65088587,
-   "bearing": 327.63,
    "receptionRange": 18,
    "type": 5
  },
