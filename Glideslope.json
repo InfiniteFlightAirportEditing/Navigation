@@ -26410,8 +26410,8 @@
    "associatedRunwayNumber": "23",
    "frequency": 110300,
    "elevation": 166,
-   "latitude": 44.83867114,
-   "longitude": -0.70100686,
+   "latitude": 44.838671,
+   "longitude": -0.701007,
    "bearing": 225.36,
    "glideslope": 3.0022536,
    "receptionRange": 10
@@ -26423,8 +26423,8 @@
    "associatedRunwayNumber": "29",
    "frequency": 111150,
    "elevation": 166,
-   "latitude": 44.82537502,
-   "longitude": -0.69989031,
+   "latitude": 44.825375,
+   "longitude": -0.69989,
    "bearing": 286.47,
    "glideslope": 3.0028647,
    "receptionRange": 10
