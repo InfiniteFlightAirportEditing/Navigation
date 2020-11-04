@@ -201,10 +201,10 @@
    "associatedRunwayNumber": "29",
    "frequency": 111500,
    "elevation": 520,
-   "latitude": 48.33167691,
-   "longitude": -70.97555602,
-   "bearing": 281.17,
-   "glideslope": 3.0028117,
+   "latitude": 48.331677,
+   "longitude": -70.975556,
+   "bearing": 271.17,
+   "glideslope": 3.0027117,
    "receptionRange": 10
  },
  {
