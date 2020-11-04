@@ -26175,11 +26175,11 @@
    "identifier": "IAOG",
    "associatedRunwayNumber": "10",
    "frequency": 108700,
-   "elevation": 86,
-   "latitude": 36.646039,
-   "longitude": -6.366569,
-   "bearing": 97.836,
-   "glideslope": 3.00096918,
+   "elevation": 87,
+   "latitude": 36.647204,
+   "longitude": -6.369961,
+   "bearing": 96.92,
+   "glideslope": 3.0009692,
    "receptionRange": 10
  },
  {
