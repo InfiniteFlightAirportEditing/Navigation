@@ -41229,11 +41229,11 @@
    "identifier": "IML",
    "associatedRunwayNumber": "36",
    "frequency": 108700,
-   "elevation": 5,
-   "latitude": 4.182797,
-   "longitude": 73.528275,
-   "bearing": 359.112,
-   "glideslope": 3.00359056,
+   "elevation": 3,
+   "latitude": 4.177356,
+   "longitude": 73.529388,
+   "bearing": 359.09,
+   "glideslope": 3.0035909,
    "receptionRange": 10
  },
  {
