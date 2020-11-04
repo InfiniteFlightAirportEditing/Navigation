@@ -3985,10 +3985,10 @@
    "associatedRunwayNumber": "23",
    "frequency": 111700,
    "elevation": 407,
-   "latitude": 51.15955734,
-   "longitude": -1.73764396,
-   "bearing": 230,
-   "glideslope": 3.0023,
+   "latitude": 51.162311,
+   "longitude": -1.733832,
+   "bearing": 230.07,
+   "glideslope": 3.0023007,
    "receptionRange": 10
  },
  {
