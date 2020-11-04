@@ -36055,8 +36055,8 @@
    "associatedRunwayNumber": "10",
    "frequency": 109300,
    "elevation": 28,
-   "latitude": -22.791397,
-   "longitude": -43.214619,
+   "latitude": -22.80185,
+   "longitude": -43.255211,
    "bearing": 74.39,
    "receptionRange": 18,
    "type": 4
@@ -36064,12 +36064,12 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "SBGL",
-   "identifier": "IJB",
+   "identifier": "IGL",
    "associatedRunwayNumber": "15",
-   "frequency": 110500,
+   "frequency": 110300,
    "elevation": 28,
-   "latitude": -22.830065,
-   "longitude": -43.237056,
+   "latitude": -22.812448,
+   "longitude": -43.263697,
    "bearing": 125.65,
    "receptionRange": 18,
    "type": 4
@@ -36081,8 +36081,8 @@
    "associatedRunwayNumber": "28",
    "frequency": 111500,
    "elevation": 28,
-   "latitude": -22.802711,
-   "longitude": -43.258533,
+   "latitude": -22.792163,
+   "longitude": -43.217603,
    "bearing": 254.39,
    "receptionRange": 18,
    "type": 4
