@@ -28164,11 +28164,11 @@
    "identifier": "PCS",
    "associatedRunwayNumber": "34",
    "frequency": 108350,
-   "elevation": 676,
-   "latitude": 45.985097,
-   "longitude": 18.243031,
-   "bearing": 337.74,
-   "glideslope": 3.0033737,
+   "elevation": 649,
+   "latitude": 45.982934,
+   "longitude": 18.245832,
+   "bearing": 337.6,
+   "glideslope": 3.003376,
    "receptionRange": 10
  },
  {
