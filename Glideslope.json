@@ -29411,12 +29411,12 @@
    "airportICAO": "LQMO",
    "identifier": "MOS",
    "associatedRunwayNumber": "33",
-   "frequency": 334700,
+   "frequency": 108100,
    "elevation": 154,
-   "latitude": 43.2729667,
-   "longitude": 17.8514361,
+   "latitude": 43.272967,
+   "longitude": 17.851436,
    "bearing": 337.83,
-   "glideslope": 3.40337830,
+   "glideslope": 3.4033783,
    "receptionRange": 10
  },
  {
