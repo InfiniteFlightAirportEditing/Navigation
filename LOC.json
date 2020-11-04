@@ -49523,10 +49523,10 @@
    "identifier": "ICN",
    "associatedRunwayNumber": "33",
    "frequency": 109500,
-   "elevation": 7,
-   "latitude": -16.864722,
-   "longitude": 145.743056,
-   "bearing": 336.591,
+   "elevation": 9,
+   "latitude": -16.891966,
+   "longitude": 145.755387,
+   "bearing": 336.61,
    "receptionRange": 18,
    "type": 5
  }
