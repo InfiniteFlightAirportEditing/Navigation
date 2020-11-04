@@ -42283,10 +42283,10 @@
    "associatedRunwayNumber": "02",
    "frequency": 108100,
    "elevation": 14,
-   "latitude": 5.952095,
-   "longitude": 116.057491,
+   "latitude": 5.918131,
+   "longitude": 116.043153,
    "bearing": 22.78,
-   "glideslope": 3.00,
+   "glideslope": 3.0002278,
    "receptionRange": 10
  },
  {
