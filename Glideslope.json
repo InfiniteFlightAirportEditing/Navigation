@@ -8387,19 +8387,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "FNLU",
-   "identifier": "ILD",
-   "associatedRunwayNumber": "23",
-   "frequency": 110300,
-   "elevation": 243,
-   "latitude": -8.8539585,
-   "longitude": 13.23832733,
-   "bearing": 226.59,
-   "glideslope": 3.0022659,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "FOOL",
    "identifier": "LB",
    "associatedRunwayNumber": "16",
