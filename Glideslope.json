@@ -41970,11 +41970,11 @@
    "identifier": "IYGN",
    "associatedRunwayNumber": "21",
    "frequency": 109900,
-   "elevation": 65,
-   "latitude": 16.913722,
-   "longitude": 96.139078,
-   "bearing": 213.2,
-   "glideslope": 3.002131,
+   "elevation": 110,
+   "latitude": 16.92376444,
+   "longitude": 96.14449589,
+   "bearing": 213.13,
+   "glideslope": 3.0021313,
    "receptionRange": 10
  },
  {
