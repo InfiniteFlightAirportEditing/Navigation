@@ -18999,11 +18999,11 @@
    "identifier": "IMGM",
    "associatedRunwayNumber": "10",
    "frequency": 109900,
-   "elevation": 216,
-   "latitude": 32.301017,
-   "longitude": -86.406881,
-   "bearing": 96.082,
-   "glideslope": 3.00096041,
+   "elevation": 221,
+   "latitude": 32.30239947,
+   "longitude": -86.40999377,
+   "bearing": 96.04,
+   "glideslope": 3.0009604,
    "receptionRange": 10
  },
  {
@@ -19012,11 +19012,11 @@
    "identifier": "IDLV",
    "associatedRunwayNumber": "28",
    "frequency": 108500,
-   "elevation": 196,
-   "latitude": 32.299358,
-   "longitude": -86.384467,
-   "bearing": 276.082,
-   "glideslope": 3.00276041,
+   "elevation": 221,
+   "latitude": 32.29980308,
+   "longitude": -86.38096314,
+   "bearing": 276.04,
+   "glideslope": 3.0027604,
    "receptionRange": 10
  },
  {
