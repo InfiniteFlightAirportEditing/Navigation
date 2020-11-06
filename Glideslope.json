@@ -18635,11 +18635,11 @@
    "identifier": "IMDH",
    "associatedRunwayNumber": "18L",
    "frequency": 110900,
-   "elevation": 406,
-   "latitude": 37.785794,
-   "longitude": -89.246717,
-   "bearing": 181.438,
-   "glideslope": 3.00181219,
+   "elevation": 411,
+   "latitude": 37.78857799,
+   "longitude": -89.2479406,
+   "bearing": 181.22,
+   "glideslope": 3.0018122,
    "receptionRange": 10
  },
  {
