@@ -23679,11 +23679,11 @@
    "identifier": "ISLN",
    "associatedRunwayNumber": "35",
    "frequency": 108900,
-   "elevation": 1267,
-   "latitude": 38.779806,
-   "longitude": -97.644483,
-   "bearing": 0.784,
-   "glideslope": 3.00359892,
+   "elevation": 1288,
+   "latitude": 38.77663855,
+   "longitude": -97.64587849,
+   "bearing": 359.89,
+   "glideslope": 3.0035989,
    "receptionRange": 10
  },
  {
