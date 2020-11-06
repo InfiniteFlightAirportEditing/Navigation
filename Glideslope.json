@@ -19909,11 +19909,11 @@
    "identifier": "IMVN",
    "associatedRunwayNumber": "23",
    "frequency": 111700,
-   "elevation": 470,
-   "latitude": 38.328439,
-   "longitude": -88.852819,
-   "bearing": 230.9,
-   "glideslope": 3.0022995,
+   "elevation": 480,
+   "latitude": 38.32927333,
+   "longitude": -88.84937939,
+   "bearing": 229.98,
+   "glideslope": 3.0022998,
    "receptionRange": 10
  },
  {
