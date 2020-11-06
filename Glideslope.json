@@ -19870,11 +19870,11 @@
    "identifier": "IMTO",
    "associatedRunwayNumber": "29",
    "frequency": 111100,
-   "elevation": 715,
-   "latitude": 39.474331,
-   "longitude": -88.272158,
-   "bearing": 293.002,
-   "glideslope": 3.00293001,
+   "elevation": 722,
+   "latitude": 39.47431836,
+   "longitude": -88.26848115,
+   "bearing": 293,
+   "glideslope": 3.00293,
    "receptionRange": 10
  },
  {
