@@ -13432,14 +13432,27 @@
  {
    "name": "GS",
    "airportICAO": "KDHN",
+   "identifier": "IODA",
+   "associatedRunwayNumber": "14",
+   "frequency": 110750,
+   "elevation": 400,
+   "latitude": 31.33059341,
+   "longitude": -85.46165171,
+   "bearing": 135.09,
+   "glideslope": 3.0013509,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "KDHN",
    "identifier": "IDHN",
    "associatedRunwayNumber": "32",
    "frequency": 108300,
-   "elevation": 374,
-   "latitude": 31.317292,
-   "longitude": -85.444311,
-   "bearing": 315.17,
-   "glideslope": 3.00315085,
+   "elevation": 400,
+   "latitude": 31.31408257,
+   "longitude": -85.4423841,
+   "bearing": 315.09,
+   "glideslope": 3.0031509,
    "receptionRange": 10
  },
  {
