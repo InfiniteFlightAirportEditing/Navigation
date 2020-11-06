@@ -7000,11 +7000,11 @@
    "identifier": "NMS",
    "associatedRunwayNumber": "17",
    "frequency": 111900,
-   "elevation": 236,
-   "latitude": 55.545583,
-   "longitude": 13.376694,
-   "bearing": 173.734,
-   "glideslope": 3.00173367,
+   "elevation": 237,
+   "latitude": 55.54806687,
+   "longitude": 13.37378877,
+   "bearing": 173.37,
+   "glideslope": 3.0017337,
    "receptionRange": 10
  },
  {
@@ -7013,11 +7013,11 @@
    "identifier": "SMS",
    "associatedRunwayNumber": "35",
    "frequency": 108100,
-   "elevation": 236,
-   "latitude": 55.526194,
-   "longitude": 13.380667,
-   "bearing": 353.734,
-   "glideslope": 3.00353367,
+   "elevation": 237,
+   "latitude": 55.5230752,
+   "longitude": 13.37892501,
+   "bearing": 353.37,
+   "glideslope": 3.00353337,
    "receptionRange": 10
  },
  {
