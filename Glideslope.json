@@ -42217,11 +42217,11 @@
    "identifier": "IBDM",
    "associatedRunwayNumber": "10",
    "frequency": 110700,
-   "elevation": 54,
-   "latitude": -3.441831,
-   "longitude": 114.754064,
-   "bearing": 100.9,
-   "glideslope": 3.0010045,
+   "elevation": 66,
+   "latitude": -3.44028048,
+   "longitude": 114.75156932,
+   "bearing": 100.49,
+   "glideslope": 3.0010049,
    "receptionRange": 10
  },
  {
