@@ -40605,9 +40605,9 @@
    "associatedRunwayNumber": "25",
    "frequency": 110300,
    "elevation": 170,
-   "latitude": 25.586528,
-   "longitude": 85.076056,
-   "bearing": 246.964,
+   "latitude": 25.5942098,
+   "longitude": 85.09703099,
+   "bearing": 248.31,
    "receptionRange": 18,
    "type": 4
  },

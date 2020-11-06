@@ -40632,10 +40632,10 @@
    "associatedRunwayNumber": "25",
    "frequency": 110300,
    "elevation": 170,
-   "latitude": 25.59375,
-   "longitude": 85.092694,
-   "bearing": 248.494,
-   "glideslope": 3.00248247,
+   "latitude": 25.5942098,
+   "longitude": 85.09703099,
+   "bearing": 248.31,
+   "glideslope": 3.1524831,
    "receptionRange": 10
  },
  {
