@@ -37490,7 +37490,7 @@
    "elevation": 1084,
    "latitude": 40.74801194,
    "longitude": 46.30479208,
-   "bearing": 128.18,
+   "bearing": 128.13,
    "glideslope": 3.0012813,
    "receptionRange": 10
  },
@@ -37523,7 +37523,7 @@
  {
    "name": "GS",
    "airportICAO": "UBBN",
-   "identifier": "INL",
+   "identifier": "INR",
    "associatedRunwayNumber": "14R",
    "frequency": 111700,
    "elevation": 2861,
