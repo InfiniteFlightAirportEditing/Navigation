@@ -3356,6 +3356,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "EEKE",
+   "identifier": "IWA",
+   "associatedRunwayNumber": "17",
+   "frequency": 109900,
+   "elevation": 15,
+   "latitude": 58.241025,
+   "longitude": 22.509336,
+   "bearing": 179.58,
+   "glideslope": 3.0017958,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "EETN",
    "identifier": "IIB",
    "associatedRunwayNumber": "08",
