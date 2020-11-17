@@ -38771,27 +38771,14 @@
  {
    "name": "GS",
    "airportICAO": "UNBB",
-   "identifier": "IBU",
-   "associatedRunwayNumber": "06",
-   "frequency": 110300,
-   "elevation": 835,
-   "latitude": 53.358251,
-   "longitude": 83.519618,
-   "bearing": 67.36,
-   "glideslope": 2.4006736,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "UNBB",
    "identifier": "IAR",
    "associatedRunwayNumber": "24",
    "frequency": 108700,
-   "elevation": 835,
-   "latitude": 53.368136,
-   "longitude": 83.559327,
+   "elevation": 836,
+   "latitude": 53.36813656,
+   "longitude": 83.55932753,
    "bearing": 247.36,
-   "glideslope": 2.4024736,
+   "glideslope": 2.6724736,
    "receptionRange": 10
  },
  {
