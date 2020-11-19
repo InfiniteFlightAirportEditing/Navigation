@@ -8255,6 +8255,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "FCBB",
+   "identifier": "IBV",
+   "associatedRunwayNumber": "05",
+   "frequency": 111700,
+   "elevation": 1052,
+   "latitude": -4.25877918,
+   "longitude": 15.24164698,
+   "bearing": 49.92,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "FEFF",
    "identifier": "BGI",
