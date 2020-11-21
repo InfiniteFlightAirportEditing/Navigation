@@ -37189,10 +37189,10 @@
    "associatedRunwayNumber": "04",
    "frequency": 109500,
    "elevation": 1165,
-   "latitude": 51.013889,
-   "longitude": 71.451667,
-   "bearing": 44.924,
-   "glideslope": 3.00044462,
+   "latitude": 51.0112948,
+   "longitude": 71.44861934,
+   "bearing": 44.53,
+   "glideslope": 3.0004453,
    "receptionRange": 10
  },
  {
@@ -37202,10 +37202,10 @@
    "associatedRunwayNumber": "22",
    "frequency": 111700,
    "elevation": 1165,
-   "latitude": 51.030278,
-   "longitude": 71.482778,
-   "bearing": 224.924,
-   "glideslope": 3.00224462,
+   "latitude": 51.03378985,
+   "longitude": 71.48378867,
+   "bearing": 224.53,
+   "glideslope": 3.0022453,
    "receptionRange": 10
  },
  {
