@@ -40418,6 +40418,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VCRI",
+   "identifier": "IME",
+   "associatedRunwayNumber": "23",
+   "frequency": 109500,
+   "elevation": 157,
+   "latitude": 6.29546779,
+   "longitude": 81.13557114,
+   "bearing": 225.84,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VDPP",
    "identifier": "IPNP",
    "associatedRunwayNumber": "23",
