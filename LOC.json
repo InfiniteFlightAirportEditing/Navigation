@@ -35390,10 +35390,10 @@
    "airportICAO": "RPVB",
    "identifier": "IBCD",
    "associatedRunwayNumber": "03",
-   "frequency": 109900,
-   "elevation": 24,
+   "frequency": 109700,
+   "elevation": 86,
    "latitude": 10.76878427,
-   "longitude": 123.0145639,
+   "longitude": 123.01456388,
    "bearing": 29.58,
    "receptionRange": 18,
    "type": 4
