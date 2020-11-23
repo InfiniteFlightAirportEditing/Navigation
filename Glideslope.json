@@ -40410,11 +40410,11 @@
    "identifier": "IRAJ",
    "associatedRunwayNumber": "23",
    "frequency": 110900,
-   "elevation": 441,
-   "latitude": 22.313528,
-   "longitude": 70.78325,
-   "bearing": 227.678,
-   "glideslope": 3.00226839,
+   "elevation": 436,
+   "latitude": 22.31511514,
+   "longitude": 70.78628086,
+   "bearing": 226.82,
+   "glideslope": 3.0022682,
    "receptionRange": 10
  },
  {
