@@ -40423,11 +40423,11 @@
    "identifier": "IUDR",
    "associatedRunwayNumber": "26",
    "frequency": 109900,
-   "elevation": 1684,
-   "latitude": 24.619922,
-   "longitude": 73.904328,
-   "bearing": 262.394,
-   "glideslope": 3.00261697,
+   "elevation": 1683,
+   "latitude": 24.61906127,
+   "longitude": 73.90729058,
+   "bearing": 261.52,
+   "glideslope": 3.0026152,
    "receptionRange": 10
  },
  {
