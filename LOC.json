@@ -49194,19 +49194,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "PAWG",
-   "identifier": "IRGL",
-   "associatedRunwayNumber": "10",
-   "frequency": 108500,
-   "elevation": 44,
-   "latitude": 56.48857862,
-   "longitude": -132.38264427,
-   "bearing": 121.41,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "PAYA",
    "identifier": "IYAK",
    "associatedRunwayNumber": "29",
