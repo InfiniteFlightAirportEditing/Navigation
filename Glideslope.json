@@ -27176,11 +27176,11 @@
    "identifier": "BVT",
    "associatedRunwayNumber": "12",
    "frequency": 111150,
-   "elevation": 344,
-   "latitude": 49.45534897,
-   "longitude": 2.10770011,
-   "bearing": 125,
-   "glideslope": 3.00125,
+   "elevation": 359,
+   "latitude": 49.44478392,
+   "longitude": 2.13503084,
+   "bearing": 123.750,
+   "glideslope": 3.0012375,
    "receptionRange": 10
  },
  {
@@ -27189,11 +27189,11 @@
    "identifier": "BI",
    "associatedRunwayNumber": "30",
    "frequency": 109950,
-   "elevation": 305,
-   "latitude": 49.44654846,
-   "longitude": 2.12794995,
-   "bearing": 305,
-   "glideslope": 3.00305,
+   "elevation": 359,
+   "latitude": 49.45953943,
+   "longitude": 2.10103674,
+   "bearing": 303.750,
+   "glideslope": 3.0030375,
    "receptionRange": 10
  },
  {
