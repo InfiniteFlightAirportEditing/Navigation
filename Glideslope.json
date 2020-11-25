@@ -18310,11 +18310,11 @@
    "identifier": "ILWS",
    "associatedRunwayNumber": "26",
    "frequency": 109700,
-   "elevation": 1434,
-   "latitude": 46.370731,
-   "longitude": -117.005767,
-   "bearing": 279.648,
-   "glideslope": 3.00278824,
+   "elevation": 1442,
+   "latitude": 46.37103009,
+   "longitude": -117.00210447,
+   "bearing": 278.83,
+   "glideslope": 3.0027883,
    "receptionRange": 10
  },
  {
