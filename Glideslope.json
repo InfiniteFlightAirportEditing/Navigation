@@ -27185,19 +27185,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "LFOB",
-   "identifier": "BI",
-   "associatedRunwayNumber": "30",
-   "frequency": 109950,
-   "elevation": 359,
-   "latitude": 49.45953943,
-   "longitude": 2.10103674,
-   "bearing": 303.750,
-   "glideslope": 3.0030375,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "LFOE",
    "identifier": "EVX",
    "associatedRunwayNumber": "22",
