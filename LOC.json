@@ -39456,6 +39456,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "USDA",
+   "identifier": "ITB",
+   "associatedRunwayNumber": "04",
+   "frequency": 108900,
+   "elevation": 46,
+   "latitude": 71.20959595,
+   "longitude": 72.0046192,
+   "bearing": 65.88,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "USDD",
    "identifier": "INA",
    "associatedRunwayNumber": "04",
