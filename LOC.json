@@ -42875,6 +42875,32 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "WSAC",
+   "identifier": "ICX",
+   "associatedRunwayNumber": "02R",
+   "frequency": 110500,
+   "elevation": 20,
+   "latitude": 1.32238552,
+   "longitude": 103.99984813,
+   "bearing": 22.88,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "WSAC",
+   "identifier": "ICZ",
+   "associatedRunwayNumber": "20L",
+   "frequency": 108550,
+   "elevation": 20,
+   "latitude": 1.35617195,
+   "longitude": 104.01411008,
+   "bearing": 202.88,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "WSSS",
    "identifier": "ICC",
