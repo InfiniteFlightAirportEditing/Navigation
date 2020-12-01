@@ -1704,6 +1704,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "DGSI",
+   "identifier": "IKU",
+   "associatedRunwayNumber": "20",
+   "frequency": 108900,
+   "elevation": 942,
+   "latitude": 6.70286440,
+   "longitude": -1.59319449,
+   "bearing": 191.39,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "DIAP",
    "identifier": "AN",
    "associatedRunwayNumber": "21",
