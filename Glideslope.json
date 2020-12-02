@@ -14462,11 +14462,11 @@
    "identifier": "IFAT",
    "associatedRunwayNumber": "29R",
    "frequency": 111300,
-   "elevation": 334,
+   "elevation": 335,
    "latitude": 36.76883606,
    "longitude": -119.70353406,
-   "bearing": 305.980,
-   "glideslope": 3.00305980,
+   "bearing": 305.48,
+   "glideslope": 3.0030548,
    "receptionRange": 10
  },
  {
