@@ -40263,6 +40263,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UWPP",
+   "identifier": "IRN",
+   "associatedRunwayNumber": "11",
+   "frequency": 111100,
+   "elevation": 600,
+   "latitude": 53.11480247,
+   "longitude": 45.00735937,
+   "bearing": 116.23,
+   "glideslope": 2.6711623,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UWPP",
+   "identifier": "IWH",
+   "associatedRunwayNumber": "29",
+   "frequency": 108700,
+   "elevation": 600,
+   "latitude": 53.10368235,
+   "longitude": 45.04495414,
+   "bearing": 296.23,
+   "glideslope": 3.0029623,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UWPS",
    "identifier": "IGE",
    "associatedRunwayNumber": "20",
