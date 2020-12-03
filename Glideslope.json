@@ -21170,11 +21170,11 @@
    "identifier": "IPAE",
    "associatedRunwayNumber": "16R",
    "frequency": 109300,
-   "elevation": 562,
-   "latitude": 47.918708,
-   "longitude": -122.287128,
-   "bearing": 179.262,
-   "glideslope": 2.80179131,
+   "elevation": 608,
+   "latitude": 47.92133979,
+   "longitude": -122.28587013,
+   "bearing": 179.15,
+   "glideslope": 3.0017915,
    "receptionRange": 10
  },
  {

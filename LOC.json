@@ -21138,15 +21138,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "KPAE",
    "identifier": "IPAE",
    "associatedRunwayNumber": "16R",
    "frequency": 109300,
-   "elevation": 565,
-   "latitude": 47.892747,
-   "longitude": -122.285219,
-   "bearing": 179.126,
+   "elevation": 608,
+   "latitude": 47.92133979,
+   "longitude": -122.28587013,
+   "bearing": 179.15,
    "receptionRange": 18,
    "type": 4
  },
