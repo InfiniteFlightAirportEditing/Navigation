@@ -41277,6 +41277,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VOVZ",
+   "identifier": "IVSA",
+   "associatedRunwayNumber": "28",
+   "frequency": 111100,
+   "elevation": 10,
+   "latitude": 17.72455294,
+   "longitude": 83.21593259,
+   "bearing": 274.90,
+   "glideslope": 3.0027490,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VRMM",
    "identifier": "IML",
    "associatedRunwayNumber": "36",

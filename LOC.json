@@ -41251,6 +41251,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VOVZ",
+   "identifier": "IVSA",
+   "associatedRunwayNumber": "28",
+   "frequency": 111100,
+   "elevation": 10,
+   "latitude": 17.72455294,
+   "longitude": 83.21593259,
+   "bearing": 274.90,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VRMM",
    "identifier": "IML",
    "associatedRunwayNumber": "36",
