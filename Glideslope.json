@@ -39561,6 +39561,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "USNN",
+   "identifier": "IJN",
+   "associatedRunwayNumber": "03",
+   "frequency": 110500,
+   "elevation": 178,
+   "latitude": 60.93917291,
+   "longitude": 76.46306038,
+   "bearing": 42.21,
+   "glideslope": 2.6704221,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "USNN",
+   "identifier": "INZ",
+   "associatedRunwayNumber": "21",
+   "frequency": 111900,
+   "elevation": 178,
+   "latitude": 60.96046233,
+   "longitude": 76.50281541,
+   "bearing": 222.21,
+   "glideslope": 3.0022221,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "USPP",
    "identifier": "IPX",
    "associatedRunwayNumber": "21",
