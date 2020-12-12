@@ -40406,6 +40406,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VABV",
+   "identifier": "IBHN",
+   "associatedRunwayNumber": "25",
+   "frequency": 109900,
+   "elevation": 43,
+   "latitude": 21.75576426,
+   "longitude": 72.19509292,
+   "bearing": 247.79,
+   "glideslope": 3.0024779,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VAID",
    "identifier": "IIDR",
    "associatedRunwayNumber": "25",

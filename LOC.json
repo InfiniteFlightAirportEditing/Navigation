@@ -40379,6 +40379,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VABV",
+   "identifier": "IBHN",
+   "associatedRunwayNumber": "25",
+   "frequency": 109900,
+   "elevation": 43,
+   "latitude": 21.75576426,
+   "longitude": 72.19509292,
+   "bearing": 247.79,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VAID",
    "identifier": "IIDR",
    "associatedRunwayNumber": "25",
