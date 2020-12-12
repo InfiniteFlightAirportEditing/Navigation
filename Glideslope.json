@@ -40329,14 +40329,14 @@
  {
    "name": "GS",
    "airportICAO": "VAAU",
-   "identifier": "AUR",
+   "identifier": "IAUR",
    "associatedRunwayNumber": "27",
    "frequency": 110100,
-   "elevation": 1911,
-   "latitude": 19.862222,
-   "longitude": 75.406722,
-   "bearing": 268.88,
-   "glideslope": 3.0026794,
+   "elevation": 1917,
+   "latitude": 19.86317573,
+   "longitude": 75.40904545,
+   "bearing": 269.43,
+   "glideslope": 3.0026943,
    "receptionRange": 10
  },
  {

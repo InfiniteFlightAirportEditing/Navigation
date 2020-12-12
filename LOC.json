@@ -40302,13 +40302,13 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "VAAU",
-   "identifier": "AUR",
+   "identifier": "IAUR",
    "associatedRunwayNumber": "27",
    "frequency": 110100,
-   "elevation": 1911,
-   "latitude": 19.862972,
-   "longitude": 75.384889,
-   "bearing": 269.662,
+   "elevation": 1917,
+   "latitude": 19.86317573,
+   "longitude": 75.40904545,
+   "bearing": 269.43,
    "receptionRange": 18,
    "type": 4
  },
