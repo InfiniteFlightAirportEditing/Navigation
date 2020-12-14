@@ -17713,10 +17713,10 @@
    "associatedRunwayNumber": "17",
    "frequency": 109100,
    "elevation": 25,
-   "latitude": 29.1155,
-   "longitude": -95.4632,
-   "bearing": 180.872,
-   "glideslope": 3.00179936,
+   "latitude": 29.11826762,
+   "longitude": -95.46211143,
+   "bearing": 179.93,
+   "glideslope": 3.0017993,
    "receptionRange": 10
  },
  {
