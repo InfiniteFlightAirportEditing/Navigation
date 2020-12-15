@@ -1709,8 +1709,8 @@
    "associatedRunwayNumber": "20",
    "frequency": 108900,
    "elevation": 942,
-   "latitude": 06.72337911,
-   "longitude": -001.58902141,
+   "latitude": 6.72337911,
+   "longitude": -1.58902141,
    "bearing": 191.39,
    "receptionRange": 18,
    "type": 4
@@ -36238,7 +36238,7 @@
    "frequency": 111100,
    "elevation": 15,
    "latitude": -26.22910866,
-   "longitude": -048.79097743,
+   "longitude": -48.79097743,
    "bearing": 308.88,
    "receptionRange": 18,
    "type": 5
@@ -37044,7 +37044,7 @@
    "frequency": 111100,
    "elevation": 104,
    "latitude": -34.82168837,
-   "longitude": -056.03099996,
+   "longitude": -56.03099996,
    "bearing": 179.400,
    "receptionRange": 18,
    "type": 4
@@ -41257,7 +41257,7 @@
    "frequency": 111100,
    "elevation": 10,
    "latitude": 17.72197723,
-   "longitude": 083.24749156,
+   "longitude": 83.24749156,
    "bearing": 274.90,
    "receptionRange": 18,
    "type": 4
@@ -49473,7 +49473,7 @@
    "frequency": 109300,
    "elevation": 617,
    "latitude": -15.66219535,
-   "longitude": -056.11185866,
+   "longitude": -56.11185866,
    "bearing": 332.90,
    "receptionRange": 18,
    "type": 5

@@ -1710,8 +1710,8 @@
    "associatedRunwayNumber": "20",
    "frequency": 108900,
    "elevation": 942,
-   "latitude": 06.72337911,
-   "longitude": -001.58902141,
+   "latitude": 6.72337911,
+   "longitude": -1.58902141,
    "bearing": 191.39,
    "glideslope": 3.0019139,
    "receptionRange": 10
@@ -37032,7 +37032,7 @@
    "frequency": 111100,
    "elevation": 104,
    "latitude": -34.82168837,
-   "longitude": -056.03099996,
+   "longitude": -56.03099996,
    "bearing": 179.400,
    "glideslope": 3.00179400,
    "receptionRange": 10
