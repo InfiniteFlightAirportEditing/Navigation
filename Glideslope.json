@@ -21898,11 +21898,11 @@
    "identifier": "IPRC",
    "associatedRunwayNumber": "21L",
    "frequency": 108500,
-   "elevation": 4961,
-   "latitude": 34.658933,
-   "longitude": -112.413294,
-   "bearing": 221.294,
-   "glideslope": 3.00221147,
+   "elevation": 5045,
+   "latitude": 34.66219441,
+   "longitude": -112.41130808,
+   "bearing": 221.15,
+   "glideslope": 3.0022115,
    "receptionRange": 10
  },
  {
