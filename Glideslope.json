@@ -17946,11 +17946,11 @@
    "identifier": "ILGB",
    "associatedRunwayNumber": "30",
    "frequency": 110300,
-   "elevation": 32,
-   "latitude": 33.81235,
-   "longitude": -118.145944,
-   "bearing": 315.704,
-   "glideslope": 3.00314852,
+   "elevation": 60,
+   "latitude": 33.80686874,
+   "longitude": -118.13815929,
+   "bearing": 314.86,
+   "glideslope": 3.0031486,
    "receptionRange": 10
  },
  {
