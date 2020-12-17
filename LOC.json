@@ -9404,9 +9404,9 @@
    "identifier": "IABI",
    "associatedRunwayNumber": "35R",
    "frequency": 110300,
-   "elevation": 1798,
-   "latitude": 32.411828,
-   "longitude": -99.674797,
+   "elevation": 1790,
+   "latitude": 32.38874871,
+   "longitude": -99.67468168,
    "bearing": 359.76,
    "receptionRange": 18,
    "type": 4
@@ -46771,6 +46771,19 @@
    "latitude": 32.793871,
    "longitude": 21.932574,
    "bearing": 281.281,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
+   "name": "LOC",
+   "airportICAO": "KABI",
+   "identifier": "IEMB",
+   "associatedRunwayNumber": "17R",
+   "frequency": 109075,
+   "elevation": 1790,
+   "latitude": 32.42807808,
+   "longitude": -99.68492029,
+   "bearing": 179.76,
    "receptionRange": 18,
    "type": 5
  },
