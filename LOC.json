@@ -40354,13 +40354,13 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "VABO",
-   "identifier": "VDD",
+   "identifier": "IVDD",
    "associatedRunwayNumber": "22",
    "frequency": 110500,
-   "elevation": 129,
-   "latitude": 22.327222,
-   "longitude": 73.216917,
-   "bearing": 224.108,
+   "elevation": 131,
+   "latitude": 22.34418726,
+   "longitude": 73.23462598,
+   "bearing": 224.09,
    "receptionRange": 18,
    "type": 4
  },

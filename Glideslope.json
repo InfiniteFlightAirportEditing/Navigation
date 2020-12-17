@@ -40381,14 +40381,14 @@
  {
    "name": "GS",
    "airportICAO": "VABO",
-   "identifier": "VDD",
+   "identifier": "IVDD",
    "associatedRunwayNumber": "22",
    "frequency": 110500,
-   "elevation": 129,
-   "latitude": 22.343028,
-   "longitude": 73.231639,
-   "bearing": 224.216,
-   "glideslope": 3.00224108,
+   "elevation": 131,
+   "latitude": 22.34418726,
+   "longitude": 73.23462598,
+   "bearing": 224.09,
+   "glideslope": 3.0022409,
    "receptionRange": 10
  },
  {
