@@ -27475,11 +27475,11 @@
    "identifier": "TNO",
    "associatedRunwayNumber": "25R",
    "frequency": 110150,
-   "elevation": 537,
-   "latitude": 48.754661,
-   "longitude": 2.109028,
-   "bearing": 251.42,
-   "glideslope": 3.0025121,
+   "elevation": 538,
+   "latitude": 48.75439664,
+   "longitude": 2.11290692,
+   "bearing": 251.18,
+   "glideslope": 3.0025118,
    "receptionRange": 10
  },
  {
