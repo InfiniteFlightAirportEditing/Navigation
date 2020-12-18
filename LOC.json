@@ -23101,15 +23101,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "KSCK",
    "identifier": "ISCK",
    "associatedRunwayNumber": "29R",
    "frequency": 109100,
-   "elevation": 24,
-   "latitude": 37.904014,
-   "longitude": -121.253633,
-   "bearing": 307.685,
+   "elevation": 33,
+   "latitude": 37.88517869,
+   "longitude": -121.2227621,
+   "bearing": 307.7,
    "receptionRange": 18,
    "type": 4
  },

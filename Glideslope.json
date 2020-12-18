@@ -23133,11 +23133,11 @@
    "identifier": "ISCK",
    "associatedRunwayNumber": "29R",
    "frequency": 109100,
-   "elevation": 29,
-   "latitude": 37.889111,
-   "longitude": -121.226931,
-   "bearing": 308.398,
-   "glideslope": 2.90307699,
+   "elevation": 33,
+   "latitude": 37.88517869,
+   "longitude": -121.2227621,
+   "bearing": 307.7,
+   "glideslope": 3.003077,
    "receptionRange": 10
  },
  {
