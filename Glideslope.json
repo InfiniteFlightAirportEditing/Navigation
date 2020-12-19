@@ -17283,11 +17283,11 @@
    "identifier": "IJLN",
    "associatedRunwayNumber": "13",
    "frequency": 110300,
-   "elevation": 957,
-   "latitude": 37.156425,
-   "longitude": -94.503892,
-   "bearing": 138.182,
-   "glideslope": 2.88138091,
+   "elevation": 977,
+   "latitude": 37.15782211,
+   "longitude": -94.50732608,
+   "bearing": 138,
+   "glideslope": 3.00138,
    "receptionRange": 10
  },
  {
@@ -17296,11 +17296,11 @@
    "identifier": "IJQX",
    "associatedRunwayNumber": "18",
    "frequency": 108900,
-   "elevation": 954,
-   "latitude": 37.161889,
-   "longitude": -94.496125,
-   "bearing": 182.924,
-   "glideslope": 3.00181962,
+   "elevation": 977,
+   "latitude": 37.16409466,
+   "longitude": -94.497406,
+   "bearing": 182,
+   "glideslope": 3.00182,
    "receptionRange": 10
  },
  {
