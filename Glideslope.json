@@ -15594,10 +15594,10 @@
    "associatedRunwayNumber": "06",
    "frequency": 110500,
    "elevation": 7678,
-   "latitude": 38.53400735,
-   "longitude": -106.94202292,
-   "bearing": 73.986,
-   "glideslope": 3.20073493,
+   "latitude": 38.532439,
+   "longitude": -106.945086,
+   "bearing": 73.5,
+   "glideslope": 3.200735,
    "receptionRange": 10
  },
  {
