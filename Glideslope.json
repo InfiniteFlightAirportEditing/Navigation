@@ -27952,6 +27952,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LFSL",
+   "identifier": "BVC",
+   "associatedRunwayNumber": "29",
+   "frequency": 109950,
+   "elevation": 1016,
+   "latitude": 45.03618365,
+   "longitude": 1.49650742,
+   "bearing": 294.69,
+   "glideslope": 3.2029469,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LFSN",
    "identifier": "NY",
    "associatedRunwayNumber": "03",
