@@ -42620,11 +42620,11 @@
    "identifier": "IPNK",
    "associatedRunwayNumber": "15",
    "frequency": 111300,
-   "elevation": 10,
-   "latitude": -0.143464,
-   "longitude": 109.402303,
-   "bearing": 158.628,
-   "glideslope": 3.00157814,
+   "elevation": 12,
+   "latitude": -0.14134084,
+   "longitude": 109.400056,
+   "bearing": 157.89,
+   "glideslope": 3.0015789,
    "receptionRange": 10
  },
  {
