@@ -39755,6 +39755,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UTDD",
+   "identifier": "IFN",
+   "associatedRunwayNumber": "09",
+   "frequency": 110300,
+   "elevation": 2575,
+   "latitude": 38.54375088,
+   "longitude": 68.80670157,
+   "bearing": 90.18,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UTSB",
    "identifier": "IUH",
    "associatedRunwayNumber": "01",
