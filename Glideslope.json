@@ -20191,6 +20191,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KNGU",
+   "identifier": "INGU",
+   "associatedRunwayNumber": "10",
+   "frequency": 108950,
+   "elevation": 14,
+   "latitude": 36.93746719,
+   "longitude": -76.30359738,
+   "bearing": 90,
+   "glideslope": 3.0009,
+   "receptionRange": 18
+ },
+ {
+   "name": "GS",
    "airportICAO": "KNKT",
    "identifier": "INKT",
    "associatedRunwayNumber": "23R",
