@@ -43609,11 +43609,24 @@
    "associatedRunwayNumber": "08",
    "frequency": 108900,
    "elevation": 3556,
-   "latitude": 40.84492562,
-   "longitude": 111.80410666,
-   "bearing": 72.7,
-   "glideslope": 3.00071931,
+   "latitude": 40.84489808,
+   "longitude": 111.80413343,
+   "bearing": 72.69,
+   "glideslope": 3.0007269,
    "receptionRange": 10
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZBHH",
+   "identifier": "IKJ",
+   "associatedRunwayNumber": "26",
+   "frequency": 109500,
+   "elevation": 3556,
+   "latitude": 40.85450723,
+   "longitude": 111.84490162,
+   "bearing": 252.69,
+   "receptionRange": 18,
+   "type": 4
  },
  {
    "name": "GS",
