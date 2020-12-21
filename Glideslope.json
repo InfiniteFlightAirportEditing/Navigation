@@ -38340,19 +38340,6 @@
  {
    "name": "GS",
    "airportICAO": "UKDE",
-   "identifier": "IZA",
-   "associatedRunwayNumber": "02",
-   "frequency": 110300,
-   "elevation": 374,
-   "latitude": 47.8566667,
-   "longitude": 35.3086667,
-   "bearing": 22.46,
-   "glideslope": 2.7002246,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "UKDE",
    "identifier": "IZP",
    "associatedRunwayNumber": "20",
    "frequency": 111500,
