@@ -43625,8 +43625,8 @@
    "latitude": 40.85450723,
    "longitude": 111.84490162,
    "bearing": 252.69,
-   "receptionRange": 18,
-   "type": 4
+   "glideslope": 3.0025269,
+   "receptionRange": 10
  },
  {
    "name": "GS",
