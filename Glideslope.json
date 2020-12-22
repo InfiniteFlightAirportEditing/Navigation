@@ -40226,13 +40226,13 @@
    "name": "GS",
    "airportICAO": "UWKE",
    "identifier": "INK",
-   "associatedRunwayNumber": "22",
+   "associatedRunwayNumber": "21",
    "frequency": 109900,
    "elevation": 643,
-   "latitude": 55.571167,
-   "longitude": 52.101647,
-   "bearing": 227.804,
-   "glideslope": 2.70226902,
+   "latitude": 55.57228393,
+   "longitude": 52.10694773,
+   "bearing": 226.95,
+   "glideslope": 3.0022695,
    "receptionRange": 10
  },
  {
