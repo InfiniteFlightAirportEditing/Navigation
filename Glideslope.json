@@ -1696,11 +1696,11 @@
    "identifier": "IACA",
    "associatedRunwayNumber": "21",
    "frequency": 109900,
-   "elevation": 204,
-   "latitude": 5.61959444,
-   "longitude": -0.16131522,
-   "bearing": 202.24,
-   "glideslope": 3.0020224,
+   "elevation": 205,
+   "latitude": 5.61909347,
+   "longitude": -0.16153913,
+   "bearing": 202.23,
+   "glideslope": 3.0020223,
    "receptionRange": 10
  },
  {
