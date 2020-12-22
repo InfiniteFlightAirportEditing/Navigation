@@ -38139,7 +38139,7 @@
    "latitude": 56.36460172,
    "longitude": 101.7217875,
    "bearing": 294.92,
-   "glideslope": 3.00295,
+   "glideslope": 3.0029492,
    "receptionRange": 10
  },
  {
@@ -38733,7 +38733,7 @@
    "identifier": "IFP",
    "associatedRunwayNumber": "21",
    "frequency": 108700,
-   "elevation": 376,
+   "elevation": 377,
    "latitude": 59.284469,
    "longitude": 38.033565,
    "bearing": 222.05,
@@ -38880,7 +38880,7 @@
    "latitude": 53.726776,
    "longitude": 91.374889,
    "bearing": 24.69,
-   "glideslope": 2.4002469,
+   "glideslope": 2.6702469,
    "receptionRange": 10
  },
  {
@@ -38893,7 +38893,7 @@
    "latitude": 53.753353,
    "longitude": 91.395537,
    "bearing": 204.69,
-   "glideslope": 3.1020469,
+   "glideslope": 3.1720469,
    "receptionRange": 10
  },
  {
@@ -39045,7 +39045,7 @@
    "identifier": "IUF",
    "associatedRunwayNumber": "19",
    "frequency": 111100,
-   "elevation": 1022,
+   "elevation": 1023,
    "latitude": 53.823292,
    "longitude": 86.885287,
    "bearing": 199.81,
@@ -39205,7 +39205,7 @@
    "latitude": 43.388823,
    "longitude": 45.715303,
    "bearing": 266.71,
-   "glideslope": 2.4026671,
+   "glideslope": 2.6726671,
    "receptionRange": 10
  },
  {
@@ -39218,7 +39218,7 @@
    "latitude": 42.82690126,
    "longitude": 47.64383341,
    "bearing": 148.06,
-   "glideslope": 2.6714806,
+   "glideslope": 3.0014806,
    "receptionRange": 10
  },
  {
@@ -39231,7 +39231,7 @@
    "latitude": 42.80673666,
    "longitude": 47.66097365,
    "bearing": 328.06,
-   "glideslope": 2.70328109,
+   "glideslope": 3.00328109,
    "receptionRange": 10
  },
  {
@@ -39265,12 +39265,12 @@
    "airportICAO": "URMN",
    "identifier": "INF",
    "associatedRunwayNumber": "24",
-   "frequency": 110500,
+   "frequency": 111500,
    "elevation": 1461,
    "latitude": 43.51747891,
    "longitude": 43.64875271,
    "bearing": 242.75,
-   "glideslope": 2.6724275,
+   "glideslope": 2.7024275,
    "receptionRange": 10
  },
  {
@@ -39413,7 +39413,7 @@
    "latitude": 55.30922,
    "longitude": 61.478795,
    "bearing": 103.65,
-   "glideslope": 2.4010365,
+   "glideslope": 3.0010365,
    "receptionRange": 10
  },
  {
@@ -39426,7 +39426,7 @@
    "latitude": 55.30242,
    "longitude": 61.527976,
    "bearing": 283.65,
-   "glideslope": 2.5028365,
+   "glideslope": 3.0028365,
    "receptionRange": 10
  },
  {
