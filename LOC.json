@@ -27015,19 +27015,6 @@
  },
  {
    "name": "ILS-cat-I",
-   "airportICAO": "LFLY",
-   "identifier": "LY",
-   "associatedRunwayNumber": "34",
-   "frequency": 111300,
-   "elevation": 640,
-   "latitude": 45.736936,
-   "longitude": 4.940114,
-   "bearing": 343.441,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
    "airportICAO": "LFMC",
    "identifier": "LC",
    "associatedRunwayNumber": "09",
@@ -48916,19 +48903,6 @@
    "latitude": 46.833697,
    "longitude": 4.815747,
    "bearing": 350.485,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "LFLY",
-   "identifier": "LBO",
-   "associatedRunwayNumber": "16",
-   "frequency": 109950,
-   "elevation": 653,
-   "latitude": 45.717889,
-   "longitude": 4.948222,
-   "bearing": 163.454,
    "receptionRange": 18,
    "type": 5
  },

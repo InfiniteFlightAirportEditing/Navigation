@@ -27029,19 +27029,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "LFLY",
-   "identifier": "LY",
-   "associatedRunwayNumber": "34",
-   "frequency": 111300,
-   "elevation": 659,
-   "latitude": 45.724508,
-   "longitude": 4.947475,
-   "bearing": 343.882,
-   "glideslope": 3.00343441,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "LFMC",
    "identifier": "LC",
    "associatedRunwayNumber": "09",
