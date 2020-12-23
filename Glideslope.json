@@ -42568,11 +42568,11 @@
    "identifier": "IJMB",
    "associatedRunwayNumber": "31",
    "frequency": 109900,
-   "elevation": 82,
-   "latitude": -1.64502708,
-   "longitude": 103.65275207,
-   "bearing": 309.62,
-   "glideslope": 3.0030962,
+   "elevation": 91,
+   "latitude": -1.64724637,
+   "longitude": 103.65546453,
+   "bearing": 309.56,
+   "glideslope": 3.0030956,
    "receptionRange": 10
  },
  {
