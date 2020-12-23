@@ -39416,6 +39416,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "URWI",
+   "identifier": "ISA",
+   "associatedRunwayNumber": "09",
+   "frequency": 108500,
+   "elevation": 502,
+   "latitude": 46.37657406,
+   "longitude": 44.30321811,
+   "bearing": 97.8,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-III",
    "airportICAO": "URWW",
    "identifier": "IWG",
