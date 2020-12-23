@@ -9431,11 +9431,11 @@
    "identifier": "IABR",
    "associatedRunwayNumber": "31",
    "frequency": 109900,
-   "elevation": 1297,
-   "latitude": 45.443483,
-   "longitude": -98.413575,
-   "bearing": 315.31,
-   "glideslope": 3.00315155,
+   "elevation": 1301,
+   "latitude": 45.44184648,
+   "longitude": -98.40905203,
+   "bearing": 315.14,
+   "glideslope": 3.0031514,
    "receptionRange": 10
  },
  {
