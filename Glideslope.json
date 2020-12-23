@@ -39379,6 +39379,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "URWA",
+   "identifier": "IGV",
+   "associatedRunwayNumber": "09",
+   "frequency": 110300,
+   "elevation": -65,
+   "latitude": 46.28460035,
+   "longitude": 47.99013099,
+   "bearing": 96.85,
+   "glideslope": 3.0009685,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "URWA",
+   "identifier": "IBJ",
+   "associatedRunwayNumber": "27",
+   "frequency": 110500,
+   "elevation": -65,
+   "latitude": 46.2811729,
+   "longitude": 48.03141546,
+   "bearing": 276.85,
+   "glideslope": 3.0027685,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "URWW",
    "identifier": "IWG",
    "associatedRunwayNumber": "06",
