@@ -42412,11 +42412,11 @@
    "identifier": "ITWU",
    "associatedRunwayNumber": "24",
    "frequency": 111300,
-   "elevation": 87,
-   "latitude": 4.317278,
-   "longitude": 118.130528,
-   "bearing": 238.038,
-   "glideslope": 3.00238019,
+   "elevation": 56,
+   "latitude": 4.31977808,
+   "longitude": 118.13228974,
+   "bearing": 238.19,
+   "glideslope": 3.0023819,
    "receptionRange": 10
  },
  {
