@@ -44567,14 +44567,27 @@
  {
    "name": "GS",
    "airportICAO": "ZPJH",
+   "identifier": "IGG",
+   "associatedRunwayNumber": "16",
+   "frequency": 108500,
+   "elevation": 1814,
+   "latitude": 21.98479992,
+   "longitude": 100.75845733,
+   "bearing:": 160.78,
+   "glideslope": 3.0016078,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZPJH",
    "identifier": "ILK",
    "associatedRunwayNumber": "34",
    "frequency": 110300,
    "elevation": 1814,
-   "latitude": 21.967547,
-   "longitude": 100.763156,
-   "bearing": 341.552,
-   "glideslope": 3.00340776,
+   "latitude": 21.96434974,
+   "longitude": 100.7661463,
+   "bearing": 340.78,
+   "glideslope": 3.0034078,
    "receptionRange": 10
  },
  {
