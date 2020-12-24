@@ -13864,11 +13864,11 @@
    "identifier": "IDVN",
    "associatedRunwayNumber": "15",
    "frequency": 109100,
-   "elevation": 751,
-   "latitude": 41.612308,
-   "longitude": -90.592706,
-   "bearing": 150.322,
-   "glideslope": 3.00149661,
+   "elevation": 750,
+   "latitude": 41.61539429,
+   "longitude": -90.5934618,
+   "bearing": 149.66,
+   "glideslope": 3.0014966,
    "receptionRange": 10
  },
  {
