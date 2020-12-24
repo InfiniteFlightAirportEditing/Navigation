@@ -42811,6 +42811,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WMKN",
+   "identifier": "IKTA",
+   "associatedRunwayNumber": "04",
+   "frequency": 108100,
+   "elevation": 20,
+   "latitude": 5.369762,
+   "longitude": 103.09066452,
+   "bearing": 44.4,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WMKP",
    "identifier": "IPG",
    "associatedRunwayNumber": "04",
