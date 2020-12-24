@@ -20052,11 +20052,11 @@
    "identifier": "IMYR",
    "associatedRunwayNumber": "18",
    "frequency": 109500,
-   "elevation": 22,
-   "latitude": 33.690292,
-   "longitude": -78.929281,
-   "bearing": 168.514,
-   "glideslope": 3.00168257,
+   "elevation": 24,
+   "latitude": 33.69251854,
+   "longitude": -78.93151664,
+   "bearing": 168.27,
+   "glideslope": 3.0016827,
    "receptionRange": 10
  },
  {
@@ -20066,10 +20066,10 @@
    "associatedRunwayNumber": "36",
    "frequency": 111900,
    "elevation": 24,
-   "latitude": 33.670103,
-   "longitude": -78.924239,
-   "bearing": 348.514,
-   "glideslope": 3.00348257,
+   "latitude": 33.6669646,
+   "longitude": -78.92513759,
+   "bearing": 348.27,
+   "glideslope": 3.0034827,
    "receptionRange": 10
  },
  {

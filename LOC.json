@@ -20020,15 +20020,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "KMYR",
    "identifier": "IMYR",
    "associatedRunwayNumber": "18",
    "frequency": 109500,
-   "elevation": 14,
-   "latitude": 33.663053,
-   "longitude": -78.924156,
-   "bearing": 168.264,
+   "elevation": 24,
+   "latitude": 33.69251854,
+   "longitude": -78.93151664,
+   "bearing": 168.27,
    "receptionRange": 18,
    "type": 4
  },
@@ -20039,9 +20039,9 @@
    "associatedRunwayNumber": "36",
    "frequency": 111900,
    "elevation": 24,
-   "latitude": 33.696433,
-   "longitude": -78.932492,
-   "bearing": 348.257,
+   "latitude": 33.6669646,
+   "longitude": -78.92513759,
+   "bearing": 348.27,
    "receptionRange": 18,
    "type": 4
  },
