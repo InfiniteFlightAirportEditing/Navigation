@@ -40355,14 +40355,27 @@
  {
    "name": "GS",
    "airportICAO": "UWOR",
+   "identifier": "IRK",
+   "associatedRunwayNumber": "07",
+   "frequency": 109550,
+   "elevation": 909,
+   "latitude": 51.06956559,
+   "longitude": 58.57555203,
+   "bearing": 76.71,
+   "glideslope": 3.0007671,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UWOR",
    "identifier": "IOR",
    "associatedRunwayNumber": "25",
    "frequency": 108100,
    "elevation": 909,
-   "latitude": 51.066667,
-   "longitude": 58.611667,
-   "bearing": 257.338,
-   "glideslope": 2.70256669,
+   "latitude": 51.07554735,
+   "longitude": 58.61585593,
+   "bearing": 256.71,
+   "glideslope": 2.7025671,
    "receptionRange": 10
  },
  {
