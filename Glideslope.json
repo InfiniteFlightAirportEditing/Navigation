@@ -42464,11 +42464,11 @@
    "identifier": "IBTM",
    "associatedRunwayNumber": "04",
    "frequency": 110100,
-   "elevation": 125,
-   "latitude": 1.108942,
-   "longitude": 104.110456,
-   "bearing": 42.592,
-   "glideslope": 3.00041796,
+   "elevation": 123,
+   "latitude": 1.10731629,
+   "longitude": 104.10680068,
+   "bearing": 41.35,
+   "glideslope": 3.0004135,
    "receptionRange": 10
  },
  {
