@@ -264,12 +264,12 @@
    "airportICAO": "CYDF",
    "identifier": "IDF",
    "associatedRunwayNumber": "25",
-   "frequency": 110300,
-   "elevation": 72,
-   "latitude": 49.21503448,
-   "longitude": -57.38718414,
-   "bearing": 249,
-   "glideslope": 2.70249,
+   "frequency": 108300,
+   "elevation": 71,
+   "latitude": 49.21676516,
+   "longitude": -57.38221891,
+   "bearing": 226.31,
+   "glideslope": 2.7022631,
    "receptionRange": 10
  },
  {
