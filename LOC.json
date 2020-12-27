@@ -9673,6 +9673,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KAFJ",
+   "identifier": "IAFJ",
+   "associatedRunwayNumber": "27",
+   "frequency": 110300,
+   "elevation": 1184,
+   "latitude": 40.13707944,
+   "longitude": -80.28128596,
+   "bearing": 265.01,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KAFP",
    "identifier": "IAFP",
    "associatedRunwayNumber": "34",

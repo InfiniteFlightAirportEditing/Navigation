@@ -9659,6 +9659,19 @@
    "glideslope": 3.00144104,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "KAFJ",
+   "identifier": "IAFJ",
+   "associatedRunwayNumber": "27",
+   "frequency": 110300,
+   "elevation": 1184,
+   "latitude": 40.13707944,
+   "longitude": -80.28128596,
+   "bearing": 265.01,
+   "glideslope": 3.0926501,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "KAFP",
