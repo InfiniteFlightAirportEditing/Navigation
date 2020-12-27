@@ -8282,6 +8282,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "FBSK",
+   "identifier": "GBW",
+   "associatedRunwayNumber": "08",
+   "frequency": 109900,
+   "elevation": 3299,
+   "latitude": -24.56168360,
+   "longitude": 25.90541910,
+   "bearing": 61.48,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "FCBB",
    "identifier": "IBV",
    "associatedRunwayNumber": "05",
