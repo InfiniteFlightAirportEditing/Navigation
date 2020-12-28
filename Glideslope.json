@@ -23822,11 +23822,11 @@
    "identifier": "ISMX",
    "associatedRunwayNumber": "12",
    "frequency": 108900,
-   "elevation": 225,
-   "latitude": 34.903706,
-   "longitude": -120.457344,
-   "bearing": 136.096,
-   "glideslope": 3.00135548,
+   "elevation": 261,
+   "latitude": 34.90828027,
+   "longitude": -120.46437555,
+   "bearing": 135.54,
+   "glideslope": 3.0013554,
    "receptionRange": 10
  },
  {
