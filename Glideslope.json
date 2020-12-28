@@ -1653,6 +1653,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DAON",
+   "identifier": "TL",
+   "associatedRunwayNumber": "25",
+   "frequency": 109100,
+   "elevation": 814,
+   "latitude": 35.01745579,
+   "longitude": -1.44377769,
+   "bearing": 249.89,
+   "glideslope": 3.0024989,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DAUB",
    "identifier": "BI",
    "associatedRunwayNumber": "31",

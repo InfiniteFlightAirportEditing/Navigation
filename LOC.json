@@ -1652,6 +1652,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "DAON",
+   "identifier": "TL",
+   "associatedRunwayNumber": "25",
+   "frequency": 109100,
+   "elevation": 814,
+   "latitude": 35.01745579,
+   "longitude": -1.44377769,
+   "bearing": 249.89,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "DAUB",
    "identifier": "BI",
    "associatedRunwayNumber": "31",
