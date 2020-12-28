@@ -42473,6 +42473,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WATT",
+   "identifier": "IKPG",
+   "associatedRunwayNumber": "25",
+   "frequency": 110500,
+   "elevation": 333,
+   "latitude": -10.16891983,
+   "longitude": 123.68224032,
+   "bearing": 256.50,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WBGB",
    "identifier": "ILU",
    "associatedRunwayNumber": "17",
