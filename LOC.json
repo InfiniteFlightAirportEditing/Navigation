@@ -9309,6 +9309,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "HSMN",
+   "identifier": "MIN",
+   "associatedRunwayNumber": "02",
+   "frequency": 105500,
+   "elevation": 899,
+   "latitude": 18.46334502,
+   "longitude": 31.85278966,
+   "bearing": 020.0,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "HSMN",
+   "identifier": "MIS",
+   "associatedRunwayNumber": "20",
+   "frequency": 109500,
+   "elevation": 899,
+   "latitude": 18.42284593,
+   "longitude": 31.83444181,
+   "bearing": 200.0,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "HSPN",
    "identifier": "PIS",
    "associatedRunwayNumber": "34",
