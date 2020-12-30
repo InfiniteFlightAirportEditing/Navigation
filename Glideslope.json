@@ -25031,11 +25031,11 @@
    "identifier": "IBUZ",
    "associatedRunwayNumber": "04",
    "frequency": 111700,
-   "elevation": 903,
-   "latitude": 39.896119,
-   "longitude": -83.139872,
-   "bearing": 32.144,
-   "glideslope": 3.00032072,
+   "elevation": 904,
+   "latitude": 39.8947762,
+   "longitude": -83.1421234,
+   "bearing": 32.07,
+   "glideslope": 3.0003207,
    "receptionRange": 10
  },
  {
