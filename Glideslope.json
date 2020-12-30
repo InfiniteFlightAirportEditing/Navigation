@@ -29841,11 +29841,11 @@
    "identifier": "IEM",
    "associatedRunwayNumber": "22",
    "frequency": 110350,
-   "elevation": 1406,
-   "latitude": 47.097892,
-   "longitude": 8.312592,
-   "bearing": 217.998,
-   "glideslope": 4.00217499,
+   "elevation": 1400,
+   "latitude": 47.10131845,
+   "longitude": 8.31521648,
+   "bearing": 217.59,
+   "glideslope": 4.0021759,
    "receptionRange": 10
  },
  {
