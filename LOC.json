@@ -30474,6 +30474,19 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "LTFM",
+   "identifier": "IUCD",
+   "associatedRunwayNumber": "18",
+   "frequency": 110950,
+   "elevation": 325,
+   "latitude": 41.28991838,
+   "longitude": 28.75596031,
+   "bearing": 178.89,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "LTFM",
    "identifier": "IUCA",
    "associatedRunwayNumber": "34L",
    "frequency": 108550,
@@ -30494,6 +30507,19 @@
    "latitude": 41.26199863,
    "longitude": 28.72756749,
    "bearing": 359.37,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "LTFM",
+   "identifier": "IUCC",
+   "associatedRunwayNumber": "36",
+   "frequency": 111350,
+   "elevation": 325,
+   "latitude": 41.26225077,
+   "longitude": 28.75667246,
+   "bearing": 358.89,
    "receptionRange": 18,
    "type": 4
  },

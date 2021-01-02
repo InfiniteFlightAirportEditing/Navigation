@@ -30462,6 +30462,19 @@
  {
    "name": "GS",
    "airportICAO": "LTFM",
+   "identifier": "IUCD",
+   "associatedRunwayNumber": "18",
+   "frequency": 110950,
+   "elevation": 325,
+   "latitude": 41.28991838,
+   "longitude": 28.75596031,
+   "bearing": 178.89,
+   "glideslope": 3.0017889,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "LTFM",
    "identifier": "IUCA",
    "associatedRunwayNumber": "34L",
    "frequency": 108550,
@@ -30483,6 +30496,19 @@
    "longitude": 28.72756749,
    "bearing": 359.37,
    "glideslope": 3.0035937,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "LTFM",
+   "identifier": "IUCC",
+   "associatedRunwayNumber": "36",
+   "frequency": 111350,
+   "elevation": 325,
+   "latitude": 41.26225077,
+   "longitude": 28.75667246,
+   "bearing": 358.89,
+   "glideslope": 3.0035889,
    "receptionRange": 10
  },
  {
