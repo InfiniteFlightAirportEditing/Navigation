@@ -40430,6 +40430,32 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-II",
+   "airportICAO": "UWUU",
+   "identifier": "IPT",
+   "associatedRunwayNumber": "14R",
+   "frequency": 110300,
+   "elevation": 449,
+   "latitude": 54.57326167,
+   "longitude": 55.84931495,
+   "bearing": 150.86,
+   "receptionRange": 18,
+   "type": 4
+ },
+{
+   "name": "ILS-cat-II",
+   "airportICAO": "UWUU",
+   "identifier": "INM",
+   "associatedRunwayNumber": "32R",
+   "frequency": 108700,
+   "elevation": 449,
+   "latitude": 54.54367099,
+   "longitude": 55.8777774,
+   "bearing": 330.86,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "UWWW",
    "identifier": "IBE",

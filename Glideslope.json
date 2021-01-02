@@ -40471,6 +40471,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UWUU",
+   "identifier": "IPT",
+   "associatedRunwayNumber": "14R",
+   "frequency": 110300,
+   "elevation": 449,
+   "latitude": 54.57326167,
+   "longitude": 55.84931495,
+   "bearing": 150.86,
+   "glideslope": 3.0015086,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UWUU",
+   "identifier": "INM",
+   "associatedRunwayNumber": "32R",
+   "frequency": 108700,
+   "elevation": 449,
+   "latitude": 54.54367099,
+   "longitude": 55.8777774,
+   "bearing": 330.86,
+   "glideslope": 3.0033086,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UWWW",
    "identifier": "IBE",
    "associatedRunwayNumber": "05",
