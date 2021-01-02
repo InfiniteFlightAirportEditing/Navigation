@@ -40137,11 +40137,11 @@
    "identifier": "IPS",
    "associatedRunwayNumber": "26",
    "frequency": 108300,
-   "elevation": 561,
-   "latitude": 55.50846240,
-   "longitude": 37.52009998,
-   "bearing": 264.8,
-   "glideslope": 3.172648,
+   "elevation": 563,
+   "latitude": 55.50840828,
+   "longitude": 37.5198233,
+   "bearing": 264.75,
+   "glideslope": 3.1726475,
    "receptionRange": 10
  },
  {
