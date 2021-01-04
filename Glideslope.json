@@ -12005,11 +12005,11 @@
    "identifier": "ICIC",
    "associatedRunwayNumber": "13L",
    "frequency": 111300,
-   "elevation": 234,
-   "latitude": 39.800322,
-   "longitude": -121.863058,
-   "bearing": 148.058,
-   "glideslope": 3.00147529,
+   "elevation": 240,
+   "latitude": 39.80338693,
+   "longitude": -121.86414929,
+   "bearing": 147.54,
+   "glideslope": 3.0014754,
    "receptionRange": 10
  },
  {
