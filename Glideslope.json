@@ -9804,6 +9804,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KAIA",
+   "identifier": "IBYE",
+   "associatedRunwayNumber": "30",
+   "frequency": 108350,
+   "elevation": 3930,
+   "latitude": 42.04235834,
+   "longitude": -102.79435873,
+   "bearing": 314.43,
+   "glideslope": 3.0031443,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KAID",
    "identifier": "IAID",
    "associatedRunwayNumber": "30",
