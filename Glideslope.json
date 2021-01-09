@@ -9483,11 +9483,11 @@
    "identifier": "IACJ",
    "associatedRunwayNumber": "23",
    "frequency": 110500,
-   "elevation": 461,
-   "latitude": 32.114503,
-   "longitude": -84.184981,
-   "bearing": 226.414,
-   "glideslope": 3.00225707,
+   "elevation": 468,
+   "latitude": 32.11589041,
+   "longitude": -84.18158757,
+   "bearing": 225.73,
+   "glideslope": 3.0022573,
    "receptionRange": 10
  },
  {
