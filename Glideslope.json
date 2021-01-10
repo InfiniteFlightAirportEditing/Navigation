@@ -7364,11 +7364,11 @@
    "identifier": "PA",
    "associatedRunwayNumber": "14",
    "frequency": 110300,
-   "elevation": 65,
-   "latitude": 65.55325,
-   "longitude": 22.104528,
-   "bearing": 137.678,
-   "glideslope": 2.86137339,
+   "elevation": 64,
+   "latitude": 65.5547972,
+   "longitude": 22.0974056,
+   "bearing": 137.35,
+   "glideslope": 2.8613735,
    "receptionRange": 10
  },
  {
@@ -7377,11 +7377,11 @@
    "identifier": "SPA",
    "associatedRunwayNumber": "32",
    "frequency": 109900,
-   "elevation": 65,
-   "latitude": 65.53525,
-   "longitude": 22.144611,
-   "bearing": 317.678,
-   "glideslope": 2.86317339,
+   "elevation": 64,
+   "latitude": 65.5327167,
+   "longitude": 22.1465528,
+   "bearing": 317.35,
+   "glideslope": 2.8631735,
    "receptionRange": 10
  },
  {
