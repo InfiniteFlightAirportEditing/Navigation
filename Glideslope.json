@@ -4697,13 +4697,13 @@
    "name": "GS",
    "airportICAO": "EGOV",
    "identifier": "VY",
-   "associatedRunwayNumber": "14",
+   "associatedRunwayNumber": "13",
    "frequency": 109700,
    "elevation": 37,
-   "latitude": 53.252981,
-   "longitude": -4.541603,
-   "bearing": 132,
-   "glideslope": 3.00132,
+   "latitude": 53.25379170,
+   "longitude": -4.54635830,
+   "bearing": 130.50,
+   "glideslope": 3.0013050,
    "receptionRange": 10
  },
  {
@@ -8766,13 +8766,13 @@
    "name": "GS",
    "airportICAO": "GMAG",
    "identifier": "GUM",
-   "associatedRunwayNumber": "27",
+   "associatedRunwayNumber": "05",
    "frequency": 110500,
    "elevation": 1119,
    "latitude": 29.01692807,
    "longitude": -10.06174932,
    "bearing": 45.65,
-   "glideslope": 3.004565,
+   "glideslope": 3.0004565,
    "receptionRange": 10
  },
  {
@@ -27608,8 +27608,8 @@
    "elevation": 291,
    "latitude": 48.71997165,
    "longitude": 2.31691396,
-   "bearing": 61.8,
-   "glideslope": 3.000618,
+   "bearing": 61.80,
+   "glideslope": 3.0006180,
    "receptionRange": 10
  },
  {
@@ -27634,8 +27634,8 @@
    "elevation": 291,
    "latitude": 48.73545031,
    "longitude": 2.36067887,
-   "bearing": 241.8,
-   "glideslope": 3.002418,
+   "bearing": 241.80,
+   "glideslope": 3.0024180,
    "receptionRange": 10
  },
  {
@@ -28006,13 +28006,13 @@
    "name": "GS",
    "airportICAO": "LFSD",
    "identifier": "DJ",
-   "associatedRunwayNumber": "36",
+   "associatedRunwayNumber": "35",
    "frequency": 109500,
    "elevation": 728,
    "latitude": 47.258653,
    "longitude": 5.097472,
-   "bearing": 355.998,
-   "glideslope": 3.00354999,
+   "bearing": 355.00,
+   "glideslope": 3.0035500,
    "receptionRange": 10
  },
  {
@@ -28214,7 +28214,7 @@
    "name": "GS",
    "airportICAO": "LGRP",
    "identifier": "IRDS",
-   "associatedRunwayNumber": "25",
+   "associatedRunwayNumber": "24",
    "frequency": 110300,
    "elevation": 17,
    "latitude": 36.41044936,
