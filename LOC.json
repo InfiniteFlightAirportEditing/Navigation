@@ -18629,15 +18629,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "KMCN",
    "identifier": "IMCN",
-   "associatedRunwayNumber": "5",
+   "associatedRunwayNumber": "05",
    "frequency": 109500,
    "elevation": 354,
-   "latitude": 32.698964,
-   "longitude": -83.643661,
-   "bearing": 47.823,
+   "latitude": 32.68602396,
+   "longitude": -83.66063984,
+   "bearing": 47.83,
    "receptionRange": 18,
    "type": 4
  },

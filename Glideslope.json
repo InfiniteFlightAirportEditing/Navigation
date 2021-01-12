@@ -18661,11 +18661,11 @@
    "identifier": "IMCN",
    "associatedRunwayNumber": "05",
    "frequency": 109500,
-   "elevation": 339,
-   "latitude": 32.687044,
-   "longitude": -83.65735,
-   "bearing": 48.646,
-   "glideslope": 3.00047823,
+   "elevation": 354,
+   "latitude": 32.68602396,
+   "longitude": -83.66063984,
+   "bearing": 47.83,
+   "glideslope": 3.0004783,
    "receptionRange": 10
  },
  {
