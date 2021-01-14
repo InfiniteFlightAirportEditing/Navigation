@@ -2003,7 +2003,7 @@
  },
  {
    "name": "ILS-cat-I",
-   "airportICAO": "DTAA",
+   "airportICAO": "DTTA",
    "identifier": "TBL",
    "associatedRunwayNumber": "01",
    "frequency": 111100,
@@ -35693,7 +35693,7 @@
    "elevation": 18,
    "latitude": -34.55393710,
    "longitude": -58.42522562,
-   "bearing": 124.09,
+   "bearing": 124.093,
    "receptionRange": 18,
    "type": 4
  },
