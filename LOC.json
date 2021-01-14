@@ -40602,7 +40602,7 @@
    "name": "ILS-cat-II",
    "airportICAO": "UWUU",
    "identifier": "INM",
-   "associatedRunwayNumber": "32R",
+   "associatedRunwayNumber": "32L",
    "frequency": 108700,
    "elevation": 449,
    "latitude": 54.54367099,
