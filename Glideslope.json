@@ -33755,21 +33755,21 @@
    "associatedRunwayNumber": "4R",
    "frequency": 110500,
    "elevation": 13,
-   "latitude": 21.31392649,
-   "longitude": -157.92716524,
+   "latitude": 21.315010,
+   "longitude": -157.924045,
    "bearing": 52.85,
    "glideslope": 3.0005285,
    "receptionRange": 10
  },
- {
+ {'
    "name": "GS",
    "airportICAO": "PHNL",
    "identifier": "IHNL",
    "associatedRunwayNumber": "8L",
    "frequency": 111700,
    "elevation": 13,
-   "latitude": 21.32525797,
-   "longitude": -157.94326923,
+   "latitude": 21.324485,
+   "longitude": -157.939908,
    "bearing": 90.01,
    "glideslope": 3.009001,
    "receptionRange": 10
