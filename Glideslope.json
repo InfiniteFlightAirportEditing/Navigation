@@ -38054,6 +38054,19 @@
  {
    "name": "GS",
    "airportICAO": "UHHH",
+   "identifier": "IHI",
+   "associatedRunwayNumber": "05L",
+   "frequency": 110900,
+   "elevation": 244,
+   "latitude": 48.51635585,
+   "longitude": 135.16970415,
+   "bearing": 42.1,
+   "glideslope": 2.700421,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UHHH",
    "identifier": "IUF",
    "associatedRunwayNumber": "05R",
    "frequency": 110300,
@@ -38061,7 +38074,7 @@
    "latitude": 48.51459012,
    "longitude": 135.17262501,
    "bearing": 42.11,
-   "glideslope": 2.6704211,
+   "glideslope": 2.7004211,
    "receptionRange": 10
  },
  {
@@ -38074,7 +38087,20 @@
    "latitude": 48.54129938,
    "longitude": 135.20906364,
    "bearing": 222.11,
-   "glideslope": 2.6722211,
+   "glideslope": 2.7022211,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UHHH",
+   "identifier": "IHW",
+   "associatedRunwayNumber": "23R",
+   "frequency": 111300,
+   "elevation": 244,
+   "latitude": 48.53972949,
+   "longitude": 135.20158527,
+   "bearing": 222.1,
+   "glideslope": 2.702221,
    "receptionRange": 10
  },
  {

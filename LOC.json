@@ -38064,7 +38064,20 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
+   "airportICAO": "UHHH",
+   "identifier": "IHI",
+   "associatedRunwayNumber": "05L",
+   "frequency": 110900,
+   "elevation": 244,
+   "latitude": 48.51635585,
+   "longitude": 135.16970415,
+   "bearing": 42.1,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-II",
    "airportICAO": "UHHH",
    "identifier": "IUF",
    "associatedRunwayNumber": "05R",
@@ -38086,6 +38099,19 @@
    "latitude": 48.54129938,
    "longitude": 135.20906364,
    "bearing": 222.11,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-II",
+   "airportICAO": "UHHH",
+   "identifier": "IHW",
+   "associatedRunwayNumber": "23R",
+   "frequency": 111300,
+   "elevation": 244,
+   "latitude": 48.53972949,
+   "longitude": 135.20158527,
+   "bearing": 222.1,
    "receptionRange": 18,
    "type": 4
  },
