@@ -14577,13 +14577,13 @@
    "name": "GS",
    "airportICAO": "KFAY",
    "identifier": "IGRA",
-   "associatedRunwayNumber": "04",
+   "associatedRunwayNumber": "4",
    "frequency": 110500,
    "elevation": 188,
-   "latitude": 34.986975,
-   "longitude": -78.883125,
-   "bearing": 31.138,
-   "glideslope": 3.00031069,
+   "latitude": 34.98435068,
+   "longitude": -78.88701542,
+   "bearing": 31.08,
+   "glideslope": 3.0003108,
    "receptionRange": 10
  },
  {
