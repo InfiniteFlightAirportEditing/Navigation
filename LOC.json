@@ -4669,12 +4669,12 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "EGOV",
-   "identifier": "VY",
-   "associatedRunwayNumber": "14",
+   "identifier": "I-VY",
+   "associatedRunwayNumber": "13",
    "frequency": 109700,
    "elevation": 37,
-   "latitude": 53.243115,
-   "longitude": -4.526499,
+   "latitude": 53.242786,
+   "longitude": -4.527963,
    "bearing": 132,
    "receptionRange": 18,
    "type": 4
