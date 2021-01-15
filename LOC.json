@@ -469,6 +469,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "CYJT",
+   "identifier": "IJT",
+   "associatedRunwayNumber": "27",
+   "frequency": 109500,
+   "elevation": 81,
+   "latitude": 48.539172,
+   "longitude": -58.573239,
+   "bearing": 271.00,
+   "receptionRange": 18,
+   "type": 4
+ },
+  {
+   "name": "ILS-cat-I",
    "airportICAO": "CYKA",
    "identifier": "IKA",
    "associatedRunwayNumber": "09",

@@ -467,7 +467,7 @@
    "glideslope": 2.7023497,
    "receptionRange": 10
  },
- {
+  {
    "name": "GS",
    "airportICAO": "CYKA",
    "identifier": "IKA",
@@ -478,6 +478,19 @@
    "longitude": -120.46541200,
    "bearing": 103.29,
    "glideslope": 3.10103290,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "CYJT",
+   "identifier": "IJT",
+   "associatedRunwayNumber": "27",
+   "frequency": 109500,
+   "elevation": 81,
+   "latitude": 50.70554110,
+   "longitude": -120.46541200,
+   "bearing": 271.00,
+   "glideslope": 3.0027100,
    "receptionRange": 10
  },
  {
