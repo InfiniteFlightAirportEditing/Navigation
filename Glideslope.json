@@ -9882,6 +9882,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KAIZ",
+   "identifier": "IAIZ",
+   "associatedRunwayNumber": "22",
+   "frequency": 111500,
+   "elevation": 869,
+   "latitude": 38.10315181,
+   "longitude": -92.54267791,
+   "bearing": 216.96,
+   "glideslope": 3.0021696,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KALB",
    "identifier": "IDEJ",
    "associatedRunwayNumber": "01",

@@ -47362,13 +47362,13 @@
  {
    "name": "LOC",
    "airportICAO": "KAIZ",
-   "identifier": "AIZ",
-   "associatedRunwayNumber": "21",
+   "identifier": "IAIZ",
+   "associatedRunwayNumber": "22",
    "frequency": 111500,
    "elevation": 869,
-   "latitude": 38.086725,
-   "longitude": -92.558489,
-   "bearing": 217.152,
+   "latitude": 38.10315181,
+   "longitude": -92.54267791,
+   "bearing": 216.96,
    "receptionRange": 18,
    "type": 5
  },
