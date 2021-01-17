@@ -40540,11 +40540,11 @@
    "identifier": "ILA",
    "associatedRunwayNumber": "06",
    "frequency": 110300,
-   "elevation": 560,
-   "latitude": 56.088772,
-   "longitude": 47.330356,
-   "bearing": 72.922,
-   "glideslope": 3.00071961,
+   "elevation": 561,
+   "latitude": 56.08674514,
+   "longitude": 47.32805287,
+   "bearing": 71.79,
+   "glideslope": 3.0007179,
    "receptionRange": 10
  },
  {
@@ -40553,11 +40553,11 @@
    "identifier": "ICR",
    "associatedRunwayNumber": "24",
    "frequency": 108300,
-   "elevation": 560,
-   "latitude": 56.094197,
-   "longitude": 47.361239,
-   "bearing": 252.922,
-   "glideslope": 2.70251961,
+   "elevation": 561,
+   "latitude": 56.09379295,
+   "longitude": 47.36644281,
+   "bearing": 251.79,
+   "glideslope": 3.0025179,
    "receptionRange": 10
  },
  {
