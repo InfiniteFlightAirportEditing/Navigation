@@ -32389,11 +32389,11 @@
    "identifier": "IQAN",
    "associatedRunwayNumber": "08L",
    "frequency": 109300,
-   "elevation": 2537,
-   "latitude": 31.728322,
-   "longitude": 35.972886,
-   "bearing": 80.704,
-   "glideslope": 3.00080352,
+   "elevation": 2395,
+   "latitude": 31.72672724,
+   "longitude": 35.96943776,
+   "bearing": 80.38,
+   "glideslope": 3.0008038,
    "receptionRange": 10
  },
  {
@@ -32403,10 +32403,10 @@
    "associatedRunwayNumber": "26L",
    "frequency": 110900,
    "elevation": 2395,
-   "latitude": 31.718314,
-   "longitude": 36.015467,
-   "bearing": 260.724,
-   "glideslope": 3.00260362,
+   "latitude": 31.71987139,
+   "longitude": 36.01855792,
+   "bearing": 260.35,
+   "glideslope": 3.0026035,
    "receptionRange": 10
  },
  {
@@ -32415,11 +32415,11 @@
    "identifier": "IQAR",
    "associatedRunwayNumber": "26R",
    "frequency": 111100,
-   "elevation": 2393,
-   "latitude": 31.732847,
-   "longitude": 36.004181,
-   "bearing": 260.704,
-   "glideslope": 3.00260352,
+   "elevation": 2395,
+   "latitude": 31.7322291,
+   "longitude": 36.00760186,
+   "bearing": 260.38,
+   "glideslope": 3.0026038,
    "receptionRange": 10
  },
  {
