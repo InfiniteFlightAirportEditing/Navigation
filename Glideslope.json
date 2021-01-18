@@ -41502,11 +41502,11 @@
    "identifier": "IHBD",
    "associatedRunwayNumber": "09R",
    "frequency": 108500,
-   "elevation": 1969,
-   "latitude": 17.228597,
-   "longitude": 78.41282,
-   "bearing": 89.16,
-   "glideslope": 3.00281062,
+   "elevation": 2027,
+   "latitude": 17.2285829,
+   "longitude": 78.41279316,
+   "bearing": 89.18,
+   "glideslope": 3.0008918,
    "receptionRange": 10
  },
  {
@@ -41515,11 +41515,11 @@
    "identifier": "ISAM",
    "associatedRunwayNumber": "27L",
    "frequency": 110900,
-   "elevation": 1969,
-   "latitude": 17.229159,
-   "longitude": 78.452913,
-   "bearing": 269.16,
-   "glideslope": 3.00281062,
+   "elevation": 2027,
+   "latitude": 17.22913354,
+   "longitude": 78.45284247,
+   "bearing": 269.18,
+   "glideslope": 3.0026918,
    "receptionRange": 10
  },
  {
