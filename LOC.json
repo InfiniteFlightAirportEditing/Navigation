@@ -26754,15 +26754,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "LFBU",
    "identifier": "AM",
    "associatedRunwayNumber": "28",
    "frequency": 109350,
-   "elevation": 427,
-   "latitude": 45.73065,
-   "longitude": 0.205342,
-   "bearing": 276.943,
+   "elevation": 436,
+   "latitude": 45.7285363,
+   "longitude": 0.23022281,
+   "bearing": 276.97,
    "receptionRange": 18,
    "type": 4
  },

@@ -26786,11 +26786,11 @@
    "identifier": "AM",
    "associatedRunwayNumber": "28",
    "frequency": 109350,
-   "elevation": 420,
-   "latitude": 45.729858,
-   "longitude": 0.2263,
-   "bearing": 277.898,
-   "glideslope": 3.00276949,
+   "elevation": 436,
+   "latitude": 45.7285363,
+   "longitude": 0.23022281,
+   "bearing": 276.97,
+   "glideslope": 3.0027697,
    "receptionRange": 10
  },
  {
