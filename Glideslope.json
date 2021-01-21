@@ -8385,6 +8385,19 @@
    "glideslope": 3.0029694,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "FKYS",
+   "identifier": "YA",
+   "associatedRunwayNumber": "19",
+   "frequency": 109900,
+   "elevation": 2278,
+   "latitude": 3.73768956,
+   "longitude": 11.55600281,
+   "bearing": 189.91,
+   "glideslope": 3.0018991,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "FLKK",

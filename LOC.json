@@ -8397,6 +8397,19 @@
    "receptionRange": 18,
    "type": 4
  },
+  {
+   "name": "ILS-cat-I",
+   "airportICAO": "FKYS",
+   "identifier": "YA",
+   "associatedRunwayNumber": "19",
+   "frequency": 109900,
+   "elevation": 2278,
+   "latitude": 3.73768956,
+   "longitude": 11.55600281,
+   "bearing": 189.910,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "FLKK",
