@@ -36623,6 +36623,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SBUL",
+   "identifier": "IUB",
+   "associatedRunwayNumber": "04",
+   "frequency": 109300,
+   "elevation": 3094,
+   "latitude": -18.89223748,
+   "longitude": -48.22971012,
+   "bearing": 22.57,
+   "glideslope": 3.0002257,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SBVT",
    "identifier": "IVI",
    "associatedRunwayNumber": "24",
