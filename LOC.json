@@ -42822,6 +42822,19 @@
    "receptionRange": 18,
    "type": 4
  },
+  {
+   "name": "ILS-cat-I",
+   "airportICAO": "WAYY",
+   "identifier": "ITMK",
+   "associatedRunwayNumber": "12",
+   "frequency": 110700,
+   "elevation": 103,
+   "latitude": -4.52400319,
+   "longitude": 136.87829751,
+   "bearing": 122.03,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "WBGB",

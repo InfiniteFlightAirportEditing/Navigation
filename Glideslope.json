@@ -42835,6 +42835,19 @@
    "glideslope": 3.0625650,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "WAYY",
+   "identifier": "ITMK",
+   "associatedRunwayNumber": "12",
+   "frequency": 110700,
+   "elevation": 103,
+   "latitude": -4.52400319,
+   "longitude": 136.87829751,
+   "bearing": 122.03,
+   "glideslope": 3.0012203,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "WBGB",
