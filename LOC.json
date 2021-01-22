@@ -42770,7 +42770,7 @@
    "receptionRange": 18,
    "type": 4
  },
-  {
+ {
    "name": "ILS-cat-I",
    "airportICAO": "WAPP",
    "identifier": "IAMN",
@@ -42835,7 +42835,7 @@
    "receptionRange": 18,
    "type": 4
  },
-  {
+ {
    "name": "ILS-cat-I",
    "airportICAO": "WAYY",
    "identifier": "ITMK",
@@ -43121,7 +43121,7 @@
    "receptionRange": 18,
    "type": 4
  },
-  {
+ {
    "name": "ILS-cat-I",
    "airportICAO": "WIKT",
    "identifier": "ITPN",
