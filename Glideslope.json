@@ -42783,6 +42783,19 @@
    "glideslope": 3.0010049,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "WAPP",
+   "identifier": "IAMN",
+   "associatedRunwayNumber": "04",
+   "frequency": 111100,
+   "elevation": 33,
+   "latitude": -3.71828356,
+   "longitude": 128.08166938,
+   "bearing": 44.85,
+   "glideslope": 3.004485,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "WAQQ",
