@@ -42824,6 +42824,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WARA",
+   "identifier": "IABD",
+   "associatedRunwayNumber": "35",
+   "frequency": 109700,
+   "elevation": 1726,
+   "latitude": -7.93786488,
+   "longitude": 112.71645821,
+   "bearing": 166.5,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WARI",
    "identifier": "IRB",
    "associatedRunwayNumber": "17",

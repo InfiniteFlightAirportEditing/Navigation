@@ -42824,7 +42824,20 @@
  },
  {
    "name": "GS",
-   "airportICAO": "WAR1",
+   "airportICAO": "WARA",
+   "identifier": "IABD",
+   "associatedRunwayNumber": "35",
+   "frequency": 109700,
+   "elevation": 1726,
+   "latitude": -7.93786488,
+   "longitude": 112.71645821,
+   "bearing": 166.5,
+   "glideslope": 3.001665,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "WARI",
    "identifier": "IRB",
    "associatedRunwayNumber": "17",
    "frequency": 111100,
