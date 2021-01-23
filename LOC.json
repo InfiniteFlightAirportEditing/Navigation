@@ -42785,6 +42785,19 @@
 },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WAPP",
+   "identifier": "IAMN",
+   "associatedRunwayNumber": "04",
+   "frequency": 111100,
+   "elevation": 33,
+   "latitude": -3.71828356,
+   "longitude": 128.08166938,
+   "bearing": 44.85,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WAQQ",
    "identifier": "ITRK",
    "associatedRunwayNumber": "06",
@@ -43130,7 +43143,7 @@
    "elevation": 170,
    "latitude": -2.75524915,
    "longitude": 107.75526904,
-   "bearing": 356.2,
+   "bearing": 356.20,
    "receptionRange": 18,
    "type": 4
  },
