@@ -43032,6 +43032,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WICA",
+   "identifier": "IKTJ",
+   "associatedRunwayNumber": "14",
+   "frequency": 109500,
+   "elevation": 133,
+   "latitude": -6.64049217,
+   "longitude": 108.15975819,
+   "bearing": 140.14,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WIDD",
    "identifier": "IBTM",
    "associatedRunwayNumber": "04",
