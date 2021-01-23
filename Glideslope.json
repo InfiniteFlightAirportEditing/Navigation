@@ -42798,6 +42798,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WAPP",
+   "identifier": "IAMN",
+   "associatedRunwayNumber": "04",
+   "frequency": 111100,
+   "elevation": 33,
+   "latitude": -3.71828356,
+   "longitude": 128.03166938,
+   "bearing": 44.85,
+   "glideslope": 3.0004485,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WAQQ",
    "identifier": "ITRK",
    "associatedRunwayNumber": "06",
@@ -42846,6 +42859,19 @@
    "longitude": 123.68224032,
    "bearing": 256.50,
    "glideslope": 3.0625650,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "WAYY",
+   "identifier": "ITMK",
+   "associatedRunwayNumber": "12",
+   "frequency": 110700,
+   "elevation": 103,
+   "latitude": -4.52400319,
+   "longitude": 136.87829751,
+   "bearing": 122.03,
+   "glideslope": 3.0012203,
    "receptionRange": 10
  },
  {
@@ -43119,6 +43145,19 @@
    "longitude": 103.65546453,
    "bearing": 309.56,
    "glideslope": 3.0030956,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "WIKT",
+   "identifier": "ITPN",
+   "associatedRunwayNumber": "36",
+   "frequency": 109500,
+   "elevation": 170,
+   "latitude": -2.75524915,
+   "longitude": 107.75526904,
+   "bearing": 356.20,
+   "glideslope": 3.0035620,
    "receptionRange": 10
  },
  {

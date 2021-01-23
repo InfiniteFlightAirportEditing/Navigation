@@ -42784,6 +42784,32 @@
    "type": 4
  },
  {
+  "name": "ILS-cat-I",
+  "airportICAO": "WAPP",
+  "identifier": "IAMN",
+  "associatedRunwayNumber": "04",
+  "frequency": 111100,
+  "elevation": 33,
+  "latitude": -3.71828356,
+  "longitude": 128.03166938,
+  "bearing": 44.85,
+  "receptionRange": 18,
+  "type": 4
+},
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "WAPP",
+   "identifier": "IAMN",
+   "associatedRunwayNumber": "04",
+   "frequency": 111100,
+   "elevation": 33,
+   "latitude": -3.71828356,
+   "longitude": 128.08166938,
+   "bearing": 44.85,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "WAQQ",
    "identifier": "ITRK",
@@ -42832,6 +42858,19 @@
    "latitude": -10.16891983,
    "longitude": 123.68224032,
    "bearing": 256.50,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "WAYY",
+   "identifier": "ITMK",
+   "associatedRunwayNumber": "12",
+   "frequency": 110700,
+   "elevation": 103,
+   "latitude": -4.52400319,
+   "longitude": 136.87829751,
+   "bearing": 122.03,
    "receptionRange": 18,
    "type": 4
  },
@@ -43105,6 +43144,19 @@
    "latitude": -1.64724637,
    "longitude": 103.65546453,
    "bearing": 309.56,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "WIKT",
+   "identifier": "ITPN",
+   "associatedRunwayNumber": "36",
+   "frequency": 109500,
+   "elevation": 170,
+   "latitude": -2.75524915,
+   "longitude": 107.75526904,
+   "bearing": 356.20,
    "receptionRange": 18,
    "type": 4
  },
