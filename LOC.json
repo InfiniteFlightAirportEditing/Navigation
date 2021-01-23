@@ -27,6 +27,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "AYXM",
+   "identifier": "IXM",
+   "associatedRunwayNumber": "34",
+   "frequency": 108100,
+   "elevation": 5157,
+   "latitude": -6.080111,
+   "longitude": 142.880675,
+   "bearing": 347.06,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "BGTL",
    "identifier": "IITL",
    "associatedRunwayNumber": "08",
