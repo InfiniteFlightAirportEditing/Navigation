@@ -43110,6 +43110,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WIKT",
+   "identifier": "IPTN",
+   "associatedRunwayNumber": "36",
+   "frequency": 109500,
+   "elevation": 170,
+   "latitude": -2.75524915,
+   "longitude": 107.75526904,
+   "bearing": 356.2,
+   "glideslope": 3.003562,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WIMM",
    "identifier": "IDES",
    "associatedRunwayNumber": "05",

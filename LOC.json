@@ -43097,6 +43097,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WIKT",
+   "identifier": "ITPN",
+   "associatedRunwayNumber": "36",
+   "frequency": 109500,
+   "elevation": 170,
+   "latitude": -2.75524915,
+   "longitude": 107.75526904,
+   "bearing": 356.2,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WIMM",
    "identifier": "IMDN",
    "associatedRunwayNumber": "05",
