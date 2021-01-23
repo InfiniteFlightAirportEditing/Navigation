@@ -25,6 +25,19 @@
    "glideslope": 3.0032867,
    "receptionRange": 10
  },
+ { 
+   "name": "GS",
+   "airportICAO": "AYXM",
+   "identifier": "IXM",
+   "associatedRunwayNumber": "34",
+   "frequency": 334700,
+   "elevation": 5157,
+   "latitude": -6.051136,
+   "longitude": 142.874750,
+   "bearing": 347.06,
+   "glideslope": 3.0234706,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "BGTL",
