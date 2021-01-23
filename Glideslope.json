@@ -37537,11 +37537,11 @@
    "identifier": "IMO",
    "associatedRunwayNumber": "04",
    "frequency": 109500,
-   "elevation": 1165,
-   "latitude": 51.0112948,
-   "longitude": 71.44861934,
-   "bearing": 44.53,
-   "glideslope": 3.0004453,
+   "elevation": 1166,
+   "latitude": 51.01133706,
+   "longitude": 71.44870477,
+   "bearing": 44.47,
+   "glideslope": 3.0004447,
    "receptionRange": 10
  },
  {
@@ -37550,11 +37550,11 @@
    "identifier": "IAK",
    "associatedRunwayNumber": "22",
    "frequency": 111700,
-   "elevation": 1165,
-   "latitude": 51.03378985,
-   "longitude": 71.48378867,
-   "bearing": 224.53,
-   "glideslope": 3.0022453,
+   "elevation": 1166,
+   "latitude": 51.03379244,
+   "longitude": 71.48374254,
+   "bearing": 224.47,
+   "glideslope": 3.0022447,
    "receptionRange": 10
  },
  {
