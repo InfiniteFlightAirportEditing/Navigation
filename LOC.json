@@ -44488,6 +44488,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZGBH",
+   "identifier": "IVV",
+   "associatedRunwayNumber": "01",
+   "frequency": 110700,
+   "elevation": 83,
+   "latitude": 21.52538542,
+   "longitude": 109.29079077,
+   "bearing": 11.15,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZGDY",
    "identifier": "IZJ",
    "associatedRunwayNumber": "08",
