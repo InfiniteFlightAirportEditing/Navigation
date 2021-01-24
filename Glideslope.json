@@ -9353,11 +9353,11 @@
    "identifier": "IKNB",
    "associatedRunwayNumber": "28",
    "frequency": 109900,
-   "elevation": 4859,
-   "latitude": -1.973728,
-   "longitude": 30.153017,
-   "bearing": 280.944,
-   "glideslope": 3.00279972,
+   "elevation": 4883,
+   "latitude": -1.97133488,
+   "longitude": 30.15483645,
+   "bearing": 279.96,
+   "glideslope": 3.0027996,
    "receptionRange": 10
  },
  {
