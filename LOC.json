@@ -32735,6 +32735,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "OMAD",
+   "identifier": "IAT",
+   "associatedRunwayNumber": "31",
+   "frequency": 110700,
+   "elevation": 16,
+   "latitude": 24.43896734,
+   "longitude": 54.44334141,
+   "bearing": 308.17,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "OMAM",
    "identifier": "IAML",
    "associatedRunwayNumber": "13L",
