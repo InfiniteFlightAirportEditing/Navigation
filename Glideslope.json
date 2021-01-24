@@ -32710,6 +32710,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "OMAD",
+   "identifier": "IAT",
+   "associatedRunwayNumber": "31",
+   "frequency": 110700,
+   "elevation": 16,
+   "latitude": 24.43896734,
+   "longitude": 54.44334141,
+   "bearing": 308.17,
+   "glideslope": 3.5030817,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "OMAM",
    "identifier": "IAML",
    "associatedRunwayNumber": "13L",
@@ -36645,6 +36658,19 @@
    "longitude": -38.30896527,
    "bearing": 258.35,
    "glideslope": 3.0025835,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "SBUL",
+   "identifier": "IUB",
+   "associatedRunwayNumber": "04",
+   "frequency": 109300,
+   "elevation": 3094,
+   "latitude": -18.89223748,
+   "longitude": -48.22971012,
+   "bearing": 22.57,
+   "glideslope": 3.0002257,
    "receptionRange": 10
  },
  {
@@ -45155,11 +45181,11 @@
    "identifier": "IGG",
    "associatedRunwayNumber": "05L",
    "frequency": 109900,
-   "elevation": 1569,
-   "latitude": 34.43797,
-   "longitude": 108.740029,
-   "bearing": 48.33,
-   "glideslope": 3.0004833,
+   "elevation": 1572,
+   "latitude": 34.45734497,
+   "longitude": 108.76658324,
+   "bearing": 48.70,
+   "glideslope": 3.0004870,
    "receptionRange": 10
  },
  {
@@ -45168,11 +45194,11 @@
    "identifier": "IMM",
    "associatedRunwayNumber": "23R",
    "frequency": 110300,
-   "elevation": 1569,
-   "latitude": 34.455984,
-   "longitude": 108.764573,
-   "bearing": 228.33,
-   "glideslope": 3.0022833,
+   "elevation": 1572,
+   "latitude": 34.43684651,
+   "longitude": 108.73828778,
+   "bearing": 228.70,
+   "glideslope": 3.0022870,
    "receptionRange": 10
  },
  {
@@ -45181,11 +45207,11 @@
    "identifier": "IXW",
    "associatedRunwayNumber": "05R",
    "frequency": 109300,
-   "elevation": 1569,
-   "latitude": 34.420691,
-   "longitude": 108.751133,
-   "bearing": 48.34,
-   "glideslope": 3.0004833,
+   "elevation": 1572,
+   "latitude": 34.44504877,
+   "longitude": 108.78431859,
+   "bearing": 48.71,
+   "glideslope": 3.0004871,
    "receptionRange": 10
  },
  {
@@ -45194,11 +45220,11 @@
    "identifier": "IAQ",
    "associatedRunwayNumber": "23L",
    "frequency": 111100,
-   "elevation": 1569,
-   "latitude": 34.443486,
-   "longitude": 108.782189,
-   "bearing": 228.34,
-   "glideslope": 3.0022834,
+   "elevation": 1572,
+   "latitude": 34.41940623,
+   "longitude": 108.74892031,
+   "bearing": 228.71,
+   "glideslope": 3.0022871,
    "receptionRange": 10
  },
  {
