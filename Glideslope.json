@@ -25,6 +25,19 @@
    "glideslope": 3.0032867,
    "receptionRange": 10
  },
+ { 
+   "name": "GS",
+   "airportICAO": "AYXM",
+   "identifier": "IXM",
+   "associatedRunwayNumber": "34",
+   "frequency": 334700,
+   "elevation": 5157,
+   "latitude": -6.051136,
+   "longitude": 142.874750,
+   "bearing": 347.06,
+   "glideslope": 3.0234706,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "BGTL",
@@ -9936,13 +9949,13 @@
    "name": "GS",
    "airportICAO": "KALB",
    "identifier": "IDEJ",
-   "associatedRunwayNumber": "01",
+   "associatedRunwayNumber": "1",
    "frequency": 109500,
    "elevation": 285,
-   "latitude": 42.73717731,
-   "longitude": -73.80424283,
-   "bearing": 358.172,
-   "glideslope": 3.00358172,
+   "latitude": 42.73716939,
+   "longitude": -73.80425318,
+   "bearing": 358.18,
+   "glideslope": 3.0035818,
    "receptionRange": 10
  },
  {
@@ -9952,10 +9965,10 @@
    "associatedRunwayNumber": "19",
    "frequency": 109500,
    "elevation": 285,
-   "latitude": 42.76047355,
-   "longitude": -73.80525674,
-   "bearing": 178.172,
-   "glideslope": 3.00178172,
+   "latitude": 42.76047846,
+   "longitude": -73.80526179,
+   "bearing": 178.18,
+   "glideslope": 3.0017818,
    "receptionRange": 10
  },
  {
