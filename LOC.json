@@ -32072,6 +32072,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "OENG",
+   "identifier": "INEJ",
+   "associatedRunwayNumber": "06",
+   "frequency": 109300,
+   "elevation": 3982,
+   "latitude": 17.60456676,
+   "longitude": 44.40667405,
+   "bearing": 59.89,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "OEPS",
    "identifier": "ISAB",
    "associatedRunwayNumber": "17L",
