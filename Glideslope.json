@@ -27296,8 +27296,8 @@
    "elevation": 12,
    "latitude": 43.65179763,
    "longitude": 7.20403975,
-   "bearing": 44.84,
-   "glideslope": 3.000449,
+   "bearing": 44.87,
+   "glideslope": 3.0004487,
    "receptionRange": 10
  },
  {
@@ -27309,8 +27309,8 @@
    "elevation": 12,
    "latitude": 43.64674169,
    "longitude": 7.20249043,
-   "bearing": 44.86,
-   "glideslope": 3.00042,
+   "bearing": 44.87,
+   "glideslope": 3.0004487,
    "receptionRange": 10
  },
  {
@@ -36578,8 +36578,8 @@
    "elevation": 33,
    "latitude": -8.11942694,
    "longitude": -34.9245956,
-   "bearing": 162.82,
-   "glideslope": 3.0016191,
+   "bearing": 162.89,
+   "glideslope": 3.0016189,
    "receptionRange": 10
  },
  {
@@ -36657,7 +36657,7 @@
    "latitude": -12.91129054,
    "longitude": -38.33611962,
    "bearing": 78.35,
-   "glideslope": 2.9007835,
+   "glideslope": 3.0007835,
    "receptionRange": 10
  },
  {
