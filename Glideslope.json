@@ -1692,6 +1692,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DAOO",
+   "identifier": "RN",
+   "associatedRunwayNumber": "25R",
+   "frequency": 108900,
+   "elevation": 299,
+   "latitude": 35.61559548,
+   "longitude": -0.64516121,
+   "bearing": 247.17,
+   "glideslope": 3.0024717,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DAUB",
    "identifier": "BI",
    "associatedRunwayNumber": "31",

@@ -1691,6 +1691,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "DAOO",
+   "identifier": "RN",
+   "associatedRunwayNumber": "25R",
+   "frequency": 108900,
+   "elevation": 299,
+   "latitude": 35.61559548,
+   "longitude": -0.64516121,
+   "bearing": 247.17,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "DAUB",
    "identifier": "BI",
    "associatedRunwayNumber": "31",
