@@ -22015,11 +22015,11 @@
    "identifier": "IPOC",
    "associatedRunwayNumber": "26L",
    "frequency": 110500,
-   "elevation": 999,
-   "latitude": 34.092756,
-   "longitude": -117.777758,
-   "bearing": 273.428,
-   "glideslope": 3.76273214,
+   "elevation": 1014,
+   "latitude": 34.09097499,
+   "longitude": -117.77455847,
+   "bearing": 273.22,
+   "glideslope": 3.7627322,
    "receptionRange": 10
  },
  {
