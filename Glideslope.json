@@ -41200,14 +41200,14 @@
  {
    "name": "GS",
    "airportICAO": "VEMN",
-   "identifier": "DIB",
+   "identifier": "IDIB",
    "associatedRunwayNumber": "05",
    "frequency": 109500,
-   "elevation": 362,
-   "latitude": 27.477333,
-   "longitude": 95.014389,
-   "bearing": 45.426,
-   "glideslope": 3.00045213,
+   "elevation": 361,
+   "latitude": 27.47775818,
+   "longitude": 95.01076786,
+   "bearing": 45.12,
+   "glideslope": 3.0004512,
    "receptionRange": 10
  },
  {

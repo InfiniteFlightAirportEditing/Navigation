@@ -41199,13 +41199,13 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "VEMN",
-   "identifier": "DIB",
+   "identifier": "IDIB",
    "associatedRunwayNumber": "05",
    "frequency": 109500,
-   "elevation": 362,
-   "latitude": 27.489083,
-   "longitude": 95.025528,
-   "bearing": 50.697,
+   "elevation": 361,
+   "latitude": 27.47775818,
+   "longitude": 95.01076786,
+   "bearing": 45.12,
    "receptionRange": 18,
    "type": 4
  },
