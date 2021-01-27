@@ -1704,6 +1704,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "DAUO",
+   "identifier": "EO",
+   "associatedRunwayNumber": "13",
+   "frequency": 108300,
+   "elevation": 203,
+   "latitude": 33.52735749,
+   "longitude": 6.76193717,
+   "bearing": 129.89,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "DBBB",
    "identifier": "CN",
    "associatedRunwayNumber": "24",

@@ -1705,6 +1705,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DAUO",
+   "identifier": "EO",
+   "associatedRunwayNumber": "13",
+   "frequency": 108300,
+   "elevation": 203,
+   "latitude": 33.52735749,
+   "longitude": 6.76193717,
+   "bearing": 129.89,
+   "glideslope": 2.9012989,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DBBB",
    "identifier": "CN",
    "associatedRunwayNumber": "24",
