@@ -9366,11 +9366,11 @@
    "identifier": "IKNB",
    "associatedRunwayNumber": "28",
    "frequency": 109900,
-   "elevation": 4859,
-   "latitude": -1.973728,
-   "longitude": 30.153017,
-   "bearing": 280.944,
-   "glideslope": 3.00279972,
+   "elevation": 4883,
+   "latitude": -1.97133488,
+   "longitude": 30.15483645,
+   "bearing": 279.96,
+   "glideslope": 3.0027996,
    "receptionRange": 10
  },
  {
@@ -22015,11 +22015,11 @@
    "identifier": "IPOC",
    "associatedRunwayNumber": "26L",
    "frequency": 110500,
-   "elevation": 999,
-   "latitude": 34.092756,
-   "longitude": -117.777758,
-   "bearing": 273.428,
-   "glideslope": 3.76273214,
+   "elevation": 1014,
+   "latitude": 34.09097499,
+   "longitude": -117.77455847,
+   "bearing": 273.22,
+   "glideslope": 3.7627322,
    "receptionRange": 10
  },
  {
@@ -41226,14 +41226,14 @@
  {
    "name": "GS",
    "airportICAO": "VEMN",
-   "identifier": "DIB",
+   "identifier": "IDIB",
    "associatedRunwayNumber": "05",
    "frequency": 109500,
-   "elevation": 362,
-   "latitude": 27.477333,
-   "longitude": 95.014389,
-   "bearing": 45.426,
-   "glideslope": 3.00045213,
+   "elevation": 361,
+   "latitude": 27.47775818,
+   "longitude": 95.01076786,
+   "bearing": 45.12,
+   "glideslope": 3.0004512,
    "receptionRange": 10
  },
  {
@@ -44510,6 +44510,19 @@
    "longitude": 112.639075,
    "bearing": 307.19,
    "glideslope": 3.00307095,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZGBH",
+   "identifier": "IVV",
+   "associatedRunwayNumber": "01",
+   "frequency": 110700,
+   "elevation": 83,
+   "latitude": 21.52538542,
+   "longitude": 109.29079077,
+   "bearing": 11.15,
+   "glideslope": 3.0001155,
    "receptionRange": 10
  },
  {
