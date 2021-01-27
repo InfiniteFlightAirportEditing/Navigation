@@ -46114,6 +46114,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZSYN",
+   "identifier": "IGF",
+   "associatedRunwayNumber": "04",
+   "frequency": 110900,
+   "elevation": 10,
+   "latitude": 33.41845978,
+   "longitude": 120.19584345,
+   "bearing": 38.41,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZSYN",
+   "identifier": "IYC",
+   "associatedRunwayNumber": "22",
+   "frequency": 111300,
+   "elevation": 10,
+   "latitude": 33.43820541,
+   "longitude": 120.21460245,
+   "bearing": 218.41,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZSYT",
    "identifier": "IYN",
    "associatedRunwayNumber": "05",
