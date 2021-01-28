@@ -1705,6 +1705,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DAUO",
+   "identifier": "EO",
+   "associatedRunwayNumber": "13",
+   "frequency": 108300,
+   "elevation": 203,
+   "latitude": 33.52735749,
+   "longitude": 6.76193717,
+   "bearing": 129.89,
+   "glideslope": 2.9012989,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DBBB",
    "identifier": "CN",
    "associatedRunwayNumber": "24",
@@ -46123,6 +46136,32 @@
    "longitude": 119.72266796,
    "bearing": 346.89,
    "glideslope": 3.0034689,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZSYN",
+   "identifier": "IGF",
+   "associatedRunwayNumber": "04",
+   "frequency": 110900,
+   "elevation": 10,
+   "latitude": 33.41845978,
+   "longitude": 120.19584345,
+   "bearing": 38.41,
+   "glideslope": 3.0003841,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZSYN",
+   "identifier": "IYC",
+   "associatedRunwayNumber": "22",
+   "frequency": 111300,
+   "elevation": 10,
+   "latitude": 33.43820541,
+   "longitude": 120.21460245,
+   "bearing": 218.41,
+   "glideslope": 3.0021841,
    "receptionRange": 10
  },
  {
