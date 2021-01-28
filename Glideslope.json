@@ -1692,6 +1692,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DAOO",
+   "identifier": "RN",
+   "associatedRunwayNumber": "25R",
+   "frequency": 108900,
+   "elevation": 299,
+   "latitude": 35.61559548,
+   "longitude": -0.64516121,
+   "bearing": 247.17,
+   "glideslope": 3.0024717,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DAUB",
    "identifier": "BI",
    "associatedRunwayNumber": "31",
@@ -18089,11 +18102,11 @@
    "identifier": "ILGA",
    "associatedRunwayNumber": "04",
    "frequency": 110500,
-   "elevation": 16,
-   "latitude": 40.772092,
-   "longitude": -73.882769,
-   "bearing": 32.094,
-   "glideslope": 3.00032047,
+   "elevation": 21,
+   "latitude": 40.76916736,
+   "longitude": -73.88412211,
+   "bearing": 32.04,
+   "glideslope": 3.1003204,
    "receptionRange": 10
  },
  {
@@ -18102,11 +18115,11 @@
    "identifier": "IGDI",
    "associatedRunwayNumber": "13",
    "frequency": 108500,
-   "elevation": 11,
-   "latitude": 40.781394,
-   "longitude": -73.875244,
-   "bearing": 122.5,
-   "glideslope": 3.0012225,
+   "elevation": 21,
+   "latitude": 40.78230307,
+   "longitude": -73.87852035,
+   "bearing": 122.25,
+   "glideslope": 3.1012225,
    "receptionRange": 10
  },
  {
@@ -18115,11 +18128,11 @@
    "identifier": "IURD",
    "associatedRunwayNumber": "22",
    "frequency": 110500,
-   "elevation": 11,
-   "latitude": 40.782708,
-   "longitude": -73.871864,
-   "bearing": 212.094,
-   "glideslope": 3.00212047,
+   "elevation": 21,
+   "latitude": 40.78544233,
+   "longitude": -73.87067353,
+   "bearing": 212.04,
+   "glideslope": 3.0021204,
    "receptionRange": 10
  },
  {
@@ -27296,8 +27309,8 @@
    "elevation": 12,
    "latitude": 43.65179763,
    "longitude": 7.20403975,
-   "bearing": 44.84,
-   "glideslope": 3.000449,
+   "bearing": 44.87,
+   "glideslope": 3.0004487,
    "receptionRange": 10
  },
  {
@@ -27309,8 +27322,8 @@
    "elevation": 12,
    "latitude": 43.64674169,
    "longitude": 7.20249043,
-   "bearing": 44.86,
-   "glideslope": 3.00042,
+   "bearing": 44.87,
+   "glideslope": 3.0004487,
    "receptionRange": 10
  },
  {
@@ -36578,8 +36591,8 @@
    "elevation": 33,
    "latitude": -8.11942694,
    "longitude": -34.9245956,
-   "bearing": 162.82,
-   "glideslope": 3.0016191,
+   "bearing": 162.89,
+   "glideslope": 3.0016189,
    "receptionRange": 10
  },
  {
@@ -36657,7 +36670,7 @@
    "latitude": -12.91129054,
    "longitude": -38.33611962,
    "bearing": 78.35,
-   "glideslope": 2.9007835,
+   "glideslope": 3.0007835,
    "receptionRange": 10
  },
  {
