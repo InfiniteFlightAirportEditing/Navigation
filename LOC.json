@@ -1654,7 +1654,7 @@
    "name": "ILS-cat-II",
    "airportICAO": "DABB",
    "identifier": "AN",
-   "associatedRunwayNumber": "19",
+   "associatedRunwayNumber": "18",
    "frequency": 109700,
    "elevation": 16,
    "latitude": 36.816247,
