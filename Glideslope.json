@@ -43842,11 +43842,11 @@
    "identifier": "IEN",
    "associatedRunwayNumber": "26",
    "frequency": 109900,
-   "elevation": 281,
-   "latitude": -37.730804,
-   "longitude": 144.914657,
-   "bearing": 268.02,
-   "glideslope": 3.0026802,
+   "elevation": 280,
+   "latitude": -37.73078551,
+   "longitude": 144.91471453,
+   "bearing": 268.035,
+   "glideslope": 3.00268035,
    "receptionRange": 10
  },
  {
