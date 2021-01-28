@@ -8249,10 +8249,10 @@
    "associatedRunwayNumber": "03L",
    "frequency": 110300,
    "elevation": 5558,
-   "latitude": -26.14632159,
-   "longitude": 28.23438578,
-   "bearing": 15.5,
-   "glideslope": 3.00015500,
+   "latitude": -26.14639808,
+   "longitude": 28.23434112,
+   "bearing": 15.529,
+   "glideslope": 3.0015529,
    "receptionRange": 10
  },
  {
@@ -8262,10 +8262,10 @@
    "associatedRunwayNumber": "03R",
    "frequency": 109100,
    "elevation": 5558,
-   "latitude": -26.16473084,
-   "longitude": 28.24814988,
-   "bearing": 15.54,
-   "glideslope": 3.00015540,
+   "latitude": -26.1647411,
+   "longitude": 28.24811798,
+   "bearing": 15.532,
+   "glideslope": 3.0015532,
    "receptionRange": 10
  },
  {
@@ -8275,10 +8275,10 @@
    "associatedRunwayNumber": "21L",
    "frequency": 109900,
    "elevation": 5558,
-   "latitude": -26.13515578,
-   "longitude": 28.25731134,
-   "bearing": 195.54,
-   "glideslope": 3.00195540,
+   "latitude": -26.13515456,
+   "longitude": 28.25727866,
+   "bearing": 195.532,
+   "glideslope": 3.00195532,
    "receptionRange": 10
  },
  {
@@ -8286,12 +8286,12 @@
    "airportICAO": "FAOR",
    "identifier": "JBI",
    "associatedRunwayNumber": "21R",
-   "frequency": 110900,
+   "frequency": 109900,
    "elevation": 5558,
-   "latitude": -26.10800841,
-   "longitude": 28.24622034,
-   "bearing": 195.5,
-   "glideslope": 3.00195500,
+   "latitude": -26.10805253,
+   "longitude": 28.24620888,
+   "bearing": 195.529,
+   "glideslope": 3.00195529,
    "receptionRange": 10
  },
  {
