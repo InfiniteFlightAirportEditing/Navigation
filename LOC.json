@@ -47490,6 +47490,19 @@
    "receptionRange": 18,
    "type": 5
  },
+{
+   "name": "LOC",
+   "airportICAO": "ENVD",
+   "identifier": "VD",
+   "associatedRunwayNumber": "07",
+   "frequency": 108700,
+   "elevation": 126,
+   "latitude": 70.06504679,
+   "longitude": 29.83372664,
+   "bearing": 87.46,
+   "receptionRange": 18,
+   "type": 5
+ },
  {
    "name": "LOC",
    "airportICAO": "ESKN",
