@@ -42772,6 +42772,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WAGI",
+   "identifier": "IPKN",
+   "associatedRunwayNumber": "31",
+   "frequency": 111900,
+   "elevation": 87,
+   "latitude": -2.71177775,
+   "longitude": 111.68033349,
+   "bearing": 312.66,
+   "glideslope": 3.0031266,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WAHQ",
    "identifier": "ISLO",
    "associatedRunwayNumber": "26",
