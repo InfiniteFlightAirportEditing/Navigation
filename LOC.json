@@ -1692,6 +1692,19 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "DAOO",
+   "identifier": "OR",
+   "associatedRunwayNumber": "25L",
+   "frequency": 109900,
+   "elevation": 299,
+   "latitude": 35.62459766,
+   "longitude": -0.61027419,
+   "bearing": 247.16,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "DAOO",
    "identifier": "RN",
    "associatedRunwayNumber": "25R",
    "frequency": 108900,
