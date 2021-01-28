@@ -43293,14 +43293,27 @@
  {
    "name": "GS",
    "airportICAO": "WIPP",
+   "identifier": "IPLM",
+   "associatedRunwayNumber": "11",
+   "frequency": 111100,
+   "elevation": 48,
+   "latitude": -2.89217333,
+   "longitude": 104.68535423,
+   "bearing": 112.87,
+   "glideslope": 3.0011287,
+   "receptionRange": 10
+ },  
+ {
+   "name": "GS",
+   "airportICAO": "WIPP",
    "identifier": "IPLB",
    "associatedRunwayNumber": "29",
    "frequency": 110500,
-   "elevation": 37,
-   "latitude": -2.900853,
-   "longitude": 104.707803,
-   "bearing": 293.8,
-   "glideslope": 3.002929,
+   "elevation": 48,
+   "latitude": -2.90266696,
+   "longitude": 104.71026254,
+   "bearing": 292.87,
+   "glideslope": 3.0029287,
    "receptionRange": 10
  },
  {
