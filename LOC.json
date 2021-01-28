@@ -18606,7 +18606,7 @@
    "name": "ILS-cat-I",
    "airportICAO": "KMCB",
    "identifier": "IMCB",
-   "associatedRunwayNumber": "15",
+   "associatedRunwayNumber": "16",
    "frequency": 109100,
    "elevation": 413,
    "latitude": 31.169178,
