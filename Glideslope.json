@@ -6478,13 +6478,13 @@
    "name": "GS",
    "airportICAO": "ENNA",
    "identifier": "BA",
-   "associatedRunwayNumber": "35",
+   "associatedRunwayNumber": "34",
    "frequency": 108300,
-   "elevation": 25,
-   "latitude": 70.0597,
-   "longitude": 24.979128,
-   "bearing": 355.866,
-   "glideslope": 3.50355433,
+   "elevation": 24,
+   "latitude": 70.05636879,
+   "longitude": 24.97654623,
+   "bearing": 355.40,
+   "glideslope": 3.5035540,
    "receptionRange": 10
  },
  {
@@ -32069,6 +32069,19 @@
    "longitude": 39.703394,
    "bearing": 4.382,
    "glideslope": 3.00003691,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "OENG",
+   "identifier": "INEJ",
+   "associatedRunwayNumber": "06",
+   "frequency": 109300,
+   "elevation": 3982,
+   "latitude": 17.60456676,
+   "longitude": 44.40667405,
+   "bearing": 59.89,
+   "glideslope": 3.00005989,
    "receptionRange": 10
  },
  {
