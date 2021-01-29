@@ -8634,6 +8634,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "FWCL",
+   "identifier": "ICL",
+   "associatedRunwayNumber": "10",
+   "frequency": 110300,
+   "elevation": 2555,
+   "latitude": -15.67737606,
+   "longitude": 34.95854973,
+   "bearing": 96.46,
+   "glideslope": 3.0009646,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "FXMM",
    "identifier": "ILM",
    "associatedRunwayNumber": "22",
