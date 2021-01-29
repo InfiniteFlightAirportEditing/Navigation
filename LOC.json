@@ -43305,6 +43305,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WIMN",
+   "identifier": "ISLB",
+   "associatedRunwayNumber": "27",
+   "frequency": 108700,
+   "elevation": 4707,
+   "latitude": 2.25913964,
+   "longitude": 98.99812274,
+   "bearing": 272.63,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WIOO",
    "identifier": "IPNK",
    "associatedRunwayNumber": "15",

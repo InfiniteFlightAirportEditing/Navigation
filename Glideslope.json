@@ -43292,6 +43292,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WIMN",
+   "identifier": "ISLB",
+   "associatedRunwayNumber": "27",
+   "frequency": 108700,
+   "elevation": 4707,
+   "latitude": 2.25913964,
+   "longitude": 98.99812274,
+   "bearing": 272.63,
+   "glideslope": 3.0027263,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WIOO",
    "identifier": "IPNK",
    "associatedRunwayNumber": "15",
