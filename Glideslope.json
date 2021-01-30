@@ -8660,6 +8660,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "FWCL",
+   "identifier": "ICL",
+   "associatedRunwayNumber": "10",
+   "frequency": 110300,
+   "elevation": 2555,
+   "latitude": -15.67737606,
+   "longitude": 34.95854973,
+   "bearing": 96.46,
+   "glideslope": 3.0009646,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "FXMM",
    "identifier": "ILM",
    "associatedRunwayNumber": "22",
@@ -42824,6 +42837,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WAGI",
+   "identifier": "IPKN",
+   "associatedRunwayNumber": "31",
+   "frequency": 111900,
+   "elevation": 87,
+   "latitude": -2.71177775,
+   "longitude": 111.68033349,
+   "bearing": 312.66,
+   "glideslope": 3.0031266,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WAHQ",
    "identifier": "ISLO",
    "associatedRunwayNumber": "26",
@@ -43331,6 +43357,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WIMN",
+   "identifier": "ISLB",
+   "associatedRunwayNumber": "27",
+   "frequency": 108700,
+   "elevation": 4707,
+   "latitude": 2.25913964,
+   "longitude": 98.99812274,
+   "bearing": 272.63,
+   "glideslope": 3.0027263,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WIOO",
    "identifier": "IPNK",
    "associatedRunwayNumber": "15",
@@ -43345,14 +43384,27 @@
  {
    "name": "GS",
    "airportICAO": "WIPP",
+   "identifier": "IPLM",
+   "associatedRunwayNumber": "11",
+   "frequency": 111100,
+   "elevation": 48,
+   "latitude": -2.89217333,
+   "longitude": 104.68535423,
+   "bearing": 112.87,
+   "glideslope": 3.0011287,
+   "receptionRange": 10
+ },  
+ {
+   "name": "GS",
+   "airportICAO": "WIPP",
    "identifier": "IPLB",
    "associatedRunwayNumber": "29",
    "frequency": 110500,
-   "elevation": 37,
-   "latitude": -2.900853,
-   "longitude": 104.707803,
-   "bearing": 293.8,
-   "glideslope": 3.002929,
+   "elevation": 48,
+   "latitude": -2.90266696,
+   "longitude": 104.71026254,
+   "bearing": 292.87,
+   "glideslope": 3.0029287,
    "receptionRange": 10
  },
  {
