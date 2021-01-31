@@ -10472,10 +10472,10 @@
    "associatedRunwayNumber": "36",
    "frequency": 110100,
    "elevation": 777,
-   "latitude": 32.607777,
-   "longitude": -85.435465,
-   "bearing": 1.056,
-   "glideslope": 3.00001028,
+   "latitude": 32.60573937,
+   "longitude": -85.43635066,
+   "bearing": 1.03,
+   "glideslope": 3.0000103,
    "receptionRange": 10
  },
  {
