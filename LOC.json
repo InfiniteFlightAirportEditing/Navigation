@@ -10491,6 +10491,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "KAUO",
+   "identifier": "IAUO",
+   "associatedRunwayNumber": "36",
+   "frequency": 110100,
+   "elevation": 777,
+   "latitude": 32.60573937,
+   "longitude": -85.43635066,
+   "bearing": 1.03,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-III",
    "airportICAO": "KAUS",
    "identifier": "IVNK",
@@ -47825,19 +47838,6 @@
    "latitude": 39.232172,
    "longitude": -106.873157,
    "bearing": 159.72,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "KAUO",
-   "identifier": "IAUO",
-   "associatedRunwayNumber": "36",
-   "frequency": 110100,
-   "elevation": 773,
-   "latitude": 32.621060,
-   "longitude": -85.436029,
-   "bearing": 296.853,
    "receptionRange": 18,
    "type": 5
  },
