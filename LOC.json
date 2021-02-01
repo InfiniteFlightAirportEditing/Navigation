@@ -21086,19 +21086,6 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
-   "airportICAO": "KORD",
-   "identifier": "IRXZ",
-   "associatedRunwayNumber": "22R",
-   "frequency": 111300,
-   "elevation": 679,
-   "latitude": 41.99754921,
-   "longitude": -87.89636362,
-   "bearing": 219.4,
-   "receptionRange": 18,
-   "type": 4
- },
- {
    "name": "ILS-cat-III",
    "airportICAO": "KORD",
    "identifier": "IIAC",

@@ -21115,19 +21115,6 @@
  {
    "name": "GS",
    "airportICAO": "KORD",
-   "identifier": "IRXZ",
-   "associatedRunwayNumber": "22R",
-   "frequency": 111300,
-   "elevation": 679,
-   "latitude": 41.99754921,
-   "longitude": -87.89636362,
-   "bearing": 219.4,
-   "glideslope": 3.002194,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "KORD",
    "identifier": "IIAC",
    "associatedRunwayNumber": "27L",
    "frequency": 110500,
