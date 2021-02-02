@@ -9048,6 +9048,32 @@
    "glideslope": 3.0003789,
    "receptionRange": 10
  },
+{
+   "name": "GS",
+   "airportICAO": "GQNO",
+   "identifier": "SY",
+   "associatedRunwayNumber": "06",
+   "frequency": 109100,
+   "elevation": 9,
+   "latitude": 18.294785,
+   "longitude": -15.992406,
+   "bearing": 49.53,
+   "glideslope": 3.0004953,
+   "receptionRange": 10
+ },
+{
+   "name": "GS",
+   "airportICAO": "GQNO",
+   "identifier": "TY",
+   "associatedRunwayNumber": "34",
+   "frequency": 110900,
+   "elevation": 9,
+   "latitude": 18.289809,
+   "longitude": -15.957355,
+   "bearing": 329.84,
+   "glideslope": 3.0032984,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "GVAC",
