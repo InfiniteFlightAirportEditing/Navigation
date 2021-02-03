@@ -1982,11 +1982,11 @@
    "identifier": "ISK",
    "associatedRunwayNumber": "08",
    "frequency": 109500,
-   "elevation": 1047,
-   "latitude": 12.912378,
-   "longitude": 5.196531,
-   "bearing": 77.222,
-   "glideslope": 3.00076611,
+   "elevation": 1010,
+   "latitude": 12.91968435,
+   "longitude": 5.22319234,
+   "bearing": 76.58,
+   "glideslope": 3.1007658,
    "receptionRange": 10
  },
  {
