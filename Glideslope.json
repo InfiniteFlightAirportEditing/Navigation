@@ -1653,6 +1653,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DAAV",
+   "identifier": "JL",
+   "associatedRunwayNumber": "17",
+   "frequency": 108100,
+   "elevation": 36,
+   "latitude": 36.80580948,
+   "longitude": 5.87140062,
+   "bearing": 171.08,
+   "glideslope": 3.0017108,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DABB",
    "identifier": "AN",
    "associatedRunwayNumber": "18",

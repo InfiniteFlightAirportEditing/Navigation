@@ -1651,6 +1651,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "DAAV",
+   "identifier": "JL",
+   "associatedRunwayNumber": "17",
+   "frequency": 108100,
+   "elevation": 36,
+   "latitude": 36.80580948,
+   "longitude": 5.87140062,
+   "bearing": 171.08,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "DABB",
    "identifier": "AN",
