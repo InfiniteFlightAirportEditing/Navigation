@@ -47063,19 +47063,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "DAAE",
-   "identifier": "BJ",
-   "associatedRunwayNumber": "26",
-   "frequency": 110500,
-   "elevation": 20,
-   "latitude": 36.710278,
-   "longitude": 5.055556,
-   "bearing": 261.394,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "DNCA",
    "identifier": "ICL",
    "associatedRunwayNumber": "21",
