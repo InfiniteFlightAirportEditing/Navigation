@@ -1613,6 +1613,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "DAAE",
+   "identifier": "BJ",
+   "associatedRunwayNumber": "26",
+   "frequency": 110500,
+   "elevation": 20,
+   "latitude": 36.71351557,
+   "longitude": 5.0831537,
+   "bearing": 261.69,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "DAAG",
    "identifier": "HB",
    "associatedRunwayNumber": "09",
