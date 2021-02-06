@@ -1614,6 +1614,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DAAE",
+   "identifier": "BJ",
+   "associatedRunwayNumber": "26",
+   "frequency": 110500,
+   "elevation": 20,
+   "latitude": 36.71351557,
+   "longitude": 5.0831537,
+   "bearing": 261.69,
+   "glideslope": 3.0026169,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DAAG",
    "identifier": "HB",
    "associatedRunwayNumber": "09",
@@ -1649,6 +1662,19 @@
    "longitude": 3.20993219,
    "bearing": 271.7,
    "glideslope": 3.002717,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "DAAV",
+   "identifier": "JL",
+   "associatedRunwayNumber": "17",
+   "frequency": 108100,
+   "elevation": 36,
+   "latitude": 36.80580948,
+   "longitude": 5.87140062,
+   "bearing": 171.08,
+   "glideslope": 3.0017108,
    "receptionRange": 10
  },
  {
@@ -7326,10 +7352,10 @@
    "associatedRunwayNumber": "12",
    "frequency": 109350,
    "elevation": 1245,
-   "latitude": 65.59775,
-   "longitude": 19.262806,
-   "bearing": 128.482,
-   "glideslope": 3.00128241,
+   "latitude": 65.59857644,
+   "longitude": 19.25619168,
+   "bearing": 128.35,
+   "glideslope": 3.0012835,
    "receptionRange": 10
  },
  {
@@ -7339,10 +7365,10 @@
    "associatedRunwayNumber": "30",
    "frequency": 111500,
    "elevation": 1245,
-   "latitude": 65.587194,
-   "longitude": 19.29525,
-   "bearing": 308.482,
-   "glideslope": 3.00308241,
+   "latitude": 65.58470392,
+   "longitude": 19.29863476,
+   "bearing": 308.35,
+   "glideslope": 3.0030835,
    "receptionRange": 10
  },
  {
@@ -10524,10 +10550,10 @@
    "associatedRunwayNumber": "36",
    "frequency": 110100,
    "elevation": 777,
-   "latitude": 32.607777,
-   "longitude": -85.435465,
-   "bearing": 1.056,
-   "glideslope": 3.00001028,
+   "latitude": 32.60573937,
+   "longitude": -85.43635066,
+   "bearing": 1.03,
+   "glideslope": 3.0000103,
    "receptionRange": 10
  },
  {
@@ -21154,19 +21180,6 @@
  {
    "name": "GS",
    "airportICAO": "KORD",
-   "identifier": "IRXZ",
-   "associatedRunwayNumber": "22R",
-   "frequency": 111300,
-   "elevation": 679,
-   "latitude": 41.99754921,
-   "longitude": -87.89636362,
-   "bearing": 219.4,
-   "glideslope": 3.002194,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "KORD",
    "identifier": "IIAC",
    "associatedRunwayNumber": "27L",
    "frequency": 110500,
@@ -27824,13 +27837,13 @@
    "name": "GS",
    "airportICAO": "LFPT",
    "identifier": "CVN",
-   "associatedRunwayNumber": "23",
-   "frequency": 108090,
-   "elevation": 325,
-   "latitude": 49.098347,
-   "longitude": 2.040962,
-   "bearing": 225.118,
-   "glideslope": 3.00224559,
+   "associatedRunwayNumber": "05",
+   "frequency": 110500,
+   "elevation": 324,
+   "latitude": 49.08778307,
+   "longitude": 2.02742466,
+   "bearing": 44.56,
+   "glideslope": 3.2004456,
    "receptionRange": 10
  },
  {
