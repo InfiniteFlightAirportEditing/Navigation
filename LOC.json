@@ -1717,6 +1717,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "DAUA",
+   "identifier": "AD",
+   "associatedRunwayNumber": "04",
+   "frequency": 109700,
+   "elevation": 917,
+   "latitude": 27.827317,
+   "longitude": -0.196238,
+   "bearing": 39.61,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "DAUB",
    "identifier": "BI",
    "associatedRunwayNumber": "31",
@@ -9044,6 +9057,32 @@
    "latitude": 18.08702545,
    "longitude": -15.95681572,
    "bearing": 37.89,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "GQNO",
+   "identifier": "SY",
+   "associatedRunwayNumber": "06",
+   "frequency": 109100,
+   "elevation": 9,
+   "latitude": 18.294785,
+   "longitude": -15.992406,
+   "bearing": 49.53,
+   "receptionRange": 18,
+   "type": 4
+ },
+{
+   "name": "ILS-cat-I",
+   "airportICAO": "GQNO",
+   "identifier": "TY",
+   "associatedRunwayNumber": "34",
+   "frequency": 110900,
+   "elevation": 9,
+   "latitude": 18.289809,
+   "longitude": -15.957355,
+   "bearing": 329.84,
    "receptionRange": 18,
    "type": 4
  },
