@@ -39298,7 +39298,20 @@
    "receptionRange": 18,
    "type": 4
  },
-  {
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "UNBG",
+   "identifier": "IGO",
+   "associatedRunwayNumber": "20",
+   "frequency": 109900,
+   "elevation": 968,
+   "latitude": 51.97853611,
+   "longitude": 85.84370282,
+   "bearing": 205.31,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "UNEE",
    "identifier": "INC",

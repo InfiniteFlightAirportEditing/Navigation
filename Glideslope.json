@@ -39262,6 +39262,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UNBG",
+   "identifier": "IGO",
+   "associatedRunwayNumber": "20",
+   "frequency": 109900,
+   "elevation": 968,
+   "latitude": 51.97853611,
+   "longitude": 85.84370282,
+   "bearing": 205.31,
+   "glideslope": 3.3320531,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UNEE",
    "identifier": "INC",
    "associatedRunwayNumber": "23",
