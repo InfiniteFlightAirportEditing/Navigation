@@ -40198,6 +40198,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UTFF",
+   "identifier": "IZU",
+   "associatedRunwayNumber": "18",
+   "frequency": 109700,
+   "elevation": 2052,
+   "latitude": 40.3714444,
+   "longitude": 71.74562998,
+   "bearing": 183.25,
+   "glideslope": 3.0018325,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UTFN",
+   "identifier": "ISA",
+   "associatedRunwayNumber": "28",
+   "frequency": 110100,
+   "elevation": 1703,
+   "latitude": 40.98020996,
+   "longitude": 71.5752575,
+   "bearing": 288.63,
+   "glideslope": 3.0028863,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UTSB",
    "identifier": "IUH",
    "associatedRunwayNumber": "01",
