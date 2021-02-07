@@ -36425,6 +36425,19 @@
    "receptionRange": 18,
    "type": 4
  },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "SBCF",
+   "identifier": "ITN",
+   "associatedRunwayNumber": "34",
+   "frequency": 110300,
+   "elevation": 2721,
+   "latitude": -19.62159922,
+   "longitude": -43.97996233,
+   "bearing": 318.96,
+   "receptionRange": 18,
+   "type": 4
+ },
   {
    "name": "ILS-cat-I",
    "airportICAO": "SBCG",
@@ -50477,19 +50490,6 @@
    "latitude": -22.878578,
    "longitude": -43.390833,
    "bearing": 240.183,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "SBCF",
-   "identifier": "ITN",
-   "associatedRunwayNumber": "34",
-   "frequency": 110300,
-   "elevation": 2721,
-   "latitude": -19.62159922,
-   "longitude": -43.97996233,
-   "bearing": 318.96,
    "receptionRange": 18,
    "type": 5
  },
