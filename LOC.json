@@ -40313,19 +40313,6 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
-   "airportICAO": "UUDD",
-   "identifier": "IDW",
-   "associatedRunwayNumber": "14L",
-   "frequency": 108500,
-   "elevation": 587,
-   "latitude": 55.388333,
-   "longitude": 37.95,
-   "bearing": 145.71,
-   "receptionRange": 18,
-   "type": 4
- },
- {
    "name": "ILS-cat-III",
    "airportICAO": "UUDD",
    "identifier": "IDM",
@@ -40335,19 +40322,6 @@
    "latitude": 55.42112051,
    "longitude": 37.87207608,
    "bearing": 145.67,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
-   "airportICAO": "UUDD",
-   "identifier": "IDE",
-   "associatedRunwayNumber": "32R",
-   "frequency": 111900,
-   "elevation": 587,
-   "latitude": 55.428333,
-   "longitude": 37.903333,
-   "bearing": 325.71,
    "receptionRange": 18,
    "type": 4
  },

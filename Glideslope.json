@@ -40329,19 +40329,6 @@
  {
    "name": "GS",
    "airportICAO": "UUDD",
-   "identifier": "IDW",
-   "associatedRunwayNumber": "14L",
-   "frequency": 108500,
-   "elevation": 587,
-   "latitude": 55.421667,
-   "longitude": 37.915,
-   "bearing": 145.71,
-   "glideslope": 3.0014571,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "UUDD",
    "identifier": "IDM",
    "associatedRunwayNumber": "14R",
    "frequency": 110100,
@@ -40350,19 +40337,6 @@
    "longitude": 37.87207608,
    "bearing": 145.67,
    "glideslope": 3.0014567,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "UUDD",
-   "identifier": "IDE",
-   "associatedRunwayNumber": "32R",
-   "frequency": 111900,
-   "elevation": 587,
-   "latitude": 55.398333,
-   "longitude": 37.943333,
-   "bearing": 325.71,
-   "glideslope": 3.0032571,
    "receptionRange": 10
  },
  {
