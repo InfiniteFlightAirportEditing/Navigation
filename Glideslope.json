@@ -27956,11 +27956,11 @@
    "identifier": "BG",
    "associatedRunwayNumber": "25L",
    "frequency": 109900,
-   "elevation": 325,
-   "latitude": 48.451697,
-   "longitude": -4.406606,
-   "bearing": 251.4,
-   "glideslope": 3.002512,
+   "elevation": 324,
+   "latitude": 48.45236905,
+   "longitude": -4.39860287,
+   "bearing": 251.17,
+   "glideslope": 3.0025117,
    "receptionRange": 10
  },
  {
