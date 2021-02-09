@@ -33255,6 +33255,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ORBI",
+   "identifier": "IYDB",
+   "associatedRunwayNumber": "15L",
+   "frequency": 110700,
+   "elevation": 114,
+   "latitude": 33.28383085,
+   "longitude": 44.23114824,
+   "bearing": 150.11,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ORBD",
+   "identifier": "IYCA",
+   "associatedRunwayNumber": "33L",
+   "frequency": 110100,
+   "elevation": 114,
+   "latitude": 33.25262642,
+   "longitude": 44.25260727,
+   "bearing": 330.11,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ORKK",
    "identifier": "IAK",
    "associatedRunwayNumber": "32",

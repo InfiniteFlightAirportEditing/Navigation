@@ -33230,6 +33230,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ORBI",
+   "identifier": "IYDB",
+   "associatedRunwayNumber": "15L",
+   "frequency": 110700,
+   "elevation": 114,
+   "latitude": 33.28383085,
+   "longitude": 44.23114824,
+   "bearing": 150.11,
+   "glideslope": 3.0015011,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ORBI",
+   "identifier": "IYCA",
+   "associatedRunwayNumber": "33R",
+   "frequency": 110100,
+   "elevation": 114,
+   "latitude": 33.25262642,
+   "longitude": 44.25260727,
+   "bearing": 330.11,
+   "glideslope": 3.0033011,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ORKK",
    "identifier": "IAK",
    "associatedRunwayNumber": "32",
