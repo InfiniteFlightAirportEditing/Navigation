@@ -40254,11 +40254,11 @@
    "identifier": "IUH",
    "associatedRunwayNumber": "01",
    "frequency": 110300,
-   "elevation": 736,
-   "latitude": 39.762778,
-   "longitude": 64.481667,
-   "bearing": 11.754,
-   "glideslope": 3.00010877,
+   "elevation": 750,
+   "latitude": 39.76197882,
+   "longitude": 64.47918753,
+   "bearing": 10.13,
+   "glideslope": 3.0001013,
    "receptionRange": 10
  },
  {
