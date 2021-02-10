@@ -32254,6 +32254,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "OERF",
+   "identifier": "IRAF",
+   "associatedRunwayNumber": "29",
+   "frequency": 111500,
+   "elevation": 1474,
+   "latitude": 29.62096729,
+   "longitude": 43.50493658,
+   "bearing": 293.51,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "OERK",
    "identifier": "IELF",
    "associatedRunwayNumber": "15L",

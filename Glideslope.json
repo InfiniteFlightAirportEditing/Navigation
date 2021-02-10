@@ -32255,6 +32255,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "OERF",
+   "identifier": "IRAF",
+   "associatedRunwayNumber": "29",
+   "frequency": 111500,
+   "elevation": 1474,
+   "latitude": 29.62096729,
+   "longitude": 43.50493658,
+   "bearing": 293.51,
+   "glideslope": 3.0029351,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "OERK",
    "identifier": "IELF",
    "associatedRunwayNumber": "15L",
