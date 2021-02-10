@@ -10209,13 +10209,13 @@
    "name": "GS",
    "airportICAO": "KAND",
    "identifier": "IAND",
-   "associatedRunwayNumber": "05",
+   "associatedRunwayNumber": "5",
    "frequency": 111900,
    "elevation": 782,
-   "latitude": 34.4910952,
-   "longitude": -82.71422631,
-   "bearing": 46.522,
-   "glideslope": 3.00045761,
+   "latitude": 34.48859279,
+   "longitude": -82.71593436,
+   "bearing": 45.78,
+   "glideslope": 3.0004578,
    "receptionRange": 10
  },
  {
