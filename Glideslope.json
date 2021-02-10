@@ -9074,7 +9074,7 @@
    "glideslope": 3.0003789,
    "receptionRange": 10
  },
-{
+ {
    "name": "GS",
    "airportICAO": "GQNO",
    "identifier": "SY",
@@ -9087,7 +9087,7 @@
    "glideslope": 3.0004953,
    "receptionRange": 10
  },
-{
+ {
    "name": "GS",
    "airportICAO": "GQNO",
    "identifier": "TY",
@@ -10090,6 +10090,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KALI",
+   "identifier": "IALI",
+   "associatedRunwayNumber": "31",
+   "frequency": 109300,
+   "elevation": 178,
+   "latitude": 27.73375233,
+   "longitude": -98.02067132,
+   "bearing": 314.65,
+   "glideslope": 3.0031465,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KALN",
    "identifier": "IALN",
    "associatedRunwayNumber": "29",
@@ -10133,11 +10146,11 @@
    "identifier": "IALW",
    "associatedRunwayNumber": "20",
    "frequency": 111700,
-   "elevation": 1193,
-   "latitude": 46.096911,
-   "longitude": -118.277894,
-   "bearing": 216.2,
-   "glideslope": 3.002161,
+   "elevation": 1194,
+   "latitude": 46.09976841,
+   "longitude": -118.27650833,
+   "bearing": 216.11,
+   "glideslope": 3.0021611,
    "receptionRange": 10
  },
  {
@@ -10168,14 +10181,27 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KAMW",
+   "identifier": "IEEE",
+   "associatedRunwayNumber": "1",
+   "frequency": 110700,
+   "elevation": 956,
+   "latitude": 41.98270764,
+   "longitude": -93.62476532,
+   "bearing": 16.55,
+   "glideslope": 3.0001655,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KANB",
    "identifier": "IANB",
-   "associatedRunwayNumber": "05",
+   "associatedRunwayNumber": "5",
    "frequency": 111500,
-   "elevation": 595,
-   "latitude": 33.583842,
-   "longitude": -85.865539,
-   "bearing": 48.66,
+   "elevation": 612,
+   "latitude": 33.5817918,
+   "longitude": -85.86672115,
+   "bearing": 48.33,
    "glideslope": 3.0004833,
    "receptionRange": 10
  },
@@ -16074,11 +16100,11 @@
    "identifier": "IHEF",
    "associatedRunwayNumber": "16L",
    "frequency": 109100,
-   "elevation": 174,
-   "latitude": 38.72415,
-   "longitude": -77.517531,
-   "bearing": 153,
-   "glideslope": 3.00153,
+   "elevation": 192,
+   "latitude": 38.72770464,
+   "longitude": -77.51877579,
+   "bearing": 150.72,
+   "glideslope": 3.0015072,
    "receptionRange": 10
  },
  {
@@ -24108,11 +24134,11 @@
    "identifier": "ISNS",
    "associatedRunwayNumber": "31",
    "frequency": 108500,
-   "elevation": 77,
-   "latitude": 36.660097,
-   "longitude": -121.602156,
-   "bearing": 328.902,
-   "glideslope": 3.00327951,
+   "elevation": 83,
+   "latitude": 36.65739595,
+   "longitude": -121.60126383,
+   "bearing": 327.93,
+   "glideslope": 3.0032793,
    "receptionRange": 10
  },
  {
@@ -27956,11 +27982,11 @@
    "identifier": "BG",
    "associatedRunwayNumber": "25L",
    "frequency": 109900,
-   "elevation": 325,
-   "latitude": 48.451697,
-   "longitude": -4.406606,
-   "bearing": 251.4,
-   "glideslope": 3.002512,
+   "elevation": 324,
+   "latitude": 48.45236905,
+   "longitude": -4.39860287,
+   "bearing": 251.17,
+   "glideslope": 3.0025117,
    "receptionRange": 10
  },
  {
@@ -33635,13 +33661,13 @@
    "name": "GS",
    "airportICAO": "PAEN",
    "identifier": "IENA",
-   "associatedRunwayNumber": "19R",
+   "associatedRunwayNumber": "20R",
    "frequency": 108900,
-   "elevation": 97,
-   "latitude": 60.579158,
-   "longitude": -151.241353,
-   "bearing": 211.026,
-   "glideslope": 3.00211013,
+   "elevation": 99,
+   "latitude": 60.58144959,
+   "longitude": -151.23600493,
+   "bearing": 211.01,
+   "glideslope": 3.0021101,
    "receptionRange": 10
  },
  {
@@ -39366,6 +39392,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UNBG",
+   "identifier": "IGO",
+   "associatedRunwayNumber": "20",
+   "frequency": 109900,
+   "elevation": 968,
+   "latitude": 51.97853611,
+   "longitude": 85.84370282,
+   "bearing": 205.31,
+   "glideslope": 3.3320531,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UNEE",
    "identifier": "INC",
    "associatedRunwayNumber": "23",
@@ -40289,15 +40328,41 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UTFF",
+   "identifier": "IZU",
+   "associatedRunwayNumber": "18",
+   "frequency": 109700,
+   "elevation": 2052,
+   "latitude": 40.3714444,
+   "longitude": 71.74562998,
+   "bearing": 183.25,
+   "glideslope": 3.0018325,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UTFN",
+   "identifier": "ISA",
+   "associatedRunwayNumber": "28",
+   "frequency": 110100,
+   "elevation": 1703,
+   "latitude": 40.98020996,
+   "longitude": 71.5752575,
+   "bearing": 288.63,
+   "glideslope": 3.0028863,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UTSB",
    "identifier": "IUH",
    "associatedRunwayNumber": "01",
    "frequency": 110300,
-   "elevation": 736,
-   "latitude": 39.762778,
-   "longitude": 64.481667,
-   "bearing": 11.754,
-   "glideslope": 3.00010877,
+   "elevation": 750,
+   "latitude": 39.76197882,
+   "longitude": 64.47918753,
+   "bearing": 10.13,
+   "glideslope": 3.0001013,
    "receptionRange": 10
  },
  {
@@ -40394,19 +40459,6 @@
  {
    "name": "GS",
    "airportICAO": "UUDD",
-   "identifier": "IDW",
-   "associatedRunwayNumber": "14L",
-   "frequency": 108500,
-   "elevation": 587,
-   "latitude": 55.421667,
-   "longitude": 37.915,
-   "bearing": 145.71,
-   "glideslope": 3.0014571,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "UUDD",
    "identifier": "IDM",
    "associatedRunwayNumber": "14R",
    "frequency": 110100,
@@ -40415,19 +40467,6 @@
    "longitude": 37.87207608,
    "bearing": 145.67,
    "glideslope": 3.0014567,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "UUDD",
-   "identifier": "IDE",
-   "associatedRunwayNumber": "32R",
-   "frequency": 111900,
-   "elevation": 587,
-   "latitude": 55.398333,
-   "longitude": 37.943333,
-   "bearing": 325.71,
-   "glideslope": 3.0032571,
    "receptionRange": 10
  },
  {
@@ -46742,11 +46781,11 @@
    "identifier": "IGF",
    "associatedRunwayNumber": "17",
    "frequency": 110700,
-   "elevation": 477,
-   "latitude": 47.24835,
-   "longitude": 123.914397,
-   "bearing": 158.052,
-   "glideslope": 3.00157526,
+   "elevation": 476,
+   "latitude": 47.25056195,
+   "longitude": 123.91159539,
+   "bearing": 157.54,
+   "glideslope": 3.0015754,
    "receptionRange": 10
  },
  {
