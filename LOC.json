@@ -41367,6 +41367,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VEJT",
+   "identifier": "IJHT",
+   "associatedRunwayNumber": "04",
+   "frequency": 108700,
+   "elevation": 298,
+   "latitude": 26.71911268,
+   "longitude": 94.16295962,
+   "bearing": 44.37,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VEMN",
    "identifier": "IDIB",
    "associatedRunwayNumber": "05",

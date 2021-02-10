@@ -41394,6 +41394,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VEJT",
+   "identifier": "IJHT",
+   "associatedRunwayNumber": "04",
+   "frequency": 108700,
+   "elevation": 298,
+   "latitude": 26.71911268,
+   "longitude": 94.16295962,
+   "bearing": 44.37,
+   "glideslope": 3.0004437,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VEMN",
    "identifier": "IDIB",
    "associatedRunwayNumber": "05",
