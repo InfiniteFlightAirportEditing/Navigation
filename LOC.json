@@ -30714,12 +30714,12 @@
    "elevation": 325,
    "latitude": 41.29869967,
    "longitude": 28.70678292,
-   "bearing": 179.21,
+   "bearing": 179.11,
    "receptionRange": 18,
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "LTFM",
    "identifier": "IUCF",
    "associatedRunwayNumber": "17L",
@@ -30727,12 +30727,12 @@
    "elevation": 325,
    "latitude": 41.29889342,
    "longitude": 28.72702438,
-   "bearing": 179.37,
+   "bearing": 179.11,
    "receptionRange": 18,
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "LTFM",
    "identifier": "IUCD",
    "associatedRunwayNumber": "18",
@@ -30745,7 +30745,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "LTFM",
    "identifier": "IUCA",
    "associatedRunwayNumber": "34L",
@@ -30753,12 +30753,12 @@
    "elevation": 325,
    "latitude": 41.26495559,
    "longitude": 28.7074025,
-   "bearing": 359.21,
+   "bearing": 359.11,
    "receptionRange": 18,
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "LTFM",
    "identifier": "IUCE",
    "associatedRunwayNumber": "35R",
@@ -30766,12 +30766,12 @@
    "elevation": 325,
    "latitude": 41.26199863,
    "longitude": 28.72756749,
-   "bearing": 359.37,
+   "bearing": 359.11,
    "receptionRange": 18,
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "LTFM",
    "identifier": "IUCC",
    "associatedRunwayNumber": "36",
@@ -36431,10 +36431,23 @@
    "identifier": "ICF",
    "associatedRunwayNumber": "16",
    "frequency": 109700,
-   "elevation": 2713,
-   "latitude": -19.62350338,
-   "longitude": -43.97819684,
-   "bearing": 138.95,
+   "elevation": 2721,
+   "latitude": -19.65004800,
+   "longitude": -43.95366557,
+   "bearing": 138.96,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "SBCF",
+   "identifier": "ITN",
+   "associatedRunwayNumber": "34",
+   "frequency": 110300,
+   "elevation": 2721,
+   "latitude": -19.62159922,
+   "longitude": -43.97996233,
+   "bearing": 318.96,
    "receptionRange": 18,
    "type": 4
  },

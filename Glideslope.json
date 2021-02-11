@@ -30715,8 +30715,8 @@
    "elevation": 325,
    "latitude": 41.29869967,
    "longitude": 28.70678292,
-   "bearing": 179.21,
-   "glideslope": 3.0017921,
+   "bearing": 179.11,
+   "glideslope": 3.0017911,
    "receptionRange": 10
  },
  {
@@ -30728,8 +30728,8 @@
    "elevation": 325,
    "latitude": 41.29889342,
    "longitude": 28.72702438,
-   "bearing": 179.37,
-   "glideslope": 3.0017937,
+   "bearing": 179.11,
+   "glideslope": 3.0017911,
    "receptionRange": 10
  },
  {
@@ -30754,8 +30754,8 @@
    "elevation": 325,
    "latitude": 41.26495559,
    "longitude": 28.7074025,
-   "bearing": 359.21,
-   "glideslope": 3.0035921,
+   "bearing": 359.11,
+   "glideslope": 3.0035911,
    "receptionRange": 10
  },
  {
@@ -30767,8 +30767,8 @@
    "elevation": 325,
    "latitude": 41.26199863,
    "longitude": 28.72756749,
-   "bearing": 359.37,
-   "glideslope": 3.0035937,
+   "bearing": 359.11,
+   "glideslope": 3.0035911,
    "receptionRange": 10
  },
  {
@@ -36432,11 +36432,24 @@
    "identifier": "ICF",
    "associatedRunwayNumber": "16",
    "frequency": 109700,
-   "elevation": 2713,
-   "latitude": -19.62350338,
-   "longitude": -43.97819684,
-   "bearing": 138.95,
-   "glideslope": 3.0013895,
+   "elevation": 2721,
+   "latitude": -19.65004800,
+   "longitude": -43.95366557,
+   "bearing": 138.96,
+   "glideslope": 3.0013896,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "SBCF",
+   "identifier": "ITN",
+   "associatedRunwayNumber": "34",
+   "frequency": 110300,
+   "elevation": 2721,
+   "latitude": -19.62159922,
+   "longitude": -43.97996233,
+   "bearing": 318.96,
+   "glideslope": 3.0031896,
    "receptionRange": 10
  },
  {
