@@ -10185,9 +10185,9 @@
    "associatedRunwayNumber": "5",
    "frequency": 111900,
    "elevation": 782,
-   "latitude": 34.50103454,
-   "longitude": -82.70041178,
-   "bearing": 45.761,
+   "latitude": 34.48859279,
+   "longitude": -82.71593436,
+   "bearing": 45.78,
    "receptionRange": 18,
    "type": 4
  },
@@ -32254,6 +32254,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "OERF",
+   "identifier": "IRAF",
+   "associatedRunwayNumber": "29",
+   "frequency": 111500,
+   "elevation": 1474,
+   "latitude": 29.62096729,
+   "longitude": 43.50493658,
+   "bearing": 293.51,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "OERK",
    "identifier": "IELF",
    "associatedRunwayNumber": "15L",
@@ -41362,6 +41375,19 @@
    "latitude": 23.85183115,
    "longitude": 92.61790886,
    "bearing": 171.4,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "VEJT",
+   "identifier": "IJHT",
+   "associatedRunwayNumber": "04",
+   "frequency": 108700,
+   "elevation": 298,
+   "latitude": 26.71911268,
+   "longitude": 94.16295962,
+   "bearing": 44.37,
    "receptionRange": 18,
    "type": 4
  },

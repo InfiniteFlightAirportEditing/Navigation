@@ -10209,13 +10209,13 @@
    "name": "GS",
    "airportICAO": "KAND",
    "identifier": "IAND",
-   "associatedRunwayNumber": "05",
+   "associatedRunwayNumber": "5",
    "frequency": 111900,
    "elevation": 782,
-   "latitude": 34.4910952,
-   "longitude": -82.71422631,
-   "bearing": 46.522,
-   "glideslope": 3.00045761,
+   "latitude": 34.48859279,
+   "longitude": -82.71593436,
+   "bearing": 45.78,
+   "glideslope": 3.0004578,
    "receptionRange": 10
  },
  {
@@ -32255,6 +32255,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "OERF",
+   "identifier": "IRAF",
+   "associatedRunwayNumber": "29",
+   "frequency": 111500,
+   "elevation": 1474,
+   "latitude": 29.62096729,
+   "longitude": 43.50493658,
+   "bearing": 293.51,
+   "glideslope": 3.0029351,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "OERK",
    "identifier": "IELF",
    "associatedRunwayNumber": "15L",
@@ -41390,6 +41403,19 @@
    "longitude": 92.61790886,
    "bearing": 171.4,
    "glideslope": 3.501714,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "VEJT",
+   "identifier": "IJHT",
+   "associatedRunwayNumber": "04",
+   "frequency": 108700,
+   "elevation": 298,
+   "latitude": 26.71911268,
+   "longitude": 94.16295962,
+   "bearing": 44.37,
+   "glideslope": 3.0004437,
    "receptionRange": 10
  },
  {
