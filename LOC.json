@@ -31941,6 +31941,19 @@
    "type": 4
  },
  {
+    "name": "ILS-cat-II",
+    "airportICAO": "OEDN",
+    "identifier": "IDHC",
+    "associatedRunwayNumber": "15",
+    "frequency": 110700,
+    "elevation": 3026,
+     "latitude": 24.46216789,
+    "longitude": 44.11452471,
+    "bearing": 153.92,
+    "receptionRange": 18,
+    "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "OEDR",
    "identifier": "IDHC",
@@ -42535,7 +42548,7 @@
    "bearing": 198.72,
    "receptionRange": 18,
    "type": 4
- },  
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "VVCT",
@@ -42938,7 +42951,7 @@
    "bearing": 312.66,
    "receptionRange": 18,
    "type": 4
- },   
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "WAHQ",
@@ -45004,7 +45017,7 @@
    "longitude": 113.36304207,
    "bearing": 44.58,
    "receptionRange": 18,
-   "type": 4 
+   "type": 4
  },
  {
    "name": "ILS-cat-I",
@@ -45017,7 +45030,7 @@
    "longitude": 113.39032179,
    "bearing": 224.58,
    "receptionRange": 18,
-   "type": 4  
+   "type": 4
  },
  {
    "name": "ILS-cat-I",
@@ -46293,7 +46306,7 @@
    "bearing": 85.48,
    "receptionRange": 18,
    "type": 4
- }, 
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "ZSXZ",
