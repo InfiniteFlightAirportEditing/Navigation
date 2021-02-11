@@ -40393,6 +40393,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UTNU",
+   "identifier": "INU",
+   "associatedRunwayNumber": "31",
+   "frequency": 109500,
+   "elevation": 322,
+   "latitude": 41.57232695,
+   "longitude": 60.65524587,
+   "bearing": 319.62,
+   "glideslope": 3.0031962,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UTSB",
    "identifier": "IUH",
    "associatedRunwayNumber": "01",
