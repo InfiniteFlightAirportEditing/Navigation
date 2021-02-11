@@ -25,7 +25,7 @@
    "glideslope": 3.0032867,
    "receptionRange": 10
  },
- { 
+ {
    "name": "GS",
    "airportICAO": "AYXM",
    "identifier": "IXM",
@@ -31943,6 +31943,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "OEDM",
+   "identifier": "IMBF",
+   "associatedRunwayNumber": "15",
+   "frequency": 110700,
+   "elevation": 3026,
+   "latitude": 24.46216789,
+   "longitude": 44.11452471,
+   "bearing": 153.92,
+   "glideslope": 3.0015392,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "OEDR",
    "identifier": "IDHC",
    "associatedRunwayNumber": "16L",
@@ -33265,6 +33278,32 @@
    "longitude": 44.373878,
    "bearing": 326.58,
    "glideslope": 3.0032579,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ORBI",
+   "identifier": "IYDB",
+   "associatedRunwayNumber": "15L",
+   "frequency": 110700,
+   "elevation": 114,
+   "latitude": 33.28383085,
+   "longitude": 44.23114824,
+   "bearing": 150.11,
+   "glideslope": 3.0015011,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ORBI",
+   "identifier": "IYCA",
+   "associatedRunwayNumber": "33R",
+   "frequency": 110100,
+   "elevation": 114,
+   "latitude": 33.25262642,
+   "longitude": 44.25260727,
+   "bearing": 330.11,
+   "glideslope": 3.0033011,
    "receptionRange": 10
  },
  {
@@ -43523,7 +43562,7 @@
    "bearing": 112.87,
    "glideslope": 3.0011287,
    "receptionRange": 10
- },  
+ },
  {
    "name": "GS",
    "airportICAO": "WIPP",
@@ -45030,7 +45069,7 @@
    "longitude": 113.36304207,
    "bearing": 44.58,
    "glideslope": 3.00003729,
-   "receptionRange": 10   
+   "receptionRange": 10
  },
  {
    "name": "GS",
@@ -45043,7 +45082,7 @@
    "longitude": 113.39032179,
    "bearing": 224.58,
    "glideslope": 3.00003729,
-   "receptionRange": 10   
+   "receptionRange": 10
  },
  {
    "name": "GS",
@@ -45546,7 +45585,7 @@
    "associatedRunwayNumber": "16",
    "frequency": 108500,
    "elevation": 6204,
-   "latitude": 23.74877778,   
+   "latitude": 23.74877778,
    "longitude": 100.01944371,
    "bearing": 154.57,
    "glideslope": 3.2015457,
@@ -45760,7 +45799,7 @@
    "glideslope": 3.0008072,
    "receptionRange": 10
  },
- { 
+ {
    "name": "GS",
    "airportICAO": "ZSHC",
    "identifier": "IXS",

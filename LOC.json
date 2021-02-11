@@ -31941,6 +31941,19 @@
    "type": 4
  },
  {
+    "name": "ILS-cat-II",
+    "airportICAO": "OEDM",
+    "identifier": "IDHC",
+    "associatedRunwayNumber": "15",
+    "frequency": 110700,
+    "elevation": 3026,
+     "latitude": 24.46216789,
+    "longitude": 44.11452471,
+    "bearing": 153.92,
+    "receptionRange": 18,
+    "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "OEDR",
    "identifier": "IDHC",
@@ -33263,6 +33276,32 @@
    "latitude": 33.95935,
    "longitude": 44.353536,
    "bearing": 325.784,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ORBI",
+   "identifier": "IYDB",
+   "associatedRunwayNumber": "15L",
+   "frequency": 110700,
+   "elevation": 114,
+   "latitude": 33.28383085,
+   "longitude": 44.23114824,
+   "bearing": 150.11,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ORBD",
+   "identifier": "IYCA",
+   "associatedRunwayNumber": "33L",
+   "frequency": 110100,
+   "elevation": 114,
+   "latitude": 33.25262642,
+   "longitude": 44.25260727,
+   "bearing": 330.11,
    "receptionRange": 18,
    "type": 4
  },
@@ -42548,7 +42587,7 @@
    "bearing": 198.72,
    "receptionRange": 18,
    "type": 4
- },  
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "VVCT",
@@ -42951,7 +42990,7 @@
    "bearing": 312.66,
    "receptionRange": 18,
    "type": 4
- },   
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "WAHQ",
@@ -45017,7 +45056,7 @@
    "longitude": 113.36304207,
    "bearing": 44.58,
    "receptionRange": 18,
-   "type": 4 
+   "type": 4
  },
  {
    "name": "ILS-cat-I",
@@ -45030,7 +45069,7 @@
    "longitude": 113.39032179,
    "bearing": 224.58,
    "receptionRange": 18,
-   "type": 4  
+   "type": 4
  },
  {
    "name": "ILS-cat-I",
@@ -46306,7 +46345,7 @@
    "bearing": 85.48,
    "receptionRange": 18,
    "type": 4
- }, 
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "ZSXZ",
