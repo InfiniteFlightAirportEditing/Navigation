@@ -40367,6 +40367,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UTDK",
+   "identifier": "ICG",
+   "associatedRunwayNumber": "01",
+   "frequency": 108100,
+   "elevation": 2293,
+   "latitude": 37.97470678,
+   "longitude": 69.80064971,
+   "bearing": 15.9,
+   "glideslope": 3.000159,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UTFF",
    "identifier": "IZU",
    "associatedRunwayNumber": "18",
