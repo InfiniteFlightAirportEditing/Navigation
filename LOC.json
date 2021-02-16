@@ -47973,6 +47973,19 @@
  },
  {
    "name": "LOC",
+   "airportICAO": "KARG",
+   "identifier": "IARG",
+   "associatedRunwayNumber": "18",
+   "frequency": 111100,
+   "elevation": 279,
+   "latitude": 36.13273578,
+   "longitude": -90.92327929,
+   "bearing": 180.03,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
+   "name": "LOC",
    "airportICAO": "KASE",
    "identifier": "IPKN",
    "associatedRunwayNumber": "15",
