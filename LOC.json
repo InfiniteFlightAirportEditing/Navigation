@@ -41263,6 +41263,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VASU",
+   "identifier": "ISUT",
+   "associatedRunwayNumber": "22",
+   "frequency": 109100,
+   "elevation": 28,
+   "latitude": 21.12543401,
+   "longitude": 72.75294598,
+   "bearing": 222.83,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VAUD",
    "identifier": "IUDR",
    "associatedRunwayNumber": "26",
