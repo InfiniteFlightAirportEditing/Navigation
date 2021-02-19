@@ -27202,11 +27202,11 @@
    "identifier": "CF",
    "associatedRunwayNumber": "26",
    "frequency": 111100,
-   "elevation": 1089,
-   "latitude": 45.78938,
-   "longitude": 3.183236,
-   "bearing": 262.96,
-   "glideslope": 3.0026198,
+   "elevation": 1091,
+   "latitude": 45.78860481,
+   "longitude": 3.18918011,
+   "bearing": 261.96,
+   "glideslope": 3.0026196,
    "receptionRange": 10
  },
  {
