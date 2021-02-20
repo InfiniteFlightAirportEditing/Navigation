@@ -10250,11 +10250,11 @@
    "identifier": "IAOO",
    "associatedRunwayNumber": "21",
    "frequency": 111100,
-   "elevation": 1470,
-   "latitude": 40.300325,
-   "longitude": -78.317867,
-   "bearing": 196.85,
-   "glideslope": 3.00195925,
+   "elevation": 1503,
+   "latitude": 40.30314509,
+   "longitude": -78.31773835,
+   "bearing": 195.92,
+   "glideslope": 3.0019592,
    "receptionRange": 10
  },
  {
