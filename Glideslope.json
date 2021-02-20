@@ -25081,13 +25081,13 @@
    "name": "GS",
    "airportICAO": "KTTA",
    "identifier": "ITTA",
-   "associatedRunwayNumber": "03",
+   "associatedRunwayNumber": "3",
    "frequency": 110750,
    "elevation": 247,
-   "latitude": 35.57619127,
-   "longitude": -79.10311997,
-   "bearing": 21.054,
-   "glideslope": 3.00020527,
+   "latitude": 35.57411176,
+   "longitude": -79.10525253,
+   "bearing": 20.93,
+   "glideslope": 3.0002093,
    "receptionRange": 10
  },
  {
