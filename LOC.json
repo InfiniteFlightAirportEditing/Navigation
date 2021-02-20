@@ -37792,6 +37792,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UACP",
+   "identifier": "IPT",
+   "associatedRunwayNumber": "23",
+   "frequency": 108300,
+   "elevation": 459,
+   "latitude": 54.78067163,
+   "longitude": 69.20595778,
+   "bearing": 245.49,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UAFM",
    "identifier": "IMN",
    "associatedRunwayNumber": "8",

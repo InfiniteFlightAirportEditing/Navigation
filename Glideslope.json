@@ -37780,6 +37780,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UACP",
+   "identifier": "IPT",
+   "associatedRunwayNumber": "23",
+   "frequency": 108300,
+   "elevation": 459,
+   "latitude": 54.78067163,
+   "longitude": 69.20595778,
+   "bearing": 245.49,
+   "glideslope": 3.0024549,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UAFM",
    "identifier": "IMN",
    "associatedRunwayNumber": "08",
