@@ -37792,6 +37792,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UACK",
+   "identifier": "IOT",
+   "associatedRunwayNumber": "02",
+   "frequency": 110300,
+   "elevation": 869,
+   "latitude": 53.31940462,
+   "longitude": 69.5845175,
+   "bearing": 31.7,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "UACK",
+   "identifier": "IKW",
+   "associatedRunwayNumber": "20",
+   "frequency": 109500,
+   "elevation": 869,
+   "latitude": 53.34118262,
+   "longitude": 69.60703624,
+   "bearing": 211.7,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UACP",
    "identifier": "IPT",
    "associatedRunwayNumber": "23",
