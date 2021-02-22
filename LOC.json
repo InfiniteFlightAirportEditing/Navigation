@@ -38012,15 +38012,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "UATG",
    "identifier": "ITY",
    "associatedRunwayNumber": "14",
    "frequency": 109900,
    "elevation": -72,
-   "latitude": 47.105233,
-   "longitude": 51.835492,
-   "bearing": 149.986,
+   "latitude": 47.13373663,
+   "longitude": 51.81017096,
+   "bearing": 149.97,
    "receptionRange": 18,
    "type": 4
  },
@@ -38031,9 +38031,9 @@
    "associatedRunwayNumber": "32",
    "frequency": 108300,
    "elevation": -72,
-   "latitude": 47.138889,
-   "longitude": 51.806944,
-   "bearing": 330,
+   "latitude": 47.11039206,
+   "longitude": 51.83000481,
+   "bearing": 329.97,
    "receptionRange": 18,
    "type": 4
  },

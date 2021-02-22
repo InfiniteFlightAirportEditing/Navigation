@@ -38019,10 +38019,10 @@
    "associatedRunwayNumber": "14",
    "frequency": 109900,
    "elevation": -72,
-   "latitude": 47.130619,
-   "longitude": 51.812103,
-   "bearing": 150.944,
-   "glideslope": 3.00149972,
+   "latitude": 47.13373663,
+   "longitude": 51.81017096,
+   "bearing": 149.97,
+   "glideslope": 3.0014997,
    "receptionRange": 10
  },
  {
@@ -38032,10 +38032,10 @@
    "associatedRunwayNumber": "32",
    "frequency": 108300,
    "elevation": -72,
-   "latitude": 47.111944,
-   "longitude": 51.827778,
-   "bearing": 330.944,
-   "glideslope": 3.00329972,
+   "latitude": 47.11039206,
+   "longitude": 51.83000481,
+   "bearing": 329.97,
+   "glideslope": 3.0032997,
    "receptionRange": 10
  },
  {
