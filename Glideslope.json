@@ -37975,6 +37975,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UASP",
+   "identifier": "IPW",
+   "associatedRunwayNumber": "21",
+   "frequency": 110700,
+   "elevation": 411,
+   "latitude": 52.20356614,
+   "longitude": 77.08565342,
+   "bearing": 222.59,
+   "glideslope": 2.7022259,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UASS",
    "identifier": "ISP",
    "associatedRunwayNumber": "26",
