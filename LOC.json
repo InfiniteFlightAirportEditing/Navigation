@@ -10544,6 +10544,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KAUM",
+   "identifier": "IAUM",
+   "associatedRunwayNumber": "35",
+   "frequency": 110550,
+   "elevation": 1233,
+   "latitude": 43.65476603,
+   "longitude": -92.93143552,
+   "bearing": 352.16,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KAUO",
    "identifier": "IAUO",
    "associatedRunwayNumber": "36",

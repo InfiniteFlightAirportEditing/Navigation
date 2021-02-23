@@ -10558,6 +10558,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KAUM",
+   "identifier": "IAUM",
+   "associatedRunwayNumber": "35",
+   "frequency": 110550,
+   "elevation": 1233,
+   "latitude": 43.65476603,
+   "longitude": -92.93143552,
+   "bearing": 352.16,
+   "glideslope": 3.0035216,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KAUO",
    "identifier": "IAUO",
    "associatedRunwayNumber": "36",
