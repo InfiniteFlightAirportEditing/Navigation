@@ -26617,9 +26617,9 @@
    "associatedRunwayNumber": "04",
    "frequency": 108900,
    "elevation": 1682,
-   "latitude": 42.897856,
-   "longitude": -2.709661,
-   "bearing": 35.853,
+   "latitude": 42.89785938,
+   "longitude": -2.70965461,
+   "bearing": 35.85,
    "receptionRange": 18,
    "type": 4
  },
