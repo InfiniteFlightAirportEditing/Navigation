@@ -38031,11 +38031,11 @@
    "identifier": "IAU",
    "associatedRunwayNumber": "12",
    "frequency": 109500,
-   "elevation": 73,
-   "latitude": 43.866022,
-   "longitude": 51.082803,
-   "bearing": 123.6,
-   "glideslope": 3.001228,
+   "elevation": 75,
+   "latitude": 43.86748222,
+   "longitude": 51.07491885,
+   "bearing": 122.74,
+   "glideslope": 3.0012274,
    "receptionRange": 10
  },
  {
@@ -38044,11 +38044,11 @@
    "identifier": "ITA",
    "associatedRunwayNumber": "30",
    "frequency": 111100,
-   "elevation": 73,
-   "latitude": 43.856367,
-   "longitude": 51.103669,
-   "bearing": 303.6,
-   "glideslope": 3.003028,
+   "elevation": 75,
+   "latitude": 43.85273111,
+   "longitude": 51.10673846,
+   "bearing": 302.74,
+   "glideslope": 3.0030274,
    "receptionRange": 10
  },
  {
