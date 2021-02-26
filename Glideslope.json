@@ -37949,6 +37949,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UAOO",
+   "identifier": "IKZ",
+   "associatedRunwayNumber": "05",
+   "frequency": 111100,
+   "elevation": 433,
+   "latitude": 44.70054027,
+   "longitude": 65.5758292,
+   "bearing": 61.26,
+   "glideslope": 3.0006126,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UARR",
    "identifier": "ISK",
    "associatedRunwayNumber": "04",
