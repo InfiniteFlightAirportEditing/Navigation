@@ -38122,11 +38122,11 @@
    "identifier": "IKT",
    "associatedRunwayNumber": "15L",
    "frequency": 111700,
-   "elevation": 600,
-   "latitude": 53.21773357,
-   "longitude": 63.54163289,
-   "bearing": 157.01,
-   "glideslope": 2.6715701,
+   "elevation": 601,
+   "latitude": 53.22014648,
+   "longitude": 63.5398987,
+   "bearing": 156.94,
+   "glideslope": 3.0015694,
    "receptionRange": 10
  },
  {
@@ -38135,11 +38135,11 @@
    "identifier": "INA",
    "associatedRunwayNumber": "33R",
    "frequency": 110700,
-   "elevation": 600,
-   "latitude": 53.19694451,
-   "longitude": 63.5563647,
-   "bearing": 337.01,
-   "glideslope": 2.6733701,
+   "elevation": 601,
+   "latitude": 53.19698555,
+   "longitude": 63.55636622,
+   "bearing": 336.94,
+   "glideslope": 2.7033694,
    "receptionRange": 10
  },
  {
