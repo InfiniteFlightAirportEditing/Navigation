@@ -37961,6 +37961,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UAOO",
+   "identifier": "IKZ",
+   "associatedRunwayNumber": "05",
+   "frequency": 111100,
+   "elevation": 433,
+   "latitude": 44.70054027,
+   "longitude": 65.5758292,
+   "bearing": 61.26,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UARR",
    "identifier": "ISK",
    "associatedRunwayNumber": "04",
