@@ -33101,9 +33101,9 @@
  {
    "name": "GS",
    "airportICAO": "OOMN",
-   "identifier": "IMNR",
+   "identifier": "IMN",
    "associatedRunwayNumber": "08",
-   "frequency": 119100,
+   "frequency": 119700,
    "elevation": 372,
    "latitude": 23.64014072,
    "longitude": 57.47096254,
@@ -33114,9 +33114,9 @@
  {
    "name": "GS",
    "airportICAO": "OOMN",
-   "identifier": "IMNL",
+   "identifier": "IMUS",
    "associatedRunwayNumber": "26",
-   "frequency": 109100,
+   "frequency": 109700,
    "elevation": 372,
    "latitude": 23.64089041,
    "longitude": 57.50445108,
