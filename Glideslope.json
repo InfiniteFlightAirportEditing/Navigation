@@ -32463,6 +32463,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "OIBP",
+   "identifier": "IPRG",
+   "associatedRunwayNumber": "31",
+   "frequency": 110300,
+   "elevation": 22,
+   "latitude": 27.36823619,
+   "longitude": 52.75340076,
+   "bearing": 308.95,
+   "glideslope": 3.0030895,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "OICC",
    "identifier": "IKMS",
    "associatedRunwayNumber": "29",

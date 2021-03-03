@@ -32462,6 +32462,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "OIBP",
+   "identifier": "IPRG",
+   "associatedRunwayNumber": "31",
+   "frequency": 110300,
+   "elevation": 22,
+   "latitude": 27.36823619,
+   "longitude": 52.75340076,
+   "bearing": 308.95,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "OICC",
    "identifier": "IKMS",
    "associatedRunwayNumber": "29",
