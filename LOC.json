@@ -33346,6 +33346,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ORBI",
+   "identifier": "IYCA",
+   "associatedRunwayNumber": "33R",
+   "frequency": 110100,
+   "elevation": 114,
+   "latitude": 33.25262642,
+   "longitude": 44.25260727,
+   "bearing": 330.11,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ORKK",
    "identifier": "IAK",
    "associatedRunwayNumber": "32",
