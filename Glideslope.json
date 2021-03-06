@@ -38044,11 +38044,11 @@
    "identifier": "IUS",
    "associatedRunwayNumber": "12",
    "frequency": 111700,
-   "elevation": 939,
-   "latitude": 50.042772,
-   "longitude": 82.485794,
-   "bearing": 131.358,
-   "glideslope": 2.40130679,
+   "elevation": 940,
+   "latitude": 50.04396488,
+   "longitude": 82.48036522,
+   "bearing": 130.7,
+   "glideslope": 3.001307,
    "receptionRange": 10
  },
  {
@@ -38057,11 +38057,11 @@
    "identifier": "ISI",
    "associatedRunwayNumber": "30",
    "frequency": 109700,
-   "elevation": 939,
-   "latitude": 50.031833,
-   "longitude": 82.5056,
-   "bearing": 311.358,
-   "glideslope": 3.00310679,
+   "elevation": 940,
+   "latitude": 50.02929816,
+   "longitude": 82.50691873,
+   "bearing": 310.7,
+   "glideslope": 3.003107,
    "receptionRange": 10
  },
  {
