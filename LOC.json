@@ -32479,9 +32479,9 @@
    "identifier": "IKMS",
    "associatedRunwayNumber": "29",
    "frequency": 111100,
-   "elevation": 4307,
-   "latitude": 34.352889,
-   "longitude": 47.14075,
+   "elevation": 4300,
+   "latitude": 34.339141,
+   "longitude": 47.174811,
    "bearing": 296.1,
    "receptionRange": 18,
    "type": 4
