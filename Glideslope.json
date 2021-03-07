@@ -17739,10 +17739,10 @@
    "associatedRunwayNumber": "17",
    "frequency": 111750,
    "elevation": 389,
-   "latitude": 39.08225689,
-   "longitude": -77.56048095,
-   "bearing": 161.718,
-   "glideslope": 3.00161359,
+   "latitude": 39.08512125,
+   "longitude": -77.56060903,
+   "bearing": 161.36,
+   "glideslope": 3.0016136,
    "receptionRange": 10
  },
  {
