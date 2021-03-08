@@ -33910,11 +33910,11 @@
    "identifier": "IPBV",
    "associatedRunwayNumber": "11",
    "frequency": 110100,
-   "elevation": 109,
-   "latitude": 56.579878,
-   "longitude": -169.669628,
-   "bearing": 118.666,
-   "glideslope": 3.60118333,
+   "elevation": 125,
+   "latitude": 56.580630,
+   "longitude": -169.674650,
+   "bearing": 118.32,
+   "glideslope": 3.6011832,
    "receptionRange": 10
  },
  {
