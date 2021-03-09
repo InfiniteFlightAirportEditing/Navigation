@@ -38083,11 +38083,11 @@
    "identifier": "ISP",
    "associatedRunwayNumber": "26",
    "frequency": 110300,
-   "elevation": 761,
-   "latitude": 50.351172,
-   "longitude": 80.251806,
-   "bearing": 264.372,
-   "glideslope": 2.40263686,
+   "elevation": 759,
+   "latitude": 50.35328146,
+   "longitude": 80.25544004,
+   "bearing": 263.69,
+   "glideslope": 3.0026369,
    "receptionRange": 10
  },
  {
