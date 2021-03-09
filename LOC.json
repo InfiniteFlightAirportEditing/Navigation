@@ -32486,6 +32486,19 @@
    "receptionRange": 18,
    "type": 4
  },
+  {
+   "name": "ILS-cat-I",
+   "airportICAO": "OICI",
+   "identifier": "ILAM",
+   "associatedRunwayNumber": "32",
+   "frequency": 109100,
+   "elevation": 4406,
+   "latitude": 33.574186,
+   "longitude": 46.416346,
+   "bearing": 322.14,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "OIFM",

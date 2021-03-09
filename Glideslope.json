@@ -32481,10 +32481,23 @@
    "associatedRunwayNumber": "29",
    "frequency": 111100,
    "elevation": 4300,
-   "latitude":   34.339141,
-   "longitude":   47.174811,
+   "latitude": 34.339141,
+   "longitude": 47.174811,
    "bearing": 296.1,
    "glideslope": 3.002961,
+   "receptionRange": 10
+ },
+  {
+   "name": "GS",
+   "airportICAO": "OICI",
+   "identifier": "ILAM",
+   "associatedRunwayNumber": "32",
+   "frequency": 109100,
+   "elevation": 4406,
+   "latitude": 33.574186,
+   "longitude": 46.416346,
+   "bearing": 322.14,
+   "glideslope": 3.6032214,
    "receptionRange": 10
  },
  {
