@@ -32501,6 +32501,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "OICK",
+   "identifier": "IKRD",
+   "associatedRunwayNumber": "29",
+   "frequency": 110500,
+   "elevation": 3793,
+   "latitude": 33.429757,
+   "longitude": 48.298760,
+   "bearing": 293.13,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "OIFM",
    "identifier": "IIFN",
    "associatedRunwayNumber": "26R",
