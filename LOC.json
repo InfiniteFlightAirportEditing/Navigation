@@ -32512,6 +32512,19 @@
    "receptionRange": 18,
    "type": 4
  },
+  {
+   "name": "ILS-cat-I",
+   "airportICAO": "OICS",
+   "identifier": "ISNJ",
+   "associatedRunwayNumber": "19",
+   "frequency": 116500,
+   "elevation": 4528,
+   "latitude": 35.257285,
+   "longitude": 47.013749,
+   "bearing": 198.12,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "OIFM",
