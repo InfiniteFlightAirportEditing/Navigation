@@ -33424,6 +33424,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ORNI",
+   "identifier": "IALI",
+   "associatedRunwayNumber": "10",
+   "frequency": 108300,
+   "elevation": 103,
+   "latitude": 31.99313338,
+   "longitude": 44.38895576,
+   "bearing": 104.15,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ORNI",
+   "identifier": "INJF",
+   "associatedRunwayNumber": "28",
+   "frequency": 108900,
+   "elevation": 103,
+   "latitude": 31.98656956,
+   "longitude": 4.4196499,
+   "bearing": 284.15,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ORSU",
    "identifier": "RNJ",
    "associatedRunwayNumber": "31",
