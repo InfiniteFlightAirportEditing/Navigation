@@ -24921,12 +24921,12 @@
    "type": 4
 },
 {
-   "name": "ILS-cat-I",
+   "name": "LOC",
    "airportICAO": "KTPA",
    "identifier": "ITWJ",
    "associatedRunwayNumber": "1R",
    "frequency": 111950,
-   "elevation": 17,
+   "elevation": 26,
    "latitude": 27.96434302,
    "longitude": -82.52899667,  
    "bearing": 1.72,
