@@ -33425,6 +33425,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ORNI",
+   "identifier": "IALI",
+   "associatedRunwayNumber": "10",
+   "frequency": 108300,
+   "elevation": 103,
+   "latitude": 31.99313338,
+   "longitude": 44.38895576,
+   "bearing": 104.15,
+   "glideslope": 3.0010415,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ORNI",
+   "identifier": "INJF",
+   "associatedRunwayNumber": "28",
+   "frequency": 108900,
+   "elevation": 103,
+   "latitude": 31.98656956,
+   "longitude": 4.4196499,
+   "bearing": 284.15,
+   "glideslope": 3.0028415,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ORSU",
    "identifier": "RNJ",
    "associatedRunwayNumber": "31",
@@ -37923,6 +37949,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UADD",
+   "identifier": "IMB",
+   "associatedRunwayNumber": "13",
+   "frequency": 109700,
+   "elevation": 2190,
+   "latitude": 42.86594917,
+   "longitude": 71.28751846,
+   "bearing": 137.11,
+   "glideslope": 3.0013711,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UAFM",
    "identifier": "IMN",
    "associatedRunwayNumber": "08",
@@ -42218,10 +42257,10 @@
    "associatedRunwayNumber": "27",
    "frequency": 110100,
    "elevation": 1742,
-   "latitude": 17.454111,
-   "longitude": 78.474222,
-   "bearing": 269.63,
-   "glideslope": 3.00268815,
+   "latitude": 17.45343881,
+   "longitude": 78.4840209,
+   "bearing": 268.9,
+   "glideslope": 3.002689,
    "receptionRange": 10
  },
  {
