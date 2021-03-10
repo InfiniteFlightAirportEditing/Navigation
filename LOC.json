@@ -37960,6 +37960,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-II",
+   "airportICAO": "UADD",
+   "identifier": "IMB",
+   "associatedRunwayNumber": "13",
+   "frequency": 109700,
+   "elevation": 2190,
+   "latitude": 42.86594917,
+   "longitude": 71.28751846,
+   "bearing": 137.11,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "UAFM",
    "identifier": "IMN",

@@ -37949,6 +37949,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UADD",
+   "identifier": "IMB",
+   "associatedRunwayNumber": "13",
+   "frequency": 109700,
+   "elevation": 2190,
+   "latitude": 42.86594917,
+   "longitude": 71.28751846,
+   "bearing": 137.11,
+   "glideslope": 3.0013711,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UAFM",
    "identifier": "IMN",
    "associatedRunwayNumber": "08",
