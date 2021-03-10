@@ -25083,11 +25083,11 @@
    "identifier": "ITPL",
    "associatedRunwayNumber": "15",
    "frequency": 111500,
-   "elevation": 679,
-   "latitude": 31.157122,
-   "longitude": -97.409444,
-   "bearing": 163.386,
-   "glideslope": 2.90162693,
+   "elevation": 682,
+   "latitude": 31.15997423,
+   "longitude": -97.41216988,
+   "bearing": 162.710,
+   "glideslope": 2.90162710,
    "receptionRange": 10
  },
  {
