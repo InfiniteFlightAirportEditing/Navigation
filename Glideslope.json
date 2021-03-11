@@ -22463,18 +22463,31 @@
    "bearing": 145.90,
    "glideslope": 3.00145900,
    "receptionRange": 10
- },
- {
+},
+{
    "name": "GS",
    "airportICAO": "KPWA",
    "identifier": "IPWA",
    "associatedRunwayNumber": "17L",
    "frequency": 110150,
-   "elevation": 1287,
-   "latitude": 35.541311,
-   "longitude": -97.647178,
-   "bearing": 180.048,
-   "glideslope": 3.00180024,
+   "elevation": 1299,
+   "latitude": 35.54435583,
+   "longitude": -97.64546655,
+   "bearing": 180.02,
+   "glideslope": 3.0018002,
+   "receptionRange": 10
+},
+{
+   "name": "GS",
+   "airportICAO": "KPWA",
+   "identifier": "ITFM",
+   "associatedRunwayNumber": "35R",
+   "frequency": 110150,
+   "elevation": 1299,
+   "latitude": 35.52417866,
+   "longitude": -97.64547696,
+   "bearing": 0.02,
+   "glideslope": 3.0000002,
    "receptionRange": 10
  },
  {
@@ -25070,11 +25083,11 @@
    "identifier": "ITPL",
    "associatedRunwayNumber": "15",
    "frequency": 111500,
-   "elevation": 679,
-   "latitude": 31.157122,
-   "longitude": -97.409444,
-   "bearing": 163.386,
-   "glideslope": 2.90162693,
+   "elevation": 682,
+   "latitude": 31.15997423,
+   "longitude": -97.41216988,
+   "bearing": 162.710,
+   "glideslope": 2.90162710,
    "receptionRange": 10
  },
  {
