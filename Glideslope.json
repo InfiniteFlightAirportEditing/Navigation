@@ -32500,6 +32500,32 @@
    "glideslope": 3.6032214,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "OICK",
+   "identifier": "IKRD",
+   "associatedRunwayNumber": "29",
+   "frequency": 110500,
+   "elevation": 3793,
+   "latitude": 33.429757,
+   "longitude": 48.298760,
+   "bearing": 293.13,
+   "glideslope": 3.7029313,
+   "receptionRange": 10
+ },
+   {
+   "name": "GS",
+   "airportICAO": "OICS",
+   "identifier": "ISNJ",
+   "associatedRunwayNumber": "19",
+   "frequency": 116500,
+   "elevation": 4528,
+   "latitude": 35.257285,
+   "longitude": 47.013749,
+   "bearing": 198.12,
+   "glideslope": 4.0019812,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "OIFM",
