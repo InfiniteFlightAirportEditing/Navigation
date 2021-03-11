@@ -38070,11 +38070,11 @@
    "identifier": "IRG",
    "associatedRunwayNumber": "05",
    "frequency": 109900,
-   "elevation": 1765,
-   "latitude": 49.663292,
-   "longitude": 73.320442,
-   "bearing": 58.658,
-   "glideslope": 2.40058329,
+   "elevation": 1767,
+   "latitude": 49.66342742,
+   "longitude": 73.31431001,
+   "bearing": 58.33,
+   "glideslope": 3.0005833,
    "receptionRange": 10
  },
  {
@@ -38083,11 +38083,11 @@
    "identifier": "IKA",
    "associatedRunwayNumber": "23",
    "frequency": 111700,
-   "elevation": 1765,
-   "latitude": 49.675831,
-   "longitude": 73.351192,
-   "bearing": 238.658,
-   "glideslope": 2.40238329,
+   "elevation": 1767,
+   "latitude": 49.68039525,
+   "longitude": 73.35680877,
+   "bearing": 238.33,
+   "glideslope": 3.0023833,
    "receptionRange": 10
  },
  {
