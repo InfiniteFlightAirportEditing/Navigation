@@ -10666,9 +10666,9 @@
    "identifier": "IAVP",
    "associatedRunwayNumber": "4",
    "frequency": 109900,
-   "elevation": 961,
+   "elevation": 962,
    "latitude": 41.328699,
-   "longitude": -75.731550,
+   "longitude": -75.731549,
    "bearing": 32.61,
    "glideslope": 3.0003261,
    "receptionRange": 10
