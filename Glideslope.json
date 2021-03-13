@@ -35041,11 +35041,11 @@
    "identifier": "IHG",
    "associatedRunwayNumber": "10",
    "frequency": 108700,
-   "elevation": 1085,
-   "latitude": 34.43605744,
-   "longitude": 132.90307707,
-   "bearing": 90,
-   "glideslope": 3.0009,
+   "elevation": 1086,
+   "latitude": 34.43602033,
+   "longitude": 132.93927349,
+   "bearing": 90.00,
+   "glideslope": 3.0009000,
    "receptionRange": 10
  },
  {
