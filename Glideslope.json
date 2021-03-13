@@ -39457,6 +39457,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UMBB",
+   "identifier": "IBY",
+   "associatedRunwayNumber": "29",
+   "frequency": 110300,
+   "elevation": 469,
+   "latitude": 52.103475,
+   "longitude": 23.9137361,
+   "bearing": 294.01,
+   "glideslope": 2.7029401,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UMGG",
    "identifier": "IGM",
    "associatedRunwayNumber": "11",
