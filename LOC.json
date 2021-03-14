@@ -34920,13 +34920,13 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "RJFU",
-   "identifier": "IOM",
+   "identifier": "IOL",
    "associatedRunwayNumber": "32",
    "frequency": 110900,
-   "elevation": 30,
-   "latitude": 32.928883,
-   "longitude": 129.9014,
-   "bearing": 318.952,
+   "elevation": 8,
+   "latitude": 32.92859930,
+   "longitude": 129.90101729,
+   "bearing": 318.13,
    "receptionRange": 18,
    "type": 4
  },

@@ -34921,13 +34921,13 @@
  {
    "name": "GS",
    "airportICAO": "RJFU",
-   "identifier": "IOM",
+   "identifier": "IOL",
    "associatedRunwayNumber": "32",
    "frequency": 110900,
-   "elevation": 15,
-   "latitude": 32.908364,
-   "longitude": 129.920822,
-   "bearing": 318.26,
+   "elevation": 8,
+   "latitude": 32.92859930,
+   "longitude": 129.90101729,
+   "bearing": 318.13,
    "glideslope": 3.0031813,
    "receptionRange": 10
  },
