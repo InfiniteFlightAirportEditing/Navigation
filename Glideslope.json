@@ -39457,6 +39457,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UMBB",
+   "identifier": "IBY",
+   "associatedRunwayNumber": "29",
+   "frequency": 110300,
+   "elevation": 469,
+   "latitude": 52.103475,
+   "longitude": 23.9137361,
+   "bearing": 294.01,
+   "glideslope": 2.7029401,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UMGG",
    "identifier": "IGM",
    "associatedRunwayNumber": "11",
@@ -40787,11 +40800,11 @@
    "identifier": "IDM",
    "associatedRunwayNumber": "14R",
    "frequency": 110100,
-   "elevation": 587,
-   "latitude": 55.42112051,
-   "longitude": 37.87207608,
-   "bearing": 145.67,
-   "glideslope": 3.0014567,
+   "elevation": 592,
+   "latitude": 55.42105206,
+   "longitude": 37.87213353,
+   "bearing": 145.7,
+   "glideslope": 3.001457,
    "receptionRange": 10
  },
  {
@@ -40800,11 +40813,11 @@
    "identifier": "IDO",
    "associatedRunwayNumber": "32L",
    "frequency": 109300,
-   "elevation": 587,
-   "latitude": 55.39517324,
-   "longitude": 37.90329381,
-   "bearing": 325.67,
-   "glideslope": 3.0032567,
+   "elevation": 592,
+   "latitude": 55.39511414,
+   "longitude": 37.90331097,
+   "bearing": 325.7,
+   "glideslope": 3.003257,
    "receptionRange": 10
  },
  {
