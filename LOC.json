@@ -41783,6 +41783,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VEMR",
+   "identifier": "IDMP",
+   "associatedRunwayNumber": "12",
+   "frequency": 109300,
+   "elevation": 486,
+   "latitude": 25.88879943,
+   "longitude": 93.76148642,
+   "bearing": 118.25,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VEPT",
    "identifier": "PAT",
    "associatedRunwayNumber": "25",

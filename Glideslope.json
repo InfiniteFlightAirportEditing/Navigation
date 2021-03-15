@@ -41823,6 +41823,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VEMR",
+   "identifier": "IDMP",
+   "associatedRunwayNumber": "12",
+   "frequency": 109300,
+   "elevation": 486,
+   "latitude": 25.88879943,
+   "longitude": 93.76148642,
+   "bearing": 118.25,
+   "glideslope": 3.2511825,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VEPT",
    "identifier": "PAT",
    "associatedRunwayNumber": "25",
