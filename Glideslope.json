@@ -38031,11 +38031,11 @@
    "identifier": "IEN",
    "associatedRunwayNumber": "10",
    "frequency": 111700,
-   "elevation": 1385,
-   "latitude": 42.365506,
-   "longitude": 69.4655,
-   "bearing": 106.598,
-   "glideslope": 2.40106299,
+   "elevation": 1387,
+   "latitude": 42.36922871,
+   "longitude": 69.45617714,
+   "bearing": 106.29,
+   "glideslope": 3.0010629,
    "receptionRange": 10
  },
  {
@@ -38044,11 +38044,11 @@
    "identifier": "IIM",
    "associatedRunwayNumber": "28",
    "frequency": 110300,
-   "elevation": 1385,
-   "latitude": 42.360064,
-   "longitude": 69.49105,
-   "bearing": 286.598,
-   "glideslope": 3.00286299,
+   "elevation": 1387,
+   "latitude": 42.36092585,
+   "longitude": 69.49463976,
+   "bearing": 286.29,
+   "glideslope": 3.0028629,
    "receptionRange": 10
  },
  {
