@@ -42685,11 +42685,11 @@
    "identifier": "ISTN",
    "associatedRunwayNumber": "22",
    "frequency": 109500,
-   "elevation": 18,
-   "latitude": 9.139203,
-   "longitude": 99.143592,
-   "bearing": 224.97,
-   "glideslope": 3.00223985,
+   "elevation": 20,
+   "latitude": 9.142375,
+   "longitude": 99.1451389,
+   "bearing": 223.99,
+   "glideslope": 3.0022399,
    "receptionRange": 10
  },
  {
