@@ -36077,6 +36077,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "RPVP",
+   "identifier": "IPR",
+   "associatedRunwayNumber": "27",
+   "frequency": 110100,
+   "elevation": 65,
+   "latitude": 9.74159195,
+   "longitude": 118.7705555,
+   "bearing": 272.52,
+   "glideslope": 3.0027252,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SAAP",
    "identifier": "PA",
    "associatedRunwayNumber": "20",

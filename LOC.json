@@ -36076,6 +36076,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "RPVP",
+   "identifier": "IPR",
+   "associatedRunwayNumber": "27",
+   "frequency": 110100,
+   "elevation": 65,
+   "latitude": 9.74159195,
+   "longitude": 118.7705555,
+   "bearing": 272.52,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SAAP",
    "identifier": "PA",
    "associatedRunwayNumber": "20",
