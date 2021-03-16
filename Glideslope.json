@@ -36064,6 +36064,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "RPSP",
+   "identifier": "IBOH",
+   "associatedRunwayNumber": "21",
+   "frequency": 111100,
+   "elevation": 43,
+   "latitude": 9.58364389,
+   "longitude": 123.77646134,
+   "bearing": 210.47,
+   "glideslope": 3.0021047,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "RPVB",
    "identifier": "IBCD",
    "associatedRunwayNumber": "03",

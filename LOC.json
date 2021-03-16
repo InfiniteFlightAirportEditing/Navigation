@@ -36063,6 +36063,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "RPSP",
+   "identifier": "IBOH",
+   "associatedRunwayNumber": "21",
+   "frequency": 111100,
+   "elevation": 43,
+   "latitude": 9.58364389,
+   "longitude": 123.77646134,
+   "bearing": 210.47,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "RPVB",
    "identifier": "IBCD",
    "associatedRunwayNumber": "03",
