@@ -36089,6 +36089,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "RPSP",
+   "identifier": "IBOH",
+   "associatedRunwayNumber": "21",
+   "frequency": 111100,
+   "elevation": 43,
+   "latitude": 9.58364389,
+   "longitude": 123.77646134,
+   "bearing": 210.47,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "RPVB",
    "identifier": "IBCD",
    "associatedRunwayNumber": "03",
@@ -36097,6 +36110,19 @@
    "latitude": 10.76878427,
    "longitude": 123.01456388,
    "bearing": 29.58,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "RPVP",
+   "identifier": "IPR",
+   "associatedRunwayNumber": "27",
+   "frequency": 110100,
+   "elevation": 65,
+   "latitude": 9.74159195,
+   "longitude": 118.7705555,
+   "bearing": 272.52,
    "receptionRange": 18,
    "type": 4
  },
@@ -41809,6 +41835,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VEMR",
+   "identifier": "IDMP",
+   "associatedRunwayNumber": "12",
+   "frequency": 109300,
+   "elevation": 486,
+   "latitude": 25.88879943,
+   "longitude": 93.76148642,
+   "bearing": 118.25,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VEPT",
    "identifier": "PAT",
    "associatedRunwayNumber": "25",
@@ -42660,9 +42699,9 @@
    "associatedRunwayNumber": "22",
    "frequency": 109500,
    "elevation": 20,
-   "latitude": 9.120875,
-   "longitude": 99.124122,
-   "bearing": 223.985,
+   "latitude": 9.142375,
+   "longitude": 99.1451389,
+   "bearing": 223.99,
    "receptionRange": 18,
    "type": 4
  },
