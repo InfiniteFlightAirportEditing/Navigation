@@ -29888,6 +29888,32 @@
  },
  {
    "name": "ILS-cat-II",
+   "airportICAO": "LRBC",
+   "identifier": "IBC",
+   "associatedRunwayNumber": "34",
+   "frequency": 110700,
+   "elevation": 607,
+   "latitude": 46.511050,
+   "longitude": 26.914446,
+   "bearing": 344.86,
+   "receptionRange": 18,
+   "type": 4
+ },
+  {
+   "name": "ILS-cat-II",
+   "airportICAO": "LRBM",
+   "identifier": "IBM",
+   "associatedRunwayNumber": "09",
+   "frequency": 109300,
+   "elevation": 606,
+   "latitude": 47.660040,
+   "longitude": 23.449648,
+   "bearing": 99.23,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-II",
    "airportICAO": "LRBS",
    "identifier": "IBS",
    "associatedRunwayNumber": "07",
@@ -29945,8 +29971,8 @@
    "associatedRunwayNumber": "25",
    "frequency": 111900,
    "elevation": 1039,
-   "latitude": 46.79019322,
-   "longitude": 23.6964696,
+   "latitude": 46.790186,
+   "longitude": 23.696458,
    "bearing": 251.78,
    "receptionRange": 18,
    "type": 4
