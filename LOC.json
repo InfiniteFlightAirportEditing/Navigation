@@ -29886,6 +29886,19 @@
    "receptionRange": 18,
    "type": 4
  },
+  {
+   "name": "ILS-cat-II",
+   "airportICAO": "LRBM",
+   "identifier": "IBM",
+   "associatedRunwayNumber": "09",
+   "frequency": 109300,
+   "elevation": 606,
+   "latitude": 47.660040,
+   "longitude": 23.449648,
+   "bearing": 99.23,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "ILS-cat-II",
    "airportICAO": "LRBS",

@@ -29889,6 +29889,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LRBM",
+   "identifier": "IBM",
+   "associatedRunwayNumber": "09",
+   "frequency": 109300,
+   "elevation": 606,
+   "latitude": 47.660040,
+   "longitude": 23.449648,
+   "bearing": 99.23,
+   "glideslope": 3.009923,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LRBS",
    "identifier": "IBS",
    "associatedRunwayNumber": "07",
