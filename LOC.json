@@ -6493,9 +6493,9 @@
    "associatedRunwayNumber": "07",
    "frequency": 110100,
    "elevation": 204,
-   "latitude": 63.114822,
-   "longitude": 7.844311,
-   "bearing": 71.604,
+   "latitude": 63.10930232,
+   "longitude": 7.80822963,
+   "bearing": 71.38,
    "receptionRange": 18,
    "type": 4
  },
@@ -32652,6 +32652,19 @@
    "latitude": 36.2466695,
    "longitude": 59.62448662,
    "bearing": 313.74,
+   "receptionRange": 18,
+   "type": 4
+ },
+  {
+   "name": "ILS-cat-I",
+   "airportICAO": "OING",
+   "identifier": "IGGN",
+   "associatedRunwayNumber": "13",
+   "frequency": 109900,
+   "elevation": -28,
+   "latitude": 36.922857,
+   "longitude": 54.383930,
+   "bearing": 134.03,
    "receptionRange": 18,
    "type": 4
  },
