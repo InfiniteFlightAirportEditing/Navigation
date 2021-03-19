@@ -32655,6 +32655,19 @@
    "receptionRange": 18,
    "type": 4
  },
+  {
+   "name": "ILS-cat-I",
+   "airportICAO": "OING",
+   "identifier": "IGGN",
+   "associatedRunwayNumber": "13",
+   "frequency": 109900,
+   "elevation": -28,
+   "latitude": 36.922857,
+   "longitude": 54.383930,
+   "bearing": 134.03,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "OISS",
