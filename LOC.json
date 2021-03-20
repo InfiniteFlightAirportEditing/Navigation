@@ -51156,7 +51156,32 @@
    "receptionRange": 18,
    "type": 4
  },
-
+ {
+   "name": "ILS-cat-II",
+   "airportICAO": "UTAT",
+   "identifier": "IRP",
+   "associatedRunwayNumber": "08",
+   "frequency": 108300,
+   "elevation": 282,
+   "latitude": 41.75992262,
+   "longitude": 59.81151026,
+   "bearing": 90.21,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-II",
+   "airportICAO": "UTAT",
+   "identifier": "ISH",
+   "associatedRunwayNumber": "26",
+   "frequency": 111300,
+   "elevation": 282,
+   "latitude": 41.75979768,
+   "longitude": 59.85720688,
+   "bearing": 270.21,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "LOC",
    "airportICAO": "VMMC",
