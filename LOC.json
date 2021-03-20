@@ -25895,6 +25895,19 @@
    "receptionRange": 18,
    "type": 4
  },
+  {
+   "name": "ILS-cat-I",
+   "airportICAO": "LCEN",
+   "identifier": "ECN",
+   "associatedRunwayNumber": "29",
+   "frequency": 117000,
+   "elevation": 402,
+   "latitude": 35.150609,
+   "longitude": 33.515537,
+   "bearing": 291.87,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "LCLK",
