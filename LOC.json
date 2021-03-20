@@ -51131,6 +51131,33 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "UTAM",
+   "identifier": "IML",
+   "associatedRunwayNumber": "36L",
+   "frequency": 111500,
+   "elevation": 728,
+   "latitude": 37.60749316,
+   "longitude": 61.89639826,
+   "bearing": 358.53,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "UTAM",
+   "identifier": "IMR",
+   "associatedRunwayNumber": "36R",
+   "frequency": 109700,
+   "elevation": 728,
+   "latitude": 37.60758554,
+   "longitude": 61.89812107,
+   "bearing": 358.49,
+   "receptionRange": 18,
+   "type": 4
+ },
+
+ {
    "name": "LOC",
    "airportICAO": "VMMC",
    "identifier": "MCS",
