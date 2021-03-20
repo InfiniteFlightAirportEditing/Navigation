@@ -40744,6 +40744,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UTAV",
+   "identifier": "IHQ",
+   "associatedRunwayNumber": "13",
+   "frequency": 110300,
+   "elevation": 648,
+   "latitude": 38.94181601,
+   "longitude": 63.54717574,
+   "bearing": 130.55,
+   "glideslope": 3.0013055,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UTAV",
+   "identifier": "IUT",
+   "associatedRunwayNumber": "31",
+   "frequency": 110500,
+   "elevation": 648,
+   "latitude": 38.91960419,
+   "longitude": 63.58054837,
+   "bearing": 310.55,
+   "glideslope": 3.0031055,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UTDD",
    "identifier": "IFN",
    "associatedRunwayNumber": "09",
