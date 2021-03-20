@@ -25963,6 +25963,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LCEN",
+   "identifier": "ECN",
+   "associatedRunwayNumber": "29",
+   "frequency": 117000,
+   "elevation": 402,
+   "latitude": 35.150609,
+   "longitude": 33.515537,
+   "bearing": 291.87,
+   "glideslope": 2.8029187,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LCLK",
    "identifier": "ILC",
    "associatedRunwayNumber": "22",
@@ -29976,6 +29989,19 @@
    "longitude": 23.696458,
    "bearing": 251.78,
    "glideslope": 3.0025178,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "LRCV",
+   "identifier": "ICV",
+   "associatedRunwayNumber": "25",
+   "frequency": 108700,
+   "elevation": 625,
+   "latitude": 44.318350,
+   "longitude": 23.904207,
+   "bearing": 268.94,
+   "glideslope": 3.0026894,
    "receptionRange": 10
  },
  {
