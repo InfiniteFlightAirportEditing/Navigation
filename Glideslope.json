@@ -29980,6 +29980,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LRCV",
+   "identifier": "ICV",
+   "associatedRunwayNumber": "25",
+   "frequency": 108700,
+   "elevation": 625,
+   "latitude": 44.318350,
+   "longitude": 23.904207,
+   "bearing": 268.94,
+   "glideslope": 3.0026894,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LRIA",
    "identifier": "IIS",
    "associatedRunwayNumber": "14",
