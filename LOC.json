@@ -38532,6 +38532,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "UBBY",
+   "identifier": "IZK",
+   "associatedRunwayNumber": "33",
+   "frequency": 109100,
+   "elevation": 1281,
+   "latitude": 41.54576304,
+   "longitude": 46.67592132,
+   "bearing": 338.53,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "UCFM",
    "identifier": "IBK",
