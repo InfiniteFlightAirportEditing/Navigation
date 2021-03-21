@@ -24355,11 +24355,11 @@
    "identifier": "ISTC",
    "associatedRunwayNumber": "31",
    "frequency": 111900,
-   "elevation": 1030,
-   "latitude": 45.55394877,
-   "longitude": -94.06932625,
-   "bearing": 316.060,
-   "glideslope": 3.0316060,
+   "elevation": 1029,
+   "latitude":  45.53913579,
+   "longitude": -94.04893987,
+   "bearing": 316.06,
+   "glideslope": 3.0031606,
    "receptionRange": 10
  },
  {
@@ -24368,11 +24368,11 @@
    "identifier": "IBPM",
    "associatedRunwayNumber": "13",
    "frequency": 111900,
-   "elevation": 1030,
-   "latitude": 45.53913579,
-   "longitude": -94.04893987,
-   "bearing": 136.060,
-   "glideslope": 3.00136060,
+   "elevation": 1029,
+   "latitude": 45.55394877,
+   "longitude": -94.06932625,
+   "bearing": 136.06,
+   "glideslope": 3.0013606,
    "receptionRange": 10
  },
  {

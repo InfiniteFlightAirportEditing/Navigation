@@ -24302,23 +24302,23 @@
    "identifier": "ISTC",
    "associatedRunwayNumber": "31",
    "frequency": 111900,
-   "elevation": 1030,
+   "elevation": 1029,
    "latitude": 45.53913579,
    "longitude": -94.04893987,
-   "bearing": 316.083,
+   "bearing": 316.06,
    "receptionRange": 18,
    "type": 4
  },
-{
+ {
    "name": "ILS-cat-I",
    "airportICAO": "KSTC",
    "identifier": "IBPM",
    "associatedRunwayNumber": "13",
    "frequency": 111900,
-   "elevation": 1030,
+   "elevation": 1029,
    "latitude": 45.55394877,
    "longitude": -94.06932625,
-   "bearing": 316.083,
+   "bearing": 136.06,
    "receptionRange": 18,
    "type": 4
  },
