@@ -30095,6 +30095,20 @@
    "glideslope": 3.003432,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "LRTC",
+   "identifier": "ITC",
+   "associatedRunwayNumber": "34",
+   "frequency": 110700,
+   "elevation": 200,
+   "latitude": 45.053565,
+   "longitude": 28.717367,
+   "bearing": 347.56,
+   "glideslope": 3.2034756,
+   "receptionRange": 10
+ },
+
  {
    "name": "GS",
    "airportICAO": "LRTM",
