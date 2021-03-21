@@ -39560,6 +39560,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ULPB",
+   "identifier": "IPD",
+   "associatedRunwayNumber": "19",
+   "frequency": 110700,
+   "elevation": 151,
+   "latitude": 61.89552425,
+   "longitude": 34.16413354,
+   "bearing": 203.06,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ULWC",
    "identifier": "IFP",
    "associatedRunwayNumber": "21",
