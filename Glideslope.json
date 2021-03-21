@@ -41203,11 +41203,11 @@
    "identifier": "IBX",
    "associatedRunwayNumber": "29",
    "frequency": 110500,
-   "elevation": 734,
-   "latitude": 50.641628,
-   "longitude": 36.601375,
-   "bearing": 298.104,
-   "glideslope": 2.70297552,
+   "elevation": 735,
+   "latitude": 50.6382566,
+   "longitude": 36.60700551,
+   "bearing": 297.37,
+   "glideslope": 2.8029737,
    "receptionRange": 10
  },
  {
