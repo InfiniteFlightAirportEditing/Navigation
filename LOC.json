@@ -30023,9 +30023,9 @@
    "associatedRunwayNumber": "19",
    "frequency": 109500,
    "elevation": 450,
-   "latitude": 47.014103,
-   "longitude": 21.899178,
-   "bearing": 191.114,
+   "latitude": 47.034576,
+   "longitude": 21.905077,
+   "bearing": 191.11,
    "receptionRange": 18,
    "type": 4
  },
@@ -30104,6 +30104,19 @@
    "latitude": 47.67592667,
    "longitude": 26.35922457,
    "bearing": 343.2,
+   "receptionRange": 18,
+   "type": 4
+ },
+  {
+   "name": "ILS-cat-I",
+   "airportICAO": "LRTC",
+   "identifier": "ITC",
+   "associatedRunwayNumber": "34",
+   "frequency": 110700,
+   "elevation": 200,
+   "latitude": 45.053565,
+   "longitude": 28.717367,
+   "bearing": 347.56,
    "receptionRange": 18,
    "type": 4
  },
