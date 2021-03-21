@@ -30126,12 +30126,12 @@
    "airportICAO": "LRTM",
    "identifier": "ITM",
    "associatedRunwayNumber": "07",
-   "frequency": 109500,
+   "frequency": 109900,
    "elevation": 963,
-   "latitude": 46.467017,
-   "longitude": 24.4032,
-   "bearing": 74.616,
-   "glideslope": 3.20073808,
+   "latitude": 46.465273,
+   "longitude": 24.399994,
+   "bearing": 74.16,
+   "glideslope": 3.0007416,
    "receptionRange": 10
  },
  {
