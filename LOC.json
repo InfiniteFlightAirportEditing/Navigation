@@ -30083,6 +30083,19 @@
  },
  {
    "name": "ILS-cat-II",
+   "airportICAO": "LRSM",
+   "identifier": "ISM",
+   "associatedRunwayNumber": "19",
+   "frequency": 110950,
+   "elevation": 413,
+   "latitude": 47.714382,
+   "longitude": 22.889374,
+   "bearing": 193.03,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-II",
    "airportICAO": "LRSV",
    "identifier": "ISV",
    "associatedRunwayNumber": "34",
