@@ -37172,10 +37172,10 @@
    "identifier": "IYS",
    "associatedRunwayNumber": "02C",
    "frequency": 109300,
-   "elevation": 1967,
+   "elevation": 1976,
    "latitude": -21.99407264,
    "longitude": -47.34116483,
-   "bearing": 359.8,
+   "bearing": 359.80,
    "receptionRange": 18,
    "type": 4
  },
