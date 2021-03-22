@@ -30095,6 +30095,19 @@
    "glideslope": 3.0027134,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "LRSM",
+   "identifier": "ISM",
+   "associatedRunwayNumber": "19",
+   "frequency": 110950,
+   "elevation": 413,
+   "latitude": 47.714382,
+   "longitude": 22.889374,
+   "bearing": 193.03,
+   "glideslope": 3.0019303,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "LRSV",
@@ -30121,18 +30134,17 @@
    "glideslope": 3.2034756,
    "receptionRange": 10
  },
-
  {
    "name": "GS",
    "airportICAO": "LRTM",
    "identifier": "ITM",
    "associatedRunwayNumber": "07",
-   "frequency": 109500,
+   "frequency": 109900,
    "elevation": 963,
-   "latitude": 46.467017,
-   "longitude": 24.4032,
-   "bearing": 74.616,
-   "glideslope": 3.20073808,
+   "latitude": 46.465273,
+   "longitude": 24.399994,
+   "bearing": 74.16,
+   "glideslope": 3.0007416,
    "receptionRange": 10
  },
  {
