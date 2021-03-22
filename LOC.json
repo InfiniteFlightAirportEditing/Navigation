@@ -36595,17 +36595,17 @@
    "type": 4
  },
  {
-   "name": "LOC",
+   "name": "ILS-cat-I",
    "airportICAO": "SBAN",
    "identifier": "IAN",
    "associatedRunwayNumber": "24R",
    "frequency": 111100,
    "elevation": 3732,
-   "latitude": -16.241759,
-   "longitude": -48.976070,
+   "latitude": -16.21534118,
+   "longitude": -48.95380313,
    "bearing": 218.92,
    "receptionRange": 18,
-   "type": 5
+   "type": 4
  },
  {
    "name": "ILS-cat-I",

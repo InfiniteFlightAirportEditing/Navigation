@@ -36610,6 +36610,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SBAN",
+   "identifier": "IAN",
+   "associatedRunwayNumber": "24R",
+   "frequency": 111100,
+   "elevation": 3732,
+   "latitude": -16.21534118,
+   "longitude": -48.95380313,
+   "bearing": 218.92,
+   "glideslope": 2.6021892,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SBBE",
    "identifier": "IBE",
    "associatedRunwayNumber": "06",
