@@ -36732,11 +36732,11 @@
    "identifier": "ICG",
    "associatedRunwayNumber": "06",
    "frequency": 110300,
-   "elevation": 1833,
+   "elevation": 1835,
    "latitude": -20.47868026,
    "longitude": -54.68233954,
    "bearing": 42.06,
-   "glideslope": 3.00040837,
+   "glideslope": 3.0004206,
    "receptionRange": 10
  },
  {
