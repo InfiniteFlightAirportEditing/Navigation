@@ -41678,6 +41678,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-II",
+   "airportICAO": "VAPO",
+   "identifier": "IPUN",
+   "associatedRunwayNumber": "28",
+   "frequency": 108700,
+   "elevation": 1940,
+   "latitude": 18.58159354,
+   "longitude": 73.93039863,
+   "bearing": 273.75,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "VARK",
    "identifier": "IRAJ",

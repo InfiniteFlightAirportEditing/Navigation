@@ -41836,6 +41836,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VAPO",
+   "identifier": "IPUN",
+   "associatedRunwayNumber": "28",
+   "frequency": 108700,
+   "elevation": 1940,
+   "latitude": 18.58159354,
+   "longitude": 73.93039863,
+   "bearing": 273.75,
+   "glideslope": 3.0027375,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VARK",
    "identifier": "IRAJ",
    "associatedRunwayNumber": "23",
