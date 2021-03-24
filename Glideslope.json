@@ -24355,11 +24355,11 @@
    "identifier": "ISTC",
    "associatedRunwayNumber": "31",
    "frequency": 111900,
-   "elevation": 1030,
-   "latitude": 45.55394877,
-   "longitude": -94.06932625,
-   "bearing": 316.060,
-   "glideslope": 3.0316060,
+   "elevation": 1029,
+   "latitude":  45.53913579,
+   "longitude": -94.04893987,
+   "bearing": 316.06,
+   "glideslope": 3.0031606,
    "receptionRange": 10
  },
  {
@@ -24368,11 +24368,11 @@
    "identifier": "IBPM",
    "associatedRunwayNumber": "13",
    "frequency": 111900,
-   "elevation": 1030,
-   "latitude": 45.53913579,
-   "longitude": -94.04893987,
-   "bearing": 136.060,
-   "glideslope": 3.00136060,
+   "elevation": 1029,
+   "latitude": 45.55394877,
+   "longitude": -94.06932625,
+   "bearing": 136.06,
+   "glideslope": 3.0013606,
    "receptionRange": 10
  },
  {
@@ -30024,10 +30024,10 @@
    "associatedRunwayNumber": "19",
    "frequency": 109500,
    "elevation": 450,
-   "latitude": 47.029992,
-   "longitude": 21.905753,
-   "bearing": 191.252,
-   "glideslope": 2.70191126,
+   "latitude": 47.034576,
+   "longitude": 21.905077,
+   "bearing": 191.11,
+   "glideslope": 3.0019111,
    "receptionRange": 10
  },
  {
@@ -30095,6 +30095,19 @@
    "glideslope": 3.0027134,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "LRSM",
+   "identifier": "ISM",
+   "associatedRunwayNumber": "19",
+   "frequency": 110950,
+   "elevation": 413,
+   "latitude": 47.714382,
+   "longitude": 22.889374,
+   "bearing": 193.03,
+   "glideslope": 3.0019303,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "LRSV",
@@ -30108,17 +30121,30 @@
    "glideslope": 3.003432,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "LRTC",
+   "identifier": "ITC",
+   "associatedRunwayNumber": "34",
+   "frequency": 110700,
+   "elevation": 200,
+   "latitude": 45.053565,
+   "longitude": 28.717367,
+   "bearing": 347.56,
+   "glideslope": 3.2034756,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "LRTM",
    "identifier": "ITM",
    "associatedRunwayNumber": "07",
-   "frequency": 109500,
+   "frequency": 109900,
    "elevation": 963,
-   "latitude": 46.467017,
-   "longitude": 24.4032,
-   "bearing": 74.616,
-   "glideslope": 3.20073808,
+   "latitude": 46.465273,
+   "longitude": 24.399994,
+   "bearing": 74.16,
+   "glideslope": 3.0007416,
    "receptionRange": 10
  },
  {
@@ -36584,6 +36610,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SBAN",
+   "identifier": "IAN",
+   "associatedRunwayNumber": "24R",
+   "frequency": 111100,
+   "elevation": 3732,
+   "latitude": -16.21534118,
+   "longitude": -48.95380313,
+   "bearing": 218.92,
+   "glideslope": 2.6021892,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SBBE",
    "identifier": "IBE",
    "associatedRunwayNumber": "06",
@@ -36718,11 +36757,11 @@
    "identifier": "ICG",
    "associatedRunwayNumber": "06",
    "frequency": 110300,
-   "elevation": 1833,
+   "elevation": 1835,
    "latitude": -20.47868026,
    "longitude": -54.68233954,
    "bearing": 42.06,
-   "glideslope": 3.00040837,
+   "glideslope": 3.0004206,
    "receptionRange": 10
  },
  {
@@ -36936,14 +36975,14 @@
  {
    "name": "GS",
    "airportICAO": "SBMO",
-   "identifier": "IMO",
+   "identifier": "IMC",
    "associatedRunwayNumber": "12",
    "frequency": 109300,
-   "elevation": 387,
-   "latitude": -9.508314,
-   "longitude": -35.800014,
-   "bearing": 101.456,
-   "glideslope": 3.03100728,
+   "elevation": 389,
+   "latitude": -9.50864435,
+   "longitude": -35.80331333,
+   "bearing": 100.75,
+   "glideslope": 3.0010075,
    "receptionRange": 10
  },
  {
@@ -37043,7 +37082,7 @@
    "identifier": "ISL",
    "associatedRunwayNumber": "06",
    "frequency": 109300,
-   "elevation": 178,
+   "elevation": 177,
    "latitude": -2.597093,
    "longitude": -44.243477,
    "bearing": 38.85,
@@ -37134,11 +37173,11 @@
    "identifier": "IYS",
    "associatedRunwayNumber": "02C",
    "frequency": 109300,
-   "elevation": 1967,
+   "elevation": 1976,
    "latitude": -21.99407264,
    "longitude": -47.34116483,
-   "bearing": 359.8,
-   "glideslope": 3.003598,
+   "bearing": 359.80,
+   "glideslope": 3.0035980,
    "receptionRange": 10
  },
  {
