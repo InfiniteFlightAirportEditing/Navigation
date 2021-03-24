@@ -30133,16 +30133,29 @@
    "receptionRange": 18,
    "type": 4
  },
+  {
+   "name": "ILS-cat-III",
+   "airportICAO": "LRTR",
+   "identifier": "ITR",
+   "associatedRunwayNumber": "11",
+   "frequency": 110900,
+   "elevation": 348,
+   "latitude": 45.815145,
+   "longitude": 21.316699,
+   "bearing": 109.82,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "ILS-cat-III",
    "airportICAO": "LRTR",
    "identifier": "ITR",
    "associatedRunwayNumber": "29",
    "frequency": 109300,
-   "elevation": 343,
-   "latitude": 45.816361,
-   "longitude": 21.311878,
-   "bearing": 289.799,
+   "elevation": 348,
+   "latitude": 45.804505,
+   "longitude": 21.359052,
+   "bearing": 289.82,
    "receptionRange": 18,
    "type": 4
  },
