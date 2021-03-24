@@ -1665,6 +1665,32 @@
    "receptionRange": 10
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "DAAT",
+   "identifier": "TA",
+   "associatedRunwayNumber": "08",
+   "frequency": 109700,
+   "elevation": 4518,
+   "latitude": 22.80719559,
+   "longitude": 5.42280327,
+   "bearing": 81.68,
+   "glideslope": 3.0008168,
+   "receptionRange": 10
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "DAAT",
+   "identifier": "TM",
+   "associatedRunwayNumber": "20",
+   "frequency": 108500,
+   "elevation": 4518,
+   "latitude": 22.82643754,
+   "longitude": 5.45759781,
+   "bearing": 21.89,
+   "glideslope": 3.2802189,
+   "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "DAAV",
    "identifier": "JL",
