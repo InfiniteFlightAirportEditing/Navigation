@@ -40224,6 +40224,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "URMS",
+   "identifier": "ISC",
+   "associatedRunwayNumber": "09",
+   "frequency": 108900,
+   "elevation": 1207,
+   "latitude": 43.32492633,
+   "longitude": 44.99373303,
+   "bearing": 95.9,
+   "glideslope": 3.000959,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "URMT",
    "identifier": "IOP",
    "associatedRunwayNumber": "07",
