@@ -24310,6 +24310,7 @@
    "type": 4
  },
  {
+   
    "name": "ILS-cat-I",
    "airportICAO": "KSTC",
    "identifier": "IBPM",
@@ -41687,6 +41688,19 @@
    "latitude": 11.55597665,
    "longitude": 104.8539621,
    "bearing": 225.57,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "VDSR",
+   "identifier": "IREP",
+   "associatedRunwayNumber": "05",
+   "frequency": 108300,
+   "elevation": 59,
+   "latitude": 13.40325697,
+   "longitude": 103.8035203,
+   "bearing": 48.27,
    "receptionRange": 18,
    "type": 4
  },
