@@ -32294,6 +32294,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "OEOM",
+   "identifier": "IUME",
+   "associatedRunwayNumber": "05",
+   "frequency": 329300,
+   "elevation": 778,
+   "latitude": 19.104583,
+   "longitude": 50.1191111,
+   "bearing": 53.19,
+   "glideslope": 3.000059319,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "OEPS",
    "identifier": "ISAB",
    "associatedRunwayNumber": "17L",

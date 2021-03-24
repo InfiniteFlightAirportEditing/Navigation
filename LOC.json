@@ -32293,6 +32293,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "OEOM",
+   "identifier": "IUME",
+   "associatedRunwayNumber": "05",
+   "frequency": 108900,
+   "elevation": 778,
+   "latitude": 19.1215556,
+   "longitude": 50.1411667,
+   "bearing": 53.19,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "OEPS",
    "identifier": "ISAB",
    "associatedRunwayNumber": "17L",
