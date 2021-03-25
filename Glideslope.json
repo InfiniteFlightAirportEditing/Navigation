@@ -40237,6 +40237,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "URMS",
+   "identifier": "ISC",
+   "associatedRunwayNumber": "09",
+   "frequency": 108900,
+   "elevation": 1207,
+   "latitude": 43.32492633,
+   "longitude": 44.99373303,
+   "bearing": 95.9,
+   "glideslope": 3.000959,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "URMT",
    "identifier": "IOP",
    "associatedRunwayNumber": "07",
@@ -41260,6 +41273,19 @@
    "longitude": 36.60700551,
    "bearing": 297.37,
    "glideslope": 2.8029737,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UUOK",
+   "identifier": "IWA",
+   "associatedRunwayNumber": "30",
+   "frequency": 110300,
+   "elevation": 686,
+   "latitude": 51.74428642,
+   "longitude": 36.31061452,
+   "bearing": 303.97,
+   "glideslope": 3.0030397,
    "receptionRange": 10
  },
  {
