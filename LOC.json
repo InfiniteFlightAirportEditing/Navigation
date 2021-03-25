@@ -22348,6 +22348,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KPUW",
+   "identifier": "IPUW",
+   "associatedRunwayNumber": "5",
+   "frequency": 110350,
+   "elevation": 2566,
+   "latitude": 46.74072030,
+   "longitude": -117.12223469,
+   "bearing": 70.06,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KPVC",
    "identifier": "IVQO",
    "associatedRunwayNumber": "7",

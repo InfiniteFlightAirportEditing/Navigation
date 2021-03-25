@@ -22401,6 +22401,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KPUW",
+   "identifier": "IPUW",
+   "associatedRunwayNumber": "5",
+   "frequency": 110350,
+   "elevation": 2566,
+   "latitude": 46.7407203,
+   "longitude": -117.12223469,
+   "bearing": 70.06,
+   "glideslope": 3.0007006,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KPVC",
    "identifier": "IVQO",
    "associatedRunwayNumber": "07",
