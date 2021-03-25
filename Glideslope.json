@@ -42005,6 +42005,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VDSR",
+   "identifier": "IREP",
+   "associatedRunwayNumber": "05",
+   "frequency": 108300,
+   "elevation": 59,
+   "latitude": 13.40325697,
+   "longitude": 103.8035203,
+   "bearing": 48.27,
+   "glideslope": 3.0004827,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VEAT",
    "identifier": "IAGE",
    "associatedRunwayNumber": "18",
