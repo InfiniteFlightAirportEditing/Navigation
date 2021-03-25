@@ -30147,17 +30147,30 @@
    "glideslope": 3.0007416,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "LRTR",
+   "identifier": "ITS",
+   "associatedRunwayNumber": "11",
+   "frequency": 110900,
+   "elevation": 348,
+   "latitude": 45.815145,
+   "longitude": 21.316699,
+   "bearing": 109.82,
+   "glideslope": 3.0010982,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "LRTR",
    "identifier": "ITR",
    "associatedRunwayNumber": "29",
    "frequency": 109300,
-   "elevation": 343,
-   "latitude": 45.804522,
-   "longitude": 21.354408,
-   "bearing": 290.644,
-   "glideslope": 3.00289822,
+   "elevation": 348,
+   "latitude": 45.804505,
+   "longitude": 21.359052,
+   "bearing": 289.82,
+   "glideslope": 3.0028982,
    "receptionRange": 10
  },
  {
