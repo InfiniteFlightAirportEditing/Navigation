@@ -51327,6 +51327,19 @@
  },
  {
    "name": "LOC",
+   "airportICAO": "VEBD",
+   "identifier": "IBGD",
+   "associatedRunwayNumber": "36",
+   "frequency": 108100,
+   "elevation": 414,
+   "latitude": 26.66906964,
+   "longitude": 88.32767614,
+   "bearing": 1.7,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
+   "name": "LOC",
    "airportICAO": "VMMC",
    "identifier": "MCS",
    "associatedRunwayNumber": "16",
