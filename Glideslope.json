@@ -30617,6 +30617,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTBH",
+   "identifier": "ICNK",
+   "associatedRunwayNumber": "04",
+   "frequency": 108150,
+   "elevation": 30,
+   "latitude": 40.14442999,
+   "longitude": 26.43473123,
+   "bearing": 41.04,
+   "glideslope": 3.0004104,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTBJ",
    "identifier": "IIMR",
    "associatedRunwayNumber": "16L",
