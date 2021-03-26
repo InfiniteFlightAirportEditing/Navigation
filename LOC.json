@@ -1652,7 +1652,7 @@
  },
  {
    "name": "ILS-cat-I",
-     "airportICAO": "DAAG",
+   "airportICAO": "DAAG",
    "identifier": "AL",
    "associatedRunwayNumber": "27",
    "frequency": 109500,
@@ -1660,6 +1660,32 @@
    "latitude": 36.69215237,
    "longitude": 3.16733978,
    "bearing": 271.7,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "DAAT",
+   "identifier": "TA",
+   "associatedRunwayNumber": "08",
+   "frequency": 109700,
+   "elevation": 4518,
+   "latitude": 22.80719559,
+   "longitude": 5.42280327,
+   "bearing": 81.68,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "DAAT",
+   "identifier": "TM",
+   "associatedRunwayNumber": "20",
+   "frequency": 108500,
+   "elevation": 4518,
+   "latitude": 22.82643754,
+   "longitude": 5.45759781,
+   "bearing": 21.89,
    "receptionRange": 18,
    "type": 4
  },
@@ -41744,6 +41770,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-II",
+   "airportICAO": "VAPO",
+   "identifier": "IPUN",
+   "associatedRunwayNumber": "28",
+   "frequency": 108700,
+   "elevation": 1940,
+   "latitude": 18.58159354,
+   "longitude": 73.93039863,
+   "bearing": 273.75,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "VARK",
    "identifier": "IRAJ",
@@ -51351,6 +51390,19 @@
    "bearing": 310.55,
    "receptionRange": 18,
    "type": 4
+ },
+ {
+   "name": "LOC",
+   "airportICAO": "VEBD",
+   "identifier": "IBGD",
+   "associatedRunwayNumber": "36",
+   "frequency": 108100,
+   "elevation": 414,
+   "latitude": 26.66906964,
+   "longitude": 88.32767614,
+   "bearing": 1.7,
+   "receptionRange": 18,
+   "type": 5
  },
  {
    "name": "LOC",
