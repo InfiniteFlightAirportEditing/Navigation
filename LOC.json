@@ -39743,6 +39743,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UMIO",
+   "identifier": "IRS",
+   "associatedRunwayNumber": "05",
+   "frequency": 110900,
+   "elevation": 658,
+   "latitude": 54.4331222,
+   "longitude": 30.27605,
+   "bearing": 60.25,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "UMIO",
+   "identifier": "IBS",
+   "associatedRunwayNumber": "23",
+   "frequency": 111500,
+   "elevation": 658,
+   "latitude": 54.44650537,
+   "longitude": 30.3163023,
+   "bearing": 240.25,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UMKK",
    "identifier": "IFG",
    "associatedRunwayNumber": "06",
