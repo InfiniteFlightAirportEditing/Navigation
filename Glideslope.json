@@ -31531,11 +31531,11 @@
    "identifier": "INAT",
    "associatedRunwayNumber": "03R",
    "frequency": 110700,
-   "elevation": 133,
-   "latitude": 9.04504485,
-   "longitude": -79.39433572,
-   "bearing": 29.98,
-   "glideslope": 3.0002998,
+   "elevation": 134,
+   "latitude": 9.04756861,
+   "longitude": -79.39266015,
+   "bearing": 29.33,
+   "glideslope": 3.0002933,
    "receptionRange": 10
  },
  {
