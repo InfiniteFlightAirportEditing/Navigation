@@ -5880,13 +5880,13 @@
    "name": "GS",
    "airportICAO": "EIME",
    "identifier": "IB",
-   "associatedRunwayNumber": "11",
+   "associatedRunwayNumber": "10",
    "frequency": 109350,
    "elevation": 319,
-   "latitude": 53.303076,
-   "longitude": -6.464983,
-   "bearing": 102,
-   "glideslope": 3.00102,
+   "latitude": 53.304689,
+   "longitude": -6.468817,
+   "bearing": 101.93,
+   "glideslope": 3.0010193,
    "receptionRange": 10
  },
  {
