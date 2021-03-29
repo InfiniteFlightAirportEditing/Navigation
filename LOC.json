@@ -25521,6 +25521,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KVDF",
+   "identifier": "IVDF",
+   "associatedRunwayNumber": "23",
+   "frequency": 111350,
+   "elevation": 20,
+   "latitude": 28.02228622,
+   "longitude": -82.33724973,
+   "bearing": 222.26,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KVDI",
    "identifier": "IVDI",
    "associatedRunwayNumber": "24",

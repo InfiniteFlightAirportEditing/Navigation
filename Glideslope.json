@@ -25573,6 +25573,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KVDF",
+   "identifier": "IVDF",
+   "associatedRunwayNumber": "23",
+   "frequency": 111350,
+   "elevation": 20,
+   "latitude": 28.02228622,
+   "longitude": -82.33724973,
+   "bearing": 222.26,
+   "glideslope": 3.1022226,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KVDI",
    "identifier": "IVDI",
    "associatedRunwayNumber": "24",
