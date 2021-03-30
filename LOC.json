@@ -33425,6 +33425,19 @@
 {
    "name": "ILS-cat-II",
    "airportICAO": "OPLA",
+   "identifier": "ILO",
+   "associatedRunwayNumber": "36L",
+   "frequency": 109700,
+   "elevation": 712,
+   "latitude": 31.50917162,
+   "longitude": 074.40239560,
+   "bearing": 0.86,
+   "receptionRange": 18,
+   "type": 4
+ },
+{
+   "name": "ILS-cat-II",
+   "airportICAO": "OPLA",
    "identifier": "ILA",
    "associatedRunwayNumber": "36R",
    "frequency": 109900,
