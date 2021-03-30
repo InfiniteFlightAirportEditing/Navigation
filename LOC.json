@@ -33422,7 +33422,7 @@
    "receptionRange": 18,
    "type": 4
  },
-{
+ {
    "name": "ILS-cat-II",
    "airportICAO": "OPLA",
    "identifier": "ILO",
@@ -33430,12 +33430,12 @@
    "frequency": 109700,
    "elevation": 712,
    "latitude": 31.50917162,
-   "longitude": 074.40239560,
+   "longitude": 74.4023956,
    "bearing": 0.86,
    "receptionRange": 18,
    "type": 4
  },
-{
+ {
    "name": "ILS-cat-II",
    "airportICAO": "OPLA",
    "identifier": "ILA",
@@ -33443,7 +33443,7 @@
    "frequency": 109900,
    "elevation": 712,
    "latitude": 31.50644845,
-   "longitude": 74.40431570,
+   "longitude": 74.4043157,
    "bearing": 0.87,
    "receptionRange": 18,
    "type": 4
