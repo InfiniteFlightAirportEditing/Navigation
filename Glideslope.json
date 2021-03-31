@@ -25573,6 +25573,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KVDF",
+   "identifier": "IVDF",
+   "associatedRunwayNumber": "23",
+   "frequency": 111350,
+   "elevation": 20,
+   "latitude": 28.02228622,
+   "longitude": -82.33724973,
+   "bearing": 222.26,
+   "glideslope": 3.1022226,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KVDI",
    "identifier": "IVDI",
    "associatedRunwayNumber": "24",
@@ -31531,11 +31544,11 @@
    "identifier": "INAT",
    "associatedRunwayNumber": "03R",
    "frequency": 110700,
-   "elevation": 133,
-   "latitude": 9.04504485,
-   "longitude": -79.39433572,
-   "bearing": 29.98,
-   "glideslope": 3.0002998,
+   "elevation": 134,
+   "latitude": 9.04756861,
+   "longitude": -79.39266015,
+   "bearing": 29.33,
+   "glideslope": 3.0002933,
    "receptionRange": 10
  },
  {
@@ -39739,6 +39752,32 @@
    "longitude": 30.36773336,
    "bearing": 242.13,
    "glideslope": 3.0024213,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UMIO",
+   "identifier": "IRS",
+   "associatedRunwayNumber": "05",
+   "frequency": 110900,
+   "elevation": 658,
+   "latitude": 54.4331222,
+   "longitude": 30.27605,
+   "bearing": 60.25,
+   "glideslope": 3.0006025,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UMIO",
+   "identifier": "IBS",
+   "associatedRunwayNumber": "23",
+   "frequency": 111500,
+   "elevation": 658,
+   "latitude": 54.44650537,
+   "longitude": 30.3163023,
+   "bearing": 240.25,
+   "glideslope": 3.0024025,
    "receptionRange": 10
  },
  {
