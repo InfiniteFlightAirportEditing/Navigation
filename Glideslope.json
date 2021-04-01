@@ -24626,7 +24626,7 @@
    "name": "GS",
    "airportICAO": "KSWF",
    "identifier": "ISWF",
-   "associatedRunwayNumber": "09",
+   "associatedRunwayNumber": "9",
    "frequency": 110100,
    "elevation": 491,
    "latitude": 41.500839,
