@@ -24628,11 +24628,11 @@
    "identifier": "ISWF",
    "associatedRunwayNumber": "09",
    "frequency": 110100,
-   "elevation": 477,
-   "latitude": 41.503711,
-   "longitude": -74.119225,
-   "bearing": 78.654,
-   "glideslope": 3.00078327,
+   "elevation": 491,
+   "latitude": 41.500839,
+   "longitude": -74.130560,
+   "bearing": 78.33,
+   "glideslope": 3.0007833,
    "receptionRange": 10
  },
  {
@@ -24641,11 +24641,11 @@
    "identifier": "IJKH",
    "associatedRunwayNumber": "27",
    "frequency": 109950,
-   "elevation": 463,
-   "latitude": 41.504708,
-   "longitude": -74.099083,
-   "bearing": 258.654,
-   "glideslope": 3.00258327,
+   "elevation": 491,
+   "latitude": 41.507379,
+   "longitude": -74.088279,
+   "bearing": 258.33,
+   "glideslope": 3.0025833,
    "receptionRange": 10
  },
  {
