@@ -33517,6 +33517,19 @@
  {
    "name": "GS",
    "airportICAO": "OPLA",
+   "identifier": "ILO",
+   "associatedRunwayNumber": "36L",
+   "frequency": 109700,
+   "elevation": 712,
+   "latitude": 31.50917162,
+   "longitude": 74.4023956,
+   "bearing": 0.86,
+   "glideslope": 3.0000086,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "OPLA",
    "identifier": "ILA",
    "associatedRunwayNumber": "36R",
    "frequency": 109900,
