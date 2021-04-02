@@ -11949,6 +11949,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KBYL",
+   "identifier": "IBYL",
+   "associatedRunwayNumber": "20",
+   "frequency": 108300,
+   "elevation": 1177,
+   "latitude": 36.80218893,
+   "longitude": -84.19664434,
+   "bearing": 197.78,
+   "glideslope": 3.1719778,
+   "receptionRange": 10
+},
+{
+   "name": "GS",
    "airportICAO": "KBZN",
    "identifier": "IBZN",
    "associatedRunwayNumber": "12",
