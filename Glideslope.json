@@ -44402,10 +44402,10 @@
    "associatedRunwayNumber": "18",
    "frequency": 109500,
    "elevation": 35,
-   "latitude": -38.027246,
-   "longitude": 144.469405,
-   "bearing": 187.5,
-   "glideslope": 3.001875,
+   "latitude": -38.027220,
+   "longitude": 144.469434,
+   "bearing": 187.57,
+   "glideslope": 3.0018757,
    "receptionRange": 10
  },
  {
