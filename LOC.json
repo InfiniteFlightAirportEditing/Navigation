@@ -36518,15 +36518,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "SARP",
    "identifier": "PO",
    "associatedRunwayNumber": "19",
    "frequency": 109900,
-   "elevation": 430,
-   "latitude": -27.397306,
-   "longitude": -55.970333,
-   "bearing": 178.76,
+   "elevation": 428,
+   "latitude": -27.37558792,
+   "longitude": -55.97065063,
+   "bearing": 179.14,
    "receptionRange": 18,
    "type": 4
  },

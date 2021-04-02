@@ -36523,11 +36523,11 @@
    "identifier": "PO",
    "associatedRunwayNumber": "19",
    "frequency": 109900,
-   "elevation": 430,
-   "latitude": -27.378417,
-   "longitude": -55.969417,
-   "bearing": 179.656,
-   "glideslope": 3.00179328,
+   "elevation": 428,
+   "latitude": -27.37558792,
+   "longitude": -55.97065063,
+   "bearing": 179.14,
+   "glideslope": 3.0017914,
    "receptionRange": 10
  },
  {
