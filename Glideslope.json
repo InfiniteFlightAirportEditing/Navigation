@@ -18194,10 +18194,10 @@
    "associatedRunwayNumber": "08",
    "frequency": 109900,
    "elevation": 11,
-   "latitude": 37.080006,
-   "longitude": -76.373306,
-   "bearing": 67.976,
-   "glideslope": 2.80067488,
+   "latitude": 37.077649,
+   "longitude": -76.376417,
+   "bearing": 67.53,
+   "glideslope": 3.0006753,
    "receptionRange": 10
  },
  {
@@ -18206,11 +18206,11 @@
    "identifier": "ABM",
    "associatedRunwayNumber": "26",
    "frequency": 109900,
-   "elevation": 9,
-   "latitude": 37.088039,
-   "longitude": -76.348964,
-   "bearing": 247.976,
-   "glideslope": 2.80247488,
+   "elevation": 11,
+   "latitude": 37.088139,
+   "longitude": -76.344624,
+   "bearing": 247.53,
+   "glideslope": 3.0024753,
    "receptionRange": 10
  },
  {
