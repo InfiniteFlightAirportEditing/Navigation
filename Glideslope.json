@@ -12811,11 +12811,11 @@
    "identifier": "ICRG",
    "associatedRunwayNumber": "32",
    "frequency": 111700,
-   "elevation": 42,
-   "latitude": 30.337003,
-   "longitude": -81.512597,
-   "bearing": 315.324,
-   "glideslope": 3.00315162,
+   "elevation": 41,
+   "latitude": 30.33598710,
+   "longitude": -81.50997470,
+   "bearing": 315.170,
+   "glideslope": 3.00315170,
    "receptionRange": 10
  },
  {
