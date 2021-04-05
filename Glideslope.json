@@ -15086,11 +15086,11 @@
    "identifier": "IFNT",
    "associatedRunwayNumber": "09",
    "frequency": 109900,
-   "elevation": 762,
-   "latitude": 42.967972,
-   "longitude": -83.755483,
-   "bearing": 88.49,
-   "glideslope": 2.80088245,
+   "elevation": 782,
+   "latitude": 42.968975,
+   "longitude": -83.759821,
+   "bearing": 88.24,
+   "glideslope": 2.8308824,
    "receptionRange": 10
  },
  {
@@ -15099,11 +15099,11 @@
    "identifier": "ITUN",
    "associatedRunwayNumber": "27",
    "frequency": 109900,
-   "elevation": 766,
-   "latitude": 42.9684,
-   "longitude": -83.736619,
-   "bearing": 268.49,
-   "glideslope": 3.00268245,
+   "elevation": 782,
+   "latitude": 42.969578,
+   "longitude": -83.732932,
+   "bearing": 268.24,
+   "glideslope": 3.0026824,
    "receptionRange": 10
  },
  {
