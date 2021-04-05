@@ -43352,33 +43352,7 @@
    "latitude": 21.22524859,
    "longitude": 105.79253843,
    "bearing": 107.23,
-   "glideslope": 3.00007248,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "VVNB",
-   "identifier": "NBA",
-   "associatedRunwayNumber": "11R",
-   "frequency": 108300,
-   "elevation": 39,
-   "latitude": 21.22468392,
-   "longitude": 105.78634182,
-   "bearing": 107.23,
-   "glideslope": 3.00003271,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "VVNB",
-   "identifier": "INB",
-   "associatedRunwayNumber": "29L",
-   "frequency": 111900,
-   "elevation": 39,
-   "latitude": 21.21457008,
-   "longitude": 105.82131770,
-   "bearing": 287.23,
-   "glideslope": 3.00003271,
+   "glideslope": 3.0010723,
    "receptionRange": 10
  },
  {
