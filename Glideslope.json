@@ -15138,11 +15138,11 @@
    "identifier": "IFOK",
    "associatedRunwayNumber": "24",
    "frequency": 111700,
-   "elevation": 53,
-   "latitude": 40.850664,
-   "longitude": -72.619153,
-   "bearing": 222.782,
-   "glideslope": 3.00222391,
+   "elevation": 66,
+   "latitude": 40.854461,
+   "longitude": -72.617014,
+   "bearing": 222.4,
+   "glideslope": 3.002224,
    "receptionRange": 10
  },
  {
