@@ -18686,9 +18686,9 @@
    "identifier": "IMAF",
    "associatedRunwayNumber": "10",
    "frequency": 110300,
-   "elevation": 2871,
-   "latitude": 31.937967,
-   "longitude": -102.190356,
+   "elevation": 2872,
+   "latitude": 31.94764924,
+   "longitude": -102.21635770,
    "bearing": 113.69,
    "receptionRange": 18,
    "type": 4
