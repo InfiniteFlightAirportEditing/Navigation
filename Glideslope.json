@@ -24914,11 +24914,11 @@
    "identifier": "ITIW",
    "associatedRunwayNumber": "17",
    "frequency": 109100,
-   "elevation": 292,
-   "latitude": 47.272603,
-   "longitude": -122.578692,
-   "bearing": 187.978,
-   "glideslope": 3.00186989,
+   "elevation": 291,
+   "latitude": 47.274736,
+   "longitude": -122.576883,
+   "bearing": 186.99,
+   "glideslope": 3.0018699,
    "receptionRange": 10
  },
  {
