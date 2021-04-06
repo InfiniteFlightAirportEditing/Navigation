@@ -22145,11 +22145,11 @@
    "identifier": "IPMD",
    "associatedRunwayNumber": "25",
    "frequency": 110700,
-   "elevation": 2543,
-   "latitude": 34.633683,
-   "longitude": -118.0778,
-   "bearing": 266.35,
-   "glideslope": 3.00266175,
+   "elevation": 2541,
+   "latitude": 34.63278200,
+   "longitude": -118.07327954,
+   "bearing": 266.17,
+   "glideslope": 3.00266170,
    "receptionRange": 10
  },
  {
