@@ -19064,11 +19064,11 @@
    "identifier": "IMDT",
    "associatedRunwayNumber": "13",
    "frequency": 110900,
-   "elevation": 306,
-   "latitude": 40.1963,
-   "longitude": -76.772633,
-   "bearing": 117.736,
-   "glideslope": 3.00116868,
+   "elevation": 309,
+   "latitude": 40.19940073,
+   "longitude": -76.77863647,
+   "bearing": 116.890,
+   "glideslope": 3.00116890,
    "receptionRange": 10
  },
  {
@@ -19078,10 +19078,10 @@
    "associatedRunwayNumber": "31",
    "frequency": 110900,
    "elevation": 306,
-   "latitude": 40.188869,
-   "longitude": -76.753436,
-   "bearing": 297.736,
-   "glideslope": 3.00296868,
+   "latitude": 40.18699537,
+   "longitude": -76.74660579,
+   "bearing": 296.890,
+   "glideslope": 3.00296890,
    "receptionRange": 10
  },
  {
