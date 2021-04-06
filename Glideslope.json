@@ -24953,11 +24953,11 @@
    "identifier": "IPLQ",
    "associatedRunwayNumber": "27",
    "frequency": 111900,
-   "elevation": 49,
-   "latitude": 30.390386,
-   "longitude": -84.334492,
-   "bearing": 269.952,
-   "glideslope": 3.00269476,
+   "elevation": 83,
+   "latitude": 30.391515,
+   "longitude": -84.331177,
+   "bearing": 269.47,
+   "glideslope": 3.0026947,
    "receptionRange": 10
  },
  {
@@ -24966,11 +24966,11 @@
    "identifier": "ITLH",
    "associatedRunwayNumber": "36",
    "frequency": 110300,
-   "elevation": 60,
-   "latitude": 30.397675,
-   "longitude": -84.360097,
-   "bearing": 359.982,
-   "glideslope": 3.00359491,
+   "elevation": 83,
+   "latitude": 30.393238,
+   "longitude": -84.358799,
+   "bearing": 359.54,
+   "glideslope": 3.0035954,
    "receptionRange": 10
  },
  {
