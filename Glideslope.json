@@ -25530,8 +25530,8 @@
    "longitude": -83.191040,
    "bearing": 360.47,
    "glideslope": 3.0036047,
-   "receptionRange": 18,
- }
+   "receptionRange": 10,
+ },
  {  
    "name": "GS",
    "airportICAO": "KVBG",
