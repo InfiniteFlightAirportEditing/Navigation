@@ -25317,11 +25317,11 @@
    "identifier": "ITYQ",
    "associatedRunwayNumber": "36",
    "frequency": 111300,
-   "elevation": 920,
-   "latitude": 40.030317,
-   "longitude": -86.249994,
-   "bearing": 359.948,
-   "glideslope": 3.00359474,
+   "elevation": 921,
+   "latitude": 40.023137,
+   "longitude": -86.251352,
+   "bearing": 359.48,
+   "glideslope": 3.0035948,
    "receptionRange": 10
  },
  {
