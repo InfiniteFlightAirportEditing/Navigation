@@ -33351,11 +33351,11 @@
    "identifier": "IFA",
    "associatedRunwayNumber": "03",
    "frequency": 109700,
-   "elevation": 607,
-   "latitude": 31.356244,
-   "longitude": 72.989856,
-   "bearing": 36.242,
-   "glideslope": 3.00036121,
+   "elevation": 590,
+   "latitude": 31.35500925,
+   "longitude": 72.98685116,
+   "bearing": 36.10,
+   "glideslope": 3.0003610,
    "receptionRange": 10
  },
  {
