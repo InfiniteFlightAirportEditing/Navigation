@@ -24949,19 +24949,6 @@
  },
  {
    "name": "ILS-cat-I",
-   "airportICAO": "KTNT",
-   "identifier": "ITNT",
-   "associatedRunwayNumber": "9",
-   "frequency": 108300,
-   "elevation": 11,
-   "latitude": 25.861775,
-   "longitude": -80.873439,
-   "bearing": 90.023,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
    "airportICAO": "KTNU",
    "identifier": "IMGX",
    "associatedRunwayNumber": "32",
