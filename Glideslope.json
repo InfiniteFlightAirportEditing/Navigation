@@ -25408,11 +25408,11 @@
    "identifier": "ISKC",
    "associatedRunwayNumber": "10",
    "frequency": 109500,
-   "elevation": 897,
-   "latitude": 43.042481,
-   "longitude": -88.246506,
-   "bearing": 102.996,
-   "glideslope": 3.00101998,
+   "elevation": 911,
+   "latitude": 43.043944,
+   "longitude": -88.249725,
+   "bearing": 102,
+   "glideslope": 3.00102,
    "receptionRange": 10
  },
  {
