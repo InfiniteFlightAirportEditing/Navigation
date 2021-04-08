@@ -25655,11 +25655,11 @@
    "identifier": "IVNY",
    "associatedRunwayNumber": "16R",
    "frequency": 111300,
-   "elevation": 784,
-   "latitude": 34.212467,
-   "longitude": -118.491458,
-   "bearing": 176.072,
-   "glideslope": 3.90175536,
+   "elevation": 802,
+   "latitude": 34.218919,
+   "longitude": -118.49129,
+   "bearing": 175.52,
+   "glideslope": 3.5017552,
    "receptionRange": 10
  },
  {
