@@ -25642,11 +25642,11 @@
    "identifier": "IVLD",
    "associatedRunwayNumber": "35",
    "frequency": 110900,
-   "elevation": 197,
-   "latitude": 30.776117,
-   "longitude": -83.273822,
-   "bearing": 351.74,
-   "glideslope": 3.0035087,
+   "elevation": 203,
+   "latitude": 30.768751,
+   "longitude": -83.271157,
+   "bearing": 350.86,
+   "glideslope": 3.0035086,
    "receptionRange": 10
  },
  {
