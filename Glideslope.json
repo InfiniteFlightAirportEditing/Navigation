@@ -12226,11 +12226,11 @@
    "identifier": "ICGI",
    "associatedRunwayNumber": "10",
    "frequency": 109500,
-   "elevation": 338,
-   "latitude": 37.22555,
-   "longitude": -89.578711,
-   "bearing": 106.734,
-   "glideslope": 3.00105867,
+   "elevation": 342,
+   "latitude": 37.227375,
+   "longitude": -89.581742,
+   "bearing": 105.86,
+   "glideslope": 3.0010586,
    "receptionRange": 10
  },
  {
