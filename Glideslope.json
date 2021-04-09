@@ -25785,11 +25785,11 @@
    "identifier": "IWRI",
    "associatedRunwayNumber": "06",
    "frequency": 110100,
-   "elevation": 130,
-   "latitude": 40.006364,
-   "longitude": -74.592433,
-   "bearing": 46.306,
-   "glideslope": 2.70045653,
+   "elevation": 127,
+   "latitude": 40.004419,
+   "longitude": -74.597520,
+   "bearing": 45.66,
+   "glideslope": 3.0004566,
    "receptionRange": 10
  },
  {
@@ -25798,11 +25798,11 @@
    "identifier": "IJTQ",
    "associatedRunwayNumber": "24",
    "frequency": 110100,
-   "elevation": 100,
-   "latitude": 40.020656,
-   "longitude": -74.573244,
-   "bearing": 226.306,
-   "glideslope": 2.70225653,
+   "elevation": 127,
+   "latitude": 40.023569,
+   "longitude": -74.57194,
+   "bearing": 225.66,
+   "glideslope": 3.0022566,
    "receptionRange": 10
  },
  {
