@@ -5,11 +5,11 @@
    "identifier": "IWG",
    "associatedRunwayNumber": "14L",
    "frequency": 110100,
-   "elevation": 128,
+   "elevation": 129,
    "latitude": -9.430886,
    "longitude": 147.213926,
    "bearing": 148.67,
-   "glideslope": 3.0214867,
+   "glideslope": 3.0014867,
    "receptionRange": 10
  },
  {
@@ -18,7 +18,7 @@
    "identifier": "IBB",
    "associatedRunwayNumber": "32R",
    "frequency": 109500,
-   "elevation": 128,
+   "elevation": 129,
    "latitude": -9.452073,
    "longitude": 147.227000,
    "bearing": 328.67,
