@@ -22416,13 +22416,13 @@
    "name": "GS",
    "airportICAO": "KPUC",
    "identifier": "IPUC",
-   "associatedRunwayNumber": "36",
+   "associatedRunwayNumber": "1",
    "frequency": 109350,
    "elevation": 5957,
-   "latitude": 39.60779565,
-   "longitude": -110.75510485,
-   "bearing": 18.58,
-   "glideslope": 3.0001829,
+   "latitude": 39.60492833,
+   "longitude": -110.75522702,
+   "bearing": 18.30,
+   "glideslope": 3.0001830,
    "receptionRange": 10
  },
  {
