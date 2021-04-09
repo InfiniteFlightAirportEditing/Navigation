@@ -29595,8 +29595,8 @@
    "associatedRunwayNumber": "01",
    "frequency": 108700,
    "elevation": 288,
-   "latitude": 29.711411,
-   "longitude": 35.009703,
+   "latitude": 29.71141134,
+   "longitude": 35.00970254,
    "bearing": 13.68,
    "receptionRange": 18,
    "type": 4
@@ -29608,8 +29608,8 @@
    "associatedRunwayNumber": "19",
    "frequency": 110500,
    "elevation": 288,
-   "latitude": 29.742983,
-   "longitude": 35.018552,
+   "latitude": 29.74298305,
+   "longitude": 35.01855182,
    "bearing": 193.68,
    "receptionRange": 18,
    "type": 4
