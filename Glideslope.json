@@ -43504,11 +43504,11 @@
    "identifier": "DAD",
    "associatedRunwayNumber": "35L",
    "frequency": 110500,
-   "elevation": 32,
-   "latitude": 16.03016866,
-   "longitude": 108.20030719,
-   "bearing": 352.16,
-   "glideslope": 3.00352160,
+   "elevation": 29,
+   "latitude": 16.03012574,
+   "longitude": 108.20036564,
+   "bearing": 352.08,
+   "glideslope": 3.0035208,
    "receptionRange": 10
  },
  {
@@ -43517,11 +43517,11 @@
    "identifier": "IDR",
    "associatedRunwayNumber": "35R",
    "frequency": 111500,
-   "elevation": 32,
-   "latitude": 16.02901433,
-   "longitude": 108.20253814,
-   "bearing": 352.06,
-   "glideslope": 3.00352060,
+   "elevation": 29,
+   "latitude": 16.02903638,
+   "longitude": 108.20253865,
+   "bearing": 352.07,
+   "glideslope": 3.0035207,
    "receptionRange": 10
  },
  {
