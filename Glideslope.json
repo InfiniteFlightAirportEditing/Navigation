@@ -20624,11 +20624,11 @@
    "identifier": "INPA",
    "associatedRunwayNumber": "07L",
    "frequency": 109300,
-   "elevation": 21,
-   "latitude": 30.35295,
-   "longitude": -87.326439,
-   "bearing": 68.472,
-   "glideslope": 3.00068236,
+   "elevation": 27,
+   "latitude": 30.35077519,
+   "longitude": -87.32910808,
+   "bearing": 68.24,
+   "glideslope": 3.00068240,
    "receptionRange": 10
  },
  {
