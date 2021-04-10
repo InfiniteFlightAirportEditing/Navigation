@@ -17816,11 +17816,11 @@
    "identifier": "ICPQ",
    "associatedRunwayNumber": "10R",
    "frequency": 111700,
-   "elevation": 856,
-   "latitude": 42.779131,
-   "longitude": -84.596725,
-   "bearing": 91.23,
-   "glideslope": 3.00090615,
+   "elevation": 860,
+   "latitude": 42.778204,
+   "longitude": -84.601058,
+   "bearing": 90.61,
+   "glideslope": 3.0009061,
    "receptionRange": 10
  },
  {
@@ -17829,11 +17829,11 @@
    "identifier": "ILAN",
    "associatedRunwayNumber": "28L",
    "frequency": 110100,
-   "elevation": 848,
-   "latitude": 42.779122,
-   "longitude": -84.578317,
-   "bearing": 271.23,
-   "glideslope": 3.00270615,
+   "elevation": 860,
+   "latitude": 42.777956,
+   "longitude": -84.569377,
+   "bearing": 270.61,
+   "glideslope": 3.0027061,
    "receptionRange": 10
  },
  {
