@@ -25174,11 +25174,11 @@
    "identifier": "ITTN",
    "associatedRunwayNumber": "06",
    "frequency": 111300,
-   "elevation": 167,
-   "latitude": 40.272142,
-   "longitude": -74.819711,
-   "bearing": 46.738,
-   "glideslope": 3.00046369,
+   "elevation": 212,
+   "latitude": 40.269753,
+   "longitude": -74.821578,
+   "bearing": 46.37,
+   "glideslope": 3.00046370,
    "receptionRange": 10
  },
  {
