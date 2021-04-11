@@ -2308,10 +2308,10 @@
    "associatedRunwayNumber": "24",
    "frequency": 110900,
    "elevation": 612,
-   "latitude": 50.46468465,
-   "longitude": 4.46945138,
-   "bearing": 245.47,
-   "glideslope": 3.0024545,
+   "latitude": 50.464685,
+   "longitude": 4.469451,
+   "bearing": 245.46,
+   "glideslope": 3.0024546,
    "receptionRange": 10
  },
  {
