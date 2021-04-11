@@ -9821,11 +9821,11 @@
    "identifier": "IADS",
    "associatedRunwayNumber": "15",
    "frequency": 110100,
-   "elevation": 629,
-   "latitude": 32.972558,
-   "longitude": -96.839444,
-   "bearing": 160.74,
-   "glideslope": 3.0015987,
+   "elevation": 645,
+   "latitude": 32.9778428,
+   "longitude": -96.84052438,
+   "bearing": 159.86,
+   "glideslope": 3.0015986,
    "receptionRange": 10
  },
  {
@@ -9835,10 +9835,10 @@
    "associatedRunwayNumber": "33",
    "frequency": 110100,
    "elevation": 645,
-   "latitude": 32.963381,
-   "longitude": -96.835392,
-   "bearing": 340.74,
-   "glideslope": 3.0033987,
+   "latitude": 32.95927027,
+   "longitude": -96.83240575,
+   "bearing": 339.86,
+   "glideslope": 3.0033986,
    "receptionRange": 10
  },
  {
