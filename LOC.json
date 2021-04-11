@@ -9792,7 +9792,7 @@
    "name": "ILS-cat-I",
    "airportICAO": "KACY",
    "identifier": "IPVO",
-   "associatedRunwayNumber": 13,
+   "associatedRunwayNumber": "13",
    "frequency": 109100,
    "elevation": 75,
    "latitude": 39.46427777,
