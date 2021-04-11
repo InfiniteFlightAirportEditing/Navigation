@@ -144,19 +144,6 @@
  },
  {
    "name": "ILS-cat-I",
-   "airportICAO": "BIKR",
-   "identifier": "IKR",
-   "associatedRunwayNumber": "01",
-   "frequency": 109700,
-   "elevation": 8,
-   "latitude": 65.74219444,
-   "longitude": -19.57691667,
-   "bearing": 351,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
    "airportICAO": "BIRK",
    "identifier": "IRK",
    "associatedRunwayNumber": "19",

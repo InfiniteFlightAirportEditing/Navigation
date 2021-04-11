@@ -144,19 +144,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "BIKR",
-   "identifier": "IKR",
-   "associatedRunwayNumber": "01",
-   "frequency": 109700,
-   "elevation": 8,
-   "latitude": 65.72580556,
-   "longitude": -19.57347222,
-   "bearing": 351,
-   "glideslope": 3.00351,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "BIRK",
    "identifier": "IRK",
    "associatedRunwayNumber": "19",
