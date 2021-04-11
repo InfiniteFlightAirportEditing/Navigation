@@ -9665,11 +9665,11 @@
    "identifier": "IBZY",
    "associatedRunwayNumber": "03",
    "frequency": 111500,
-   "elevation": 5304,
-   "latitude": 35.023706,
-   "longitude": -106.627194,
-   "bearing": 45.328,
-   "glideslope": 3.00044664,
+   "elevation": 5354,
+   "latitude": 35.022247,
+   "longitude": -106.630603,
+   "bearing": 44.67,
+   "glideslope": 3.00044670,
    "receptionRange": 10
  },
  {
@@ -9678,11 +9678,11 @@
    "identifier": "ISPT",
    "associatedRunwayNumber": "08",
    "frequency": 111900,
-   "elevation": 5312,
-   "latitude": 35.043208,
-   "longitude": -106.614644,
-   "bearing": 90.878,
-   "glideslope": 3.00090439,
+   "elevation": 5354,
+   "latitude": 35.044353,
+   "longitude": -106.621589,
+   "bearing": 90.44,
+   "glideslope": 3.00090440,
    "receptionRange": 10
  },
  {
