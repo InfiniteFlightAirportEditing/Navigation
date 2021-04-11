@@ -2346,8 +2346,8 @@
    "associatedRunwayNumber": "04R",
    "frequency": 108750,
    "elevation": 645,
-   "latitude": 50.62718599,
-   "longitude": 5.42791486,
+   "latitude": 50.627186,
+   "longitude": 5.427915,
    "bearing": 45.19,
    "receptionRange": 18,
    "type": 4
@@ -2359,8 +2359,8 @@
    "associatedRunwayNumber": "22L",
    "frequency": 109350,
    "elevation": 645,
-   "latitude": 50.65049539,
-   "longitude": 5.46490505,
+   "latitude": 50.650495,
+   "longitude": 5.464905,
    "bearing": 225.19,
    "receptionRange": 18,
    "type": 4
@@ -2372,8 +2372,8 @@
    "associatedRunwayNumber": "22R",
    "frequency": 109350,
    "elevation": 645,
-   "latitude": 50.6460861,
-   "longitude": 5.4536194,
+   "latitude": 50.646086,
+   "longitude": 5.453619,
    "bearing": 225.16,
    "receptionRange": 18,
    "type": 4
