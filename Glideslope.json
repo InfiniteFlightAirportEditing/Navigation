@@ -25577,11 +25577,11 @@
    "identifier": "IVCV",
    "associatedRunwayNumber": "17",
    "frequency": 108750,
-   "elevation": 2831,
-   "latitude": 34.618815,
-   "longitude": -117.388416,
-   "bearing": 180.044,
-   "glideslope": 3.00179522,
+   "elevation": 2883,
+   "latitude": 34.62165,
+   "longitude": -117.386783,
+   "bearing": 179.52,
+   "glideslope": 3.0017952,
    "receptionRange": 10
  },
  {
