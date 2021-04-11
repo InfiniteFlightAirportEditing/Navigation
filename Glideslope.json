@@ -10276,11 +10276,11 @@
    "identifier": "IAPA",
    "associatedRunwayNumber": "35R",
    "frequency": 111300,
-   "elevation": 5862,
-   "latitude": 39.559708,
-   "longitude": -104.848486,
-   "bearing": 358.932,
-   "glideslope": 3.00357966,
+   "elevation": 5884,
+   "latitude": 39.55672070,
+   "longitude": -104.85022159,
+   "bearing": 357.97,
+   "glideslope": 3.00357970,
    "receptionRange": 10
  },
  {
