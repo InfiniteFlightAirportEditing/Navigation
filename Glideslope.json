@@ -25434,11 +25434,11 @@
    "identifier": "IUGN",
    "associatedRunwayNumber": "23",
    "frequency": 110700,
-   "elevation": 716,
-   "latitude": 42.4255,
-   "longitude": -87.863147,
-   "bearing": 228.704,
-   "glideslope": 3.00228352,
+   "elevation": 727,
+   "latitude": 42.426769,
+   "longitude": -87.858981,
+   "bearing": 228.35,
+   "glideslope": 3.0022835,
    "receptionRange": 10
  },
  {
