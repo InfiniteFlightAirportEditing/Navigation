@@ -9782,11 +9782,11 @@
    "identifier": "IPVO",
    "associatedRunwayNumber": "13",
    "frequency": 109100,
-   "elevation": 69,
-   "latitude": 39.463836,
-   "longitude": -74.586844,
-   "bearing": 118.196,
-   "glideslope": 3.00118098,
+   "elevation": 75,
+   "latitude": 39.46427777,
+   "longitude": -74.59105469,
+   "bearing": 118.11,
+   "glideslope": 3.00118110,
    "receptionRange": 10
  },
  {
@@ -9795,11 +9795,11 @@
    "identifier": "IACY",
    "associatedRunwayNumber": "31",
    "frequency": 109100,
-   "elevation": 58,
-   "latitude": 39.453658,
-   "longitude": -74.562272,
-   "bearing": 298.196,
-   "glideslope": 3.00298098,
+   "elevation": 75,
+   "latitude": 39.45135523,
+   "longitude": -74.55971503,
+   "bearing": 298.11,
+   "glideslope": 3.00298110,
    "receptionRange": 10
  },
  {
