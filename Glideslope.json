@@ -25811,11 +25811,11 @@
    "identifier": "ILOW",
    "associatedRunwayNumber": "01",
    "frequency": 110700,
-   "elevation": 6642,
-   "latitude": 44.680956,
-   "longitude": -111.1245,
-   "bearing": 26.388,
-   "glideslope": 3.00026194,
+   "elevation": 6644,
+   "latitude": 44.67806354,
+   "longitude": -111.12478885,
+   "bearing": 26.21,
+   "glideslope": 3.00026210,
    "receptionRange": 10
  },
  {
