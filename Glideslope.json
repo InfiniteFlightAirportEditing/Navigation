@@ -15710,11 +15710,11 @@
    "identifier": "IGRF",
    "associatedRunwayNumber": "15",
    "frequency": 108300,
-   "elevation": 296,
-   "latitude": 47.085069,
-   "longitude": -122.581194,
-   "bearing": 167.216,
-   "glideslope": 3.00167108,
+   "elevation": 301,
+   "latitude": 47.08742211,
+   "longitude": -122.5836065,
+   "bearing": 167.22,
+   "glideslope": 3.0016722,
    "receptionRange": 10
  },
  {
