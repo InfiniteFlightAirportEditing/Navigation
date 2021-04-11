@@ -20546,9 +20546,9 @@
    "associatedRunwayNumber": "24R",
    "frequency": 111150,
    "elevation": 478,
-   "latitude": 32.863772,
-   "longitude": -117.168369,
-   "bearing": 255.331,
+   "latitude": 32.87285983,
+   "longitude": -117.12701687,
+   "bearing": 255.35,
    "receptionRange": 18,
    "type": 4
  },

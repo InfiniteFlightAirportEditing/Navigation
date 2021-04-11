@@ -20599,10 +20599,10 @@
    "associatedRunwayNumber": "24R",
    "frequency": 111150,
    "elevation": 478,
-   "latitude": 32.8712,
-   "longitude": -117.130417,
-   "bearing": 255.684,
-   "glideslope": 3.00255342,
+   "latitude": 32.87285983,
+   "longitude": -117.12701687,
+   "bearing": 255.35,
+   "glideslope": 3.0025535,
    "receptionRange": 10
  },
  {
