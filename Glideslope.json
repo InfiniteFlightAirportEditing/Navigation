@@ -10055,11 +10055,11 @@
    "identifier": "IAID",
    "associatedRunwayNumber": "30",
    "frequency": 110100,
-   "elevation": 919,
-   "latitude": 40.106094,
-   "longitude": -85.609581,
-   "bearing": 295.244,
-   "glideslope": 3.00295122,
+   "elevation": 918,
+   "latitude": 40.10569228,
+   "longitude": -85.60543262,
+   "bearing": 295.12,
+   "glideslope": 3.0029512,
    "receptionRange": 10
  },
  {
