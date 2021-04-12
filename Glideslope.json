@@ -13913,14 +13913,27 @@
  {
    "name": "GS",
    "airportICAO": "KDMA",
+   "identifier": "IAFB",
+   "associatedRunwayNumber": "12",
+   "frequency": 109300,
+   "elevation": 2704,
+   "latitude": 32.180184,
+   "longitude": -110.898104,
+   "bearing": 137.55,
+   "glideslope": 3.0013755,
+   "receptionRange": 10
+ },
+ {  
+   "name": "GS",
+   "airportICAO": "KDMA",
    "identifier": "IDMA",
    "associatedRunwayNumber": "30",
    "frequency": 109300,
-   "elevation": 2691,
-   "latitude": 32.154417,
-   "longitude": -110.872444,
-   "bearing": 318.308,
-   "glideslope": 2.50317654,
+   "elevation": 2704,
+   "latitude": 32.152541,
+   "longitude": -110.868230,
+   "bearing": 317.55,
+   "glideslope": 3.0031755,
    "receptionRange": 10
  },
  {
