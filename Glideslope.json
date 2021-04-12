@@ -1773,12 +1773,12 @@
    "airportICAO": "DAUB",
    "identifier": "BI",
    "associatedRunwayNumber": "31",
-   "frequency": 330800,
+   "frequency": 110900,
    "elevation": 289,
-   "latitude": 34.785986,
-   "longitude": 5.746967,
-   "bearing": 306.66,
-   "glideslope": 3.0030666,
+   "latitude": 34.785,
+   "longitude": 5.750556,
+   "bearing": 309.66,
+   "glideslope": 3.0030966,
    "receptionRange": 10
  },
  {
