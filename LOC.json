@@ -19908,10 +19908,10 @@
    "identifier": "IMQJ",
    "associatedRunwayNumber": "25",
    "frequency": 108700,
-   "elevation": 862,
-   "latitude": 39.835739,
-   "longitude": -85.914189,
-   "bearing": 249.88,
+   "elevation": 860,
+   "latitude": 39.84222543,
+   "longitude": -85.89108379,
+   "bearing": 249.92,
    "receptionRange": 18,
    "type": 4
  },
@@ -23439,7 +23439,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "KSBN",
    "identifier": "ISBN",
    "associatedRunwayNumber": "27L",

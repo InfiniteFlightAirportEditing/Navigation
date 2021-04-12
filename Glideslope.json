@@ -19974,11 +19974,11 @@
    "identifier": "IMQJ",
    "associatedRunwayNumber": "25",
    "frequency": 108700,
-   "elevation": 859,
-   "latitude": 39.840247,
-   "longitude": -85.893958,
-   "bearing": 250.876,
-   "glideslope": 3.00249938,
+   "elevation": 860,
+   "latitude": 39.84222543,
+   "longitude": -85.89108379,
+   "bearing": 249.92,
+   "glideslope": 3.0024992,
    "receptionRange": 10
  },
  {
