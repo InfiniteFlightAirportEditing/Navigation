@@ -13913,7 +13913,7 @@
    "name": "ILS-cat-I",
    "airportICAO": "KDMA",
    "identifier": "IAFB",
-   "associatedRunwayNumber": 12,
+   "associatedRunwayNumber": "12",
    "frequency": 109300,
    "elevation": 2704,
    "latitude": 32.180184,
