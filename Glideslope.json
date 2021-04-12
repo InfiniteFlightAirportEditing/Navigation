@@ -24551,10 +24551,10 @@
    "associatedRunwayNumber": "14",
    "frequency": 111500,
    "elevation": 705,
-   "latitude": 44.937861,
-   "longitude": -93.065392,
-   "bearing": 146.348,
-   "glideslope": 3.00146174,
+   "latitude": 44.94115622,
+   "longitude": -93.06782684,
+   "bearing": 146.12,
+   "glideslope": 3.0014612,
    "receptionRange": 10
  },
  {
@@ -24563,11 +24563,11 @@
    "identifier": "IBAO",
    "associatedRunwayNumber": "32",
    "frequency": 111500,
-   "elevation": 702,
-   "latitude": 44.929589,
-   "longitude": -93.055211,
-   "bearing": 326.348,
-   "glideslope": 3.00326174,
+   "elevation": 705,
+   "latitude": 44.92637523,
+   "longitude": -93.0538053,
+   "bearing": 326.12,
+   "glideslope": 3.0032612,
    "receptionRange": 10
  },
  {
