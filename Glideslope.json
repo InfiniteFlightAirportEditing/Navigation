@@ -14319,11 +14319,11 @@
    "identifier": "IPUK",
    "associatedRunwayNumber": "16",
    "frequency": 111150,
-   "elevation": 68,
-   "latitude": 30.368731,
-   "longitude": -85.79929,
-   "bearing": 159.8,
-   "glideslope": 3.001594,
+   "elevation": 69,
+   "latitude": 30.371105,
+   "longitude": -85.801194,
+   "bearing": 159.45,
+   "glideslope": 3.0015945,
    "receptionRange": 10
  },
  {

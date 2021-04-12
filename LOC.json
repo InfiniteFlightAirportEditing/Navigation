@@ -14300,15 +14300,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "KECP",
    "identifier": "IPUK",
    "associatedRunwayNumber": "16",
    "frequency": 111150,
-   "elevation": 68,
-   "latitude": 30.344348,
-   "longitude": -85.789579,
-   "bearing": 159.4,
+   "elevation": 69,
+   "latitude": 30.371105,
+   "longitude": -85.801194,
+   "bearing": 159.45,
    "receptionRange": 18,
    "type": 4
  },
