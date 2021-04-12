@@ -33448,6 +33448,19 @@
    "receptionRange": 18,
    "type": 4
  },
+  {
+   "name": "ILS-cat-I",
+   "airportICAO": "OPST",
+   "identifier": "ISL",
+   "associatedRunwayNumber": "04",
+   "frequency": 109300,
+   "elevation": 786,
+   "latitude": 32.523851,
+   "longitude": 74.350681,
+   "bearing": 43.03,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "ILS-cat-I",
    "airportICAO": "ORBD",

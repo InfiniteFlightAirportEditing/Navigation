@@ -33449,6 +33449,19 @@
    "glideslope": 3.00298289,
    "receptionRange": 10
  },
+  {
+   "name": "GS",
+   "airportICAO": "OPST",
+   "identifier": "ISL",
+   "associatedRunwayNumber": "04",
+   "frequency": 109300,
+   "elevation": 786,
+   "latitude": 32.523851,
+   "longitude": 74.350681,
+   "bearing": 43.03,
+   "glideslope": 3.004303,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "ORBD",
