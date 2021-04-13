@@ -13406,27 +13406,14 @@
  {
    "name": "GS",
    "airportICAO": "KDBQ",
-   "identifier": "IDBQ",
-   "associatedRunwayNumber": "31",
-   "frequency": 108700,
-   "elevation": 1060,
-   "latitude": 42.398069,
-   "longitude": -90.702414,
-   "bearing": 315.082,
-   "glideslope": 3.00315041,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "KDBQ",
    "identifier": "IFUQ",
    "associatedRunwayNumber": "36",
    "frequency": 110900,
-   "elevation": 1021,
-   "latitude": 42.394908,
-   "longitude": -90.713536,
-   "bearing": 0.892,
-   "glideslope": 3.00359946,
+   "elevation": 1076,
+   "latitude": 42.39226300,
+   "longitude": -90.71202200,
+   "bearing": 359.91,
+   "glideslope": 3.0035991,
    "receptionRange": 10
  },
  {
