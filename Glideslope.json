@@ -22184,11 +22184,11 @@
    "identifier": "IPNE",
    "associatedRunwayNumber": "24",
    "frequency": 111100,
-   "elevation": 114,
-   "latitude": 40.087719,
-   "longitude": -75.003394,
-   "bearing": 228.618,
-   "glideslope": 3.00228309,
+   "elevation": 119,
+   "latitude": 40.09027002,
+   "longitude": -75.0015548,
+   "bearing": 228.33,
+   "glideslope": 3.0022833,
    "receptionRange": 10
  },
  {
