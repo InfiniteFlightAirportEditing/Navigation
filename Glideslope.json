@@ -23523,11 +23523,11 @@
    "identifier": "ISBY",
    "associatedRunwayNumber": "32",
    "frequency": 108700,
-   "elevation": 51,
-   "latitude": 38.339381,
-   "longitude": -75.503614,
-   "bearing": 307.568,
-   "glideslope": 3.00306784,
+   "elevation": 52,
+   "latitude": 38.33556397,
+   "longitude": -75.49877385,
+   "bearing": 306.81,
+   "glideslope": 3.0030681,
    "receptionRange": 10
  },
  {
