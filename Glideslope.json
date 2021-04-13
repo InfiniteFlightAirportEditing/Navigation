@@ -33464,6 +33464,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "OPPS",
+   "identifier": "IBKB",
+   "associatedRunwayNumber": "35",
+   "frequency": 108300,
+   "elevation": 1210,
+   "latitude": 33.98139289,
+   "longitude": 71.51563744,
+   "bearing": 355.93,
+   "glideslope": 3.0035593,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "OPQT",
    "identifier": "IUTA",
    "associatedRunwayNumber": "13L",

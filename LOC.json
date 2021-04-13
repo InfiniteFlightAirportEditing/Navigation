@@ -33463,6 +33463,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "OPPS",
+   "identifier": "IBKB",
+   "associatedRunwayNumber": "35",
+   "frequency": 108300,
+   "elevation": 1210,
+   "latitude": 33.98139289,
+   "longitude": 71.51563744,
+   "bearing": 335.93,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "OPQT",
    "identifier": "IUTA",
    "associatedRunwayNumber": "13L",
