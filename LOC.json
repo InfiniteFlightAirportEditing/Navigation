@@ -32216,6 +32216,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "OEGT",
+   "identifier": "IGRY",
+   "associatedRunwayNumber": "28",
+   "frequency": 110900,
+   "elevation": 1684,
+   "latitude": 31.41675013,
+   "longitude": 37.26108007,
+   "bearing": 286.53,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "OEHL",
    "identifier": "IHIL",
    "associatedRunwayNumber": "18",
