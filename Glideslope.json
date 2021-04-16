@@ -33481,11 +33481,11 @@
    "identifier": "IFA",
    "associatedRunwayNumber": "03",
    "frequency": 109700,
-   "elevation": 607,
-   "latitude": 31.356244,
-   "longitude": 72.989856,
-   "bearing": 36.242,
-   "glideslope": 3.00036121,
+   "elevation": 590,
+   "latitude": 31.35500925,
+   "longitude": 72.98685116,
+   "bearing": 36.10,
+   "glideslope": 3.0003610,
    "receptionRange": 10
  },
  {
@@ -33577,6 +33577,45 @@
    "longitude": 74.40431570,
    "bearing": 0.87,
    "glideslope": 3.0000087,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "OPMT",
+   "identifier": "IMT",
+   "associatedRunwayNumber": "36",
+   "frequency": 110300,
+   "elevation": 403,
+   "latitude": 30.19088947,
+   "longitude": 71.41828703,
+   "bearing": 3.35,
+   "glideslope": 3.0000335,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "OPPS",
+   "identifier": "IBKB",
+   "associatedRunwayNumber": "35",
+   "frequency": 108300,
+   "elevation": 1210,
+   "latitude": 33.98139289,
+   "longitude": 71.51563744,
+   "bearing": 355.93,
+   "glideslope": 3.0035593,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "OPQT",
+   "identifier": "IUTA",
+   "associatedRunwayNumber": "13L",
+   "frequency": 108700,
+   "elevation": 5267,
+   "latitude": 30.26413111,
+   "longitude": 66.92565132,
+   "bearing": 136.60,
+   "glideslope": 3.0013660,
    "receptionRange": 10
  },
  {
