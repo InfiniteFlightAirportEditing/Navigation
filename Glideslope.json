@@ -30591,6 +30591,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTAJ",
+   "identifier": "IGNP",
+   "associatedRunwayNumber": "28",
+   "frequency": 109100,
+   "elevation": 2305,
+   "latitude": 36.9446004,
+   "longitude": 37.49463091,
+   "bearing": 285.19,
+   "glideslope": 3.00028519,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTAU",
    "identifier": "IKSR",
    "associatedRunwayNumber": "25",

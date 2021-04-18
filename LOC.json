@@ -30590,6 +30590,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "LTAJ",
+   "identifier": "IGNP",
+   "associatedRunwayNumber": "28",
+   "frequency": 109100,
+   "elevation": 2305,
+   "latitude": 36.9446004,
+   "longitude": 37.49463091,
+   "bearing": 285.19,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "LTAU",
    "identifier": "IKSR",
