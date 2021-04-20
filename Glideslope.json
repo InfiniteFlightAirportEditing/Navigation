@@ -24186,11 +24186,11 @@
    "identifier": "ISOP",
    "associatedRunwayNumber": "05",
    "frequency": 111500,
-   "elevation": 461,
-   "latitude": 35.23369156,
-   "longitude": -79.39233142,
-   "bearing": 46.222,
-   "glideslope": 3.00046111,
+   "elevation": 459,
+   "latitude": 35.23238762,
+   "longitude": -79.39544818,
+   "bearing": 46.09,
+   "glideslope": 3.0004609,
    "receptionRange": 10
  },
  {
