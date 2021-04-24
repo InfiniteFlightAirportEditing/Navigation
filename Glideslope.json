@@ -9406,10 +9406,10 @@
    "associatedRunwayNumber": "07",
    "frequency": 110500,
    "elevation": 194,
-   "latitude": 15.667778,
-   "longitude": 39.357222,
-   "bearing": 75.904,
-   "glideslope": 3.00074952,
+   "latitude": 15.67451327,
+   "longitude": 39.38761602,
+   "bearing": 75.02,
+   "glideslope": 3.0007502,
    "receptionRange": 10
  },
  {

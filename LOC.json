@@ -9418,9 +9418,9 @@
    "associatedRunwayNumber": "07",
    "frequency": 110500,
    "elevation": 194,
-   "latitude": 15.674539,
-   "longitude": 39.387444,
-   "bearing": 74.926,
+   "latitude": 15.67451327,
+   "longitude": 39.38761602,
+   "bearing": 75.02,
    "receptionRange": 18,
    "type": 4
  },
