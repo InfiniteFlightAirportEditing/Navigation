@@ -16667,6 +16667,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KHYR",
+   "identifier": "IHTY",
+   "associatedRunwayNumber": "21",
+   "frequency": 108500,
+   "elevation": 1216,
+   "latitude": 46.03209381,
+   "longitude": -91.44012835,
+   "bearing": 204.70,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KHYS",
    "identifier": "HYS",
    "associatedRunwayNumber": "34",
