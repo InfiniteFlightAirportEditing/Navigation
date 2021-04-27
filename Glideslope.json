@@ -42629,6 +42629,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VLLB",
+   "identifier": "ILPB",
+   "associatedRunwayNumber": "23",
+   "frequency": 108700,
+   "elevation": 975,
+   "latitude": 19.91364490,
+   "longitude": 102.17829613,
+   "bearing": 229.06,
+   "glideslope": 3.0022906,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VLVT",
    "identifier": "IVTN",
    "associatedRunwayNumber": "13",
