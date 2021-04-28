@@ -48819,19 +48819,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "KBIJ",
-   "identifier": "IBIJ",
-   "associatedRunwayNumber": "23",
-   "frequency": 110350,
-   "elevation": 208,
-   "latitude": 31.390336,
-   "longitude": -84.904608,
-   "bearing": 229.408,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "KBLM",
    "identifier": "IBLM",
    "associatedRunwayNumber": "14",
