@@ -15645,11 +15645,11 @@
    "identifier": "IGPT",
    "associatedRunwayNumber": "14",
    "frequency": 110900,
-   "elevation": 23,
-   "latitude": 30.41225,
-   "longitude": -89.080978,
-   "bearing": 135.118,
-   "glideslope": 3.00135059,
+   "elevation": 27,
+   "latitude": 30.41496263,
+   "longitude": -89.08230978,
+   "bearing": 135.06,
+   "glideslope": 3.0013506,
    "receptionRange": 10
  },
  {
@@ -15659,10 +15659,10 @@
    "associatedRunwayNumber": "32",
    "frequency": 108300,
    "elevation": 27,
-   "latitude": 30.400194,
-   "longitude": -89.063436,
-   "bearing": 315.118,
-   "glideslope": 3.00315059,
+   "latitude": 30.39748695,
+   "longitude": -89.06209067,
+   "bearing": 315.06,
+   "glideslope": 3.0031506,
    "receptionRange": 10
  },
  {
