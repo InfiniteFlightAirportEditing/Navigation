@@ -23519,6 +23519,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KSBO",
+   "identifier": "ISBO",
+   "associatedRunwayNumber": "14",
+   "frequency": 109350,
+   "elevation": 327,
+   "latitude": 32.61438931,
+   "longitude": -82.37749077,
+   "bearing": 129.64,
+   "glideslope": 3.0012964,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KSBP",
    "identifier": "ISBP",
    "associatedRunwayNumber": "11",

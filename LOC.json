@@ -23466,6 +23466,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KSBO",
+   "identifier": "ISBO",
+   "associatedRunwayNumber": "14",
+   "frequency": 109350,
+   "elevation": 327,
+   "latitude": 32.61438931,
+   "longitude": -82.37749077,
+   "bearing": 129.64,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KSBP",
    "identifier": "ISBP",
    "associatedRunwayNumber": "11",
@@ -50283,19 +50296,6 @@
    "latitude": 32.730012,
    "longitude": -117.174997,
    "bearing": 286.14,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "KSBO",
-   "identifier": "ISBO",
-   "associatedRunwayNumber": "13",
-   "frequency": 109350,
-   "elevation": 322,
-   "latitude": 32.602819,
-   "longitude": -82.360894,
-   "bearing": 129.635,
    "receptionRange": 18,
    "type": 5
  },
