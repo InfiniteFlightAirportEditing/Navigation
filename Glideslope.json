@@ -21482,11 +21482,11 @@
    "identifier": "IOTM",
    "associatedRunwayNumber": "31",
    "frequency": 109500,
-   "elevation": 837,
-   "latitude": 41.100736,
-   "longitude": -92.444353,
-   "bearing": 315.14,
-   "glideslope": 3.0031507,
+   "elevation": 845,
+   "latitude": 41.09953686,
+   "longitude": -92.44070939,
+   "bearing": 315.08,
+   "glideslope": 3.0031508,
    "receptionRange": 10
  },
  {
