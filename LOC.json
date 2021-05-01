@@ -38650,6 +38650,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UECT",
+   "identifier": "IDT",
+   "associatedRunwayNumber": "19",
+   "frequency": 110300,
+   "elevation": 1329,
+   "latitude": 59.89577389,
+   "longitude": 111.04549394,
+   "bearing": 180.03,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UEEE",
    "identifier": "IMF",
    "associatedRunwayNumber": "23L",
