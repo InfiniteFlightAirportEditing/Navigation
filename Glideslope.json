@@ -41485,6 +41485,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UWKJ",
+   "identifier": "IIO",
+   "associatedRunwayNumber": "16",
+   "frequency": 108950,
+   "elevation": 348,
+   "latitude": 56.71590069,
+   "longitude": 47.89277972,
+   "bearing": 173.00,
+   "glideslope": 3.00173,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UWKS",
    "identifier": "ILA",
    "associatedRunwayNumber": "06",

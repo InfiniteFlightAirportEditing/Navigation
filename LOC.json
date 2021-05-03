@@ -41328,6 +41328,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UWKJ",
+   "identifier": "IIO",
+   "associatedRunwayNumber": "16",
+   "frequency": 108950,
+   "elevation": 348,
+   "latitude": 56.71590069,
+   "longitude": 47.89277972,
+   "bearing": 173.00,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UWKS",
    "identifier": "ILA",
    "associatedRunwayNumber": "06",
