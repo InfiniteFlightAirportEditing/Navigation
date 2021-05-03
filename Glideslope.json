@@ -43370,6 +43370,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "VVNB",
+   "identifier": "NBA",
+   "associatedRunwayNumber": "11R",
+   "frequency": 108300,
+   "elevation": 39,
+   "latitude": 21.22468392,
+   "longitude": 105.78634182,
+   "bearing": 107.23,
+   "glideslope": 3.0010723,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "VVNB",
+   "identifier": "INB",
+   "associatedRunwayNumber": "29L",
+   "frequency": 111900,
+   "elevation": 39,
+   "latitude": 21.21457008,
+   "longitude": 105.8213177,
+   "bearing": 287.23,
+   "glideslope": 3.0028723,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "VVPB",
    "identifier": "PBA",
    "associatedRunwayNumber": "27",
