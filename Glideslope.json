@@ -16867,11 +16867,11 @@
    "identifier": "IIAG",
    "associatedRunwayNumber": "28R",
    "frequency": 110100,
-   "elevation": 59,
-   "latitude": 43.108358,
-   "longitude": -78.937956,
-   "bearing": 270.226,
-   "glideslope": 2.50270113,
+   "elevation": 592,
+   "latitude": 43.10949658,
+   "longitude": -78.93204495,
+   "bearing": 270.11,
+   "glideslope": 2.5027011,
    "receptionRange": 10
  },
  {
