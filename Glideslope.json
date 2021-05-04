@@ -31401,11 +31401,11 @@
    "identifier": "IMWX",
    "associatedRunwayNumber": "05R",
    "frequency": 109100,
-   "elevation": 7312,
-   "latitude": 19.426553,
-   "longitude": -99.0866773,
-   "bearing": 59.24,
-   "glideslope": 3.0005924,
+   "elevation": 7315,
+   "latitude": 19.42655358,
+   "longitude": -99.08667734,
+   "bearing": 59.25,
+   "glideslope": 3.0005925,
    "receptionRange": 10
  },
  {
@@ -31414,11 +31414,11 @@
    "identifier": "IMEX",
    "associatedRunwayNumber": "23L",
    "frequency": 109700,
-   "elevation": 7312,
-   "latitude": 19.4453701,
-   "longitude": -99.0531452,
-   "bearing": 239.24,
-   "glideslope": 3.0023924,
+   "elevation": 7315,
+   "latitude": 19.44537013,
+   "longitude": -99.05314525,
+   "bearing": 239.25,
+   "glideslope": 3.0023925,
    "receptionRange": 10
  },
  {
