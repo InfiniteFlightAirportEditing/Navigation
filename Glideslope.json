@@ -17318,6 +17318,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KIRK",
+   "identifier": "IIRK",
+   "associatedRunwayNumber": "36",
+   "frequency": 111500,
+   "elevation": 965,
+   "latitude": 40.08425745,
+   "longitude": -92.54442726,
+   "bearing": 0.48,
+   "glideslope": 3.00048,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KISM",
    "identifier": "IISM",
    "associatedRunwayNumber": "15",

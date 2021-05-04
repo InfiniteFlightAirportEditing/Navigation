@@ -17265,6 +17265,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KIRK",
+   "identifier": "IIRK",
+   "associatedRunwayNumber": "36",
+   "frequency": 111500,
+   "elevation": 965,
+   "latitude": 40.08425745,
+   "longitude": -92.54442726,
+   "bearing": 0.48,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KISM",
    "identifier": "IISM",
    "associatedRunwayNumber": "15",
