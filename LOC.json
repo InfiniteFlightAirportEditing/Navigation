@@ -32632,6 +32632,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "OETF",
+   "identifier": "ITIF",
+   "associatedRunwayNumber": "25",
+   "frequency": 110900,
+   "elevation": 4848,
+   "latitude": 21.48621446,
+   "longitude": 40.55547247,
+   "bearing": 254.52,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "OETF",
+   "identifier": "ITAI",
+   "associatedRunwayNumber": "35",
+   "frequency": 110700,
+   "elevation": 4848,
+   "latitude": 21.47637493,
+   "longitude": 40.54539217,
+   "bearing": 352.15,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "OETN",
    "identifier": "ITJB",
    "associatedRunwayNumber": "33",
