@@ -25859,6 +25859,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KXWA",
+   "identifier": "IXWA",
+   "associatedRunwayNumber": "32",
+   "frequency": 109100,
+   "elevation": 2356,
+   "latitude": 48.25217891,
+   "longitude": -103.74293945,
+   "bearing": 327.83,
+   "glideslope": 3.0032783,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KYIP",
    "identifier": "IYIP",
    "associatedRunwayNumber": "05R",

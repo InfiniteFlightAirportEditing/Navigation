@@ -25833,6 +25833,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "KXWA",
+   "identifier": "IXWA",
+   "associatedRunwayNumber": "32",
+   "frequency": 109100,
+   "elevation": 2356,
+   "latitude": 48.25217891,
+   "longitude": -103.74293945,
+   "bearing": 327.83,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "KYIP",
    "identifier": "IYIP",
    "associatedRunwayNumber": "05R",
