@@ -17615,6 +17615,19 @@
    "glideslope": 3.0030087,
    "receptionRange": 10
  },
+ {   
+   "name": "GS",
+   "airportICAO": "KJFZ",
+   "identifier": "IJFZ",
+   "associatedRunwayNumber": "25",
+   "frequency": 109750,
+   "elevation": 2653,
+   "latitude": 37.06619085,
+   "longitude": -81.79156143,
+   "bearing": 245.54,
+   "glideslope": 4.0024554,
+   "receptionRange": 10,
+ },
  {
    "name": "GS",
    "airportICAO": "KJHW",

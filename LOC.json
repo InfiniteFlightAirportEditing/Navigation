@@ -17589,6 +17589,19 @@
    "type": 4
  },
  {
+   "name": "LOC",
+   "airportICAO": "KJFZ",
+   "identifier": "IJFZ",
+   "associatedRunwayNumber": "25",
+   "frequency": 109750,
+   "elevation": 2653,
+   "latitude": 37.06619085,
+   "longitude": -81.79156143,
+   "bearing": 245.54,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "KJHW",
    "identifier": "IJHW",
