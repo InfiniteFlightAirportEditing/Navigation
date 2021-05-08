@@ -18518,11 +18518,11 @@
    "identifier": "ILSE",
    "associatedRunwayNumber": "18",
    "frequency": 111100,
-   "elevation": 652,
-   "latitude": 43.890358,
-   "longitude": -91.260061,
-   "bearing": 179.892,
-   "glideslope": 3.00179446,
+   "elevation": 655,
+   "latitude": 43.89325629,
+   "longitude": -91.25888351,
+   "bearing": 179.45,
+   "glideslope": 3.0017945,
    "receptionRange": 10
  },
  {
