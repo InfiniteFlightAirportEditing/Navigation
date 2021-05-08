@@ -44606,6 +44606,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WMKM",
+   "identifier": "IKKM",
+   "associatedRunwayNumber": "03",
+   "frequency": 111700,
+   "elevation": 35,
+   "latitude": 2.257992,
+   "longitude": 102.248458,
+   "bearing": 29.93,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WMKN",
    "identifier": "IKTA",
    "associatedRunwayNumber": "04",

@@ -44722,6 +44722,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WMKM",
+   "identifier": "IKKM",
+   "associatedRunwayNumber": "03",
+   "frequency": 111700,
+   "elevation": 35,
+   "latitude": 2.257992,
+   "longitude": 102.248458,
+   "bearing": 29.93,
+   "glideslope": 3.0002993,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WMKN",
    "identifier": "IKTA",
    "associatedRunwayNumber": "04",
