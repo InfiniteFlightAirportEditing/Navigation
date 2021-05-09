@@ -22678,11 +22678,11 @@
    "identifier": "IELR",
    "associatedRunwayNumber": "13",
    "frequency": 111500,
-   "elevation": 3255,
-   "latitude": 44.155486,
-   "longitude": -103.119261,
-   "bearing": 138.22,
-   "glideslope": 2.9013811,
+   "elevation": 3279,
+   "latitude": 44.15886569,
+   "longitude": -103.12074255,
+   "bearing": 138.18,
+   "glideslope": 3.0013818,
    "receptionRange": 10
  },
  {
@@ -22692,10 +22692,10 @@
    "associatedRunwayNumber": "31",
    "frequency": 110300,
    "elevation": 3279,
-   "latitude": 44.134156,
-   "longitude": -103.0849,
-   "bearing": 318.22,
-   "glideslope": 2.5031811,
+   "latitude": 44.13131713,
+   "longitude": -103.08637898,
+   "bearing": 318.18,
+   "glideslope": 3.0031818,
    "receptionRange": 10
  },
  {
