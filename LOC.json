@@ -22327,8 +22327,8 @@
    "associatedRunwayNumber": "16",
    "frequency": 110100,
    "elevation": 100,
-   "latitude": 43.09130125,
-   "longitude": -70.83423351,
+   "latitude": 43.09130769,
+   "longitude": -70.83422435,
    "bearing": 149.2,
    "receptionRange": 18,
    "type": 4
@@ -22340,8 +22340,8 @@
    "associatedRunwayNumber": "34",
    "frequency": 110100,
    "elevation": 100,
-   "latitude": 43.0646271,
-   "longitude": -70.81245731,
+   "latitude": 43.06463379,
+   "longitude": -70.81244815,
    "bearing": 329.2,
    "receptionRange": 18,
    "type": 4
