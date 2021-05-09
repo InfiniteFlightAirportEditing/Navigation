@@ -22560,12 +22560,12 @@
    "airportICAO": "KPWK",
    "identifier": "IPWK",
    "associatedRunwayNumber": "16",
-   "frequency": 111900,
-   "elevation": 639,
-   "latitude": 42.120861,
-   "longitude": -87.904847,
-   "bearing": 159.34,
-   "glideslope": 3.0015867,
+   "frequency": 109750,
+   "elevation": 645,
+   "latitude": 42.12333277,
+   "longitude": -87.90713879,
+   "bearing": 158.65,
+   "glideslope": 3.0015865,
    "receptionRange": 10
  },
  {
