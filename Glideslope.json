@@ -16720,6 +16720,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "KHYR",
+   "identifier": "IHTY",
+   "associatedRunwayNumber": "21",
+   "frequency": 108500,
+   "elevation": 1216,
+   "latitude": 46.03209381,
+   "longitude": -91.44012835,
+   "bearing": 204.70,
+   "glideslope": 3.0020470,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "KHYS",
    "identifier": "HYS",
    "associatedRunwayNumber": "34",
@@ -17301,6 +17314,19 @@
    "longitude": -76.916439,
    "bearing": 257.854,
    "glideslope": 3.00256927,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "KIRK",
+   "identifier": "IIRK",
+   "associatedRunwayNumber": "36",
+   "frequency": 111500,
+   "elevation": 965,
+   "latitude": 40.08425745,
+   "longitude": -92.54442726,
+   "bearing": 0.48,
+   "glideslope": 3.0000048,
    "receptionRange": 10
  },
  {
@@ -21482,11 +21508,11 @@
    "identifier": "IOTM",
    "associatedRunwayNumber": "31",
    "frequency": 109500,
-   "elevation": 837,
-   "latitude": 41.100736,
-   "longitude": -92.444353,
-   "bearing": 315.14,
-   "glideslope": 3.0031507,
+   "elevation": 845,
+   "latitude": 41.09953686,
+   "longitude": -92.44070939,
+   "bearing": 315.08,
+   "glideslope": 3.0031508,
    "receptionRange": 10
  },
  {
@@ -23515,6 +23541,19 @@
    "longitude": -86.298619,
    "bearing": 268.79,
    "glideslope": 3.0026879,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "KSBO",
+   "identifier": "ISBO",
+   "associatedRunwayNumber": "14",
+   "frequency": 109350,
+   "elevation": 327,
+   "latitude": 32.61438931,
+   "longitude": -82.37749077,
+   "bearing": 129.64,
+   "glideslope": 3.0012964,
    "receptionRange": 10
  },
  {
