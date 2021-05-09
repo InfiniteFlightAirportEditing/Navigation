@@ -16867,11 +16867,11 @@
    "identifier": "IIAG",
    "associatedRunwayNumber": "28R",
    "frequency": 110100,
-   "elevation": 59,
-   "latitude": 43.108358,
-   "longitude": -78.937956,
-   "bearing": 270.226,
-   "glideslope": 2.50270113,
+   "elevation": 592,
+   "latitude": 43.10949658,
+   "longitude": -78.93204495,
+   "bearing": 270.11,
+   "glideslope": 2.5027011,
    "receptionRange": 10
  },
  {
@@ -17613,6 +17613,19 @@
    "longitude": -73.759235,
    "bearing": 300.87,
    "glideslope": 3.0030087,
+   "receptionRange": 10
+ },
+ {   
+   "name": "GS",
+   "airportICAO": "KJFZ",
+   "identifier": "IJFZ",
+   "associatedRunwayNumber": "25",
+   "frequency": 109750,
+   "elevation": 2653,
+   "latitude": 37.06619085,
+   "longitude": -81.79156143,
+   "bearing": 245.54,
+   "glideslope": 4.0024554,
    "receptionRange": 10
  },
  {
@@ -31401,11 +31414,11 @@
    "identifier": "IMWX",
    "associatedRunwayNumber": "05R",
    "frequency": 109100,
-   "elevation": 7312,
-   "latitude": 19.426553,
-   "longitude": -99.0866773,
-   "bearing": 59.24,
-   "glideslope": 3.0005924,
+   "elevation": 7315,
+   "latitude": 19.42655358,
+   "longitude": -99.08667734,
+   "bearing": 59.25,
+   "glideslope": 3.0005925,
    "receptionRange": 10
  },
  {
@@ -31414,11 +31427,11 @@
    "identifier": "IMEX",
    "associatedRunwayNumber": "23L",
    "frequency": 109700,
-   "elevation": 7312,
-   "latitude": 19.4453701,
-   "longitude": -99.0531452,
-   "bearing": 239.24,
-   "glideslope": 3.0023924,
+   "elevation": 7315,
+   "latitude": 19.44537013,
+   "longitude": -99.05314525,
+   "bearing": 239.25,
+   "glideslope": 3.0023925,
    "receptionRange": 10
  },
  {
@@ -33040,10 +33053,10 @@
    "associatedRunwayNumber": "15L",
    "frequency": 110100,
    "elevation": 204,
-   "latitude": 29.24122832,
-   "longitude": 47.98339338,
-   "bearing": 155.14,
-   "glideslope": 3.0015514,
+   "latitude": 29.24123293,
+   "longitude": 47.98338032,
+   "bearing": 155.13,
+   "glideslope": 3.0015513,
    "receptionRange": 10
  },
  {
@@ -33053,8 +33066,8 @@
    "associatedRunwayNumber": "15R",
    "frequency": 111300,
    "elevation": 204,
-   "latitude": 29.24051102,
-   "longitude": 47.96152354,
+   "latitude": 29.24054557,
+   "longitude": 47.96150025,
    "bearing": 155.12,
    "glideslope": 3.0015512,
    "receptionRange": 10
@@ -33066,8 +33079,8 @@
    "associatedRunwayNumber": "33L",
    "frequency": 109500,
    "elevation": 204,
-   "latitude": 29.21270825,
-   "longitude": 47.97629881,
+   "latitude": 29.21268955,
+   "longitude": 47.97630297,
    "bearing": 335.12,
    "glideslope": 3.0033512,
    "receptionRange": 10
@@ -33079,10 +33092,10 @@
    "associatedRunwayNumber": "33R",
    "frequency": 110500,
    "elevation": 204,
-   "latitude": 29.21260654,
-   "longitude": 47.99859476,
-   "bearing": 335.14,
-   "glideslope": 3.0033514,
+   "latitude": 29.21260365,
+   "longitude": 47.99858849,
+   "bearing": 335.13,
+   "glideslope": 3.0033513,
    "receptionRange": 10
  },
  {
