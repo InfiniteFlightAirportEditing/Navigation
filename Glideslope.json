@@ -16763,11 +16763,11 @@
    "identifier": "IIAB",
    "associatedRunwayNumber": "01L",
    "frequency": 111100,
-   "elevation": 1336,
-   "latitude": 37.6097,
-   "longitude": -97.2713,
-   "bearing": 12.84,
-   "glideslope": 3.0001242,
+   "elevation": 1372,
+   "latitude": 37.60727126,
+   "longitude": -97.27349634,
+   "bearing": 12.43,
+   "glideslope": 3.0001243,
    "receptionRange": 10
  },
  {
@@ -16776,11 +16776,11 @@
    "identifier": "ICWX",
    "associatedRunwayNumber": "19R",
    "frequency": 109900,
-   "elevation": 1365,
-   "latitude": 37.635958,
-   "longitude": -97.264075,
-   "bearing": 192.84,
-   "glideslope": 3.0019242,
+   "elevation": 1372,
+   "latitude": 37.63944511,
+   "longitude": -97.26454512,
+   "bearing": 192.43,
+   "glideslope": 3.0019243,
    "receptionRange": 10
  },
  {
