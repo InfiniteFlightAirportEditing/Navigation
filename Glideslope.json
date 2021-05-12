@@ -13240,11 +13240,11 @@
    "identifier": "ICYS",
    "associatedRunwayNumber": "27",
    "frequency": 110100,
-   "elevation": 6097,
-   "latitude": 41.155522,
-   "longitude": -104.793317,
-   "bearing": 275.6,
-   "glideslope": 3.002753,
+   "elevation": 6159,
+   "latitude": 41.15441845,
+   "longitude": -104.78765508,
+   "bearing": 275.32,
+   "glideslope": 3.0027532,
    "receptionRange": 10
  },
  {
