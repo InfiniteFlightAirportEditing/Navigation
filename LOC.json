@@ -1885,15 +1885,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "DNIL",
    "identifier": "IIL",
    "associatedRunwayNumber": "05",
    "frequency": 109900,
-   "elevation": 1102,
-   "latitude": 8.450748,
-   "longitude": 4.505232,
-   "bearing": 47.638,
+   "elevation": 1125,
+   "latitude": 8.43097133,
+   "longitude": 4.4832837,
+   "bearing": 49.07,
    "receptionRange": 18,
    "type": 4
  },

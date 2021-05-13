@@ -1891,11 +1891,11 @@
    "identifier": "IIL",
    "associatedRunwayNumber": "05",
    "frequency": 109900,
-   "elevation": 1161,
-   "latitude": 8.433933,
-   "longitude": 4.483951,
-   "bearing": 49.138,
-   "glideslope": 3.00049069,
+   "elevation": 1125,
+   "latitude": 8.43097133,
+   "longitude": 4.4832837,
+   "bearing": 49.07,
+   "glideslope": 3.0004907,
    "receptionRange": 10
  },
  {
