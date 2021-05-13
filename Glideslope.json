@@ -20842,14 +20842,27 @@
  {
    "name": "GS",
    "airportICAO": "KOFF",
+   "identifier": "IATB",
+   "associatedRunwayNumber": "12",
+   "frequency": 111700,
+   "elevation": 1049,
+   "latitude": 41.12946287,
+   "longitude": -95.92499077,
+   "bearing": 129.24,
+   "glideslope": 3.0012924,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "KOFF",
    "identifier": "IOFF",
    "associatedRunwayNumber": "30",
    "frequency": 109500,
-   "elevation": 983,
-   "latitude": 41.114567,
-   "longitude": -95.897903,
-   "bearing": 309.484,
-   "glideslope": 2.80309242,
+   "elevation": 1049,
+   "latitude": 41.10919704,
+   "longitude": -95.89204795,
+   "bearing": 309.24,
+   "glideslope": 2.8030924,
    "receptionRange": 10
  },
  {
