@@ -44411,6 +44411,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WIMK",
+   "identifier": "IMDN",
+   "associatedRunwayNumber": "05",
+   "frequency": 110100,
+   "elevation": 114,
+   "latitude": 3.54901055,
+   "longitude": 98.66233179,
+   "bearing": 46.48,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WIMM",
    "identifier": "IMDN",
    "associatedRunwayNumber": "05",

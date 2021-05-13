@@ -44527,6 +44527,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WIMK",
+   "identifier": "IMDN",
+   "associatedRunwayNumber": "05",
+   "frequency": 110100,
+   "elevation": 114,
+   "latitude": 3.54901055,
+   "longitude": 98.66233179,
+   "bearing": 46.48,
+   "glideslope": 3.0004648,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WIMM",
    "identifier": "IDES",
    "associatedRunwayNumber": "05",
