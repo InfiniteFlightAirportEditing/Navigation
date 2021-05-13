@@ -12122,11 +12122,11 @@
    "identifier": "ICBM",
    "associatedRunwayNumber": "13C",
    "frequency": 109300,
-   "elevation": 219,
-   "latitude": 33.652292,
-   "longitude": -88.457131,
-   "bearing": 134.28,
-   "glideslope": 3.0013414,
+   "elevation": 218,
+   "latitude": 33.65528436,
+   "longitude": -88.45838694,
+   "bearing": 135.14,
+   "glideslope": 3.0013514,
    "receptionRange": 10
  },
  {
@@ -12135,11 +12135,11 @@
    "identifier": "ITBB",
    "associatedRunwayNumber": "31C",
    "frequency": 108700,
-   "elevation": 219,
-   "latitude": 33.632969,
-   "longitude": -88.434028,
-   "bearing": 314.28,
-   "glideslope": 2.8031414,
+   "elevation": 218,
+   "latitude": 33.63196022,
+   "longitude": -88.43049845,
+   "bearing": 315.14,
+   "glideslope": 3.0031514,
    "receptionRange": 10
  },
  {
