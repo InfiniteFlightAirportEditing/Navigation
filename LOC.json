@@ -9492,13 +9492,13 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "HLLT",
-   "identifier": "IWT",
+   "identifier": "IIWT",
    "associatedRunwayNumber": "27",
    "frequency": 109500,
    "elevation": 263,
    "latitude": 32.66305,
    "longitude": 13.1262,
-   "bearing": 268.981,
+   "bearing": 268.99,
    "receptionRange": 18,
    "type": 4
  },

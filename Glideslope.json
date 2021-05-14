@@ -9480,14 +9480,14 @@
  {
    "name": "GS",
    "airportICAO": "HLLT",
-   "identifier": "IWT",
+   "identifier": "IIWT",
    "associatedRunwayNumber": "27",
    "frequency": 109500,
    "elevation": 263,
    "latitude": 32.663889,
    "longitude": 13.164167,
-   "bearing": 269.962,
-   "glideslope": 2.50268981,
+   "bearing": 268.99,
+   "glideslope": 3.0026899,
    "receptionRange": 10
  },
  {
