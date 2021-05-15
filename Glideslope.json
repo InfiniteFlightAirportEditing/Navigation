@@ -30708,6 +30708,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTAL",
+   "identifier": "IKAS",
+   "associatedRunwayNumber": "18",
+   "frequency": 108500,
+   "elevation": 3524,
+   "latitude": 41.32452077,
+   "longitude": 33.79740765,
+   "bearing": 186.51,
+   "glideslope": 3.0018651,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTAU",
    "identifier": "IKSR",
    "associatedRunwayNumber": "25",
