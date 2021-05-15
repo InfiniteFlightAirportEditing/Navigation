@@ -15925,15 +15925,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "KGTF",
    "identifier": "ISMR",
    "associatedRunwayNumber": "3",
    "frequency": 111300,
-   "elevation": 3646,
-   "latitude": 47.492022,
-   "longitude": -111.350361,
-   "bearing": 44.939,
+   "elevation": 3680,
+   "latitude": 47.46934614,
+   "longitude": -111.38384133,
+   "bearing": 44.93,
    "receptionRange": 18,
    "type": 4
  },
