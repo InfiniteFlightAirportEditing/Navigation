@@ -51198,6 +51198,19 @@
  },
  {
    "name": "LOC",
+   "airportICAO": "LTCD",
+   "identifier": "IEZC",
+   "associatedRunwayNumber": "28",
+   "frequency": 108900,
+   "elevation": 3791,
+   "latitude": 39.70624919,
+   "longitude": 39.54335039,
+   "bearing": 280.85,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
+   "name": "LOC",
    "airportICAO": "LYTV",
    "identifier": "TIV",
    "associatedRunwayNumber": "32",
