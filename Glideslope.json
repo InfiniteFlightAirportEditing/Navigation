@@ -33931,16 +33931,29 @@
    "receptionRange": 10
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "ORSU",
+   "identifier": "NGA",
+   "associatedRunwayNumber": "13",
+   "frequency": 111100,
+   "elevation": 2492,
+   "latitude": 35.571615,
+   "longitude": 45.30053637,
+   "bearing": 133,
+   "glideslope": 3.00133,
+   "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "ORSU",
    "identifier": "RNJ",
    "associatedRunwayNumber": "31",
    "frequency": 111700,
-   "elevation": 2440,
-   "latitude": 35.550897,
-   "longitude": 45.32535,
-   "bearing": 313.068,
-   "glideslope": 3.00313034,
+   "elevation": 2492,
+   "latitude": 35.5501335,
+   "longitude": 45.3288537,
+   "bearing": 313,
+   "glideslope": 3.00313,
    "receptionRange": 10
  },
  {
