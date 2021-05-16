@@ -47610,6 +47610,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZUKD",
+   "identifier": "IKA",
+   "associatedRunwayNumber": "15",
+   "frequency": 108500,
+   "elevation": 14042,
+   "latitude": 30.15852416,
+   "longitude": 101.72797553,
+   "bearing": 149.42,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {  
+   "name": "ILS-cat-I",
    "airportICAO": "ZULS",
    "identifier": "ISS",
    "associatedRunwayNumber": "27R",
