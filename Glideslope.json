@@ -14475,11 +14475,11 @@
    "identifier": "ILVC",
    "associatedRunwayNumber": "17C",
    "frequency": 108900,
-   "elevation": 1271,
-   "latitude": 36.35235,
-   "longitude": -97.912964,
-   "bearing": 180.062,
-   "glideslope": 2.50180031,
+   "elevation": 1312,
+   "latitude": 36.35555081,
+   "longitude": -97.91465159,
+   "bearing": 180.04,
+   "glideslope": 2.5018004,
    "receptionRange": 10
  },
  {
@@ -14488,11 +14488,11 @@
    "identifier": "IEND",
    "associatedRunwayNumber": "35C",
    "frequency": 110100,
-   "elevation": 1287,
-   "latitude": 36.333283,
-   "longitude": -97.912975,
-   "bearing": 0.062,
-   "glideslope": 2.50000031,
+   "elevation": 1312,
+   "latitude": 36.3302564,
+   "longitude": -97.91467449,
+   "bearing": 0.04,
+   "glideslope": 2.5000004,
    "receptionRange": 10
  },
  {
