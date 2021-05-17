@@ -30942,6 +30942,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTFD",
+   "identifier": "IKFZ",
+   "associatedRunwayNumber": "05",
+   "frequency": 108900,
+   "elevation": 51,
+   "latitude": 39.54439711,
+   "longitude": 26.99606333,
+   "bearing": 53.77,
+   "glideslope": 3.0005377,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTFE",
    "identifier": "IBDR",
    "associatedRunwayNumber": "11",
