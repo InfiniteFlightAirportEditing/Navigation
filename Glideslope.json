@@ -32477,14 +32477,27 @@
  {
    "name": "GS",
    "airportICAO": "OEKM",
+   "identifier": "IKAB",
+   "associatedRunwayNumber": "14",
+   "frequency": 330500,
+   "elevation": 6778,
+   "latitude": 18.3084722,
+   "longitude": 42.8073889,
+   "bearing": 141.18,
+   "glideslope": 3.0014118,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "OEKM",
    "identifier": "IKAM",
    "associatedRunwayNumber": "24",
-   "frequency": 109500,
-   "elevation": 6694,
-   "latitude": 18.305097,
-   "longitude": 42.801639,
-   "bearing": 240.39,
-   "glideslope": 3.00240195,
+   "frequency": 332600,
+   "elevation": 6778,
+   "latitude": 18.3042500,
+   "longitude": 42.8016389,
+   "bearing": 240.2,
+   "glideslope": 3.002402,
    "receptionRange": 10
  },
  {
