@@ -15722,9 +15722,9 @@
    "identifier": "IGRI",
    "associatedRunwayNumber": "35",
    "frequency": 111900,
-   "elevation": 1840,
-   "latitude": 40.9819,
-   "longitude": -98.314744,
+   "elevation": 1847,
+   "latitude": 40.95796055,
+   "longitude": -98.31492044,
    "bearing": 0.3,
    "receptionRange": 18,
    "type": 4
