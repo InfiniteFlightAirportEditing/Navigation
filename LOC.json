@@ -916,12 +916,26 @@
    "associatedRunwayNumber": "08",
    "frequency": 110150,
    "elevation": 250,
-   "latitude": 43.627461,
-   "longitude": -79.403382,
+   "latitude": 43.62746138,
+   "longitude": -79.40338170,
    "bearing": 71.23,
    "receptionRange": 18,
    "type": 4
  },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "CYTZ",
+   "identifier": "ICR",
+   "associatedRunwayNumber": "26",
+   "frequency": 110150,
+   "elevation": 250,
+   "latitude": 43.63099106,
+   "longitude": -79.38902914,
+   "bearing": 251.23,
+   "receptionRange": 18,
+   "type": 4
+ },
+
  {
    "name": "ILS-cat-II",
    "airportICAO": "CYUL",
