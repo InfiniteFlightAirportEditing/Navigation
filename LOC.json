@@ -9660,6 +9660,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "HSSJ",
+   "identifier": "IJC",
+   "associatedRunwayNumber": "13",
+   "frequency": 108700,
+   "elevation": 1513,
+   "latitude": 4.88308919,
+   "longitude": 31.58802776,
+   "bearing": 130.41,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "HSSK",
    "identifier": "KIS",
    "associatedRunwayNumber": "18",

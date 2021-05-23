@@ -9648,6 +9648,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "HSSJ",
+   "identifier": "IJC",
+   "associatedRunwayNumber": "13",
+   "frequency": 108700,
+   "elevation": 1513,
+   "latitude": 4.88308919,
+   "longitude": 31.58802776,
+   "bearing": 130.41,
+   "glideslope": 3.0013041,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "HSSK",
    "identifier": "KIS",
    "associatedRunwayNumber": "18",
