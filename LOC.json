@@ -37394,10 +37394,10 @@
    "identifier": "IPV",
    "associatedRunwayNumber": "19",
    "frequency": 109300,
-   "elevation": 290,
+   "elevation": 295,
    "latitude": -8.726111,
    "longitude": -63.902778,
-   "bearing": 179.705,
+   "bearing": 176.58,
    "receptionRange": 18,
    "type": 4
  },

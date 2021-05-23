@@ -37368,11 +37368,11 @@
    "identifier": "IPV",
    "associatedRunwayNumber": "19",
    "frequency": 109300,
-   "elevation": 290,
+   "elevation": 295,
    "latitude": -8.722333,
    "longitude": -63.901667,
-   "bearing": 177.284,
-   "glideslope": 3.00176642,
+   "bearing": 176.58,
+   "glideslope": 3.0017658,
    "receptionRange": 10
  },
  {
