@@ -916,9 +916,22 @@
    "associatedRunwayNumber": "08",
    "frequency": 110150,
    "elevation": 250,
-   "latitude": 43.627461,
-   "longitude": -79.403382,
+   "latitude": 43.62746138,
+   "longitude": -79.40338170,
    "bearing": 71.23,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "CYTZ",
+   "identifier": "ICR",
+   "associatedRunwayNumber": "26",
+   "frequency": 110150,
+   "elevation": 250,
+   "latitude": 43.63099106,
+   "longitude": -79.38902914,
+   "bearing": 251.23,
    "receptionRange": 18,
    "type": 4
  },
@@ -8957,6 +8970,32 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "GFLL",
+   "identifier": "ISH",
+   "associatedRunwayNumber": "30",
+   "frequency": 109900,
+   "elevation": 92,
+   "latitude": 8.61215611,
+   "longitude": -13.18166377,
+   "bearing": 287.18,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "GLRB",
+   "identifier": "SK",
+   "associatedRunwayNumber": "04",
+   "frequency": 110300,
+   "elevation": 29,
+   "latitude": 6.22082800,
+   "longitude": -10.37012800,
+   "bearing": 30.94,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "GMAD",
    "identifier": "ADA",
@@ -9161,6 +9200,19 @@
    "latitude": 18.289809,
    "longitude": -15.957355,
    "bearing": 329.84,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "GUCY",
+   "identifier": "CKY",
+   "associatedRunwayNumber": "06",
+   "frequency": 110300,
+   "elevation": 71,
+   "latitude": 9.56724140,
+   "longitude": -13.62337102,
+   "bearing": 49.42,
    "receptionRange": 18,
    "type": 4
  },
@@ -48918,19 +48970,6 @@
    "latitude": 49.435853,
    "longitude": 7.575156,
    "bearing": 266.291,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "FCBB",
-   "identifier": "IBV",
-   "associatedRunwayNumber": "23",
-   "frequency": 111700,
-   "elevation": 1052,
-   "latitude": -4.23963908,
-   "longitude": 15.26445203,
-   "bearing": 249.92,
    "receptionRange": 18,
    "type": 5
  },

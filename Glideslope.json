@@ -917,10 +917,23 @@
    "associatedRunwayNumber": "08",
    "frequency": 110150,
    "elevation": 250,
-   "latitude": 43.627461,
-   "longitude": -79.403382,
+   "latitude": 43.62746138,
+   "longitude": -79.40338170,
    "bearing": 71.23,
    "glideslope": 3.5007123,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "CYTZ",
+   "identifier": "ICR",
+   "associatedRunwayNumber": "26",
+   "frequency": 110150,
+   "elevation": 250,
+   "latitude": 43.63099106,
+   "longitude": -79.38902914,
+   "bearing": 251.23,
+   "glideslope": 4.8025123,
    "receptionRange": 10
  },
  {
@@ -8946,6 +8959,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "GFLL",
+   "identifier": "ISH",
+   "associatedRunwayNumber": "30",
+   "frequency": 109900,
+   "elevation": 92,
+   "latitude": 8.61215611,
+   "longitude": -13.18166377,
+   "bearing": 287.18,
+   "glideslope": 3.0028718,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "GLRB",
+   "identifier": "SK",
+   "associatedRunwayNumber": "04",
+   "frequency": 110300,
+   "elevation": 29,
+   "latitude": 6.22082800,
+   "longitude": -10.37012800,
+   "bearing": 30.94,
+   "glideslope": 2.9903094,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "GMAD",
    "identifier": "ADA",
    "associatedRunwayNumber": "27",
@@ -9150,6 +9189,19 @@
    "longitude": -15.957355,
    "bearing": 329.84,
    "glideslope": 3.0032984,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "GUCY",
+   "identifier": "CKY",
+   "associatedRunwayNumber": "06",
+   "frequency": 110300,
+   "elevation": 71,
+   "latitude": 9.56724140,
+   "longitude": -13.62337102,
+   "bearing": 49.42,
+   "glideslope": 3.0004942,
    "receptionRange": 10
  },
  {
