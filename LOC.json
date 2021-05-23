@@ -8984,6 +8984,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "GGOV",
+   "identifier": "IBS",
+   "associatedRunwayNumber": "21",
+   "frequency": 109300,
+   "elevation": 129,
+   "latitude": 11.90857013,
+   "longitude": -15.64896185,
+   "bearing": 198.58,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "GLRB",
    "identifier": "SK",
    "associatedRunwayNumber": "04",
