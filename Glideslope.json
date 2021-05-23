@@ -14736,10 +14736,10 @@
    "associatedRunwayNumber": "4L",
    "frequency": 110750,
    "elevation": 17,
-   "latitude": 40.6753925,
-   "longitude": -74.1794589,
-   "bearing": 25.75,
-   "glideslope": 3.0002575,
+   "latitude": 40.67539265,
+   "longitude": -74.17945881,
+   "bearing": 25.76,
+   "glideslope": 3.0002576,
    "receptionRange": 10
  },
  {
@@ -14762,8 +14762,8 @@
    "associatedRunwayNumber": "11",
    "frequency": 109150,
    "elevation": 17,
-   "latitude": 40.70281376,
-   "longitude": -74.18076123,
+   "latitude": 40.70281372,
+   "longitude": -74.1807607,
    "bearing": 95.01,
    "glideslope": 3.0009501,
    "receptionRange": 10
@@ -14787,11 +14787,11 @@
    "identifier": "IJNN",
    "associatedRunwayNumber": "22R",
    "frequency": 110750,
-   "elevation": 18,
-   "latitude": 40.70256979,
-   "longitude": -74.16217667,
-   "bearing": 205.75,
-   "glideslope": 3.0020575,
+   "elevation": 17,
+   "latitude": 40.70256964,
+   "longitude": -74.16216971,
+   "bearing": 205.76,
+   "glideslope": 3.0020576,
    "receptionRange": 10
  },
  {
@@ -30968,6 +30968,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTFD",
+   "identifier": "IKFZ",
+   "associatedRunwayNumber": "05",
+   "frequency": 108900,
+   "elevation": 51,
+   "latitude": 39.54439711,
+   "longitude": 26.99606333,
+   "bearing": 53.77,
+   "glideslope": 3.0005377,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTFE",
    "identifier": "IBDR",
    "associatedRunwayNumber": "11",
@@ -33957,16 +33970,29 @@
    "receptionRange": 10
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "ORSU",
+   "identifier": "NGA",
+   "associatedRunwayNumber": "13",
+   "frequency": 111100,
+   "elevation": 2492,
+   "latitude": 35.571615,
+   "longitude": 45.30053637,
+   "bearing": 133,
+   "glideslope": 3.00133,
+   "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "ORSU",
    "identifier": "RNJ",
    "associatedRunwayNumber": "31",
    "frequency": 111700,
-   "elevation": 2440,
-   "latitude": 35.550897,
-   "longitude": 45.32535,
-   "bearing": 313.068,
-   "glideslope": 3.00313034,
+   "elevation": 2492,
+   "latitude": 35.5501335,
+   "longitude": 45.3288537,
+   "bearing": 313,
+   "glideslope": 3.00313,
    "receptionRange": 10
  },
  {
@@ -47761,6 +47787,19 @@
    "longitude": 106.803794,
    "bearing": 190.606,
    "glideslope": 3.00189803,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZUKD",
+   "identifier": "IKA",
+   "associatedRunwayNumber": "15",
+   "frequency": 108500,
+   "elevation": 14042,
+   "latitude": 30.15852416,
+   "longitude": 101.72797553,
+   "bearing": 149.42,
+   "glideslope": 3.0014942,
    "receptionRange": 10
  },
  {
