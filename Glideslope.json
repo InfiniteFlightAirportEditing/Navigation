@@ -41629,10 +41629,10 @@
  {
    "name": "GS",
    "airportICAO": "UUMO",
-   "identifier": "IPS",
-   "associatedRunwayNumber": "26",
+   "identifier": "IBS",
+   "associatedRunwayNumber": "25",
    "frequency": 108300,
-   "elevation": 563,
+   "elevation": 564,
    "latitude": 55.50840828,
    "longitude": 37.5198233,
    "bearing": 264.75,
