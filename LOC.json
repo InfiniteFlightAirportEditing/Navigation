@@ -8971,6 +8971,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "GFLL",
+   "identifier": "ISH",
+   "associatedRunwayNumber": "30",
+   "frequency": 109900,
+   "elevation": 92,
+   "latitude": 8.61215611,
+   "longitude": -13.18166377,
+   "bearing": 287.18,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "GLRB",
    "identifier": "SK",
    "associatedRunwayNumber": "04",
