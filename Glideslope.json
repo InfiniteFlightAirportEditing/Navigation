@@ -9193,6 +9193,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "GUCY",
+   "identifier": "CKY",
+   "associatedRunwayNumber": "06",
+   "frequency": 110300,
+   "elevation": 71,
+   "latitude": 9.56724140,
+   "longitude": -13.62337102,
+   "bearing": 49.42,
+   "glideslope": 3.0004942,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "GVAC",
    "identifier": "SL",
    "associatedRunwayNumber": "01",
