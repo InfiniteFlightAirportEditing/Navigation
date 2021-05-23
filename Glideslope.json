@@ -8959,6 +8959,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "GLRB",
+   "identifier": "SK",
+   "associatedRunwayNumber": "04",
+   "frequency": 110300,
+   "elevation": 29,
+   "latitude": 6.22082800,
+   "longitude": -10.37012800,
+   "bearing": 30.94,
+   "glideslope": 3.0003094,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "GMAD",
    "identifier": "ADA",
    "associatedRunwayNumber": "27",
