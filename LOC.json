@@ -48871,19 +48871,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "FCBB",
-   "identifier": "IBV",
-   "associatedRunwayNumber": "23",
-   "frequency": 111700,
-   "elevation": 1052,
-   "latitude": -4.23963908,
-   "longitude": 15.26445203,
-   "bearing": 249.92,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "FWKI",
    "identifier": "KM",
    "associatedRunwayNumber": "14",
