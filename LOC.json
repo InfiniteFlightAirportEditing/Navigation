@@ -9218,6 +9218,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "GQPP",
+   "identifier": "PN",
+   "associatedRunwayNumber": "02",
+   "frequency": 110300,
+   "elevation": 9,
+   "latitude": 20.92229009,
+   "longitude": -17.03282702,
+   "bearing": 14.36,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "GUCY",
    "identifier": "CKY",
    "associatedRunwayNumber": "06",
