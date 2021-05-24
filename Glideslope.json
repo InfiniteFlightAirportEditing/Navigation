@@ -7867,6 +7867,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "FWKI",
+   "identifier": "KM",
+   "associatedRunwayNumber": "14",
+   "frequency": 109900,
+   "elevation": 4029,
+   "latitude": -13.77910706,
+   "longitude": 33.76843987,
+   "bearing": 130,
+   "glideslope": 3.00130,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ETHN",
    "identifier": "INSW",
    "associatedRunwayNumber": "25",

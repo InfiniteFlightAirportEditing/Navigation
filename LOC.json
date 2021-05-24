@@ -48974,15 +48974,15 @@
    "type": 5
  },
  {
-   "name": "LOC",
+   "name": "ILS-CAT-I",
    "airportICAO": "FWKI",
    "identifier": "KM",
    "associatedRunwayNumber": "14",
    "frequency": 109900,
-   "elevation": 4035,
-   "latitude": -13.802222,
-   "longitude": 33.796944,
-   "bearing": 129.84,
+   "elevation": 4029,
+   "latitude": -13.77910706,
+   "longitude": 33.76843987,
+   "bearing": 130,
    "receptionRange": 18,
    "type": 5
  },
