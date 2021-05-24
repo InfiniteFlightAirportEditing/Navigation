@@ -1,7 +1,7 @@
 # Airport ICAO
 Enter text here
 
-#ICAOs issue Number in Airport repository
+# ICAOs issue Number in Airport repository
 Place Link here or enter the number
 
 # Runway(s) with LOC/GS
