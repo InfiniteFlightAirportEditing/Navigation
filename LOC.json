@@ -8489,6 +8489,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "FCPP",
+   "identifier": "PN",
+   "associatedRunwayNumber": "17",
+   "frequency": 109300,
+   "elevation": 56,
+   "latitude": -4.80462941,
+   "longitude": 011.88376025,
+   "bearing": 166.07,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "FEFF",
    "identifier": "BGI",

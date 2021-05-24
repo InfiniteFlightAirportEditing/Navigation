@@ -8478,6 +8478,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "FCPP",
+   "identifier": "PN",
+   "associatedRunwayNumber": "17",
+   "frequency": 109300,
+   "elevation": 56,
+   "latitude": -4.80462941,
+   "longitude": 011.88376025,
+   "bearing": 166.07,
+   "glideslope": 3.0016607,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "FEFF",
    "identifier": "BGI",
    "associatedRunwayNumber": "35",
