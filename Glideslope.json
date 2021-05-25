@@ -8803,6 +8803,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "FYWB",
+   "identifier": "WBI",
+   "associatedRunwayNumber": "27",
+   "frequency": 109300,
+   "elevation": 299,
+   "latitude": -22.97461041,
+   "longitude": 14.66305355,
+   "bearing": 251.87,
+   "glideslope": 3.0025187,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "FYWH",
    "identifier": "WD",
    "associatedRunwayNumber": "26",
