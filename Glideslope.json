@@ -8907,6 +8907,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "GBYD",
+   "identifier": "IYM",
+   "associatedRunwayNumber": "32",
+   "frequency": 109500,
+   "elevation": 93,
+   "latitude": 13.32726779,
+   "longitude": -16.63964699,
+   "bearing": 310.80,
+   "glideslope": 3.0031080,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "GCFV",
    "identifier": "IFV",
    "associatedRunwayNumber": "01",
