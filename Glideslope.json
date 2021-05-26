@@ -21183,11 +21183,11 @@
    "identifier": "IOLM",
    "associatedRunwayNumber": "17",
    "frequency": 111900,
-   "elevation": 192,
-   "latitude": 46.973638,
-   "longitude": -122.905054,
-   "bearing": 191.6,
-   "glideslope": 3.001913,
+   "elevation": 208,
+   "latitude": 46.97636758,
+   "longitude": -122.90242553,
+   "bearing": 191.27,
+   "glideslope": 3.0019127,
    "receptionRange": 10
  },
  {
