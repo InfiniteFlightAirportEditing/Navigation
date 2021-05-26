@@ -47636,6 +47636,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZSZS",
+   "identifier": "IPT",
+   "associatedRunwayNumber": "18",
+   "frequency": 108750,
+   "elevation": 7,
+   "latitude": 29.94551644,
+   "longitude": 122.36111683,
+   "bearing": 174.83,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "ZSZS",
+   "identifier": "IZS",
+   "associatedRunwayNumber": "36",
+   "frequency": 110500,
+   "elevation": 7,
+   "latitude": 29.92306193,
+   "longitude": 122.36346124,
+   "bearing": 354.83,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZUBD",
    "identifier": "IOO",
    "associatedRunwayNumber": "14",
