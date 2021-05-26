@@ -37884,6 +37884,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SCVD",
+   "identifier": "IVLD",
+   "associatedRunwayNumber": "35",
+   "frequency": 110500,
+   "elevation": 59,
+   "latitude": -39.65928837,
+   "longitude": -73.08596788,
+   "bearing": 358.40,
+   "glideslope": 3.0035840,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SCVM",
    "identifier": "IVDM",
    "associatedRunwayNumber": "05",
