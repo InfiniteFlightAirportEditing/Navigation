@@ -21034,7 +21034,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "KOKC",
    "identifier": "IOKC",
    "associatedRunwayNumber": "17R",
@@ -21054,13 +21054,13 @@
    "frequency": 110700,
    "elevation": 1293,
    "latitude": 35.37905292,
-   "longitude": -97.60571030,
-   "bearing": 359.960,
+   "longitude": -97.6057103,
+   "bearing": 356.96,
    "receptionRange": 18,
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "KOKC",
    "identifier": "IRGR",
    "associatedRunwayNumber": "35R",
@@ -21068,7 +21068,7 @@
    "elevation": 1293,
    "latitude": 35.37825263,
    "longitude": -97.58893037,
-   "bearing": 359.960,
+   "bearing": 356.96,
    "receptionRange": 18,
    "type": 4
  },
