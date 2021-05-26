@@ -20839,15 +20839,28 @@
    "type": 4
  },
  {
+   "name": "LOC",
+   "airportICAO": "KNUQ",
+   "identifier": "IMNQ",
+   "associatedRunwayNumber": "14L",
+   "frequency": 110350,
+   "elevation": 33,
+   "latitude": 37.429326,
+   "longitude": -122.05482627,
+   "bearing": 157.8,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {  
    "name": "ILS-cat-I",
    "airportICAO": "KNUQ",
    "identifier": "INUQ",
    "associatedRunwayNumber": "32R",
    "frequency": 110350,
-   "elevation": 7,
-   "latitude": 37.431214,
-   "longitude": -122.055794,
-   "bearing": 337.796,
+   "elevation": 33,
+   "latitude": 37.405542,
+   "longitude": -122.042603,
+   "bearing": 337.8,
    "receptionRange": 18,
    "type": 4
  },
