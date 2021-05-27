@@ -20923,11 +20923,11 @@
    "identifier": "INUQ",
    "associatedRunwayNumber": "32R",
    "frequency": 110350,
-   "elevation": 19,
-   "latitude": 37.408936,
-   "longitude": -122.042486,
-   "bearing": 338.602,
-   "glideslope": 3.00337801,
+   "elevation": 33,
+   "latitude": 37.405542,
+   "longitude": -122.042603,
+   "bearing": 337.8,
+   "glideslope": 3.003378,
    "receptionRange": 10
  },
  {
@@ -20949,11 +20949,11 @@
    "identifier": "IYUM",
    "associatedRunwayNumber": "21R",
    "frequency": 108300,
-   "elevation": 191,
-   "latitude": 32.661822,
-   "longitude": -114.60284,
-   "bearing": 224.97,
-   "glideslope": 3.00223985,
+   "elevation": 211,
+   "latitude": 32.66302426,
+   "longitude": -114.59931119,
+   "bearing": 223.98,
+   "glideslope": 3.0022398,
    "receptionRange": 10
  },
  {
@@ -21095,8 +21095,8 @@
    "elevation": 1293,
    "latitude": 35.40514248,
    "longitude": -97.58895114,
-   "bearing": 179.960,
-   "glideslope": 3.00179960,
+   "bearing": 179.96,
+   "glideslope": 3.0017996,
    "receptionRange": 10
  },
  {
@@ -21109,7 +21109,7 @@
    "latitude": 35.40593376,
    "longitude": -97.60573374,
    "bearing": 179.96,
-   "glideslope": 3.00179960,
+   "glideslope": 3.0017996,
    "receptionRange": 10
  },
  {
@@ -21120,9 +21120,9 @@
    "frequency": 110700,
    "elevation": 1293,
    "latitude": 35.37905292,
-   "longitude": -97.60571030,
-   "bearing": 359.960,
-   "glideslope": 3.00359960,
+   "longitude": -97.6057103,
+   "bearing": 356.96,
+   "glideslope": 3.0035696,
    "receptionRange": 10
  },
  {
@@ -21134,8 +21134,8 @@
    "elevation": 1293,
    "latitude": 35.37825263,
    "longitude": -97.58893037,
-   "bearing": 359.960,
-   "glideslope": 2.90359960,
+   "bearing": 356.96,
+   "glideslope": 3.0035696,
    "receptionRange": 10
  },
  {
@@ -21183,11 +21183,11 @@
    "identifier": "IOLM",
    "associatedRunwayNumber": "17",
    "frequency": 111900,
-   "elevation": 192,
-   "latitude": 46.973638,
-   "longitude": -122.905054,
-   "bearing": 191.6,
-   "glideslope": 3.001913,
+   "elevation": 208,
+   "latitude": 46.97636758,
+   "longitude": -122.90242553,
+   "bearing": 191.27,
+   "glideslope": 3.0019127,
    "receptionRange": 10
  },
  {
@@ -21300,11 +21300,11 @@
    "identifier": "IAOD",
    "associatedRunwayNumber": "08L",
    "frequency": 109700,
-   "elevation": 937,
-   "latitude": 34.055889,
-   "longitude": -117.616636,
-   "bearing": 90.95,
-   "glideslope": 3.00089975,
+   "elevation": 944,
+   "latitude": 34.05688299,
+   "longitude": -117.62286012,
+   "bearing": 89.97,
+   "glideslope": 3.0008997,
    "receptionRange": 10
  },
  {
@@ -21313,11 +21313,11 @@
    "identifier": "ITWO",
    "associatedRunwayNumber": "26L",
    "frequency": 111350,
-   "elevation": 922,
-   "latitude": 34.056081,
-   "longitude": -117.586381,
-   "bearing": 270.926,
-   "glideslope": 3.00269963,
+   "elevation": 944,
+   "latitude": 34.05498158,
+   "longitude": -117.58258521,
+   "bearing": 269.97,
+   "glideslope": 3.0026997,
    "receptionRange": 10
  },
  {
@@ -21326,11 +21326,11 @@
    "identifier": "IONT",
    "associatedRunwayNumber": "26R",
    "frequency": 109700,
-   "elevation": 929,
-   "latitude": 34.056117,
-   "longitude": -117.586383,
-   "bearing": 270.95,
-   "glideslope": 3.00269975,
+   "elevation": 944,
+   "latitude": 34.05690046,
+   "longitude": -117.58258502,
+   "bearing": 269.97,
+   "glideslope": 3.0026997,
    "receptionRange": 10
  },
  {
