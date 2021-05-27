@@ -31150,6 +31150,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTFG",
+   "identifier": "IGZP",
+   "associatedRunwayNumber": "08",
+   "frequency": 108500,
+   "elevation": 125,
+   "latitude": 36.29727245,
+   "longitude": 32.28388041,
+   "bearing": 81.74,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTFH",
    "identifier": "ICRM",
    "associatedRunwayNumber": "13",
