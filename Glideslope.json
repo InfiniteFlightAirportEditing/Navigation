@@ -20934,13 +20934,13 @@
    "name": "GS",
    "airportICAO": "KNUW",
    "identifier": "INUW",
-   "associatedRunwayNumber": "13",
+   "associatedRunwayNumber": "14",
    "frequency": 110100,
    "elevation": 47,
-   "latitude": 48.3589,
-   "longitude": -122.661286,
-   "bearing": 155.428,
-   "glideslope": 3.00154714,
+   "latitude": 48.36165705,
+   "longitude": -122.66247393,
+   "bearing": 154.72,
+   "glideslope": 3.0015472,
    "receptionRange": 10
  },
  {
