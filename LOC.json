@@ -17134,15 +17134,28 @@
    "type": 4
  },
  {
+   "name": "LOC BC",
+   "airportICAO": "KIDA",
+   "identifier": "IIDA",
+   "associatedRunwayNumber": "3",
+   "frequency": 111100,
+   "elevation": 4744,
+   "latitude": 43.50251481,
+   "longitude": -112.08523094,
+   "bearing": 37.92,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {  
    "name": "ILS-cat-I",
    "airportICAO": "KIDA",
    "identifier": "IIDA",
-   "associatedRunwayNumber": "20",
+   "associatedRunwayNumber": "21",
    "frequency": 111100,
-   "elevation": 4731,
-   "latitude": 43.500189,
-   "longitude": -112.087708,
-   "bearing": 217.903,
+   "elevation": 4744,
+   "latitude": 43.52196891,
+   "longitude": -112.0643366,
+   "bearing": 217.92,
    "receptionRange": 18,
    "type": 4
  },
