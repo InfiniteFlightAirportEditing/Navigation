@@ -8842,6 +8842,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "FYWB",
+   "identifier": "WBI",
+   "associatedRunwayNumber": "27",
+   "frequency": 109300,
+   "elevation": 299,
+   "latitude": -22.97461041,
+   "longitude": 14.66305355,
+   "bearing": 251.87,
+   "glideslope": 3.0025187,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "FYWH",
    "identifier": "WD",
    "associatedRunwayNumber": "26",
@@ -8890,6 +8903,19 @@
    "longitude": -7.96035129,
    "bearing": 56.54,
    "glideslope": 3.0005651,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "GBYD",
+   "identifier": "IYM",
+   "associatedRunwayNumber": "32",
+   "frequency": 109500,
+   "elevation": 93,
+   "latitude": 13.32726779,
+   "longitude": -16.63964699,
+   "bearing": 310.80,
+   "glideslope": 3.0031080,
    "receptionRange": 10
  },
  {
@@ -37884,6 +37910,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SCVD",
+   "identifier": "IVLD",
+   "associatedRunwayNumber": "35",
+   "frequency": 110500,
+   "elevation": 59,
+   "latitude": -39.65928837,
+   "longitude": -73.08596788,
+   "bearing": 358.40,
+   "glideslope": 3.0035840,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SCVM",
    "identifier": "IVDM",
    "associatedRunwayNumber": "05",
@@ -47826,6 +47865,32 @@
    "longitude": 120.02829679,
    "bearing": 18.2,
    "glideslope": 3.000182,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZSZS",
+   "identifier": "IPT",
+   "associatedRunwayNumber": "18",
+   "frequency": 108750,
+   "elevation": 7,
+   "latitude": 29.94551644,
+   "longitude": 122.36111683,
+   "bearing": 174.83,
+   "glideslope": 3.0017483,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZSZS",
+   "identifier": "IZS",
+   "associatedRunwayNumber": "36",
+   "frequency": 110500,
+   "elevation": 7,
+   "latitude": 29.92306193,
+   "longitude": 122.36346124,
+   "bearing": 354.83,
+   "glideslope": 3.0035483,
    "receptionRange": 10
  },
  {
