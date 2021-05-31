@@ -41212,6 +41212,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "USRO",
+   "identifier": "IUC",
+   "associatedRunwayNumber": "19",
+   "frequency": 108500,
+   "elevation": 447,
+   "latitude": 63.19411906,
+   "longitude": 75.27949877,
+   "bearing": 204.91,
+   "glideslope": 2.6720491,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "USSS",
    "identifier": "IKO",
    "associatedRunwayNumber": "08L",
