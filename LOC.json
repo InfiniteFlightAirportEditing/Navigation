@@ -42420,6 +42420,19 @@
    "type": 4
  },
  {
+  "name": "ILS-cat-I",
+  "airportICAO": "VAOZ",
+  "identifier": "IOZR",
+  "associatedRunwayNumber": "27",
+  "frequency": 110700,
+  "elevation": 1995,
+  "latitude": 20.1209573,
+  "longitude": 73.92765616,
+  "bearing": 264.16,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "VARK",
    "identifier": "IRAJ",

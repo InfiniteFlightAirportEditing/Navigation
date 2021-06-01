@@ -42563,6 +42563,19 @@
    "receptionRange": 10
  },
  {
+  "name": "GS",
+  "airportICAO": "VAOZ",
+  "identifier": "IOZR",
+  "associatedRunwayNumber": "27",
+  "frequency": 110700,
+  "elevation": 1995,
+  "latitude": 20.1209573,
+  "longitude": 73.92765616,
+  "bearing": 264.16,
+  "glideslope": 3.0026416,
+  "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "VARK",
    "identifier": "IRAJ",
