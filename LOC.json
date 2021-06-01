@@ -2067,15 +2067,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "DRRN",
    "identifier": "NM",
    "associatedRunwayNumber": "09R",
    "frequency": 109900,
    "elevation": 731,
-   "latitude": 13.481505,
-   "longitude": 2.166605,
-   "bearing": 87.24,
+   "latitude": 13.48076656,
+   "longitude": 2.16934833,
+   "bearing": 87.28,
    "receptionRange": 18,
    "type": 4
  },
