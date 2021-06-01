@@ -2191,10 +2191,10 @@
    "associatedRunwayNumber": "09",
    "frequency": 110500,
    "elevation": 287,
-   "latitude": 33.940722,
-   "longitude": 8.086917,
-   "bearing": 90.166,
-   "glideslope": 3.00090083,
+   "latitude": 33.93966271,
+   "longitude": 8.08357432,
+   "bearing": 90.09,
+   "glideslope": 3.0009009,
    "receptionRange": 10
  },
  {
