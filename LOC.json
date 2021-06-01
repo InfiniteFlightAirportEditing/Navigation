@@ -12914,9 +12914,9 @@
    "identifier": "ICOU",
    "associatedRunwayNumber": "2",
    "frequency": 110700,
-   "elevation": 880,
-   "latitude": 38.823364,
-   "longitude": -92.214622,
+   "elevation": 889,
+   "latitude": 38.80522039,
+   "longitude": -92.22373343,
    "bearing": 21.36,
    "receptionRange": 18,
    "type": 4
