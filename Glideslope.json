@@ -18778,11 +18778,11 @@
    "identifier": "ILSF",
    "associatedRunwayNumber": "33",
    "frequency": 110700,
-   "elevation": 232,
-   "latitude": 32.323853,
-   "longitude": -84.982131,
-   "bearing": 325.688,
-   "glideslope": 3.00324844,
+   "elevation": 227,
+   "latitude": 32.32056647,
+   "longitude": -84.97780191,
+   "bearing": 324.83,
+   "glideslope": 3.0032483,
    "receptionRange": 10
  },
  {
