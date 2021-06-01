@@ -2080,15 +2080,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "DTKA",
    "identifier": "TAB",
    "associatedRunwayNumber": "27",
    "frequency": 110700,
    "elevation": 230,
-   "latitude": 36.980944,
-   "longitude": 8.857056,
-   "bearing": 273.067,
+   "latitude": 36.97948652,
+   "longitude": 8.89118595,
+   "bearing": 273.04,
    "receptionRange": 18,
    "type": 4
  },
