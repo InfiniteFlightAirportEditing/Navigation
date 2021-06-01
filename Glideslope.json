@@ -16438,11 +16438,11 @@
    "identifier": "IJHF",
    "associatedRunwayNumber": "16",
    "frequency": 111700,
-   "elevation": 334,
-   "latitude": 32.339569,
-   "longitude": -90.226072,
-   "bearing": 159.654,
-   "glideslope": 3.00158827,
+   "elevation": 341,
+   "latitude": 32.34289127,
+   "longitude": -90.22673648,
+   "bearing": 158.82,
+   "glideslope": 3.0015882,
    "receptionRange": 10
  },
  {
