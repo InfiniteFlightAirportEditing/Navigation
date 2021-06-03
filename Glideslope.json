@@ -18284,11 +18284,11 @@
    "identifier": "ILBF",
    "associatedRunwayNumber": "30",
    "frequency": 111500,
-   "elevation": 2768,
-   "latitude": 41.121867,
-   "longitude": -100.668792,
-   "bearing": 306.8,
-   "glideslope": 3.003059,
+   "elevation": 2777,
+   "latitude": 41.11937209,
+   "longitude": -100.66671047,
+   "bearing": 305.99,
+   "glideslope": 3.0030599,
    "receptionRange": 10
  },
  {
