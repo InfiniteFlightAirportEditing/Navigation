@@ -40983,8 +40983,8 @@
    "associatedRunwayNumber": "02",
    "frequency": 110500,
    "elevation": 83,
-   "latitude": 43.43437181,
-   "longitude": 39.94455967,
+   "latitude": 43.45502925,
+   "longitude": 39.96015849,
    "bearing": 28.62,
    "receptionRange": 18,
    "type": 4
@@ -40996,9 +40996,9 @@
    "associatedRunwayNumber": "06",
    "frequency": 111100,
    "elevation": 83,
-   "latitude": 43.43948957,
-   "longitude": 39.92574192,
-   "bearing": 64.76,
+   "latitude": 43.45342888,
+   "longitude": 39.96670761,
+   "bearing": 64.79,
    "receptionRange": 18,
    "type": 4
  },
