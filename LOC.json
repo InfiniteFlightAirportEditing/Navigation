@@ -35938,10 +35938,10 @@
    "identifier": "INC",
    "associatedRunwayNumber": "28",
    "frequency": 109300,
-   "elevation": 33,
+   "elevation": 5,
    "latitude": 37.956944,
    "longitude": 139.092942,
-   "bearing": 272.688,
+   "bearing": 272.70,
    "receptionRange": 18,
    "type": 4
  },

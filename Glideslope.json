@@ -35925,11 +35925,11 @@
    "identifier": "INC",
    "associatedRunwayNumber": "28",
    "frequency": 109300,
-   "elevation": 58,
+   "elevation": 5,
    "latitude": 37.957028,
    "longitude": 139.119825,
-   "bearing": 273.392,
-   "glideslope": 3.00272696,
+   "bearing": 272.70,
+   "glideslope": 3.0027270,
    "receptionRange": 10
  },
  {
