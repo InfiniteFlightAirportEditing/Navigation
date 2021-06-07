@@ -34714,13 +34714,13 @@
    "name": "GS",
    "airportICAO": "PGSN",
    "identifier": "IGSN",
-   "associatedRunwayNumber": "07",
+   "associatedRunwayNumber": "7",
    "frequency": 109900,
    "elevation": 215,
-   "latitude": 15.116217,
-   "longitude": 145.720303,
-   "bearing": 68.354,
-   "glideslope": 3.00067677,
+   "latitude": 15.11445896,
+   "longitude": 145.71791755,
+   "bearing": 67.67,
+   "glideslope": 3.0006767,
    "receptionRange": 10
  },
  {
