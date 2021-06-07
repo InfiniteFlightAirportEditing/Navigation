@@ -32116,11 +32116,11 @@
    "identifier": "LT",
    "associatedRunwayNumber": "11",
    "frequency": 109900,
-   "elevation": 24,
-   "latitude": -22.008066,
-   "longitude": 166.203384,
-   "bearing": 121.4,
-   "glideslope": 3.001212,
+   "elevation": 51,
+   "latitude": -22.00693782,
+   "longitude": 166.19951726,
+   "bearing": 121.24,
+   "glideslope": 3.0012124,
    "receptionRange": 10
  },
  {
