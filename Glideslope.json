@@ -38551,11 +38551,11 @@
    "identifier": "IBE",
    "associatedRunwayNumber": "11",
    "frequency": 108700,
-   "elevation": 10,
-   "latitude": 12.502575,
-   "longitude": -70.024808,
-   "bearing": 104.166,
-   "glideslope": 2.98104083,
+   "elevation": 60,
+   "latitude": 12.50449065,
+   "longitude": -70.0282816,
+   "bearing": 103.64,
+   "glideslope": 3.0010364,
    "receptionRange": 10
  },
  {
