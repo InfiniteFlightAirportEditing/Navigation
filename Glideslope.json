@@ -16672,11 +16672,11 @@
    "identifier": "IHRL",
    "associatedRunwayNumber": "17R",
    "frequency": 111500,
-   "elevation": 34,
-   "latitude": 26.237483,
-   "longitude": -97.657383,
-   "bearing": 181.264,
-   "glideslope": 3.00180632,
+   "elevation": 36,
+   "latitude": 26.24038604,
+   "longitude": -97.65857318,
+   "bearing": 180.65,
+   "glideslope": 3.0018065,
    "receptionRange": 10
  },
  {
