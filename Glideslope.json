@@ -16672,11 +16672,11 @@
    "identifier": "IHRL",
    "associatedRunwayNumber": "17R",
    "frequency": 111500,
-   "elevation": 34,
-   "latitude": 26.237483,
-   "longitude": -97.657383,
-   "bearing": 181.264,
-   "glideslope": 3.00180632,
+   "elevation": 36,
+   "latitude": 26.24038604,
+   "longitude": -97.65857318,
+   "bearing": 180.65,
+   "glideslope": 3.0018065,
    "receptionRange": 10
  },
  {
@@ -43348,11 +43348,11 @@
    "identifier": "IDAB",
    "associatedRunwayNumber": "26",
    "frequency": 110300,
-   "elevation": 183,
-   "latitude": 15.383856,
-   "longitude": 73.848373,
-   "bearing": 258.64,
-   "glideslope": 3.10258640,
+   "elevation": 186,
+   "latitude": 15.38387659,
+   "longitude": 73.84843860,
+   "bearing": 258.63,
+   "glideslope": 3.1025863,
    "receptionRange": 10
  },
  {
@@ -46992,7 +46992,7 @@
    "latitude": 21.98479992,
    "longitude": 100.75845733,
    "bearing": 160.78,
-   "glideslope": 3.0016078,
+   "glideslope": 3.5016078,
    "receptionRange": 10
  },
  {
