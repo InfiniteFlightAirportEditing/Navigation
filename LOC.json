@@ -50132,19 +50132,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "KHYR",
-   "identifier": "IHTY",
-   "associatedRunwayNumber": "20",
-   "frequency": 108500,
-   "elevation": 1207,
-   "latitude": 46.018286,
-   "longitude": -91.449258,
-   "bearing": 204.704,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "KHZL",
    "identifier": "IHZL",
    "associatedRunwayNumber": "28",
