@@ -24680,11 +24680,11 @@
    "identifier": "ISTJ",
    "associatedRunwayNumber": "35",
    "frequency": 110300,
-   "elevation": 812,
-   "latitude": 39.766033,
-   "longitude": -94.908392,
-   "bearing": 0.024,
-   "glideslope": 2.80000012,
+   "elevation": 827,
+   "latitude": 39.76245148,
+   "longitude": -94.90692622,
+   "bearing": 0.01,
+   "glideslope": 2.8000001,
    "receptionRange": 10
  },
  {
