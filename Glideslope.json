@@ -34207,13 +34207,13 @@
    "name": "GS",
    "airportICAO": "OSLK",
    "identifier": "IBA",
-   "associatedRunwayNumber": "17",
+   "associatedRunwayNumber": "17R",
    "frequency": 109100,
    "elevation": 157,
-   "latitude": 35.411028,
-   "longitude": 35.949472,
-   "bearing": 177.242,
-   "glideslope": 3.00176621,
+   "latitude": 35.41375847,
+   "longitude": 35.94746957,
+   "bearing": 176.62,
+   "glideslope": 3.0017662,
    "receptionRange": 10
  },
  {
