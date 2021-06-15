@@ -5863,15 +5863,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "EIKN",
    "identifier": "ICK",
-   "associatedRunwayNumber": "27",
+   "associatedRunwayNumber": "26",
    "frequency": 110700,
-   "elevation": 593,
-   "latitude": 53.907928,
-   "longitude": -8.838617,
-   "bearing": 258.691,
+   "elevation": 665,
+   "latitude": 53.91239661,
+   "longitude": -8.80057939,
+   "bearing": 258.71,
    "receptionRange": 18,
    "type": 4
  },
