@@ -25875,12 +25875,12 @@
    "airportICAO": "LATI",
    "identifier": "ITR",
    "associatedRunwayNumber": "17",
-   "frequency": 110300,
+   "frequency": 109100,
    "elevation": 125,
-   "latitude": 41.42696593,
-   "longitude": 19.71898365,
-   "bearing": 174.35,
-   "glideslope": 3.017435,
+   "latitude": 41.426985,
+   "longitude": 19.718954,
+   "bearing": 174.30,
+   "glideslope": 3.017430,
    "receptionRange": 10
  },
  {
