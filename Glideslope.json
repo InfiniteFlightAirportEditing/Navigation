@@ -35791,6 +35791,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "RJOR",
+   "identifier": "ITR",
+   "associatedRunwayNumber": "10",
+   "frequency": 111500,
+   "elevation": 47,
+   "latitude": 35.53064416,
+   "longitude": 134.15402145,
+   "bearing": 93.82,
+   "glideslope": 3.0009382,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "RJOS",
    "identifier": "ITS",
    "associatedRunwayNumber": "29",
