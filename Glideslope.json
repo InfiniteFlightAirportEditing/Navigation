@@ -35934,6 +35934,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "RJSR",
+   "identifier": "IOD",
+   "associatedRunwayNumber": "11",
+   "frequency": 110150,
+   "elevation": 276,
+   "latitude": 40.19343178,
+   "longitude": 140.35985023,
+   "bearing": 100.10,
+   "glideslope": 3.0010010,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "RJSS",
    "identifier": "ISD",
    "associatedRunwayNumber": "27",
