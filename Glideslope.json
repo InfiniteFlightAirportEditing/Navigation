@@ -41915,7 +41915,7 @@
  {
    "name": "GS",
    "airportICAO": "UUMO",
-   "identifier": "IBS",
+   "identifier": "IPS",
    "associatedRunwayNumber": "25",
    "frequency": 108300,
    "elevation": 564,
