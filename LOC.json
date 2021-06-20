@@ -50249,6 +50249,19 @@
  },
  {
    "name": "LOC",
+   "airportICAO": "KITR",
+   "identifier": "IOBG",
+   "associatedRunwayNumber": "33",
+   "frequency": 111900,
+   "elevation": 4218,
+   "latitude": 39.23581109,
+   "longitude": -102.28223494,
+   "bearing": 339.97,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
+   "name": "LOC",
    "airportICAO": "KJLN",
    "identifier": "IJLN",
    "associatedRunwayNumber": "31",
