@@ -24732,11 +24732,11 @@
    "identifier": "ISVN",
    "associatedRunwayNumber": "28",
    "frequency": 109500,
-   "elevation": 42,
-   "latitude": 32.008425,
-   "longitude": -81.130781,
-   "bearing": 272.39,
-   "glideslope": 3.00272195,
+   "elevation": 41,
+   "latitude": 32.00942495,
+   "longitude": -81.12764789,
+   "bearing": 272.18,
+   "glideslope": 3.0027218,
    "receptionRange": 10
  },
  {
