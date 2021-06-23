@@ -34113,7 +34113,7 @@
    "type": 4
  },
  {
-  "name": "ILS-cat-I",
+   "name": "ILS-cat-I",
    "airportICAO": "ORER",
    "identifier": "IREB",
    "associatedRunwayNumber": "36",
@@ -34121,7 +34121,7 @@
    "elevation": 1340,
    "latitude": 36.21649381,
    "longitude": 43.94654817,
-   "bearing": 298.37,
+   "bearing": 360.37,
    "receptionRange": 18,
    "type": 4
   },

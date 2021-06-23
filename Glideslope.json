@@ -34100,7 +34100,7 @@
    "receptionRange": 10
  },
  {
-  "name": "GS",
+   "name": "GS",
    "airportICAO": "ORER",
    "identifier": "IREB",
    "associatedRunwayNumber": "36",
@@ -34108,7 +34108,7 @@
    "elevation": 1340,
    "latitude": 36.21649381,
    "longitude": 43.94654817,
-   "bearing": 298.37,
+   "bearing": 360.37,
    "glideslope": 3.0029837,
    "receptionRange": 10
   },
