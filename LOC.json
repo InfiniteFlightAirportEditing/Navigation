@@ -34101,6 +34101,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ORER",
+   "identifier": "IREA",
+   "associatedRunwayNumber": "18",
+   "frequency": 109100,
+   "elevation": 1340,
+   "latitude": 36.25973713,
+   "longitude": 43.94688994,
+   "bearing": 180.37,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+  "name": "ILS-cat-I",
+   "airportICAO": "ORER",
+   "identifier": "IREB",
+   "associatedRunwayNumber": "36",
+   "frequency": 109700,
+   "elevation": 1340,
+   "latitude": 36.21649381,
+   "longitude": 43.94654817,
+   "bearing": 298.37,
+   "receptionRange": 18,
+   "type": 4
+  },
+  {
+   "name": "ILS-cat-I",
    "airportICAO": "ORKK",
    "identifier": "IAK",
    "associatedRunwayNumber": "32",
