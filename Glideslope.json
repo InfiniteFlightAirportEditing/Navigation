@@ -2242,11 +2242,11 @@
    "identifier": "IAD",
    "associatedRunwayNumber": "29",
    "frequency": 111750,
-   "elevation": 39,
-   "latitude": 51.192288,
-   "longitude": 4.452791,
-   "bearing": 289.84,
-   "glideslope": 3.0028984,
+   "elevation": 32,
+   "latitude": 51.18770714,
+   "longitude": 4.47321396,
+   "bearing": 289.77,
+   "glideslope": 3.0028977,
    "receptionRange": 10
  },
  {
@@ -13017,13 +13017,13 @@
    "name": "GS",
    "airportICAO": "KCPR",
    "identifier": "ISYD",
-   "associatedRunwayNumber": "03",
+   "associatedRunwayNumber": "3",
    "frequency": 111300,
-   "elevation": 5321,
-   "latitude": 42.895978,
-   "longitude": -106.473733,
-   "bearing": 44.4,
-   "glideslope": 3.000437,
+   "elevation": 5344,
+   "latitude": 42.89340465,
+   "longitude": -106.47504487,
+   "bearing": 43.8,
+   "glideslope": 3.000438,
    "receptionRange": 10
  },
  {
@@ -21705,9 +21705,9 @@
    "frequency": 110500,
    "elevation": 808,
    "latitude": 43.96384533,
-   "longitude": -88.55642746,
-   "bearing": 360.54,
-   "glideslope": 3.0036054,
+   "longitude": -88.55670988,
+   "bearing": 360.53,
+   "glideslope": 3.0036053,
    "receptionRange": 10
  },
  {
@@ -27583,7 +27583,7 @@
    "latitude": 41.50981325,
    "longitude": 9.10794456,
    "bearing": 227.44,
-   "glideslope": 3.5022744,
+   "glideslope": 3.0022744,
    "receptionRange": 10
  },
  {
@@ -38577,11 +38577,11 @@
    "identifier": "IBE",
    "associatedRunwayNumber": "11",
    "frequency": 108700,
-   "elevation": 10,
-   "latitude": 12.502575,
-   "longitude": -70.024808,
-   "bearing": 104.166,
-   "glideslope": 2.98104083,
+   "elevation": 60,
+   "latitude": 12.50449065,
+   "longitude": -70.0282816,
+   "bearing": 103.64,
+   "glideslope": 3.0010364,
    "receptionRange": 10
  },
  {
