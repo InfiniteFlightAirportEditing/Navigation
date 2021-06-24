@@ -42174,6 +42174,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "VEJH",
+   "identifier": "IJHR",
+   "associatedRunwayNumber": "24",
+   "frequency": 108500,
+   "elevation": 751,
+   "latitude": 21.91853461,
+   "longitude": 84.06196429,
+   "bearing": 242.61,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "VELP:",
    "identifier": "ILNP",
    "associatedRunwayNumber": "17",
