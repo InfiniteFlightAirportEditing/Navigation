@@ -30345,27 +30345,14 @@
  {
    "name": "GS",
    "airportICAO": "LRCK",
-   "identifier": "ICT",
-   "associatedRunwayNumber": "18",
-   "frequency": 109500,
-   "elevation": 353,
-   "latitude": 44.374297,
-   "longitude": 28.492075,
-   "bearing": 186.146,
-   "glideslope": 3.50185573,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "LRCK",
    "identifier": "ICK",
    "associatedRunwayNumber": "36",
    "frequency": 110300,
-   "elevation": 315,
-   "latitude": 44.34965,
-   "longitude": 28.4889,
-   "bearing": 6.146,
-   "glideslope": 2.50005573,
+   "elevation": 353,
+   "latitude": 44.34644436,
+   "longitude": 28.48631556,
+   "bearing": 5.57,
+   "glideslope": 2.5000557,
    "receptionRange": 10
  },
  {

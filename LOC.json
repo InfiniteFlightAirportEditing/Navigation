@@ -30343,28 +30343,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
-   "airportICAO": "LRCK",
-   "identifier": "ICT",
-   "associatedRunwayNumber": "18",
-   "frequency": 109500,
-   "elevation": 353,
-   "latitude": 44.344022,
-   "longitude": 28.485983,
-   "bearing": 185.573,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "LRCK",
    "identifier": "ICK",
    "associatedRunwayNumber": "36",
    "frequency": 110300,
-   "elevation": 315,
-   "latitude": 44.381664,
-   "longitude": 28.491122,
-   "bearing": 5.573,
+   "elevation": 353,
+   "latitude": 44.34644436,
+   "longitude": 28.48631556,
+   "bearing": 5.57,
    "receptionRange": 18,
    "type": 4
  },
