@@ -30916,6 +30916,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTAN",
+   "identifier": "IKNY",
+   "associatedRunwayNumber": "01L",
+   "frequency": 108900,
+   "elevation": 3392,
+   "latitude": 37.96511968,
+   "longitude": 32.55414323,
+   "bearing": 16.65,
+   "glideslope": 3.0001665,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTAU",
    "identifier": "IKSR",
    "associatedRunwayNumber": "25",
