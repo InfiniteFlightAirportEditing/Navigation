@@ -7933,14 +7933,27 @@
  {
    "name": "GS",
    "airportICAO": "ETMN",
-   "identifier": "NDO",
-   "associatedRunwayNumber": "26",
-   "frequency": 111900,
+   "identifier": "INOW",
+   "associatedRunwayNumber": "08",
+   "frequency": 329750,
    "elevation": 74,
-   "latitude": 53.770333,
-   "longitude": 8.671167,
-   "bearing": 258.604,
-   "glideslope": 3.00258302,
+   "latitude": 53.767033,
+   "longitude": 8.644520,
+   "bearing": 75,
+   "glideslope": 3.00075,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ETMN",
+   "identifier": "INOW",
+   "associatedRunwayNumber": "26",
+   "frequency": 333350,
+   "elevation": 74,
+   "latitude": 53.768268,
+   "longitude": 8.6730733,
+   "bearing": 256,
+   "glideslope": 3.00256,
    "receptionRange": 10
  },
  {
@@ -7953,7 +7966,7 @@
    "latitude": 52.584988,
    "longitude": 8.347313,
    "bearing": 265,
-   "glideslope": 3.202645,
+   "glideslope": 3.20265,
    "receptionRange": 10
  },
  {
