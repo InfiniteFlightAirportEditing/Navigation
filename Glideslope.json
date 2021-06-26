@@ -21142,13 +21142,13 @@
    "name": "GS",
    "airportICAO": "KOGD",
    "identifier": "IOGD",
-   "associatedRunwayNumber": "03",
+   "associatedRunwayNumber": "3",
    "frequency": 111700,
-   "elevation": 4454,
-   "latitude": 41.1913,
-   "longitude": -112.018356,
-   "bearing": 45.448,
-   "glideslope": 3.00044724,
+   "elevation": 4473,
+   "latitude": 41.1880262,
+   "longitude": -112.0208203,
+   "bearing": 44.73,
+   "glideslope": 3.0004473,
    "receptionRange": 10
  },
  {
@@ -30358,27 +30358,14 @@
  {
    "name": "GS",
    "airportICAO": "LRCK",
-   "identifier": "ICT",
-   "associatedRunwayNumber": "18",
-   "frequency": 109500,
-   "elevation": 353,
-   "latitude": 44.374297,
-   "longitude": 28.492075,
-   "bearing": 186.146,
-   "glideslope": 3.50185573,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "LRCK",
    "identifier": "ICK",
    "associatedRunwayNumber": "36",
    "frequency": 110300,
-   "elevation": 315,
-   "latitude": 44.34965,
-   "longitude": 28.4889,
-   "bearing": 6.146,
-   "glideslope": 2.50005573,
+   "elevation": 353,
+   "latitude": 44.34644436,
+   "longitude": 28.48631556,
+   "bearing": 5.57,
+   "glideslope": 2.5000557,
    "receptionRange": 10
  },
  {
@@ -30938,6 +30925,19 @@
    "longitude": 33.79740765,
    "bearing": 186.51,
    "glideslope": 3.0018651,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "LTAN",
+   "identifier": "IKNY",
+   "associatedRunwayNumber": "01L",
+   "frequency": 108900,
+   "elevation": 3392,
+   "latitude": 37.96511968,
+   "longitude": 32.55414323,
+   "bearing": 16.65,
+   "glideslope": 3.0001665,
    "receptionRange": 10
  },
  {
@@ -41928,7 +41928,7 @@
  {
    "name": "GS",
    "airportICAO": "UUMO",
-   "identifier": "IBS",
+   "identifier": "IPS",
    "associatedRunwayNumber": "25",
    "frequency": 108300,
    "elevation": 564,
