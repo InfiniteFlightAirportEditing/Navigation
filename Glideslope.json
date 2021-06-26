@@ -34443,11 +34443,11 @@
    "identifier": "IBER",
    "associatedRunwayNumber": "23",
    "frequency": 108900,
-   "elevation": 18,
-   "latitude": 51.8883,
-   "longitude": -176.635194,
-   "bearing": 241.012,
-   "glideslope": 2.75240506,
+   "elevation": 19,
+   "latitude": 51.88882837,
+   "longitude": -176.62748082,
+   "bearing": 240.60,
+   "glideslope": 3.5024060,
    "receptionRange": 10
  },
  {
