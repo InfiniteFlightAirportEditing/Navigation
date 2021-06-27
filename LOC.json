@@ -48396,9 +48396,9 @@
    "associatedRunwayNumber": "07",
    "frequency": 109900,
    "elevation": 35,
-   "latitude": 47.42933273,
-   "longitude": -61.77099991,
-   "bearing": 52.555,
+   "latitude": 47.42054365,
+   "longitude": -61.78775011,
+   "bearing": 52.55,
    "receptionRange": 18,
    "type": 5
  },
