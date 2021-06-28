@@ -41238,6 +41238,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "USKK",
+   "identifier": "IOR",
+   "associatedRunwayNumber": "03",
+   "frequency": 109300,
+   "elevation": 486,
+   "latitude": 58.4953139,
+   "longitude": 49.3297722,
+   "bearing": 47.77,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "USKK",
+   "identifier": "IXA",
+   "associatedRunwayNumber": "21",
+   "frequency": 109900,
+   "elevation": 486,
+   "latitude": 58.5116083,
+   "longitude": 49.3641222,
+   "bearing": 227.77,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "USNN",
    "identifier": "IJN",
    "associatedRunwayNumber": "03",
