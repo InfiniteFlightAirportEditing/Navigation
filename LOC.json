@@ -17842,9 +17842,9 @@
    "associatedRunwayNumber": "25",
    "frequency": 109700,
    "elevation": 1723,
-   "latitude": 42.147481,
-   "longitude": -79.269617,
-   "bearing": 238.853,
+   "latitude": 42.15566407,
+   "longitude": -79.25137244,
+   "bearing": 238.86,
    "receptionRange": 18,
    "type": 4
  },

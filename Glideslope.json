@@ -17907,11 +17907,11 @@
    "identifier": "IJHW",
    "associatedRunwayNumber": "25",
    "frequency": 109700,
-   "elevation": 1703,
-   "latitude": 42.153508,
-   "longitude": -79.254017,
-   "bearing": 239.718,
-   "glideslope": 3.00238859,
+   "elevation": 1723,
+   "latitude": 42.15566407,
+   "longitude": -79.25137244,
+   "bearing": 238.86,
+   "glideslope": 3.0023886,
    "receptionRange": 10
  },
  {
