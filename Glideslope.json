@@ -41303,6 +41303,45 @@
  },
  {
    "name": "GS",
+   "airportICAO": "USKK",
+   "identifier": "IOR",
+   "associatedRunwayNumber": "03",
+   "frequency": 109300,
+   "elevation": 486,
+   "latitude": 58.4953139,
+   "longitude": 49.3297722,
+   "bearing": 47.77,
+   "glideslope": 3.0004777,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "USKK",
+   "identifier": "IXA",
+   "associatedRunwayNumber": "21",
+   "frequency": 109900,
+   "elevation": 486,
+   "latitude": 58.5116083,
+   "longitude": 49.3641222,
+   "bearing": 227.77,
+   "glideslope": 3.0022777,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "USMU",
+   "identifier": "IYC",
+   "associatedRunwayNumber": "27",
+   "frequency": 109500,
+   "elevation": 213,
+   "latitude": 66.0665306,
+   "longitude": 76.5463222,
+   "bearing": 287.72,
+   "glideslope": 3.0028772,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "USNN",
    "identifier": "IJN",
    "associatedRunwayNumber": "03",
@@ -48307,6 +48346,19 @@
    "longitude": 87.0091133,
    "bearing": 307.09,
    "glideslope": 3.0030709,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZWKC",
+   "identifier": "IKC",
+   "associatedRunwayNumber": "26",
+   "frequency": 108900,
+   "elevation": 3523,
+   "latitude": 41.67898288,
+   "longitude": 82.88846891,
+   "bearing": 263.21,
+   "glideslope": 3.0026321,
    "receptionRange": 10
  },
  {
