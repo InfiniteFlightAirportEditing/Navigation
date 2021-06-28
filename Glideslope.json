@@ -9249,11 +9249,11 @@
    "identifier": "IDS",
    "associatedRunwayNumber": "01",
    "frequency": 110100,
-   "elevation": 289,
-   "latitude": 14.65517852,
-   "longitude": -17.07268372,
-   "bearing": 359.46,
-   "glideslope": 3.0035946,
+   "elevation": 290,
+   "latitude": 14.68933799,
+   "longitude": -17.07298709,
+   "bearing": 359.49,
+   "glideslope": 3.0035949,
    "receptionRange": 10
  },
  {
@@ -35964,11 +35964,11 @@
    "identifier": "INC",
    "associatedRunwayNumber": "28",
    "frequency": 109300,
-   "elevation": 58,
+   "elevation": 5,
    "latitude": 37.957028,
    "longitude": 139.119825,
-   "bearing": 273.392,
-   "glideslope": 3.00272696,
+   "bearing": 272.70,
+   "glideslope": 3.0027270,
    "receptionRange": 10
  },
  {
