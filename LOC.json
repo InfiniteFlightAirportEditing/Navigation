@@ -41433,6 +41433,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "USRR",
+   "identifier": "IGK",
+   "associatedRunwayNumber": "07",
+   "frequency": 110500,
+   "elevation": 200,
+   "latitude": 61.34379566,
+   "longitude": 73.37604177,
+   "bearing": 89.62,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "USRR",
+   "identifier": "IAM",
+   "associatedRunwayNumber": "25",
+   "frequency": 109100,
+   "elevation": 200,
+   "latitude": 61.34396356,
+   "longitude": 73.42821016,
+   "bearing": 269.62,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "USSS",
    "identifier": "IKO",
    "associatedRunwayNumber": "08L",
