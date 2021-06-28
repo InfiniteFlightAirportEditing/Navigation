@@ -48052,6 +48052,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZWKN",
+   "identifier": "IKT",
+   "associatedRunwayNumber": "30",
+   "frequency": 108500,
+   "elevation": 3925,
+   "latitude": 48.21563025,
+   "longitude": 87.0091133,
+   "bearing": 307.09,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZWSH",
    "identifier": "IXX",
    "associatedRunwayNumber": "08",
@@ -48174,9 +48187,9 @@
    "associatedRunwayNumber": "06",
    "frequency": 108300,
    "elevation": 262,
-   "latitude": 46.852642,
-   "longitude": 130.480031,
-   "bearing": 47.576,
+   "latitude": 46.83599613,
+   "longitude": 130.45327421,
+   "bearing": 47.89,
    "receptionRange": 18,
    "type": 4
  },

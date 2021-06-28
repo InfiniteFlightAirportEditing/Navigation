@@ -48194,6 +48194,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZWKN",
+   "identifier": "IKT",
+   "associatedRunwayNumber": "30",
+   "frequency": 108500,
+   "elevation": 3925,
+   "latitude": 48.21563025,
+   "longitude": 87.0091133,
+   "bearing": 307.09,
+   "glideslope": 3.0030709,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZWSH",
    "identifier": "IXX",
    "associatedRunwayNumber": "08",
@@ -48316,10 +48329,10 @@
    "associatedRunwayNumber": "06",
    "frequency": 108300,
    "elevation": 262,
-   "latitude": 46.83675,
-   "longitude": 130.455519,
-   "bearing": 48.484,
-   "glideslope": 3.00047742,
+   "latitude": 46.83599613,
+   "longitude": 130.45327421,
+   "bearing": 47.89,
+   "glideslope": 3.0004789,
    "receptionRange": 10
  },
  {
