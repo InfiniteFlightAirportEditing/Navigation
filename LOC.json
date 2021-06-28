@@ -52121,6 +52121,19 @@
    "type": 5
  },
  {
+   "name": "ILS-Cat-I",
+   "airportICAO": "SKPQ",
+   "identifier": "IPAL",
+   "associatedRunwayNumber": "19",
+   "frequency": 109300,
+   "elevation": 565,
+   "latitude": 5.49720424,
+   "longitude": -74.65675144,
+   "bearing": 182.66,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
    "name": "LOC",
    "airportICAO": "SKPS",
    "identifier": "IPSO",

@@ -38274,6 +38274,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SKPQ",
+   "identifier": "IPAL",
+   "associatedRunwayNumber": "19",
+   "frequency": 109300,
+   "elevation": 565,
+   "latitude": 5.49720424,
+   "longitude": -74.65675144,
+   "bearing": 182.66,
+   "glideslope": 2.5018266,
+   "receptionRange": 10
+ },
+ {  
+   "name": "GS",
    "airportICAO": "SKRG",
    "identifier": "IMDE",
    "associatedRunwayNumber": "01",
