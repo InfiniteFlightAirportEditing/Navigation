@@ -41251,6 +41251,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "USMU",
+   "identifier": "IYC",
+   "associatedRunwayNumber": "27",
+   "frequency": 109500,
+   "elevation": 213,
+   "latitude": 66.0665306,
+   "longitude": 76.5463222,
+   "bearing": 287.72,
+   "glideslope": 3.0028772,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "USNN",
    "identifier": "IJN",
    "associatedRunwayNumber": "03",
