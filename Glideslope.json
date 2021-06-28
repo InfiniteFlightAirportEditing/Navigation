@@ -34101,6 +34101,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ORER",
+   "identifier": "IREA",
+   "associatedRunwayNumber": "18",
+   "frequency": 109100,
+   "elevation": 1340,
+   "latitude": 36.25973713,
+   "longitude": 43.94688994,
+   "bearing": 180.37,
+   "glideslope": 3.0018037,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ORER",
+   "identifier": "IREB",
+   "associatedRunwayNumber": "36",
+   "frequency": 109700,
+   "elevation": 1340,
+   "latitude": 36.21649381,
+   "longitude": 43.94654817,
+   "bearing": 360.37,
+   "glideslope": 3.0036037,
+   "receptionRange": 10
+  },
+  {
+   "name": "GS",
    "airportICAO": "ORKK",
    "identifier": "IAK",
    "associatedRunwayNumber": "32",
