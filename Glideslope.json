@@ -24992,11 +24992,11 @@
    "identifier": "ISVN",
    "associatedRunwayNumber": "28",
    "frequency": 109500,
-   "elevation": 42,
-   "latitude": 32.008425,
-   "longitude": -81.130781,
-   "bearing": 272.39,
-   "glideslope": 3.00272195,
+   "elevation": 41,
+   "latitude": 32.00942495,
+   "longitude": -81.12764789,
+   "bearing": 272.18,
+   "glideslope": 3.0027218,
    "receptionRange": 10
  },
  {
@@ -42889,15 +42889,15 @@
  },
  {
    "name": "GS",
-   "airportICAO": "VELP:",
-   "identifier": "ILNP",
-   "associatedRunwayNumber": "17",
-   "frequency": 108300,
-   "elevation": 1398,
-   "latitude": 23.85183115,
-   "longitude": 92.61790886,
-   "bearing": 171.4,
-   "glideslope": 3.501714,
+   "airportICAO": "VEJH",
+   "identifier": "IJHR",
+   "associatedRunwayNumber": "24",
+   "frequency": 108500,
+   "elevation": 751,
+   "latitude": 21.91853461,
+   "longitude": 84.06196429,
+   "bearing": 242.61,
+   "glideslope": 3.0024261,
    "receptionRange": 10
  },
  {
@@ -42911,6 +42911,19 @@
    "longitude": 94.16295962,
    "bearing": 44.37,
    "glideslope": 3.0004437,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "VELP",
+   "identifier": "ILNP",
+   "associatedRunwayNumber": "17",
+   "frequency": 108300,
+   "elevation": 1398,
+   "latitude": 23.85183115,
+   "longitude": 92.61790886,
+   "bearing": 171.4,
+   "glideslope": 3.501714,
    "receptionRange": 10
  },
  {
