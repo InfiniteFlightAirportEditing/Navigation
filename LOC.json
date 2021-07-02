@@ -39782,6 +39782,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UIIR",
+   "identifier": "IZP",
+   "associatedRunwayNumber": "14",
+   "frequency": 110500,
+   "elevation": 1437,
+   "latitude": 52.3760611,
+   "longitude": 104.1709528,
+   "bearing": 138.03,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "UIIR",
+   "identifier": "IKL",
+   "associatedRunwayNumber": "32",
+   "frequency": 109300,
+   "elevation": 1437,
+   "latitude": 52.3593778,
+   "longitude": 104.1955306,
+   "bearing": 318.03,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UITT",
    "identifier": "ICI",
    "associatedRunwayNumber": "30",
