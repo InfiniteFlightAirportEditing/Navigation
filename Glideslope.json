@@ -40653,6 +40653,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UNKY",
+   "identifier": "IKL",
+   "associatedRunwayNumber": "05",
+   "frequency": 109100,
+   "elevation": 2123,
+   "latitude": 51.6619806,
+   "longitude": 94.3852222,
+   "bearing": 51.94,
+   "glideslope": 3.5005194,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UNNT",
    "identifier": "IRO",
    "associatedRunwayNumber": "07",
