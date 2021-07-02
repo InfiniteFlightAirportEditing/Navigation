@@ -903,9 +903,9 @@
    "associatedRunwayNumber": "03",
    "frequency": 109700,
    "elevation": 967,
-   "latitude": 48.580303,
-   "longitude": -81.36882,
-   "bearing": 21.133,
+   "latitude": 48.56291657,
+   "longitude": -81.37860425,
+   "bearing": 20.04,
    "receptionRange": 18,
    "type": 4
  },

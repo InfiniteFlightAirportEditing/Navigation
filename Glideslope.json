@@ -904,10 +904,10 @@
    "associatedRunwayNumber": "03",
    "frequency": 109700,
    "elevation": 967,
-   "latitude": 48.565876,
-   "longitude": -81.378525,
-   "bearing": 21.112,
-   "glideslope": 3.00021056,
+   "latitude": 48.56291657,
+   "longitude": -81.37860425,
+   "bearing": 20.04,
+   "glideslope": 3.0002004,
    "receptionRange": 10
  },
  {
