@@ -2255,11 +2255,11 @@
    "identifier": "IBBE",
    "associatedRunwayNumber": "22R",
    "frequency": 111350,
-   "elevation": 340,
-   "latitude": 50.76845016,
-   "longitude": 4.78064366,
-   "bearing": 218.76,
-   "glideslope": 2.7521876,
+   "elevation": 361,
+   "latitude": 50.76846781,
+   "longitude": 4.78069269,
+   "bearing": 218.78,
+   "glideslope": 2.7521878,
    "receptionRange": 10
  },
  {
