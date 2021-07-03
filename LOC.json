@@ -43357,7 +43357,7 @@
    "type": 4
  },
  {
-  "name": "ILS-cat-I",
+   "name": "ILS-cat-I",
    "airportICAO": "VOHB",
    "identifier": "IHUB",
    "associatedRunwayNumber": "26",
