@@ -17985,11 +17985,11 @@
    "identifier": "IJST",
    "associatedRunwayNumber": "33",
    "frequency": 110100,
-   "elevation": 2268,
-   "latitude": 40.309917,
-   "longitude": -78.830019,
-   "bearing": 324.492,
-   "glideslope": 3.00324246,
+   "elevation": 2284,
+   "latitude": 40.30808679,
+   "longitude": -78.82749699,
+   "bearing": 324.25,
+   "glideslope": 3.0032425,
    "receptionRange": 10
  },
  {
