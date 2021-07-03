@@ -43357,6 +43357,19 @@
    "type": 4
  },
  {
+  "name": "ILS-cat-I",
+   "airportICAO": "VOHB",
+   "identifier": "IHUB",
+   "associatedRunwayNumber": "26",
+   "frequency": 109100,
+   "elevation": 2170.0,
+   "latitude": 15.36255249,
+   "longitude": 75.09410265,
+   "bearing": 262.91,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "VOHS",
    "identifier": "IHBD",

@@ -43512,6 +43512,19 @@
    "receptionRange": 10
  },
  {
+   "name": "GS",  
+   "airportICAO": "VOHB",
+   "identifier": "IHUB",
+   "associatedRunwayNumber": "26",
+   "frequency": 109100,
+   "elevation": 2170.0,
+   "latitude": 15.36255249,
+   "longitude": 75.09410265,
+   "bearing": 262.91,
+   "glideslope": 3.0026291,
+   "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "VOHS",
    "identifier": "IHBD",
