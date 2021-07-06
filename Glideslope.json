@@ -31176,6 +31176,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTCU",
+   "identifier": "IBIN",
+   "associatedRunwayNumber": "11",
+   "frequency": 108350,
+   "elevation": 3492,
+   "latitude": 38.86548600,
+   "longitude": 40.58309343,
+   "bearing": 120.76,
+   "glideslope": 3.50012076,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTFD",
    "identifier": "IKFZ",
    "associatedRunwayNumber": "05",
