@@ -44761,6 +44761,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WAWW",
+   "identifier": "IKDI",
+   "associatedRunwayNumber": "26",
+   "frequency": 109900,
+   "elevation": 189,
+   "latitude": -04.07953701,
+   "longitude": 122.43082199,
+   "bearing": 259.59,
+   "glideslope": 3.025959,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WAYY",
    "identifier": "ITMK",
    "associatedRunwayNumber": "12",
