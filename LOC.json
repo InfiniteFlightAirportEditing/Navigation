@@ -44450,6 +44450,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WAHS",
+   "identifier": "IANY",
+   "associatedRunwayNumber": "13",
+   "frequency": 109900,
+   "elevation": 11,
+   "latitude": -6.96234801,
+   "longitude": 110.36339870,
+   "bearing": 130.37,
+   "receptionRange": 18,
+   "type": 4
+ }, 
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WAJJ",
    "identifier": "IJPA",
    "associatedRunwayNumber": "30",
