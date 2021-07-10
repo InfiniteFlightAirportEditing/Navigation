@@ -40276,6 +40276,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ULAM",
+   "identifier": "IRK",
+   "associatedRunwayNumber": "24",
+   "frequency": 109500,
+   "elevation": 43,
+   "latitude": 67.64185,
+   "longitude": 53.1511278,
+   "bearing": 262.11,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ULDW",
    "identifier": "IWR",
    "associatedRunwayNumber": "04",
