@@ -17959,11 +17959,11 @@
    "identifier": "IJMS",
    "associatedRunwayNumber": "31",
    "frequency": 109300,
-   "elevation": 1495,
-   "latitude": 46.925719,
-   "longitude": -98.670219,
-   "bearing": 315.744,
-   "glideslope": 3.00314872,
+   "elevation": 1500,
+   "latitude": 46.92310023,
+   "longitude": -98.66865070,
+   "bearing": 314.89,
+   "glideslope": 3.0031489,
    "receptionRange": 10
  },
  {
