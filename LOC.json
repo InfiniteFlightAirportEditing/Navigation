@@ -39431,19 +39431,6 @@
  },
  {
    "name": "ILS-cat-I",
-   "airportICAO": "UERR",
-   "identifier": "ISG",
-   "associatedRunwayNumber": "24",
-   "frequency": 110300,
-   "elevation": 1156,
-   "latitude": 62.524667,
-   "longitude": 114.006306,
-   "bearing": 236.142,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
    "airportICAO": "UGSB",
    "identifier": "ILU",
    "associatedRunwayNumber": "13",
