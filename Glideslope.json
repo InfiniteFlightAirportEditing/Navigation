@@ -26693,13 +26693,13 @@
    "name": "GS",
    "airportICAO": "LEGE",
    "identifier": "IGN",
-   "associatedRunwayNumber": "20",
+   "associatedRunwayNumber": "19",
    "frequency": 109900,
    "elevation": 469,
-   "latitude": 41.91572073,
-   "longitude": 2.766131,
-   "bearing": 195.73,
-   "glideslope": 3.0019573,
+   "latitude": 41.91572182,
+   "longitude": 2.76612953,
+   "bearing": 195.72,
+   "glideslope": 3.0019572,
    "receptionRange": 10
  },
  {
