@@ -17932,10 +17932,10 @@
    "identifier": "IJST",
    "associatedRunwayNumber": "33",
    "frequency": 110100,
-   "elevation": 2264,
-   "latitude": 40.324436,
-   "longitude": -78.842942,
-   "bearing": 324.239,
+   "elevation": 2284,
+   "latitude": 40.30808679,
+   "longitude": -78.82749699,
+   "bearing": 324.25,
    "receptionRange": 18,
    "type": 4
  },
@@ -31176,6 +31176,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTCU",
+   "identifier": "IBIN",
+   "associatedRunwayNumber": "11",
+   "frequency": 108350,
+   "elevation": 3492,
+   "latitude": 38.86548600,
+   "longitude": 40.58309343,
+   "bearing": 120.76,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTFD",
    "identifier": "IKFZ",
    "associatedRunwayNumber": "05",
@@ -43448,6 +43461,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "VOHB",
+   "identifier": "IHUB",
+   "associatedRunwayNumber": "26",
+   "frequency": 109100,
+   "elevation": 2170.0,
+   "latitude": 15.36255249,
+   "longitude": 75.09410265,
+   "bearing": 262.91,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "VOHS",
    "identifier": "IHBD",
@@ -44528,6 +44554,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "WAHS",
+   "identifier": "IANY",
+   "associatedRunwayNumber": "13",
+   "frequency": 109900,
+   "elevation": 11,
+   "latitude": -6.96234801,
+   "longitude": 110.36339870,
+   "bearing": 130.37,
+   "receptionRange": 18,
+   "type": 4
+ }, 
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "WAJJ",
    "identifier": "IJPA",
    "associatedRunwayNumber": "30",
@@ -44679,6 +44718,19 @@
    "latitude": -10.16891983,
    "longitude": 123.68224032,
    "bearing": 256.50,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "WAWW",
+   "identifier": "IKDI",
+   "associatedRunwayNumber": "26",
+   "frequency": 109900,
+   "elevation": 189,
+   "latitude": -4.07953701,
+   "longitude": 122.43082199,
+   "bearing": 259.59,
    "receptionRange": 18,
    "type": 4
  },

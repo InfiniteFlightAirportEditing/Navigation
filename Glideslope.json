@@ -17998,11 +17998,11 @@
    "identifier": "IJST",
    "associatedRunwayNumber": "33",
    "frequency": 110100,
-   "elevation": 2268,
-   "latitude": 40.309917,
-   "longitude": -78.830019,
-   "bearing": 324.492,
-   "glideslope": 3.00324246,
+   "elevation": 2284,
+   "latitude": 40.30808679,
+   "longitude": -78.82749699,
+   "bearing": 324.25,
+   "glideslope": 3.0032425,
    "receptionRange": 10
  },
  {
@@ -31176,6 +31176,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTCU",
+   "identifier": "IBIN",
+   "associatedRunwayNumber": "11",
+   "frequency": 108350,
+   "elevation": 3492,
+   "latitude": 38.86548600,
+   "longitude": 40.58309343,
+   "bearing": 120.76,
+   "glideslope": 3.50012076,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTFD",
    "identifier": "IKFZ",
    "associatedRunwayNumber": "05",
@@ -43603,6 +43616,19 @@
    "receptionRange": 10
  },
  {
+   "name": "GS",  
+   "airportICAO": "VOHB",
+   "identifier": "IHUB",
+   "associatedRunwayNumber": "26",
+   "frequency": 109100,
+   "elevation": 2170.0,
+   "latitude": 15.36255249,
+   "longitude": 75.09410265,
+   "bearing": 262.91,
+   "glideslope": 3.0026291,
+   "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "VOHS",
    "identifier": "IHBD",
@@ -44683,6 +44709,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "WAHS",
+   "identifier": "IANY",
+   "associatedRunwayNumber": "13",
+   "frequency": 109900,
+   "elevation": 11,
+   "latitude": -6.96234801,
+   "longitude": 110.36339870,
+   "bearing": 130.37,
+   "glideslope": 3.0013037,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "WAJJ",
    "identifier": "IJPA",
    "associatedRunwayNumber": "30",
@@ -44822,6 +44861,19 @@
    "longitude": 123.68224032,
    "bearing": 256.50,
    "glideslope": 3.0625650,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "WAWW",
+   "identifier": "IKDI",
+   "associatedRunwayNumber": "26",
+   "frequency": 109900,
+   "elevation": 189,
+   "latitude": -4.07953701,
+   "longitude": 122.43082199,
+   "bearing": 259.59,
+   "glideslope": 3.025959,
    "receptionRange": 10
  },
  {
