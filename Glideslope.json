@@ -14436,11 +14436,11 @@
    "identifier": "IVKE",
    "associatedRunwayNumber": "31",
    "frequency": 108700,
-   "elevation": 1441,
-   "latitude": 48.113281,
-   "longitude": -98.903,
-   "bearing": 318.326,
-   "glideslope": 3.00318163,
+   "elevation": 1455,
+   "latitude": 48.11108888,
+   "longitude": -98.90226346,
+   "bearing": 318.15,
+   "glideslope": 3.0031815,
    "receptionRange": 10
  },
  {
@@ -22068,10 +22068,10 @@
    "associatedRunwayNumber": "20",
    "frequency": 110700,
    "elevation": 26,
-   "latitude": 35.640386,
-   "longitude": -77.382419,
-   "bearing": 188.088,
-   "glideslope": 3.00187544,
+   "latitude": 35.64541077,
+   "longitude": -77.38262103,
+   "bearing": 187.54,
+   "glideslope": 3.0018754,
    "receptionRange": 10
  },
  {
