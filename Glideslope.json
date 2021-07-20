@@ -20689,11 +20689,11 @@
    "identifier": "IMXF",
    "associatedRunwayNumber": "15",
    "frequency": 109300,
-   "elevation": 160,
-   "latitude": 32.387856,
-   "longitude": -86.372464,
-   "bearing": 149.182,
-   "glideslope": 3.00148591,
+   "elevation": 171,
+   "latitude": 32.39135165,
+   "longitude": -86.37310431,
+   "bearing": 148.59,
+   "glideslope": 3.0014859,
    "receptionRange": 10
  },
  {
