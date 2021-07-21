@@ -41576,6 +41576,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "USTJ",
+   "identifier": "ITB",
+   "associatedRunwayNumber": "26",
+   "frequency": 110300,
+   "elevation": 157,
+   "latitude": 58.0584278,
+   "longitude": 68.3690528,
+   "bearing": 270.01,
+   "glideslope": 3.0027001,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "USTR",
    "identifier": "IRN",
    "associatedRunwayNumber": "03",
