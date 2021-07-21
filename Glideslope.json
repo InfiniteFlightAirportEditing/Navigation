@@ -41329,6 +41329,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "USHN",
+   "identifier": "ILS",
+   "associatedRunwayNumber": "34",
+   "frequency": 110300,
+   "elevation": 361,
+   "latitude": 62.0991389,
+   "longitude": 65.6128056,
+   "bearing": 2.43,
+   "glideslope": 3.0000243,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "USHQ",
    "identifier": "IIU",
    "associatedRunwayNumber": "16",
