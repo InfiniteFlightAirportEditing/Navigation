@@ -42356,6 +42356,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UWKB",
+   "identifier": "ILB",
+   "associatedRunwayNumber": "19",
+   "frequency": 110900,
+   "elevation": 991,
+   "latitude": 54.6496111,
+   "longitude": 52.8065833,
+   "bearing": 203.51,
+   "glideslope": 3.0020351,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UWKD",
    "identifier": "IAM",
    "associatedRunwayNumber": "11",

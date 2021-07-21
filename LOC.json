@@ -42199,6 +42199,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "UWKB",
+   "identifier": "ILB",
+   "associatedRunwayNumber": "19",
+   "frequency": 110900,
+   "elevation": 991,
+   "latitude": 54.6496111,
+   "longitude": 52.8065833,
+   "bearing": 203.51,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "UWKD",
    "identifier": "IAM",
