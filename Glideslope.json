@@ -39444,19 +39444,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "UERR",
-   "identifier": "ISG",
-   "associatedRunwayNumber": "24",
-   "frequency": 110300,
-   "elevation": 1156,
-   "latitude": 62.5391655,
-   "longitude": 114.05786896,
-   "bearing": 236,
-   "glideslope": 3.00236,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "UGSB",
    "identifier": "ILU",
    "associatedRunwayNumber": "13",
@@ -40306,7 +40293,7 @@
    "identifier": "IWR",
    "associatedRunwayNumber": "04",
    "frequency": 108500,
-   "elevation": 6,
+   "elevation": 23,
    "latitude": 68.84489364,
    "longitude": 58.18089569,
    "bearing": 64.01,
@@ -40701,6 +40688,19 @@
    "longitude": 92.52068928,
    "bearing": 293.16,
    "glideslope": 3.0029316,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UNKM",
+   "identifier": "IRL",
+   "associatedRunwayNumber": "29",
+   "frequency": 110300,
+   "elevation": 833,
+   "latitude": 56.1741861,
+   "longitude": 92.5600472,
+   "bearing": 293.21,
+   "glideslope": 3.0029321,
    "receptionRange": 10
  },
  {
@@ -41342,6 +41342,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "USHN",
+   "identifier": "ILS",
+   "associatedRunwayNumber": "34",
+   "frequency": 110300,
+   "elevation": 361,
+   "latitude": 62.0991389,
+   "longitude": 65.6128056,
+   "bearing": 2.43,
+   "glideslope": 3.0000243,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "USHQ",
    "identifier": "IIU",
    "associatedRunwayNumber": "16",
@@ -41585,6 +41598,19 @@
    "longitude": 60.82714665,
    "bearing": 270.21,
    "glideslope": 3.0027021,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "USTJ",
+   "identifier": "ITB",
+   "associatedRunwayNumber": "26",
+   "frequency": 110300,
+   "elevation": 157,
+   "latitude": 58.0584278,
+   "longitude": 68.3690528,
+   "bearing": 270.01,
+   "glideslope": 3.0027001,
    "receptionRange": 10
  },
  {
@@ -41975,6 +42001,19 @@
    "longitude": 69.30437148,
    "bearing": 261.66,
    "glideslope": 3.0026166,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UUBC",
+   "identifier": "IFR",
+   "associatedRunwayNumber": "31",
+   "frequency": 111700,
+   "elevation": 666,
+   "latitude": 54.5405361,
+   "longitude": 36.3812694,
+   "bearing": 323.95,
+   "glideslope": 3.0032395,
    "receptionRange": 10
  },
  {
