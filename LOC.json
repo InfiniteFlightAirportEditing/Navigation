@@ -41810,6 +41810,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UUBC",
+   "identifier": "IFR",
+   "associatedRunwayNumber": "31",
+   "frequency": 111700,
+   "elevation": 666,
+   "latitude": 54.5405361,
+   "longitude": 36.3812694,
+   "bearing": 323.95,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UUBP",
    "identifier": "INU",
    "associatedRunwayNumber": "34",
