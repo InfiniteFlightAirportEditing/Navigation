@@ -36939,11 +36939,11 @@
    "identifier": "AE",
    "associatedRunwayNumber": "13",
    "frequency": 109500,
-   "elevation": 18,
-   "latitude": -34.55393710,
-   "longitude": -58.42522562,
-   "bearing": 124.09,
-   "glideslope": 3.0012409,
+   "elevation": 20,
+   "latitude": -34.56655341,
+   "longitude": -58.40261866,
+   "bearing": 124.11,
+   "glideslope": 3.0012411,
    "receptionRange": 10
  },
  {
