@@ -6647,13 +6647,13 @@
    "name": "GS",
    "airportICAO": "ENRO",
    "identifier": "RO",
-   "associatedRunwayNumber": "32",
+   "associatedRunwayNumber": "31",
    "frequency": 108700,
-   "elevation": 2054,
-   "latitude": 62.575125,
-   "longitude": 11.350233,
-   "bearing": 307.24,
-   "glideslope": 3.3030712,
+   "elevation": 2053,
+   "latitude": 62.57359432,
+   "longitude": 11.35636477,
+   "bearing": 316.11,
+   "glideslope": 3.3031611,
    "receptionRange": 10
  },
  {
@@ -42391,6 +42391,19 @@
    "longitude": 43.78040262,
    "bearing": 11.5,
    "glideslope": 3.000115,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UWKB",
+   "identifier": "ILB",
+   "associatedRunwayNumber": "19",
+   "frequency": 110900,
+   "elevation": 991,
+   "latitude": 54.6496111,
+   "longitude": 52.8065833,
+   "bearing": 203.51,
+   "glideslope": 3.0020351,
    "receptionRange": 10
  },
  {
