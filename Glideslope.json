@@ -32155,11 +32155,11 @@
    "identifier": "PT",
    "associatedRunwayNumber": "04",
    "frequency": 109900,
-   "elevation": 59,
-   "latitude": -17.56035,
-   "longitude": -149.614875,
-   "bearing": 54.062,
-   "glideslope": 3.00054031,
+   "elevation": 5,
+   "latitude": -17.56270931,
+   "longitude": -149.62023341,
+   "bearing": 54.1,
+   "glideslope": 3.000541,
    "receptionRange": 10
  },
  {
