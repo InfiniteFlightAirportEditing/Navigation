@@ -38910,6 +38910,32 @@
    "receptionRange": 10
  },
  {
+  "name": "GS",
+  "airportICAO": "UAIT",
+  "identifier": "ITR",
+  "associatedRunwayNumber": "05",
+  "frequency": 110700,
+  "elevation": 989,
+  "latitude": 43.30280289,
+  "longitude": 68.5335609,
+  "bearing": 55.6,
+  "glideslope": 3.000556,
+  "receptionRange": 10
+ },
+ {
+  "name": "GS",
+  "airportICAO": "UAIT",
+  "identifier": "ITK",
+  "associatedRunwayNumber": "23",
+  "frequency": 111300,
+  "elevation": 989,
+  "latitude": 43.3195508,
+  "longitude": 68.56716593,
+  "bearing": 235.6,
+  "glideslope": 3.002356,
+  "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "UAKD",
    "identifier": "IGN",
