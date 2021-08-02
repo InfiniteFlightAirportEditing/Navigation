@@ -9205,6 +9205,19 @@
    "receptionRange": 10
  },
  {
+  "name": "GS",
+  "airportICAO": "GMMW",
+  "identifier": "TZN",
+  "associatedRunwayNumber": "08",
+  "frequency": 108700,
+  "elevation": 594,
+  "latitude": 34.9865265,
+  "longitude": -003.04393591,
+  "bearing": 78.11,
+  "glideslope": 3.0007811,
+  "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "GMMX",
    "identifier": "MAR",

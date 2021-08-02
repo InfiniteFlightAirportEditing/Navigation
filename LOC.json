@@ -9165,6 +9165,19 @@
    "type": 4
  },
  {
+  "name": "ILS-cat-I",
+  "airportICAO": "GMMW",
+  "identifier": "TZN",
+  "associatedRunwayNumber": "08",
+  "frequency": 108700,
+  "elevation": 594,
+  "latitude": 34.9865265,
+  "longitude": -003.04393591,
+  "bearing": 78.11,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "GMMZ",
    "identifier": "IRZ",
