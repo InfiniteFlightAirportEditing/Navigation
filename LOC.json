@@ -42992,6 +42992,19 @@
    "type": 4
  },
  {
+  "name": "ILS-cat-I",
+  "airportICAO": "VEGY",
+  "identifier": "IGYA",
+  "associatedRunwayNumber": "28",
+  "frequency": 109300,
+  "elevation": 379,
+  "latitude": 24.7465973,
+  "longitude": 84.93957779,
+  "bearing": 283.77,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "VEIM",
    "identifier": "IPH",
