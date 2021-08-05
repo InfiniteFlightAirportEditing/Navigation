@@ -42135,6 +42135,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UUOD",
+   "identifier": "IZF",
+   "associatedRunwayNumber": "21",
+   "frequency": 109900,
+   "elevation": 359,
+   "latitude": 51.66081955,
+   "longitude": 39.26605188,
+   "bearing": 217.36,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UUOK",
    "identifier": "IWA",
    "associatedRunwayNumber": "30",

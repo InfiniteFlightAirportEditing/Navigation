@@ -42291,6 +42291,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UUOD",
+   "identifier": "IZF",
+   "associatedRunwayNumber": "21",
+   "frequency": 109900,
+   "elevation": 359,
+   "latitude": 51.66081955,
+   "longitude": 39.26605188,
+   "bearing": 217.36,
+   "glideslope": 3.0021736,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UUOK",
    "identifier": "IWA",
    "associatedRunwayNumber": "30",
