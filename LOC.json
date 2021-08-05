@@ -40380,6 +40380,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ULMK",
+   "identifier": "IIO",
+   "associatedRunwayNumber": "11",
+   "frequency": 110500,
+   "elevation": 525,
+   "latitude": 67.4696861,
+   "longitude": 33.5627389,
+   "bearing": 128.31,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ULMM",
    "identifier": "IPF",
    "associatedRunwayNumber": "13",
