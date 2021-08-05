@@ -38340,14 +38340,14 @@
  {
    "name": "GS",
    "airportICAO": "SLVR",
-   "identifier": "VCZ",
+   "identifier": "ILVV",
    "associatedRunwayNumber": "34",
    "frequency": 110900,
    "elevation": 1224,
-   "latitude": -17.654792,
-   "longitude": -63.126933,
-   "bearing": 327.686,
-   "glideslope": 3.00327343,
+   "latitude": -17.62920507,
+   "longitude": -63.14583512,
+   "bearing": 327.34,
+   "glideslope": 3.1232734,
    "receptionRange": 10
  },
  {
