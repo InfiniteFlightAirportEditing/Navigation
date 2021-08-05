@@ -41489,11 +41489,11 @@
    "identifier": "IPX",
    "associatedRunwayNumber": "21",
    "frequency": 109900,
-   "elevation": 150,
-   "latitude": 57.923333,
-   "longitude": 56.036667,
-   "bearing": 226.86,
-   "glideslope": 3.0022593,
+   "elevation": 403,
+   "latitude": 57.9245,
+   "longitude": 56.0407778,
+   "bearing": 225.87,
+   "glideslope": 3.0022587,
    "receptionRange": 10
  },
  {
