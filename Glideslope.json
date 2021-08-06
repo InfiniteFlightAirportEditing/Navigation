@@ -36896,6 +36896,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "RPVM",
+   "identifier": "IMT",
+   "associatedRunwayNumber": "04",
+   "frequency": 109900,
+   "elevation": 35,
+   "latitude": 10.29698305,
+   "longitude": 123.96881418,
+   "bearing": 44.68,
+   "glideslope": 3.0004468,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "RPVM",
+   "identifier": "IMCT",
+   "associatedRunwayNumber": "22",
+   "frequency": 109100,
+   "elevation": 35,
+   "latitude": 10.31812806,
+   "longitude": 123.99006542,
+   "bearing": 224.68,
+   "glideslope": 3.0022468,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "RPVP",
    "identifier": "IPR",
    "associatedRunwayNumber": "27",
@@ -40393,6 +40419,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ULMK",
+   "identifier": "IIO",
+   "associatedRunwayNumber": "11",
+   "frequency": 110500,
+   "elevation": 525,
+   "latitude": 67.4696861,
+   "longitude": 33.5627389,
+   "bearing": 128.31,
+   "glideslope": 3.0012831,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ULMM",
    "identifier": "IPF",
    "associatedRunwayNumber": "13",
@@ -41502,11 +41541,11 @@
    "identifier": "IPX",
    "associatedRunwayNumber": "21",
    "frequency": 109900,
-   "elevation": 150,
-   "latitude": 57.923333,
-   "longitude": 56.036667,
-   "bearing": 226.86,
-   "glideslope": 3.0022593,
+   "elevation": 403,
+   "latitude": 57.9245,
+   "longitude": 56.0407778,
+   "bearing": 225.87,
+   "glideslope": 3.0022587,
    "receptionRange": 10
  },
  {
@@ -42287,6 +42326,19 @@
    "longitude": 36.60700551,
    "bearing": 297.37,
    "glideslope": 2.8029737,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "UUOD",
+   "identifier": "IZF",
+   "associatedRunwayNumber": "21",
+   "frequency": 109900,
+   "elevation": 359,
+   "latitude": 51.66081955,
+   "longitude": 39.26605188,
+   "bearing": 217.36,
+   "glideslope": 3.0021736,
    "receptionRange": 10
  },
  {
