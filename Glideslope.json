@@ -48272,6 +48272,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZUNZ",
+   "identifier": "ILZ",
+   "associatedRunwayNumber": "05",
+   "frequency": 109700,
+   "elevation": 9674,
+   "latitude": 29.29583788,
+   "longitude": 94.32252701,
+   "bearing": 54.52,
+   "glideslope": 3.0005452,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZUUU",
    "identifier": "IZW",
    "associatedRunwayNumber": "02L",

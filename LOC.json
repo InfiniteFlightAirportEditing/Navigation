@@ -48116,6 +48116,19 @@
    "receptionRange": 18,
    "type": 4
  },
+ {  
+   "name": "ILS-cat-I",
+   "airportICAO": "ZUNZ",
+   "identifier": "ILZ",
+   "associatedRunwayNumber": "05",
+   "frequency": 109700,
+   "elevation": 9674,
+   "latitude": 29.29583788,
+   "longitude": 94.32252701,
+   "bearing": 54.52,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "ILS-cat-II",
    "airportICAO": "ZUUU",
