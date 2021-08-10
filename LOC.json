@@ -48000,6 +48000,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZYJZ",
+   "identifier": "IMS",
+   "associatedRunwayNumber": "22",
+   "frequency": 109300,
+   "elevation": 0,
+   "latitude": 40.94574075,
+   "longitude": 121.2847717,
+   "bearing": 210.90 
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZYMD",
    "identifier": "IQM",
    "associatedRunwayNumber": "22",
