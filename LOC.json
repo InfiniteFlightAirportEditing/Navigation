@@ -45776,6 +45776,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZBDT",
+   "identifier": "IJJ",
+   "associatedRunwayNumber": "32",
+   "frequency": 108700,
+   "elevation": 3461,
+   "latitude": 40.05314193,
+   "longitude": 113.49272551,
+   "bearing": 311.79,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZBHH",
    "identifier": "IFX",
    "associatedRunwayNumber": "08",
