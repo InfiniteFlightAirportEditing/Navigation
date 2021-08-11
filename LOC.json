@@ -45945,6 +45945,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZBXH",
+   "identifier": "IYR",
+   "associatedRunwayNumber": "22",
+   "frequency": 109300,
+   "elevation": 3323,
+   "latitude": 43.92306867,
+   "longitude": 115.96854642,
+   "bearing": 208.16,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZBYC",
    "identifier": "ICC",
    "associatedRunwayNumber": "26",

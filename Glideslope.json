@@ -45918,6 +45918,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZBDS",
+   "identifier": "IGG",
+   "associatedRunwayNumber": "31",
+   "frequency": 330500,
+   "elevation": 4593,
+   "latitude": 39.48570332,
+   "longitude": 109.87550369,
+   "bearing": 302.92,
+   "glideslope": 3.0030292,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZBDT",
    "identifier": "IJJ",
    "associatedRunwayNumber": "32",
@@ -45926,7 +45939,7 @@
    "latitude": 40.05314193,
    "longitude": 113.49272551,
    "bearing": 311.79,
-   "glideslope": 3.0031179,
+   "glideslope": 3.00311.79,
    "receptionRange": 10
  },
  {
@@ -46083,6 +46096,19 @@
    "longitude": 117.378534,
    "bearing": 334.58,
    "glideslope": 3.0033458,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZBXH",
+   "identifier": "IYR",
+   "associatedRunwayNumber": "22",
+   "frequency": 109300,
+   "elevation": 3323,
+   "latitude": 43.92306867,
+   "longitude": 115.96854642,
+   "bearing": 208.16,
+   "glideslope": 3.0020816,
    "receptionRange": 10
  },
  {
