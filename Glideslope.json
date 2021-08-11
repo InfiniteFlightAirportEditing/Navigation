@@ -48025,6 +48025,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZWBL",
+   "identifier": "IBL",
+   "associatedRunwayNumber": "28",
+   "frequency": 108500,
+   "elevation": 3925,
+   "latitude": 44.89336206,
+   "longitude": 82.31629291,
+   "bearing": 280.43,
+   "glideslope": 3.0028043,
+   "receptionRange": 10
+ }
+ {
+   "name": "GS",
    "airportICAO": "ZWKN",
    "identifier": "IKT",
    "associatedRunwayNumber": "30",

@@ -47857,6 +47857,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZWBL",
+   "identifier": "IBL",
+   "associatedRunwayNumber": "28",
+   "frequency": 108500,
+   "elevation": 3925,
+   "latitude": 44.89336206,
+   "longitude": 82.31629291,
+   "bearing": 280.43,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZWKN",
    "identifier": "IKT",
    "associatedRunwayNumber": "30",
