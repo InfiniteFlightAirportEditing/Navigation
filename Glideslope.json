@@ -46607,6 +46607,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZHXF",
+   "identifier": "INO",
+   "associatedRunwayNumber": "01",
+   "frequency": 109350,
+   "elevation": 233,
+   "latitude": 32.13985909,
+   "longitude": 112.28863797,
+   "bearing": 9.84,
+   "glideslope": 3.0000984,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZHXF",
+   "identifier": "IXY",
+   "associatedRunwayNumber": "19",
+   "frequency": 110550,
+   "elevation": 233,
+   "latitude": 32.16113946,
+   "longitude": 112.29299872,
+   "bearing": 189.84,
+   "glideslope": 3.0018984,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZJHK",
    "identifier": "IHH",
    "associatedRunwayNumber": "09",
