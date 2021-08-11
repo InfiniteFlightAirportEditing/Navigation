@@ -47870,6 +47870,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZWKM",
+   "identifier": "IKK",
+   "associatedRunwayNumber": "31",
+   "frequency": 108500,
+   "elevation": 1096,
+   "latitude": 45.45779428,
+   "longitude": 84.96375797,
+   "bearing": 318.50,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZWKN",
    "identifier": "IKT",
    "associatedRunwayNumber": "30",
