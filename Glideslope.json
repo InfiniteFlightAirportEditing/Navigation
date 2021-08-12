@@ -47687,6 +47687,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZSWA",
+   "identifier": "IWH",
+   "associatedRunwayNumber": "06",
+   "frequency": 109950,
+   "elevation": 78,
+   "latitude": 31.09609165,
+   "longitude": 118.65551375,
+   "bearing": 49.93,
+   "glideslope": 3.0004993,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZSWA",
+   "identifier": "IXC",
+   "associatedRunwayNumber": "24",
+   "frequency": 111550,
+   "elevation": 78,
+   "latitude": 31.11229425,
+   "longitude": 118.67800966,
+   "bearing": 229.93,
+   "glideslope": 3.0022993,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZSWH",
    "identifier": "IXM",
    "associatedRunwayNumber": "03",
