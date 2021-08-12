@@ -47179,6 +47179,19 @@
  },
  {
    "name": "GS",
+"airportICAO": "ZSGZ",
+   "identifier": "IHH",
+   "associatedRunwayNumber": "07",
+   "frequency": 109300,
+   "elevation": 387,
+   "latitude": 25.84809099,
+   "longitude": 114.76753054,
+   "bearing": 62.92,
+   "glideslope": 3.0006292,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZSHC",
    "identifier": "IXS",
    "associatedRunwayNumber": "06",
