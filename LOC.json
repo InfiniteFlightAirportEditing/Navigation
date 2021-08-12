@@ -47441,6 +47441,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZSSR",
+   "identifier": "ISQ",
+   "associatedRunwayNumber": "06",
+   "frequency": 108700,
+   "elevation": 339,
+   "latitude": 28.3742374,
+   "longitude": 117.95373595,
+   "bearing": 59.50,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZSSS",
    "identifier": "IPK",
    "associatedRunwayNumber": "18L",

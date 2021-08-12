@@ -47609,6 +47609,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZSSR",
+   "identifier": "ISQ",
+   "associatedRunwayNumber": "06",
+   "frequency": 108700,
+   "elevation": 339,
+   "latitude": 28.3742374,
+   "longitude": 117.95373595,
+   "bearing": 59.50,
+   "glideslope": 3.0005950,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZSSS",
    "identifier": "IPK",
    "associatedRunwayNumber": "18L",
