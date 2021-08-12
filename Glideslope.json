@@ -47738,6 +47738,19 @@
  },
  {
    "name": "GS",
+"airportICAO": "ZSGZ",
+   "identifier": "IHH",
+   "associatedRunwayNumber": "07",
+   "frequency": 109300,
+   "elevation": 387,
+   "latitude": 25.84809099,
+   "longitude": 114.76753054,
+   "bearing": 62.92,
+   "glideslope": 3.0006292,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZSHC",
    "identifier": "IXS",
    "associatedRunwayNumber": "06",
@@ -48155,6 +48168,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZSSR",
+   "identifier": "ISQ",
+   "associatedRunwayNumber": "06",
+   "frequency": 108700,
+   "elevation": 339,
+   "latitude": 28.3742374,
+   "longitude": 117.95373595,
+   "bearing": 59.50,
+   "glideslope": 3.0005950,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZSSS",
    "identifier": "IPK",
    "associatedRunwayNumber": "18L",
@@ -48216,6 +48242,32 @@
    "longitude": 118.24556720,
    "bearing": 128.08,
    "glideslope": 3.1012808,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZSWA",
+   "identifier": "IWH",
+   "associatedRunwayNumber": "06",
+   "frequency": 109950,
+   "elevation": 78,
+   "latitude": 31.09609165,
+   "longitude": 118.65551375,
+   "bearing": 49.93,
+   "glideslope": 3.0004993,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZSWA",
+   "identifier": "IXC",
+   "associatedRunwayNumber": "24",
+   "frequency": 111550,
+   "elevation": 78,
+   "latitude": 31.11229425,
+   "longitude": 118.67800966,
+   "bearing": 229.93,
+   "glideslope": 3.0022993,
    "receptionRange": 10
  },
  {
@@ -48350,6 +48402,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZSYC",
+   "identifier": "IJD",
+   "associatedRunwayNumber": "06",
+   "frequency": 108900,
+   "elevation": 476,
+   "latitude": 27.79606882,
+   "longitude": 114.29651901,
+   "bearing": 53.71,
+   "glideslope": 3.0005371,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZSYN",
    "identifier": "IGF",
    "associatedRunwayNumber": "04",
@@ -48437,6 +48502,19 @@
    "longitude": 122.36346124,
    "bearing": 354.83,
    "glideslope": 3.0035483,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZUAL",
+   "identifier": "IKS",
+   "associatedRunwayNumber": "15",
+   "frequency": 108500,
+   "elevation": 14015,
+   "latitude": 32.11784882,
+   "longitude": 80.04191609,
+   "bearing": 152.27,
+   "glideslope": 3.0015227,
    "receptionRange": 10
  },
  {
