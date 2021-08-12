@@ -47817,6 +47817,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZSYC",
+   "identifier": "IJD",
+   "associatedRunwayNumber": "06",
+   "frequency": 108900,
+   "elevation": 476,
+   "latitude": 27.79606882,
+   "longitude": 114.29651901,
+   "bearing": 53.71,
+   "glideslope": 3.0005371,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZSYN",
    "identifier": "IGF",
    "associatedRunwayNumber": "04",

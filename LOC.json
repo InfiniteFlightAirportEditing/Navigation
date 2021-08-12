@@ -47649,6 +47649,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZSYC",
+   "identifier": "IJD",
+   "associatedRunwayNumber": "06",
+   "frequency": 108900,
+   "elevation": 476,
+   "latitude": 27.79606882,
+   "longitude": 114.29651901,
+   "bearing": 53.71,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZSYN",
    "identifier": "IGF",
    "associatedRunwayNumber": "04",
