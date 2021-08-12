@@ -47921,6 +47921,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZUAL",
+   "identifier": "IKS",
+   "associatedRunwayNumber": "15",
+   "frequency": 108500,
+   "elevation": 14015,
+   "latitude": 32.11784882,
+   "longitude": 80.04191609,
+   "bearing": 152.27,
+   "glideslope": 3.0015227,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZUBD",
    "identifier": "IOO",
    "associatedRunwayNumber": "14",
