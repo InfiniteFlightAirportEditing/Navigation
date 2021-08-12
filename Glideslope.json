@@ -31098,6 +31098,33 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTBZ",
+   "identifier": "IZFR",
+   "associatedRunwayNumber": "13",
+   "frequency": 108100,
+   "elevation": 3327,
+   "latitude": 39.12037024,
+   "longitude": 30.11714921,
+   "bearing": 131.29,
+   "glideslope": 3.0013129,
+   "receptionRange": 10
+
+ },
+ {
+   "name": "GS",
+   "airportICAO": "LTBZ",
+   "identifier": "IZFE",
+   "associatedRunwayNumber": "31",
+   "frequency": 111300,
+   "elevation": 3327,
+   "latitude": 39.10255643,
+   "longitude": 30.14329130,
+   "bearing": 313.29,
+   "glideslope": 3.0031329,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTCB",
    "identifier": "IOGR",
    "associatedRunwayNumber": "28",
