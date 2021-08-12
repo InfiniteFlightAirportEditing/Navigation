@@ -434,11 +434,11 @@
    "identifier": "IHU",
    "associatedRunwayNumber": "24R",
    "frequency": 111100,
-   "elevation": 87,
-   "latitude": 45.52303314,
-   "longitude": -73.40776825,
-   "bearing": 227.75,
-   "glideslope": 3.00227375,
+   "elevation": 89,
+   "latitude": 45.525366,
+   "longitude": -73.406878,
+   "bearing": 226.84,
+   "glideslope": 3.0022684,
    "receptionRange": 10
  },
  {
