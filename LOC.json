@@ -48520,6 +48520,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZUGU",
+   "identifier": "IGY",
+   "associatedRunwayNumber": "26",
+   "frequency": 110300,
+   "elevation": 2018,
+   "latitude": 32.39254913,
+   "longitude": 105.70791824,
+   "bearing": 79.25,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZUGY",
    "identifier": "IGG",
    "associatedRunwayNumber": "01",
