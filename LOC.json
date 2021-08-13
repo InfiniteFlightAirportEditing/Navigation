@@ -48741,6 +48741,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "ZWSC",
+   "identifier": "ICM",
+   "associatedRunwayNumber": "33",
+   "frequency": 108500,
+   "elevation": 4232,
+   "latitude": 38.23210882,
+   "longitude": 77.06471414,
+   "bearing": 333.12,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "ZWSH",
    "identifier": "IXX",
    "associatedRunwayNumber": "08",
