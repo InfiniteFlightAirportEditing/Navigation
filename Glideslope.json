@@ -48883,6 +48883,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZWNL",
+   "identifier": "INY",
+   "associatedRunwayNumber": "26",
+   "frequency": 108500,
+   "elevation": 3039,
+   "latitude": 43.43249989,
+   "longitude": 83.39164304,
+   "bearing": 265.77,
+   "glideslope": 3.0026577,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZWSH",
    "identifier": "IXX",
    "associatedRunwayNumber": "08",
