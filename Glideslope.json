@@ -48831,6 +48831,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZWKC",
+   "identifier": "IKC",
+   "associatedRunwayNumber": "26",
+   "frequency": 108900,
+   "elevation": 3523,
+   "latitude": 41.67898288,
+   "longitude": 82.88846891,
+   "bearing": 263.21,
+   "glideslope": 3.0026321,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZWKL",
+   "identifier": "IMC",
+   "associatedRunwayNumber": "04",
+   "frequency": 110300,
+   "elevation": 3041,
+   "latitude": 41.6063156,
+   "longitude": 86.12959752,
+   "bearing": 45.45,
+   "glideslope": 3.0004545,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZWKM",
    "identifier": "IKK",
    "associatedRunwayNumber": "31",
@@ -48853,19 +48879,6 @@
    "longitude": 87.0091133,
    "bearing": 307.09,
    "glideslope": 3.0030709,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "ZWKC",
-   "identifier": "IKC",
-   "associatedRunwayNumber": "26",
-   "frequency": 108900,
-   "elevation": 3523,
-   "latitude": 41.67898288,
-   "longitude": 82.88846891,
-   "bearing": 263.21,
-   "glideslope": 3.0026321,
    "receptionRange": 10
  },
  {
