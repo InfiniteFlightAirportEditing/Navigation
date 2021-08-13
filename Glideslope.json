@@ -48805,6 +48805,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "ZUZH",
+   "identifier": "IPP",
+   "associatedRunwayNumber": "20",
+   "frequency": 108500,
+   "elevation": 6497,
+   "latitude": 26.5517432,
+   "longitude": 101.80359758,
+   "bearing": 201.21,
+   "glideslope": 3.0020121,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "ZWBL",
    "identifier": "IBL",
    "associatedRunwayNumber": "28",
