@@ -38379,13 +38379,13 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "SLVR",
-   "identifier": "VCZ",
+   "identifier": "ILVV",
    "associatedRunwayNumber": "34",
    "frequency": 110900,
    "elevation": 1224,
-   "latitude": -17.629233,
-   "longitude": -63.145803,
-   "bearing": 327.343,
+   "latitude": -17.62920507,
+   "longitude": -63.14583512,
+   "bearing": 327.34,
    "receptionRange": 18,
    "type": 4
  },
