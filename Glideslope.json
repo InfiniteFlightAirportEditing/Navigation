@@ -39487,11 +39487,11 @@
    "identifier": "IIG",
    "associatedRunwayNumber": "25L",
    "frequency": 110300,
-   "elevation": 835,
-   "latitude": 60.72566605,
-   "longitude": 114.83750153,
-   "bearing": 248.032,
-   "glideslope": 3.17248016,
+   "elevation": 807,
+   "latitude": 60.7283404,
+   "longitude": 114.8408476,
+   "bearing": 237.75,
+   "glideslope": 3.1723775,
    "receptionRange": 10
  },
  {
