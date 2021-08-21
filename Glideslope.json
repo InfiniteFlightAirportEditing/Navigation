@@ -18388,11 +18388,11 @@
    "identifier": "ILCH",
    "associatedRunwayNumber": "15",
    "frequency": 109100,
-   "elevation": 12,
-   "latitude": 30.125664,
-   "longitude": -93.227736,
-   "bearing": 155.606,
-   "glideslope": 3.00154803,
+   "elevation": 14,
+   "latitude": 30.12873496,
+   "longitude": -93.22792964,
+   "bearing": 154.81,
+   "glideslope": 3.0015481,
    "receptionRange": 10
  },
  {
@@ -48736,6 +48736,19 @@
    "longitude": 90.93281179,
    "bearing": 269.04,
    "glideslope": 3.0026904,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "ZUNZ",
+   "identifier": "ILZ",
+   "associatedRunwayNumber": "05",
+   "frequency": 109700,
+   "elevation": 9674,
+   "latitude": 29.29583788,
+   "longitude": 94.32252701,
+   "bearing": 54.52,
+   "glideslope": 3.0005452,
    "receptionRange": 10
  },
  {
