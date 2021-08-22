@@ -43,8 +43,8 @@ body:
     attributes:
       label: Are you working on this?
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
   - type: textarea
     id: notes
     attributes:
