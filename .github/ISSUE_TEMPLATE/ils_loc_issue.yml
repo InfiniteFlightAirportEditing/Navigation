@@ -1,0 +1,51 @@
+name: ILS/LOC Issue
+description: File an issue regarding an ILS or Localizer
+labels: []
+assignees: []
+body:
+  - type: input
+    id: airport-icao
+    attributes:
+      label: Airport ICAO
+      description: Airport ICAO this ILS is at
+    validations:
+      required: true
+  - type: input
+    id: airport-issue
+    attributes:
+      label: Airports Issue Number
+      description: Issue Number of the airport in the Airport repository. No \# sign.
+    validations:
+      required: true
+  - type: input
+    id: runways
+    attributes:
+      label: Runways with ILS/LOC
+      description: Runways Numbers, comma separated please
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Please paste links to official resources or charts
+    validations:
+      required: true
+  - type: input
+    id: corrections
+    attributes:
+      label: Corrections Required
+      description: New addition, correction of elevation/lat/lon/slope, etc
+    validations:
+      required: true
+  - type: dropdown
+    id: in-progress
+    attributes:
+      label: Are you working on this?
+      options:
+        - Yes
+        - No
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Information
