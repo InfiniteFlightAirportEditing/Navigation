@@ -22295,7 +22295,7 @@
    "type": 4
  },
  {
-   "name": "ILS-Cat-I",
+   "name": "ILS-cat-I",
    "airportICAO": "KPIR",
    "identifier": "IPIR",
    "associatedRunwayNumber": "31",
