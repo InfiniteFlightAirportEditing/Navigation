@@ -21950,11 +21950,11 @@
    "identifier": "IPBI",
    "associatedRunwayNumber": "10L",
    "frequency": 111900,
-   "elevation": 17,
-   "latitude": 26.681817,
-   "longitude": -80.101708,
-   "bearing": 93.592,
-   "glideslope": 3.00092796,
+   "elevation": 19,
+   "latitude": 26.68321207,
+   "longitude": -80.108378,
+   "bearing": 92.8,
+   "glideslope": 3.00928,
    "receptionRange": 10
  },
  {
@@ -21964,10 +21964,10 @@
    "associatedRunwayNumber": "28R",
    "frequency": 111900,
    "elevation": 19,
-   "latitude": 26.681094,
-   "longitude": -80.083828,
-   "bearing": 273.592,
-   "glideslope": 3.00272796,
+   "latitude": 26.6818737,
+   "longitude": -80.0777803,
+   "bearing": 272.8,
+   "glideslope": 3.002728,
    "receptionRange": 10
  },
  {
