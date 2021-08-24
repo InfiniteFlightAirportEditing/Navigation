@@ -21898,11 +21898,11 @@
    "identifier": "ITYF",
    "associatedRunwayNumber": "14L",
    "frequency": 111500,
-   "elevation": 11,
-   "latitude": 30.078475,
-   "longitude": -85.580767,
-   "bearing": 135.218,
-   "glideslope": 2.50134609,
+   "elevation": 18,
+   "latitude": 30.08004546,
+   "longitude": -85.58440934,
+   "bearing": 134.62,
+   "glideslope": 2.5013462,
    "receptionRange": 10
  },
  {
@@ -21911,11 +21911,11 @@
    "identifier": "IPAM",
    "associatedRunwayNumber": "32R",
    "frequency": 110100,
-   "elevation": 8,
-   "latitude": 30.064169,
-   "longitude": -85.563561,
-   "bearing": 315.218,
-   "glideslope": 2.50314609,
+   "elevation": 18,
+   "latitude": 30.06077354,
+   "longitude": -85.56184286,
+   "bearing": 314.62,
+   "glideslope": 2.5031462,
    "receptionRange": 10
  },
  {
