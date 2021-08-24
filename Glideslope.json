@@ -21937,11 +21937,11 @@
    "identifier": "IFQV",
    "associatedRunwayNumber": "35",
    "frequency": 109700,
-   "elevation": 234,
-   "latitude": 44.63826263,
-   "longitude": -73.46201325,
-   "bearing": 338.086,
-   "glideslope": 3.00337543,
+   "elevation": 232,
+   "latitude": 44.63605196,
+   "longitude": -73.45946944,
+   "bearing": 337.54,
+   "glideslope": 3.0033754,
    "receptionRange": 10
  },
  {
