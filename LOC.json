@@ -22295,15 +22295,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-Cat-I",
    "airportICAO": "KPIR",
    "identifier": "IPIR",
    "associatedRunwayNumber": "31",
    "frequency": 111900,
-   "elevation": 1746,
-   "latitude": 44.389108,
-   "longitude": -100.298647,
-   "bearing": 320.738,
+   "elevation": 1744,
+   "latitude": 44.37025487,
+   "longitude": -100.27709782,
+   "bearing": 320.75,
    "receptionRange": 18,
    "type": 4
  },

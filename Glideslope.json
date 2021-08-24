@@ -22353,11 +22353,11 @@
    "identifier": "IPIR",
    "associatedRunwayNumber": "31",
    "frequency": 111900,
-   "elevation": 1716,
-   "latitude": 44.373194,
-   "longitude": -100.278472,
-   "bearing": 321.498,
-   "glideslope": 3.00320749,
+   "elevation": 1744,
+   "latitude": 44.37025487,
+   "longitude": -100.27709782,
+   "bearing": 320.75,
+   "glideslope": 3.0032075,
    "receptionRange": 10
  },
  {
