@@ -31518,11 +31518,11 @@
    "identifier": "YUI",
    "associatedRunwayNumber": "36",
    "frequency": 109900,
-   "elevation": 85,
-   "latitude": 42.350278,
-   "longitude": 19.252611,
-   "bearing": 4.64,
-   "glideslope": 3.2000432,
+   "elevation": 122,
+   "latitude": 42.34817215,
+   "longitude": 19.25073743,
+   "bearing": 4.3,
+   "glideslope": 3.200043,
    "receptionRange": 10
  },
  {
