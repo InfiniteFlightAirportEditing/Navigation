@@ -1808,6 +1808,19 @@
    "receptionRange": 10
  },
  {
+  "name":"GS",
+  "airportICAO": "DAUG",
+  "identifier": "GH",
+  "associatedRunwayNumber": "30",
+  "frequency": 109500,
+  "elevation": 1512,
+  "latitude": 32.36922725,
+  "longitude": 3.82289554,
+  "bearing": 302.34,
+  "glideslope": 3.0030234,
+  "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "DAUO",
    "identifier": "EO",

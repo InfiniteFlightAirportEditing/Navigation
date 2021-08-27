@@ -1805,6 +1805,19 @@
    "bearing": 306.66,
    "receptionRange": 18,
    "type": 4
+ }, 
+ {
+  "name":"ILS-cat-I",
+  "airportICAO": "DAUG",
+  "identifier": "GH",
+  "associatedRunwayNumber": "30",
+  "frequency": 109500,
+  "elevation": 1512,
+  "latitude": 32.36922725,
+  "longitude": 3.82289554,
+  "bearing": 302.34,
+  "receptionRange": 18,
+  "type": 4
  },
  {
    "name": "ILS-cat-I",
