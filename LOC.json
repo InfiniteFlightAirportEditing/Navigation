@@ -1820,6 +1820,19 @@
   "type": 4
  },
  {
+  "name": "ILS-cat-I",
+  "airportICAO": "DAUK",
+  "identifier": "TG",
+  "associatedRunwayNumber": "01",
+  "frequency": 109700,
+  "elevation": 279,
+  "latitude": 33.06013787,
+  "longitude": 6.08722888,
+  "bearing": 8.48,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "DAUO",
    "identifier": "EO",
