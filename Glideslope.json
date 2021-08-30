@@ -23183,13 +23183,13 @@
    "name": "GS",
    "airportICAO": "KRGK",
    "identifier": "IRGK",
-   "associatedRunwayNumber": "09",
+   "associatedRunwayNumber": "9",
    "frequency": 110100,
    "elevation": 777,
    "latitude": 44.58972987,
    "longitude": -92.49457868,
    "bearing": 93.05,
-   "glideslope": 3.00093050,
+   "glideslope": 3.0009305,
    "receptionRange": 10
  },
  {
