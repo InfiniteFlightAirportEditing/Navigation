@@ -22574,11 +22574,11 @@
    "identifier": "IPOU",
    "associatedRunwayNumber": "06",
    "frequency": 111300,
-   "elevation": 149,
-   "latitude": 41.624078,
-   "longitude": -73.889631,
-   "bearing": 51.36,
-   "glideslope": 3.0005068,
+   "elevation": 165,
+   "latitude": 41.62191916,
+   "longitude": -73.8920119,
+   "bearing": 50.7,
+   "glideslope": 3.000507,
    "receptionRange": 10
  },
  {
