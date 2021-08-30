@@ -1938,6 +1938,19 @@
  },
  {
   "name": "ILS-cat-I",
+  "airportICAO": "DNAI",
+  "identifier": "IAK",
+  "associatedRunwayNumber": "21",
+  "frequency": 108900,
+  "elevation": 162,
+  "latitude": 4.88675216,
+  "longitude": 8.10077111,
+  "bearing": 206.12,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
+  "name": "ILS-cat-I",
   "airportICAO": "DNBE",
   "identifier": "IBE",
   "associatedRunwayNumber": "23",

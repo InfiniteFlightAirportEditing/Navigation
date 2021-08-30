@@ -1939,6 +1939,19 @@
  },
  {
   "name": "GS",
+  "airportICAO": "DNAI",
+  "identifier": "IAK",
+  "associatedRunwayNumber": "21",
+  "frequency": 108900,
+  "elevation": 162,
+  "latitude": 4.88675216,
+  "longitude": 8.10077111,
+  "bearing": 206.12,
+  "glideslope": 3.0020612,
+  "receptionRange": 10
+ },
+ {
+  "name": "GS",
   "airportICAO": "DNBE",
   "identifier": "IBE",
   "associatedRunwayNumber": "23",
