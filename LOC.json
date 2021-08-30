@@ -1937,6 +1937,19 @@
    "type": 4
  },
  {
+  "name": "ILS-cat-I",
+  "airportICAO": "DNBE",
+  "identifier": "IBE",
+  "associatedRunwayNumber": "23",
+  "frequency": 109700,
+  "elevation": 259,
+  "latitude": 6.32410133,
+  "longitude": 5.60667055,
+  "bearing" : 225.48,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "DNIL",
    "identifier": "IIL",

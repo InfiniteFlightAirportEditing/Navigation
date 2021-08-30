@@ -1938,6 +1938,19 @@
    "receptionRange": 10
  },
  {
+  "name": "GS",
+  "airportICAO": "DNBE",
+  "identifier": "IBE",
+  "associatedRunwayNumber": "23",
+  "frequency": 109700,
+  "elevation": 259,
+  "latitude": 6.32410133,
+  "longitude": 5.60667055,
+  "bearing" : 225.48,
+  "glideslope": 3.0022548,
+  "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "DNIL",
    "identifier": "IIL",
