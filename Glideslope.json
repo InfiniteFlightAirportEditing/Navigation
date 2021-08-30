@@ -31108,7 +31108,6 @@
    "bearing": 131.29,
    "glideslope": 3.0013129,
    "receptionRange": 10
-
  },
  {
    "name": "GS",
@@ -31212,6 +31211,19 @@
    "longitude": 40.58309343,
    "bearing": 120.76,
    "glideslope": 3.50012076,
+   "receptionRange": 10
+ },
+ {
+  "name": "GS",
+   "airportICAO": "LTCV",
+   "identifier": "ISNK",
+   "associatedRunwayNumber": "11",
+   "frequency": 108350,
+   "elevation": 2041,
+   "latitude": 37.37054369,
+   "longitude": 42.04292567,
+   "bearing": 115.68,
+   "glideslope": 3.00011568,
    "receptionRange": 10
  },
  {

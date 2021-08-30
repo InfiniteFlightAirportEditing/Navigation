@@ -31214,6 +31214,19 @@
    "type": 4
  },
  {
+  "name": "ILS-cat-I",
+   "airportICAO": "LTCV",
+   "identifier": "ISNK",
+   "associatedRunwayNumber": "11",
+   "frequency": 108350,
+   "elevation": 2041,
+   "latitude": 37.37054369,
+   "longitude": 42.04292567,
+   "bearing": 115.68,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "LTFD",
    "identifier": "IKFZ",
