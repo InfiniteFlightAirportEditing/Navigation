@@ -22548,11 +22548,11 @@
    "identifier": "IPOB",
    "associatedRunwayNumber": "23",
    "frequency": 110900,
-   "elevation": 217,
-   "latitude": 35.175586,
-   "longitude": -79.007636,
-   "bearing": 221.63,
-   "glideslope": 3.00221315,
+   "elevation": 215,
+   "latitude": 35.17860655,
+   "longitude": -79.00617149,
+   "bearing": 221.33,
+   "glideslope": 3.0022133,
    "receptionRange": 10
  },
  {
