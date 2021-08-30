@@ -22483,11 +22483,11 @@
    "identifier": "IPLN",
    "associatedRunwayNumber": "32",
    "frequency": 111300,
-   "elevation": 709,
-   "latitude": 45.564336,
-   "longitude": -84.792658,
-   "bearing": 315.572,
-   "glideslope": 3.00314786,
+   "elevation": 720,
+   "latitude": 45.563208,
+   "longitude": -84.78881399,
+   "bearing": 314.79,
+   "glideslope": 3.0031479,
    "receptionRange": 10
  },
  {
