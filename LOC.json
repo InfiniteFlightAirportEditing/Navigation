@@ -31228,6 +31228,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTCS",
+   "identifier": "ISUR",
+   "associatedRunwayNumber": "04",
+   "frequency": 111900,
+   "elevation": 2708,
+   "latitude": 37.43477900,
+   "longitude": 38.88336639,
+   "bearing": 41.83,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTCU",
    "identifier": "IBIN",
    "associatedRunwayNumber": "11",
