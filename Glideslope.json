@@ -31189,6 +31189,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTCM",
+   "identifier": "ISDP",
+   "associatedRunwayNumber": "23",
+   "frequency": 108900,
+   "elevation": 20,
+   "latitude": 42.02378830,
+   "longitude": 35.08172365,
+   "bearing": 233.54,
+   "glideslope": 3.00023354,
+   "receptionRange": 10
+ }, 
+ {
+   "name": "GS",
    "airportICAO": "LTCR",
    "identifier": "IMRD",
    "associatedRunwayNumber": "03",
