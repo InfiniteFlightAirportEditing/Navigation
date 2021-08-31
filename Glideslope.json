@@ -31199,7 +31199,20 @@
    "bearing": 233.54,
    "glideslope": 3.00023354,
    "receptionRange": 10
- }, 
+ },
+ { 
+   "name": "GS",
+   "airportICAO": "LTCP",
+   "identifier": "IADY",
+   "associatedRunwayNumber": "04",
+   "frequency": 110500,
+   "elevation": 2214,
+   "latitude": 37.72397095,
+   "longitude": 38.45827215,
+   "bearing": 49.23,
+   "glideslope": 3.00004923,
+   "receptionRange": 10
+ },
  {
    "name": "GS",
    "airportICAO": "LTCR",

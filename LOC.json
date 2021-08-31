@@ -31202,6 +31202,19 @@
  }, 
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTCP",
+   "identifier": "IADY",
+   "associatedRunwayNumber": "04",
+   "frequency": 110500,
+   "elevation": 2214,
+   "latitude": 37.72397095,
+   "longitude": 38.45827215,
+   "bearing": 49.23,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTCR",
    "identifier": "IMRD",
    "associatedRunwayNumber": "03",
