@@ -31137,6 +31137,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTCC",
+   "identifier": "IDBN",
+   "associatedRunwayNumber": "34",
+   "frequency": 108500,
+   "elevation": 2251,
+   "latitude": 37.87865963,
+   "longitude": 40.20708111,
+   "bearing": 342.65,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTCE",
    "identifier": "IERZ",
    "associatedRunwayNumber": "26R",
