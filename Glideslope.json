@@ -31163,6 +31163,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTBZ",
+   "identifier": "IZFR",
+   "associatedRunwayNumber": "13",
+   "frequency": 108100,
+   "elevation": 3327,
+   "latitude": 39.12037024,
+   "longitude": 30.11714921,
+   "bearing": 131.29,
+   "glideslope": 3.0013129,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "LTBZ",
+   "identifier": "IZFE",
+   "associatedRunwayNumber": "31",
+   "frequency": 111300,
+   "elevation": 3327,
+   "latitude": 39.10255643,
+   "longitude": 30.14329130,
+   "bearing": 313.29,
+   "glideslope": 3.0031329,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTCB",
    "identifier": "IOGR",
    "associatedRunwayNumber": "28",
@@ -31228,6 +31254,32 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTCM",
+   "identifier": "ISDP",
+   "associatedRunwayNumber": "23",
+   "frequency": 108900,
+   "elevation": 32,
+   "latitude": 42.02378830,
+   "longitude": 35.08172365,
+   "bearing": 233.54,
+   "glideslope": 3.0023354,
+   "receptionRange": 10
+ },
+ { 
+   "name": "GS",
+   "airportICAO": "LTCP",
+   "identifier": "IADY",
+   "associatedRunwayNumber": "04",
+   "frequency": 110500,
+   "elevation": 2214,
+   "latitude": 37.72397095,
+   "longitude": 38.45827215,
+   "bearing": 49.23,
+   "glideslope": 3.0004923,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTCR",
    "identifier": "IMRD",
    "associatedRunwayNumber": "03",
@@ -31241,6 +31293,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTCS",
+   "identifier": "ISUR",
+   "associatedRunwayNumber": "04",
+   "frequency": 111900,
+   "elevation": 2708,
+   "latitude": 37.43477900,
+   "longitude": 38.88336639,
+   "bearing": 41.83,
+   "glideslope": 3.00041830,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTCU",
    "identifier": "IBIN",
    "associatedRunwayNumber": "11",
@@ -31250,6 +31315,19 @@
    "longitude": 40.58309343,
    "bearing": 120.76,
    "glideslope": 3.50012076,
+   "receptionRange": 10
+ },
+ {
+  "name": "GS",
+   "airportICAO": "LTCV",
+   "identifier": "ISNK",
+   "associatedRunwayNumber": "11",
+   "frequency": 108350,
+   "elevation": 2041,
+   "latitude": 37.37054369,
+   "longitude": 42.04292567,
+   "bearing": 115.68,
+   "glideslope": 3.0011568,
    "receptionRange": 10
  },
  {
