@@ -31293,6 +31293,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTCJ",
+   "identifier": "IBAT",
+   "associatedRunwayNumber": "02",
+   "frequency": 108100,
+   "elevation": 1831,
+   "latitude": 37.91654343,
+   "longitude": 41.10907928,
+   "bearing": 25.57,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTCK",
    "identifier": "IMUS",
    "associatedRunwayNumber": "29",

@@ -31280,6 +31280,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTCJ",
+   "identifier": "IBAT",
+   "associatedRunwayNumber": "02",
+   "frequency": 108100,
+   "elevation": 1831,
+   "latitude": 37.91654343,
+   "longitude": 41.10907928,
+   "bearing": 25.57,
+   "glideslope": 3.0002557,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTCK",
    "identifier": "IMUS",
    "associatedRunwayNumber": "29",
