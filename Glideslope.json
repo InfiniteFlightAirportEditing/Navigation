@@ -31197,7 +31197,7 @@
    "latitude": 42.02378830,
    "longitude": 35.08172365,
    "bearing": 233.54,
-   "glideslope": 3.00023354,
+   "glideslope": 3.0023354,
    "receptionRange": 10
  },
  { 
@@ -31210,7 +31210,7 @@
    "latitude": 37.72397095,
    "longitude": 38.45827215,
    "bearing": 49.23,
-   "glideslope": 3.00004923,
+   "glideslope": 3.0004923,
    "receptionRange": 10
  },
  {
@@ -31262,7 +31262,7 @@
    "latitude": 37.37054369,
    "longitude": 42.04292567,
    "bearing": 115.68,
-   "glideslope": 3.00011568,
+   "glideslope": 3.0011568,
    "receptionRange": 10
  },
  {
