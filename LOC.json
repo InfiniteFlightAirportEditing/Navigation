@@ -31006,6 +31006,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "LTAR",
+   "identifier": "ISVS",
+   "associatedRunwayNumber": "01",
+   "frequency": 109100,
+   "elevation": 5237,
+   "latitude": 39.79762729,
+   "longitude": 36.89668951,
+   "bearing": 17.82,
+   "receptionRange": 18,
+   "type": 4
+ }, 
+ {
    "name": "ILS-cat-II",
    "airportICAO": "LTAU",
    "identifier": "IKSR",

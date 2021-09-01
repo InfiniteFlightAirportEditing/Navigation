@@ -31007,6 +31007,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTAR",
+   "identifier": "ISVS",
+   "associatedRunwayNumber": "01",
+   "frequency": 109100,
+   "elevation": 5237,
+   "latitude": 39.79762729,
+   "longitude": 36.89668951,
+   "bearing": 17.82,
+   "glideslope": 3.0001782,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTAU",
    "identifier": "IKSR",
    "associatedRunwayNumber": "25",
