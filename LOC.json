@@ -31280,6 +31280,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTCI",
+   "identifier": "IVAN",
+   "associatedRunwayNumber": "03",
+   "frequency": 108300,
+   "elevation": 5473,
+   "latitude": 38.45847885,
+   "longitude": 43.32271486,
+   "bearing": 37.59,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTCK",
    "identifier": "IMUS",
    "associatedRunwayNumber": "29",
