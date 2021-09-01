@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Airports Repository
+    url: https://github.com/InfiniteFlightAirportEditing/Airports/
+    about: Issues regarding airport layout should be submitted here
+  - name: Navigation Wiki
+    url: https://github.com/InfiniteFlightAirportEditing/Navigation/wiki
+    about: See here for how to do Navigation editing
