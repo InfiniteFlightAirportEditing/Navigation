@@ -31020,6 +31020,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTAS",
+   "identifier": "IZCA",
+   "associatedRunwayNumber": "36",
+   "frequency": 109750,
+   "elevation": 44,
+   "latitude": 41.49756127,
+   "longitude": 32.08753265,
+   "bearing": 365.52,
+   "glideslope": 3.0036552,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "LTAU",
    "identifier": "IKSR",
    "associatedRunwayNumber": "25",
