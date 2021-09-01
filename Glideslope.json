@@ -1964,6 +1964,19 @@
   "receptionRange": 10
  },
  {
+  "name": "GS",
+  "airportICAO": "DNGO",
+  "identifier": "IGM",
+  "associatedRunwayNumber": "05",
+  "frequency": 108100,
+  "elevation": 1589,
+  "latitude": 10.28908959,
+  "longitude": 10.88702189,
+  "bearing": 52.57,
+  "glideslope": 3.0005257,
+  "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "DNIL",
    "identifier": "IIL",
