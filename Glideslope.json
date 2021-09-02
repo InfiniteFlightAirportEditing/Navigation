@@ -1952,6 +1952,19 @@
  },
  {
   "name": "GS",
+  "airportICAO": "DNBC",
+  "identifier": "IBT",
+  "associatedRunwayNumber": "35",
+  "frequency": 111300,
+  "elevation": 1965,
+  "latitude": 10.46770506,
+  "longitude": 9.74657291,
+  "bearing": 350.27,
+  "glideslope": 3.0035027,
+  "receptionRange": 10
+ },
+ {
+  "name": "GS",
   "airportICAO": "DNBE",
   "identifier": "IBE",
   "associatedRunwayNumber": "23",

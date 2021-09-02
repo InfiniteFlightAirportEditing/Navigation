@@ -1951,6 +1951,19 @@
  },
  {
   "name": "ILS-cat-I",
+  "airportICAO": "DNBC",
+  "identifier": "IBT",
+  "associatedRunwayNumber": "35",
+  "frequency": 111300,
+  "elevation": 1965,
+  "latitude": 10.46770506,
+  "longitude": 9.74657291,
+  "bearing": 350.27,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
+  "name": "ILS-cat-I",
   "airportICAO": "DNBE",
   "identifier": "IBE",
   "associatedRunwayNumber": "23",
