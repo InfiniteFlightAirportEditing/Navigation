@@ -31319,6 +31319,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTCL",
+   "identifier": "ISTR",
+   "associatedRunwayNumber": "06",
+   "frequency": 108550,
+   "elevation": 2000,
+   "latitude": 37.97495584,
+   "longitude": 41.82812606,
+   "bearing": 67.95,
+   "receptionRange": 18,
+   "type": 4
+ }, 
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTCM",
    "identifier": "ISDP",
    "associatedRunwayNumber": "23",
