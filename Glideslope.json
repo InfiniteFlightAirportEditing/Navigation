@@ -23302,11 +23302,11 @@
    "identifier": "IRKS",
    "associatedRunwayNumber": "27",
    "frequency": 109300,
-   "elevation": 6756,
-   "latitude": 41.5915,
-   "longitude": -109.050486,
-   "bearing": 283.6,
-   "glideslope": 3.002833,
+   "elevation": 6765,
+   "latitude": 41.59140062,
+   "longitude": -109.04660647,
+   "bearing": 283.26,
+   "glideslope": 3.0028326,
    "receptionRange": 10
  },
  {
