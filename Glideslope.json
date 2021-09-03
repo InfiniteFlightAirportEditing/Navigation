@@ -23771,10 +23771,10 @@
    "associatedRunwayNumber": "01",
    "frequency": 110100,
    "elevation": 1221,
-   "latitude": 46.339683,
-   "longitude": -87.400592,
-   "bearing": 9.86,
-   "glideslope": 3.0000893,
+   "latitude": 46.336872,
+   "longitude": -87.399167,
+   "bearing": 8.93,
+   "glideslope": 3.000893,
    "receptionRange": 10
  },
  {
