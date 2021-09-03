@@ -23601,11 +23601,11 @@
    "identifier": "IRVS",
    "associatedRunwayNumber": "01L",
    "frequency": 109950,
-   "elevation": 638,
-   "latitude": 36.03548868,
-   "longitude": -95.9861026,
-   "bearing": 13.554,
-   "glideslope": 3.00013277,
+   "elevation": 637,
+   "latitude": 36.0330139,
+   "longitude": -95.98788333,
+   "bearing": 13.28,
+   "glideslope": 3.0001328,
    "receptionRange": 10
  },
  {
