@@ -48804,6 +48804,58 @@
    "receptionRange": 18,
    "type": 4
  },
+ {  
+   "name": "ILS-cat-III",
+   "airportICAO": "ZUTF",
+   "identifier": "ITF",
+   "associatedRunwayNumber": "01",
+   "frequency": 108900,
+   "elevation": 1451,
+   "latitude": 30.29047086,
+   "longitude": 104.41751278,
+   "bearing": 22.08,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {  
+   "name": "ILS-cat-III",
+   "airportICAO": "ZUTF",
+   "identifier": "ITV",
+   "associatedRunwayNumber": "02",
+   "frequency": 111300,
+   "elevation": 1451,
+   "latitude": 30.27769417,
+   "longitude": 104.43845314,
+   "bearing": 22.11,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {  
+   "name": "ILS-cat-I",
+   "airportICAO": "ZUTF",
+   "identifier": "ICT",
+   "associatedRunwayNumber": "19",
+   "frequency": 108900,
+   "elevation": 1451,
+   "latitude": 30.32387816,
+   "longitude": 104.43320989,
+   "bearing": 202.08,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {  
+   "name": "ILS-cat-I",
+   "airportICAO": "ZUTF",
+   "identifier": "IFM",
+   "associatedRunwayNumber": "20",
+   "frequency": 111300,
+   "elevation": 1451,
+   "latitude": 30.30440529,
+   "longitude": 104.45101686,
+   "bearing": 202.11,
+   "receptionRange": 18,
+   "type": 4
+ },
  {
    "name": "ILS-cat-II",
    "airportICAO": "ZUUU",
