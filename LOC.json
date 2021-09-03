@@ -31345,6 +31345,19 @@
  }, 
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTCO",
+   "identifier": "IAGR",
+   "associatedRunwayNumber": "16",
+   "frequency": 108150,
+   "elevation": 5461,
+   "latitude": 39.67158349,
+   "longitude": 43.02015661,
+   "bearing": 164.59,
+   "receptionRange": 18,
+   "type": 4
+ }, 
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTCP",
    "identifier": "IADY",
    "associatedRunwayNumber": "04",
