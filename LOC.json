@@ -31006,6 +31006,32 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "LTAR",
+   "identifier": "ISVS",
+   "associatedRunwayNumber": "01",
+   "frequency": 109100,
+   "elevation": 5237,
+   "latitude": 39.79762729,
+   "longitude": 36.89668951,
+   "bearing": 17.82,
+   "receptionRange": 18,
+   "type": 4
+ }, 
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "LTAS",
+   "identifier": "IZCA",
+   "associatedRunwayNumber": "36",
+   "frequency": 109750,
+   "elevation": 44,
+   "latitude": 41.49756127,
+   "longitude": 32.08753265,
+   "bearing": 365.52,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "LTAU",
    "identifier": "IKSR",
@@ -31202,6 +31228,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTCC",
+   "identifier": "IDBN",
+   "associatedRunwayNumber": "34",
+   "frequency": 108500,
+   "elevation": 2251,
+   "latitude": 37.87865963,
+   "longitude": 40.20708111,
+   "bearing": 342.65,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTCE",
    "identifier": "IERZ",
    "associatedRunwayNumber": "26R",
@@ -31236,6 +31275,32 @@
    "latitude": 40.99953916,
    "longitude": 39.7750899,
    "bearing": 112.34,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "LTCI",
+   "identifier": "IVAN",
+   "associatedRunwayNumber": "03",
+   "frequency": 108300,
+   "elevation": 5473,
+   "latitude": 38.45847885,
+   "longitude": 43.32271486,
+   "bearing": 37.59,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "LTCJ",
+   "identifier": "IBAT",
+   "associatedRunwayNumber": "02",
+   "frequency": 108100,
+   "elevation": 1831,
+   "latitude": 37.91654343,
+   "longitude": 41.10907928,
+   "bearing": 25.57,
    "receptionRange": 18,
    "type": 4
  },
