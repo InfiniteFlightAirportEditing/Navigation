@@ -23601,9 +23601,9 @@
    "associatedRunwayNumber": "27",
    "frequency": 111900,
    "elevation": 1040,
-   "latitude": 34.01297764,
-   "longitude": -84.60911361,
-   "bearing": 268.771,
+   "latitude": 34.01335015,
+   "longitude": -84.58662481,
+   "bearing": 268.75,
    "receptionRange": 18,
    "type": 4
  },
