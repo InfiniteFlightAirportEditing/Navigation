@@ -31317,6 +31317,19 @@
    "glideslope": 3.0023354,
    "receptionRange": 10
  },
+ {
+   "name": "GS",
+   "airportICAO": "LTCO",
+   "identifier": "IAGR",
+   "associatedRunwayNumber": "16",
+   "frequency": 108150,
+   "elevation": 5461,
+   "latitude": 39.67158349,
+   "longitude": 43.02015661,
+   "bearing": 164.59,
+   "glideslope": 3.0016459,
+   "receptionRange": 10
+ },  
  { 
    "name": "GS",
    "airportICAO": "LTCP",
