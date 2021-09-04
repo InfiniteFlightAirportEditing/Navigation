@@ -1937,6 +1937,58 @@
    "type": 4
  },
  {
+  "name": "ILS-cat-I",
+  "airportICAO": "DNAI",
+  "identifier": "IAK",
+  "associatedRunwayNumber": "21",
+  "frequency": 108900,
+  "elevation": 162,
+  "latitude": 4.88675216,
+  "longitude": 8.10077111,
+  "bearing": 206.12,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
+  "name": "ILS-cat-I",
+  "airportICAO": "DNBC",
+  "identifier": "IBT",
+  "associatedRunwayNumber": "35",
+  "frequency": 111300,
+  "elevation": 1965,
+  "latitude": 10.46770506,
+  "longitude": 9.74657291,
+  "bearing": 350.27,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
+  "name": "ILS-cat-I",
+  "airportICAO": "DNBE",
+  "identifier": "IBE",
+  "associatedRunwayNumber": "23",
+  "frequency": 109700,
+  "elevation": 259,
+  "latitude": 6.32410133,
+  "longitude": 5.60667055,
+  "bearing" : 225.48,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
+  "name": "ILS-cat-I",
+  "airportICAO": "DNGO",
+  "identifier": "IGM",
+  "associatedRunwayNumber": "05",
+  "frequency": 108100,
+  "elevation": 1589,
+  "latitude": 10.28908959,
+  "longitude": 10.88702189,
+  "bearing": 52.57,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "DNIL",
    "identifier": "IIL",

@@ -1938,6 +1938,58 @@
    "receptionRange": 10
  },
  {
+  "name": "GS",
+  "airportICAO": "DNAI",
+  "identifier": "IAK",
+  "associatedRunwayNumber": "21",
+  "frequency": 108900,
+  "elevation": 162,
+  "latitude": 4.88675216,
+  "longitude": 8.10077111,
+  "bearing": 206.12,
+  "glideslope": 3.0020612,
+  "receptionRange": 10
+ },
+ {
+  "name": "GS",
+  "airportICAO": "DNBC",
+  "identifier": "IBT",
+  "associatedRunwayNumber": "35",
+  "frequency": 111300,
+  "elevation": 1965,
+  "latitude": 10.46770506,
+  "longitude": 9.74657291,
+  "bearing": 350.27,
+  "glideslope": 3.0035027,
+  "receptionRange": 10
+ },
+ {
+  "name": "GS",
+  "airportICAO": "DNBE",
+  "identifier": "IBE",
+  "associatedRunwayNumber": "23",
+  "frequency": 109700,
+  "elevation": 259,
+  "latitude": 6.32410133,
+  "longitude": 5.60667055,
+  "bearing" : 225.48,
+  "glideslope": 3.0022548,
+  "receptionRange": 10
+ },
+ {
+  "name": "GS",
+  "airportICAO": "DNGO",
+  "identifier": "IGM",
+  "associatedRunwayNumber": "05",
+  "frequency": 108100,
+  "elevation": 1589,
+  "latitude": 10.28908959,
+  "longitude": 10.88702189,
+  "bearing": 52.57,
+  "glideslope": 3.0005257,
+  "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "DNIL",
    "identifier": "IIL",
