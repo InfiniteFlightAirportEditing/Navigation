@@ -2021,11 +2021,11 @@
    "identifier": "IKA",
    "associatedRunwayNumber": "05",
    "frequency": 110100,
-   "elevation": 2067,
-   "latitude": 10.68993,
-   "longitude": 7.3105,
-   "bearing": 50.086,
-   "glideslope": 3.08049543,
+   "elevation": 2071,
+   "latitude": 10.68710822,
+   "longitude": 7.30966826,
+   "bearing": 49.57,
+   "glideslope": 3.0004957,
    "receptionRange": 10
  },
  {
