@@ -1978,6 +1978,19 @@
  },
  {
   "name": "GS",
+  "airportICAO": "DNEN",
+  "identifier": "IEN",
+  "associatedRunwayNumber": "26",
+  "frequency": 108300,
+  "elevation": 514,
+  "latitude": 6.47587664,
+  "longitude": 7.57226323,
+  "bearing": 260.07,
+  "glideslope": 3.0026007,
+  "receptionRange": 10
+ },
+ {
+  "name": "GS",
   "airportICAO": "DNGO",
   "identifier": "IGM",
   "associatedRunwayNumber": "05",
