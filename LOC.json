@@ -31475,6 +31475,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "LTDA",
+   "identifier": "IHAT",
+   "associatedRunwayNumber": "04",
+   "frequency": 108900,
+   "elevation": 262,
+   "latitude": 36.35239282,
+   "longitude": 36.27610006,
+   "bearing": 42.61,
+   "receptionRange": 18,
+   "type": 4
+ },  
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "LTFD",
    "identifier": "IKFZ",
    "associatedRunwayNumber": "05",

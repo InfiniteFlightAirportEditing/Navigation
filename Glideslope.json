@@ -31449,6 +31449,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "LTDA",
+   "identifier": "IHAT",
+   "associatedRunwayNumber": "04",
+   "frequency": 108900,
+   "elevation": 262,
+   "latitude": 36.35239282,
+   "longitude": 36.27610006,
+   "bearing": 42.61,
+   "glideslope": 3.0004261,
+   "receptionRange": 10
+ }, 
+ {
+   "name": "GS",
    "airportICAO": "LTFD",
    "identifier": "IKFZ",
    "associatedRunwayNumber": "05",
