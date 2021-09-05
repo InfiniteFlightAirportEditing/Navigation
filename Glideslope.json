@@ -1978,6 +1978,19 @@
  },
  {
   "name": "GS",
+  "airportICAO": "DNBK",
+  "identifier": "IRK",
+  "associatedRunwayNumber": "06",
+  "frequency": 110500,
+  "elevation": 775,
+  "latitude": 12.47216022,
+  "longitude": 4.3570086,
+  "bearing": 59.66,
+  "glideslope": 3.0005966,
+  "receptionRange": 10
+ },
+ {
+  "name": "GS",
   "airportICAO": "DNEN",
   "identifier": "IEN",
   "associatedRunwayNumber": "26",
