@@ -2029,6 +2029,19 @@
    "receptionRange": 10
  },
  {
+  "name": "GS",
+  "airportICAO": "DNIM",
+  "identifier": "IOW",
+  "associatedRunwayNumber": "17",
+  "frequency": 110900,
+  "elevation": 374,
+  "latitude": 5.43907149,
+  "longitude": 7.20330372,
+  "bearing": 167.19,
+  "glideslope": 3.0016719,
+  "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "DNJO",
    "identifier": "IJS",
