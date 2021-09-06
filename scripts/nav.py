@@ -13,7 +13,7 @@ lines = []
 
 ## add headers
 lines.append("I")
-lines.append("810 Version - Generated using nav.py on Travis")
+lines.append("810 Version - Generated using nav.py on GitHub Actions")
 lines.append(" ")
 
 ## read LOC
