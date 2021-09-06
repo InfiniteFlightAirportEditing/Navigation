@@ -1990,6 +1990,19 @@
  },
  {
   "name": "ILS-cat-I",
+  "airportICAO": "DNDS",
+  "identifier": "IDT",
+  "associatedRunwayNumber": "06",
+  "frequency": 108500,
+  "elevation": 1365,
+  "latitude": 11.78808895,
+  "longitude": 9.28942966,
+  "bearing": 58.45,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
+  "name": "ILS-cat-I",
   "airportICAO": "DNEN",
   "identifier": "IEN",
   "associatedRunwayNumber": "26",

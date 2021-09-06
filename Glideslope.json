@@ -1991,6 +1991,19 @@
  },
  {
   "name": "GS",
+  "airportICAO": "DNDS",
+  "identifier": "IDT",
+  "associatedRunwayNumber": "06",
+  "frequency": 108500,
+  "elevation": 1365,
+  "latitude": 11.78808895,
+  "longitude": 9.28942966,
+  "bearing": 58.45,
+  "glideslope": 3.0005845,
+  "receptionRange": 10
+ },
+ {
+  "name": "GS",
   "airportICAO": "DNEN",
   "identifier": "IEN",
   "associatedRunwayNumber": "26",
