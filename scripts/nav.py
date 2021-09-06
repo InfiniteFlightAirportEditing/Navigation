@@ -6,7 +6,8 @@
 import datetime
 import sys
 import json
-from types import NoneType
+
+NoneType = type(None)
 
 ## create array for lines
 lines = []
