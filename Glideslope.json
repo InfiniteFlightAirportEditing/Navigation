@@ -24342,11 +24342,11 @@
    "identifier": "ISHD",
    "associatedRunwayNumber": "05",
    "frequency": 109500,
-   "elevation": 1178,
-   "latitude": 38.25995,
-   "longitude": -78.901433,
-   "bearing": 38.098,
-   "glideslope": 3.00038049,
+   "elevation": 1201,
+   "latitude": 38.25737191,
+   "longitude": -78.90290008,
+   "bearing": 38.09,
+   "glideslope": 3.0003809,
    "receptionRange": 10
  },
  {
