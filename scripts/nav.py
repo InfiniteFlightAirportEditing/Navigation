@@ -35,7 +35,7 @@ for loc in locData:
 	runwayNumber = loc["associatedRunwayNumber"]
 	lineType = loc["type"]
 	
-	lines.append("%s %s %s %s %s %s %s %s %s %s %s" % (str(lineType).encode('utf-8'), latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(bearing).encode('utf-8'), identifier.encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')))
+	lines.append(' '.join([str(lineType).encode('utf-8'), latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(bearing).encode('utf-8'), identifier.encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')]))
 
 
 ## read Glideslope
@@ -68,7 +68,7 @@ for gs in gsData:
 	if type(name) is NoneType:
 		name = ""
 	
-	lines.append("6 %s %s %s %s %s %s%s %s %s %s %s" % (latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(glideslope).encode('utf-8'), str(bearing).encode('utf-8'), identifier.encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')))
+	lines.append(' '.join(['6', latitude.encode('utf-8'), longitude.encode('utf-8'), str(elevation).encode('utf-8'), str(frequency).encode('utf-8'), str(receptionRange).encode('utf-8'), str(glideslope).encode('utf-8'), str(bearing).encode('utf-8'), identifier.encode('utf-8'), icao.encode('utf-8'), runwayNumber.encode('utf-8'), name.encode('utf-8')]))
 
 ## save to file
 with open('dat/navigation.dat', mode='wt') as currentFile:
