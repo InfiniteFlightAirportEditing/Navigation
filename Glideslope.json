@@ -2060,11 +2060,11 @@
    "identifier": "IJS",
    "associatedRunwayNumber": "10",
    "frequency": 110700,
-   "elevation": 4232,
-   "latitude": 9.641861,
-   "longitude": 8.858403,
-   "bearing": 95.502,
-   "glideslope": 3.00095251,
+   "elevation": 4229,
+   "latitude": 9.64107486,
+   "longitude": 8.85543839,
+   "bearing": 95.28,
+   "glideslope": 3.0009528,
    "receptionRange": 10
  },
  {
