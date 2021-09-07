@@ -39812,11 +39812,11 @@
    "identifier": "ILU",
    "associatedRunwayNumber": "13",
    "frequency": 110300,
-   "elevation": 127,
-   "latitude": 41.614444,
-   "longitude": 41.590556,
-   "bearing": 131.632,
-   "glideslope": 2.50130816,
+   "elevation": 37,
+   "latitude": 41.61700409,
+   "longitude": 41.58893415,
+   "bearing": 130.99,
+   "glideslope": 3.0013099,
    "receptionRange": 10
  },
  {
