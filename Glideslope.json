@@ -24303,11 +24303,11 @@
    "identifier": "IGUH",
    "associatedRunwayNumber": "31",
    "frequency": 111100,
-   "elevation": 5,
-   "latitude": 29.957061,
-   "longitude": -81.335319,
-   "bearing": 306.888,
-   "glideslope": 3.00306444,
+   "elevation": 9,
+   "latitude": 29.95439086,
+   "longitude": -81.33034926,
+   "bearing": 306.45,
+   "glideslope": 3.0030645,
    "receptionRange": 10
  },
  {
