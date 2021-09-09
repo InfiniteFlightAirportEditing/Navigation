@@ -24810,11 +24810,11 @@
    "identifier": "IFFV",
    "associatedRunwayNumber": "14",
    "frequency": 111300,
-   "elevation": 22,
-   "latitude": 27.400547,
-   "longitude": -82.559833,
-   "bearing": 135.066,
-   "glideslope": 3.00134533,
+   "elevation": 30,
+   "latitude": 27.404622,
+   "longitude": -82.565644,
+   "bearing": 134.54,
+   "glideslope": 3.0013454,
    "receptionRange": 10
  },
  {
@@ -24823,11 +24823,11 @@
    "identifier": "ISRQ",
    "associatedRunwayNumber": "32",
    "frequency": 109700,
-   "elevation": 24,
-   "latitude": 27.391089,
-   "longitude": -82.549003,
-   "bearing": 315.066,
-   "glideslope": 3.00314533,
+   "elevation": 30,
+   "latitude": 27.386344,
+   "longitude": -82.544719,
+   "bearing": 314.54,
+   "glideslope": 3.0031454,
    "receptionRange": 10
  },
  {
