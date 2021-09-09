@@ -25043,12 +25043,12 @@
    "airportICAO": "KSUS",
    "identifier": "ISUS",
    "associatedRunwayNumber": "08R",
-   "frequency": 111100,
-   "elevation": 461,
-   "latitude": 38.657492,
-   "longitude": -90.655931,
-   "bearing": 78.052,
-   "glideslope": 3.00078026,
+   "frequency": 110550,
+   "elevation": 462,
+   "latitude": 38.65769141,
+   "longitude": -90.65977578,
+   "bearing": 78.03,
+   "glideslope": 3.0007803,
    "receptionRange": 10
  },
  {
@@ -25058,10 +25058,10 @@
    "associatedRunwayNumber": "26L",
    "frequency": 111100,
    "elevation": 462,
-   "latitude": 38.660378,
-   "longitude": -90.639158,
-   "bearing": 258.052,
-   "glideslope": 3.00258026,
+   "latitude": 38.66194959,
+   "longitude": -90.63406093,
+   "bearing": 258.03,
+   "glideslope": 3.0025803,
    "receptionRange": 10
  },
  {
