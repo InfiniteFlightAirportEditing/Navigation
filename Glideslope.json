@@ -24745,11 +24745,11 @@
    "identifier": "ISHP",
    "associatedRunwayNumber": "15C",
    "frequency": 110500,
-   "elevation": 993,
-   "latitude": 34.003581,
-   "longitude": -98.494961,
-   "bearing": 158.69,
-   "glideslope": 3.00158345,
+   "elevation": 1019,
+   "latitude": 34.006267,
+   "longitude": -98.497142,
+   "bearing": 158.35,
+   "glideslope": 3.0015835,
    "receptionRange": 10
  },
  {
@@ -24758,11 +24758,11 @@
    "identifier": "ISPS",
    "associatedRunwayNumber": "33L",
    "frequency": 109700,
-   "elevation": 999,
-   "latitude": 33.973653,
-   "longitude": -98.483292,
-   "bearing": 338.792,
-   "glideslope": 3.00338396,
+   "elevation": 1019,
+   "latitude": 33.970339,
+   "longitude": -98.48348492,
+   "bearing": 338.33,
+   "glideslope": 3.0033833,
    "receptionRange": 10
  },
  {
