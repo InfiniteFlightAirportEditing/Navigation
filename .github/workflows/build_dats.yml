@@ -1,0 +1,28 @@
+name: Build and Push dat files
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  build_and_push:
+    runs-on: ubuntu-latest
+    if: github.repository_owner == 'InfiniteFlightAirportEditing'
+    steps:
+      - uses: actions/checkout@v2
+            
+      - name: Setup Python
+        uses: actions/setup-python@v2
+      
+      - name: Build dat files
+        run: python scripts/nav.py
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Created .dat files via GitHub Actions
+
+      
+        
+            

@@ -1,0 +1,16 @@
+name: Test Pull Request
+on: pull_request
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+            
+      - name: Setup Python
+        uses: actions/setup-python@v2
+      
+      - name: Build dat files
+        run: python scripts/nav.py
+        
+            
