@@ -33686,14 +33686,14 @@
  {
    "name": "GS",
    "airportICAO": "OJAM",
-   "identifier": "LAMN",
+   "identifier": "IAMN",
    "associatedRunwayNumber": "24",
    "frequency": 109500,
-   "elevation": 2457,
-   "latitude": 31.977022,
-   "longitude": 36.004972,
-   "bearing": 244.084,
-   "glideslope": 3.00244042,
+   "elevation": 2555,
+   "latitude": 31.97917220,
+   "longitude": 36.00722549,
+   "bearing": 244.06,
+   "glideslope": 3.0024406,
    "receptionRange": 10
  },
  {

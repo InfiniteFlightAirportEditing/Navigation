@@ -33725,13 +33725,13 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "OJAM",
-   "identifier": "LAMN",
+   "identifier": "IAMN",
    "associatedRunwayNumber": "24",
    "frequency": 109500,
-   "elevation": 2557,
-   "latitude": 31.964803,
-   "longitude": 35.972383,
-   "bearing": 244.072,
+   "elevation": 2555,
+   "latitude": 31.97917220,
+   "longitude": 36.00722549,
+   "bearing": 244.06,
    "receptionRange": 18,
    "type": 4
  },
