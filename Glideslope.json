@@ -44032,6 +44032,19 @@
    "receptionRange": 10
  },
  {
+  "name": "GS",
+  "airportICAO": "VOCI",
+  "identifier": "ICNB",
+  "associatedRunwayNumber": "09",
+  "frequency": 111100,
+  "elevation": 28,
+  "latitude": 10.15053849,
+  "longitude": 76.38498126,
+  "bearing": 87.88,
+  "glideslope": 3.0008788,
+  "receptionRange": 10
+ },
+ {
    "name": "GS",
    "airportICAO": "VOCI",
    "identifier": "ICIL",
