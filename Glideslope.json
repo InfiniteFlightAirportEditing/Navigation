@@ -10289,11 +10289,11 @@
    "identifier": "IERJ",
    "associatedRunwayNumber": "14",
    "frequency": 110100,
-   "elevation": 85,
-   "latitude": 31.334758,
-   "longitude": -92.558561,
-   "bearing": 144.208,
-   "glideslope": 3.00144104,
+   "elevation": 88,
+   "latitude": 31.33787203,
+   "longitude": -92.55922939,
+   "bearing": 144.11,
+   "glideslope": 3.0014411,
    "receptionRange": 10
  },
   {
