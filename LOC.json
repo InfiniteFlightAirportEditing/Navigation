@@ -1990,6 +1990,19 @@
  },
  {
   "name": "ILS-cat-I",
+  "airportICAO": "DNCA",
+  "identifier": "ICL",
+  "associatedRunwayNumber": "21",
+  "frequency": 109100,
+  "elevation": 209,
+  "latitude": 4.98594158,
+  "longitude": 8.35231825,
+  "bearing": 26.74,
+  "receptionRange": 18,
+  "type": 4
+ },
+ {
+  "name": "ILS-cat-I",
   "airportICAO": "DNDS",
   "identifier": "IDT",
   "associatedRunwayNumber": "06",
@@ -49698,19 +49711,6 @@
    "latitude": 45.297667,
    "longitude": -72.734833,
    "bearing": 36.999,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "DNCA",
-   "identifier": "ICL",
-   "associatedRunwayNumber": "21",
-   "frequency": 109100,
-   "elevation": 200,
-   "latitude": 4.964615,
-   "longitude": 8.34048,
-   "bearing": 208.93,
    "receptionRange": 18,
    "type": 5
  },

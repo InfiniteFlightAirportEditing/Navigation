@@ -1989,6 +1989,19 @@
   "glideslope": 3.0005966,
   "receptionRange": 10
  },
+  {
+  "name": "GS",
+  "airportICAO": "DNCA",
+  "identifier": "ICL",
+  "associatedRunwayNumber": "21",
+  "frequency": 109100,
+  "elevation": 209,
+  "latitude": 4.98594158,
+  "longitude": 8.35231825,
+  "bearing": 26.74,
+  "glideslope": 3.0002674,
+  "receptionRange": 10
+ },
  {
   "name": "GS",
   "airportICAO": "DNDS",
