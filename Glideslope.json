@@ -2134,6 +2134,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DNKT",
+   "identifier": "IKT",
+   "associatedRunwayNumber": "05",
+   "frequency": 108100,
+   "elevation": 1685,
+   "latitude": 12.99636358,
+   "longitude": 7.64932851,
+   "bearing": 44.8,
+   "glideslope": 3.000448,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DNMA",
    "identifier": "IMA",
    "associatedRunwayNumber": "05",
