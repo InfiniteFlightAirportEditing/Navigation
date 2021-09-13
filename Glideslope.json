@@ -2216,11 +2216,11 @@
    "identifier": "IYL",
    "associatedRunwayNumber": "17",
    "frequency": 109900,
-   "elevation": 599,
-   "latitude": 9.268442,
-   "longitude": 12.429742,
-   "bearing": 171.144,
-   "glideslope": 3.00170572,
+   "elevation": 613,
+   "latitude": 9.27109634,
+   "longitude": 12.4281408,
+   "bearing": 170.49,
+   "glideslope": 3.0017049,
    "receptionRange": 10
  },
  {
