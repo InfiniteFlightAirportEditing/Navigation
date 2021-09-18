@@ -25083,11 +25083,11 @@
    "identifier": "ITXV",
    "associatedRunwayNumber": "03L",
    "frequency": 108350,
-   "elevation": 36,
-   "latitude": 38.244658,
-   "longitude": -121.952492,
-   "bearing": 48.09,
-   "glideslope": 2.50047545,
+   "elevation": 63,
+   "latitude": 38.2432884,
+   "longitude": -121.95698478,
+   "bearing": 47.55,
+   "glideslope": 2.5004755,
    "receptionRange": 10
  },
  {
@@ -25096,11 +25096,11 @@
    "identifier": "ISUU",
    "associatedRunwayNumber": "21L",
    "frequency": 110100,
-   "elevation": 51,
-   "latitude": 38.280572,
-   "longitude": -121.902517,
-   "bearing": 228.122,
-   "glideslope": 2.80227561,
+   "elevation": 63,
+   "latitude": 38.28178922,
+   "longitude": -121.89819494,
+   "bearing": 227.57,
+   "glideslope": 2.8022757,
    "receptionRange": 10
  },
  {
