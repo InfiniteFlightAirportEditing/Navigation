@@ -1989,6 +1989,19 @@
   "glideslope": 3.0005966,
   "receptionRange": 10
  },
+  {
+  "name": "GS",
+  "airportICAO": "DNCA",
+  "identifier": "ICL",
+  "associatedRunwayNumber": "21",
+  "frequency": 109100,
+  "elevation": 209,
+  "latitude": 4.98594158,
+  "longitude": 8.35231825,
+  "bearing": 26.74,
+  "glideslope": 3.0002674,
+  "receptionRange": 10
+ },
  {
   "name": "GS",
   "airportICAO": "DNDS",
@@ -2121,6 +2134,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DNKT",
+   "identifier": "IKT",
+   "associatedRunwayNumber": "05",
+   "frequency": 108100,
+   "elevation": 1685,
+   "latitude": 12.99636358,
+   "longitude": 7.64932851,
+   "bearing": 44.8,
+   "glideslope": 3.000448,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DNMA",
    "identifier": "IMA",
    "associatedRunwayNumber": "05",
@@ -2203,11 +2229,11 @@
    "identifier": "IYL",
    "associatedRunwayNumber": "17",
    "frequency": 109900,
-   "elevation": 599,
-   "latitude": 9.268442,
-   "longitude": 12.429742,
-   "bearing": 171.144,
-   "glideslope": 3.00170572,
+   "elevation": 613,
+   "latitude": 9.27109634,
+   "longitude": 12.4281408,
+   "bearing": 170.49,
+   "glideslope": 3.0017049,
    "receptionRange": 10
  },
  {
@@ -44017,6 +44043,19 @@
    "bearing": 226.352,
    "glideslope": 3.00225676,
    "receptionRange": 10
+ },
+ {
+  "name": "GS",
+  "airportICAO": "VOCI",
+  "identifier": "ICNB",
+  "associatedRunwayNumber": "09",
+  "frequency": 111100,
+  "elevation": 28,
+  "latitude": 10.15053849,
+  "longitude": 76.38498126,
+  "bearing": 87.88,
+  "glideslope": 3.0008788,
+  "receptionRange": 10
  },
  {
    "name": "GS",
