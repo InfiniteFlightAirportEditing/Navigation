@@ -8478,6 +8478,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "FAHS",
+   "identifier": "HSI",
+   "associatedRunwayNumber": "18",
+   "frequency": 109500,
+   "elevation": 1743,
+   "latitude": -24.34059407,
+   "longitude": 31.04686045,
+   "bearing": 164.06,
+   "glideslope": 3.0016406,
+   "receptionRange": 10
+ },
+ {  
+   "name": "GS",
    "airportICAO": "FAKN",
    "identifier": "PKI",
    "associatedRunwayNumber": "05",

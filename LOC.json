@@ -8425,6 +8425,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "FAHS",
+   "identifier": "HSI",
+   "associatedRunwayNumber": "18",
+   "frequency": 109500,
+   "elevation": 1743,
+   "latitude": -24.34059407,
+   "longitude": 31.04686045,
+   "bearing": 164.06,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {  
+   "name": "ILS-cat-I",
    "airportICAO": "FAKN",
    "identifier": "PKI",
    "associatedRunwayNumber": "05",
