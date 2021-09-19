@@ -25564,7 +25564,7 @@
    "identifier": "IAMP",
    "associatedRunwayNumber": "1L",
    "frequency": 108900,
-   "elevation": 22,
+   "elevation": 26,
    "latitude": 27.96333791,
    "longitude": -82.54235454,
    "bearing": 1.72,
@@ -25572,6 +25572,19 @@
    "type": 4
  },
  {
+   "name": "LOC",
+   "airportICAO": "KTPA",
+   "identifier": "ITWJ",
+   "associatedRunwayNumber": "1R",
+   "frequency": 111950,
+   "elevation": 26,
+   "latitude": 27.96434302,
+   "longitude": -82.52899667,
+   "bearing": 1.72,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {  
    "name": "ILS-cat-II",
    "airportICAO": "KTPA",
    "identifier": "ITPA",
@@ -52207,19 +52220,6 @@
    "latitude": 35.406814,
    "longitude": -97.378994,
    "bearing": 311.17,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "KTPA",
-   "identifier": "ITWJ",
-   "associatedRunwayNumber": "1R",
-   "frequency": 111950,
-   "elevation": 26,
-   "latitude": 27.96434302,
-   "longitude": 82.52899667,
-   "bearing": 1.72,
    "receptionRange": 18,
    "type": 5
  },
