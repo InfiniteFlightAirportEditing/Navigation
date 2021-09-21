@@ -25759,11 +25759,11 @@
    "identifier": "ITUS",
    "associatedRunwayNumber": "11L",
    "frequency": 111700,
-   "elevation": 2600,
-   "latitude": 32.120769,
-   "longitude": -110.946683,
-   "bearing": 135.334,
-   "glideslope": 3.00135167,
+   "elevation": 2643,
+   "latitude": 32.12337912,
+   "longitude": -110.94792288,
+   "bearing": 135.18,
+   "glideslope": 3.0013518,
    "receptionRange": 10
  },
  {
