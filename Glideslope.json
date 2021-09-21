@@ -10536,11 +10536,11 @@
    "identifier": "IALN",
    "associatedRunwayNumber": "29",
    "frequency": 108500,
-   "elevation": 531,
-   "latitude": 38.888367,
-   "longitude": -90.031481,
-   "bearing": 293.876,
-   "glideslope": 3.00293438,
+   "elevation": 538,
+   "latitude": 38.88643361,
+   "longitude": -90.0288528,
+   "bearing": 293.45,
+   "glideslope": 3.0029345,
    "receptionRange": 10
  },
  {
