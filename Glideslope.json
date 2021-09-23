@@ -32697,19 +32697,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "OAKN",
-   "identifier": "IOKN",
-   "associatedRunwayNumber": "23",
-   "frequency": 108550,
-   "elevation": 33379,
-   "latitude": 31.4953056,
-   "longitude": 65.8300278,
-   "bearing": 235.08,
-   "glideslope": 3.0023508,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "OBBI",
    "identifier": "IBIB",
    "associatedRunwayNumber": "12L",

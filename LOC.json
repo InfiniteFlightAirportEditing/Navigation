@@ -32787,19 +32787,6 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
-   "airportICAO": "OAKN",
-   "identifier": "IOKN",
-   "associatedRunwayNumber": "23",
-   "frequency": 108550,
-   "elevation": 33379,
-   "latitude": 31.4953056,
-   "longitude": 65.8300278,
-   "bearing": 235.08,
-   "receptionRange": 18,
-   "type": 4
- },
- {
    "name": "ILS-cat-II",
    "airportICAO": "OBBI",
    "identifier": "IBIB",
