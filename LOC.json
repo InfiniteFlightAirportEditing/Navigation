@@ -32787,6 +32787,32 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-I",
+   "airportICAO": "OAMS",
+   "identifier": "IMAZ",
+   "associatedRunwayNumber": "06",
+   "frequency": 109900,
+   "elevation": 1287,
+   "latitude": 36.7008333,
+   "longitude": 67.2009194,
+   "bearing": 65.89,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "OAMS",
+   "identifier": "IMAS",
+   "associatedRunwayNumber": "24",
+   "frequency": 109100,
+   "elevation": 1287,
+   "latitude": 36.7118306,
+   "longitude": 67.2315694,
+   "bearing": 245.89,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-II",
    "airportICAO": "OBBI",
    "identifier": "IBIB",
