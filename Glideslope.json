@@ -38408,11 +38408,11 @@
    "identifier": "IVDM",
    "associatedRunwayNumber": "05",
    "frequency": 110700,
-   "elevation": 456,
-   "latitude": -32.953319,
-   "longitude": -71.482878,
-   "bearing": 52.406,
-   "glideslope": 3.20052203,
+   "elevation": 460,
+   "latitude": -32.95442163,
+   "longitude": -071.48600169,
+   "bearing": 52.17,
+   "glideslope": 3.205217,
    "receptionRange": 10
  },
  {
