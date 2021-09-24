@@ -37754,6 +37754,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SAWC",
+   "identifier": "BC",
+   "associatedRunwayNumber": "25",
+   "frequency": 108900,
+   "elevation": 668,
+   "latitude": -50.27919732,
+   "longitude": -72.03543572,
+   "bearing": 264.79,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SAWG",
    "identifier": "GL",
    "associatedRunwayNumber": "25",

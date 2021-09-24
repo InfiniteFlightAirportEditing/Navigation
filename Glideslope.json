@@ -37650,6 +37650,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SAWC",
+   "identifier": "BC",
+   "associatedRunwayNumber": "25",
+   "frequency": 108900,
+   "elevation": 668,
+   "latitude": -50.27919732,
+   "longitude": -72.03543572,
+   "bearing": 264.79,
+   "glideslope": 3.0026479,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SAWE",
    "identifier": "GR",
    "associatedRunwayNumber": "26",
