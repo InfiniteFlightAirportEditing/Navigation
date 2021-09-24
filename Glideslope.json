@@ -1678,19 +1678,6 @@
    "receptionRange": 10
  },
  {
-   "name": "GS",
-   "airportICAO": "DAAS",
-   "identifier": "ST",
-   "associatedRunwayNumber": "27",
-   "frequency": 110900,
-   "elevation": 3333,
-   "latitude":  36.17918844,
-   "longitude": 5.34600794,
-   "bearing": 266.86,
-   "glideslope": 3.0426686,
-   "receptionRange": 10
- },
- {
    "name": "ILS-cat-I",
    "airportICAO": "DAAT",
    "identifier": "TA",

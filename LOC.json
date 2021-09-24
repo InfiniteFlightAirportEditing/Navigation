@@ -1677,7 +1677,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "LOC",
    "airportICAO": "DAAS",
    "identifier": "ST",
    "associatedRunwayNumber": "27",
