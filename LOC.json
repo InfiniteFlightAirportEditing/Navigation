@@ -1665,6 +1665,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "DAAJ",
+   "identifier": "DJ",
+   "associatedRunwayNumber": "12",
+   "frequency": 109900,
+   "elevation": 3175,
+   "latitude": 24.29243863,
+   "longitude": 9.45289675,
+   "bearing": 125.18,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "LOC",
+   "airportICAO": "DAAS",
+   "identifier": "ST",
+   "associatedRunwayNumber": "27",
+   "frequency": 110900,
+   "elevation": 3333,
+   "latitude":  36.17918844,
+   "longitude": 5.34600794,
+   "bearing": 266.86,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {  
+   "name": "ILS-cat-I",
    "airportICAO": "DAAT",
    "identifier": "TA",
    "associatedRunwayNumber": "08",
@@ -1743,6 +1769,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "DABT",
+   "identifier": "BT",
+   "associatedRunwayNumber": "23",
+   "frequency": 110700,
+   "elevation": 2700,
+   "latitude": 35.7596211,
+   "longitude": 6.3228493,
+   "bearing": 234.72,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "DAON",
    "identifier": "TL",
    "associatedRunwayNumber": "25",
@@ -1782,6 +1821,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "DAOR",
+   "identifier": "BC",
+   "associatedRunwayNumber": "18",
+   "frequency": 108100,
+   "elevation": 2661,
+   "latitude": 31.65895803,
+   "longitude": -2.26119776,
+   "bearing": 179.96,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "DAUA",
    "identifier": "AD",
    "associatedRunwayNumber": "04",
@@ -1816,6 +1868,19 @@
   "latitude": 32.36922725,
   "longitude": 3.82289554,
   "bearing": 302.34,
+  "receptionRange": 18,
+  "type": 4
+ }, 
+ {
+  "name":"ILS-cat-I",
+  "airportICAO": "DAUH",
+  "identifier": "HM",
+  "associatedRunwayNumber": "36",
+  "frequency": 109100,
+  "elevation": 462,
+  "latitude": 31.65917728,
+  "longitude": 6.13917255,
+  "bearing": 4.21,
   "receptionRange": 18,
   "type": 4
  },
