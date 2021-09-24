@@ -1809,6 +1809,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DAOR",
+   "identifier": "BC",
+   "associatedRunwayNumber": "18",
+   "frequency": 108100,
+   "elevation": 2661,
+   "latitude": 31.65895803,
+   "longitude": -2.26119776,
+   "bearing": 179.96,
+   "glideslope": 3.0017996,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DAUA",
    "identifier": "AD",
    "associatedRunwayNumber": "04",
