@@ -37767,6 +37767,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SAWE",
+   "identifier": "GR",
+   "associatedRunwayNumber": "26",
+   "frequency": 109500,
+   "elevation": 65,
+   "latitude": -53.77721246,
+   "longitude": -67.73439535,
+   "bearing": 267.45,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SAWG",
    "identifier": "GL",
    "associatedRunwayNumber": "25",
@@ -53195,19 +53208,6 @@
    "latitude": 35.903242,
    "longitude": 128.643625,
    "bearing": 303.924,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "SAWE",
-   "identifier": "GR",
-   "associatedRunwayNumber": "26",
-   "frequency": 109500,
-   "elevation": 66,
-   "latitude": -53.778139,
-   "longitude": -67.769944,
-   "bearing": 267.677,
    "receptionRange": 18,
    "type": 5
  },

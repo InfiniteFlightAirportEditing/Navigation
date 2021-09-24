@@ -37668,10 +37668,10 @@
    "associatedRunwayNumber": "26",
    "frequency": 109500,
    "elevation": 65,
-   "latitude": -53.77821929,
-   "longitude": -67.73882695,
-   "bearing": 268.02,
-   "glideslope": 3.0026751,
+   "latitude": -53.77721246,
+   "longitude": -67.73439535,
+   "bearing": 267.45,
+   "glideslope": 3.0026745,
    "receptionRange": 10
  },
  {
