@@ -1769,6 +1769,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "DABT",
+   "identifier": "BT",
+   "associatedRunwayNumber": "23",
+   "frequency": 110700,
+   "elevation": 2700,
+   "latitude": 35.7596211,
+   "longitude": 6.3228493,
+   "bearing": 234.72,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "DAON",
    "identifier": "TL",
    "associatedRunwayNumber": "25",

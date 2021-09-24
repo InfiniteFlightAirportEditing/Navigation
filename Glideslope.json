@@ -1770,6 +1770,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DABT",
+   "identifier": "BT",
+   "associatedRunwayNumber": "23",
+   "frequency": 110700,
+   "elevation": 2700,
+   "latitude": 35.7596211,
+   "longitude": 6.3228493,
+   "bearing": 234.72,
+   "glideslope": 3.0023472,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DAON",
    "identifier": "TL",
    "associatedRunwayNumber": "25",
