@@ -39860,6 +39860,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UDSG",
+   "identifier": "IGM",
+   "associatedRunwayNumber": "02",
+   "frequency": 110300,
+   "elevation": 5000,
+   "latitude": 40.73723712,
+   "longitude": 43.85176748,
+   "bearing": 23.45,
+   "glideslope": 3.0002345,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UDYZ",
    "identifier": "IZR",
    "associatedRunwayNumber": "09",
