@@ -1858,6 +1858,19 @@
   "bearing": 302.34,
   "glideslope": 3.0030234,
   "receptionRange": 10
+ }, 
+ {
+  "name":"GS",
+  "airportICAO": "DAUH",
+  "identifier": "HM",
+  "associatedRunwayNumber": "36",
+  "frequency": 109100,
+  "elevation": 462,
+  "latitude": 31.65917728,
+  "longitude": 6.13917255,
+  "bearing": 4.21,
+  "glideslope": 3.0000421,
+  "receptionRange": 10
  },
  {
   "name": "GS",
