@@ -1665,6 +1665,19 @@
    "receptionRange": 10
  },
  {
+   "name": "GS",
+   "airportICAO": "DAAJ",
+   "identifier": "DJ",
+   "associatedRunwayNumber": "12",
+   "frequency": 109900,
+   "elevation": 3175,
+   "latitude": 24.29243863,
+   "longitude": 9.45289675,
+   "bearing": 125.18,
+   "glideslope": 3.0012518,
+   "receptionRange": 10
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "DAAT",
    "identifier": "TA",
