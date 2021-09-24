@@ -37741,6 +37741,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SAVT",
+   "identifier": "TR",
+   "associatedRunwayNumber": "23",
+   "frequency": 109500,
+   "elevation": 115,
+   "latitude": -43.20636437,
+   "longitude": -65.25565938,
+   "bearing": 249.1,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SAWG",
    "identifier": "GL",
    "associatedRunwayNumber": "25",

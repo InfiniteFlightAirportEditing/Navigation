@@ -37637,6 +37637,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SAVT",
+   "identifier": "TR",
+   "associatedRunwayNumber": "23",
+   "frequency": 109500,
+   "elevation": 115,
+   "latitude": -43.20636437,
+   "longitude": -65.25565938,
+   "bearing": 249.1,
+   "glideslope": 3.002491,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SAWE",
    "identifier": "GR",
    "associatedRunwayNumber": "26",
