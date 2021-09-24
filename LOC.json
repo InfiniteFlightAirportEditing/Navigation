@@ -46341,11 +46341,24 @@
    "associatedRunwayNumber": "15",
    "frequency": 109900,
    "elevation": 9,
-   "latitude": -16.865821,
-   "longitude": 145.74357,
+   "latitude": -16.86582056,
+   "longitude": 145.74357047,
    "bearing": 156.61,
    "receptionRange": 18,
    "type": 4
+ },
+ {
+   "name": "LOC",
+   "airportICAO": "YBCS",
+   "identifier": "ICN",
+   "associatedRunwayNumber": "33",
+   "frequency": 109500,
+   "elevation": 9,
+   "latitude": -16.89196632,
+   "longitude": 145.7553867,
+   "bearing": 336.61,
+   "receptionRange": 18,
+   "type": 5  
  },
  {
    "name": "ILS-cat-I",
@@ -53507,19 +53520,6 @@
    "latitude": -28.155396,
    "longitude": 153.500002,
    "bearing": 150.69,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "YBCS",
-   "identifier": "ICN",
-   "associatedRunwayNumber": "33",
-   "frequency": 109500,
-   "elevation": 9,
-   "latitude": -16.891966,
-   "longitude": 145.755387,
-   "bearing": 336.61,
    "receptionRange": 18,
    "type": 5
  }
