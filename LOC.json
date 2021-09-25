@@ -46465,14 +46465,14 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "YMML",
    "identifier": "IMS",
    "associatedRunwayNumber": "16",
    "frequency": 109700,
    "elevation": 433,
-   "latitude": -37.653214,
-   "longitude": 144.834924,
+   "latitude": -37.65321418,
+   "longitude": 144.83492412,
    "bearing": 171.6,
    "receptionRange": 18,
    "type": 4
@@ -46484,9 +46484,9 @@
    "associatedRunwayNumber": "27",
    "frequency": 109300,
    "elevation": 433,
-   "latitude": -37.662237,
-   "longitude": 144.848179,
-   "bearing": 273.991,
+   "latitude": -37.66223701,
+   "longitude": 144.84817912,
+   "bearing": 273.99,
    "receptionRange": 18,
    "type": 4
  },
