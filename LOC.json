@@ -46608,14 +46608,14 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "YSCB",
    "identifier": "ICB",
    "associatedRunwayNumber": "35",
    "frequency": 109500,
    "elevation": 1886,
-   "latitude": -35.320215,
-   "longitude": 149.194465,
+   "latitude": -35.32021543,
+   "longitude": 149.19446521,
    "bearing": 359.99,
    "receptionRange": 18,
    "type": 4
