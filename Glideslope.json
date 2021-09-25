@@ -39860,6 +39860,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "UDSG",
+   "identifier": "IGM",
+   "associatedRunwayNumber": "02",
+   "frequency": 110300,
+   "elevation": 5000,
+   "latitude": 40.73723712,
+   "longitude": 43.85176748,
+   "bearing": 23.45,
+   "glideslope": 3.0002345,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "UDYZ",
    "identifier": "IZR",
    "associatedRunwayNumber": "09",
@@ -46365,8 +46378,8 @@
    "associatedRunwayNumber": "15",
    "frequency": 109900,
    "elevation": 9,
-   "latitude": -16.865821,
-   "longitude": 145.74357,
+   "latitude": -16.86582056,
+   "longitude": 145.74357047,
    "bearing": 156.61,
    "glideslope": 3.0015661,
    "receptionRange": 10
@@ -46497,8 +46510,8 @@
    "elevation": 433,
    "latitude": -37.66223701,
    "longitude": 144.84817912,
-   "bearing": 273.991,
-   "glideslope": 3.00273991,
+   "bearing": 273.99,
+   "glideslope": 3.0027399,
    "receptionRange": 10
  },
  {
@@ -46534,10 +46547,23 @@
    "associatedRunwayNumber": "18L",
    "frequency": 110700,
    "elevation": 150,
-   "latitude": -31.662305,
-   "longitude": 116.013545,
+   "latitude": -31.66230549,
+   "longitude": 116.0135451,
    "bearing": 173.6,
    "glideslope": 3.001736,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "YPEA",
+   "identifier": "IPC",
+   "associatedRunwayNumber": "36R",
+   "frequency": 111900,
+   "elevation": 150,
+   "latitude": -31.68416011,
+   "longitude": 116.01642551,
+   "bearing": 353.6,
+   "glideslope": 3.003536,
    "receptionRange": 10
  },
  {
@@ -46612,10 +46638,10 @@
    "associatedRunwayNumber": "35",
    "frequency": 109500,
    "elevation": 1886,
-   "latitude": -35.320215,
-   "longitude": 149.194465,
+   "latitude": -35.32021543,
+   "longitude": 149.19446521,
    "bearing": 359.99,
-   "glideslope": 3.0018,
+   "glideslope": 3.0035999,
    "receptionRange": 10
  },
  {
