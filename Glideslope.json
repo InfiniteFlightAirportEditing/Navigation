@@ -30253,19 +30253,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "LOWI",
-   "identifier": "OEV",
-   "associatedRunwayNumber": "26",
-   "frequency": 111100,
-   "elevation": 1907,
-   "latitude": 47.26162192,
-   "longitude": 11.35705425,
-   "bearing": 260.960,
-   "glideslope": 3.77260960,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "LOWK",
    "identifier": "OEK",
    "associatedRunwayNumber": "28R",

@@ -30317,7 +30317,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "LOC",
    "airportICAO": "LOWI",
    "identifier": "OEV",
    "associatedRunwayNumber": "26",
@@ -30325,7 +30325,7 @@
    "elevation": 1907,
    "latitude": 47.26162192,
    "longitude": 11.35705425,
-   "bearing": 260.960,
+   "bearing": 260.96,
    "receptionRange": 18,
    "type": 4
  },
