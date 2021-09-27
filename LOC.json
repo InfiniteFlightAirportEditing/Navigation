@@ -49976,19 +49976,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "EBKT",
-   "identifier": "IKT",
-   "associatedRunwayNumber": "24",
-   "frequency": 110700,
-   "elevation": 64,
-   "latitude": 50.813833,
-   "longitude": 3.194389,
-   "bearing": 241.864,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "EDDH",
    "identifier": "IHHN",
    "associatedRunwayNumber": "33",
