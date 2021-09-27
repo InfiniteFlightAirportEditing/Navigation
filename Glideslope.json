@@ -30242,26 +30242,13 @@
    "name": "GS",
    "airportICAO": "LOWG",
    "identifier": "OEG",
-   "associatedRunwayNumber": "35C",
+   "associatedRunwayNumber": "34C",
    "frequency": 110900,
-   "elevation": 1098,
-   "latitude": 46.980178,
-   "longitude": 15.440575,
-   "bearing": 349.738,
-   "glideslope": 3.00349369,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "LOWI",
-   "identifier": "OEV",
-   "associatedRunwayNumber": "26",
-   "frequency": 111100,
-   "elevation": 1907,
-   "latitude": 47.26162192,
-   "longitude": 11.35705425,
-   "bearing": 260.960,
-   "glideslope": 3.77260960,
+   "elevation": 1115,
+   "latitude": 46.97777967,
+   "longitude": 15.44328837,
+   "bearing": 349.37,
+   "glideslope": 3.0034937,
    "receptionRange": 10
  },
  {
@@ -30284,10 +30271,10 @@
    "associatedRunwayNumber": "08",
    "frequency": 110550,
    "elevation": 978,
-   "latitude": 48.23250933,
-   "longitude": 14.16727138,
-   "bearing": 87.04,
-   "glideslope": 3.0008704,
+   "latitude": 48.2325159,
+   "longitude": 14.16726568,
+   "bearing": 87.02,
+   "glideslope": 3.0008702,
    "receptionRange": 10
  },
  {
@@ -30297,10 +30284,10 @@
    "associatedRunwayNumber": "26",
    "frequency": 109300,
    "elevation": 978,
-   "latitude": 48.23390478,
-   "longitude": 14.20774842,
-   "bearing": 267.04,
-   "glideslope": 3.0026704,
+   "latitude": 48.23392055,
+   "longitude": 14.20774199,
+   "bearing": 267.02,
+   "glideslope": 3.0026702,
    "receptionRange": 10
  },
  {
@@ -46679,8 +46666,8 @@
    "elevation": 21,
    "latitude": -33.94374103,
    "longitude": 151.16363504,
-   "bearing": 74.128,
-   "glideslope": 3.00074128,
+   "bearing": 74.13,
+   "glideslope": 3.0007413,
    "receptionRange": 10
  },
  {
@@ -46692,8 +46679,8 @@
    "elevation": 21,
    "latitude": -33.94961155,
    "longitude": 151.18832084,
-   "bearing": 167.853,
-   "glideslope": 3.00167853,
+   "bearing": 167.85,
+   "glideslope": 3.0016785,
    "receptionRange": 10
  },
  {
@@ -46705,8 +46692,8 @@
    "elevation": 21,
    "latitude": -33.92935925,
    "longitude": 151.17159471,
-   "bearing": 167.857,
-   "glideslope": 3.00167857,
+   "bearing": 167.85,
+   "glideslope": 3.0016785,
    "receptionRange": 10
  },
  {
@@ -46718,8 +46705,8 @@
    "elevation": 21,
    "latitude": -33.93753143,
    "longitude": 151.18996017,
-   "bearing": 254.128,
-   "glideslope": 3.00254128,
+   "bearing": 254.13,
+   "glideslope": 3.0025413,
    "receptionRange": 10
  },
  {
@@ -46731,8 +46718,8 @@
    "elevation": 21,
    "latitude": -33.96426455,
    "longitude": 151.18064847,
-   "bearing": 347.857,
-   "glideslope": 3.00347857,
+   "bearing": 347.85,
+   "glideslope": 3.0034785,
    "receptionRange": 10
  },
  {
@@ -46744,8 +46731,8 @@
    "elevation": 21,
    "latitude": -33.9710912,
    "longitude": 151.1938949,
-   "bearing": 347.853,
-   "glideslope": 3.00347853,
+   "bearing": 347.85,
+   "glideslope": 3.0034785,
    "receptionRange": 10
  },
  {
@@ -46759,6 +46746,19 @@
    "longitude": 150.852222,
    "bearing": 313.02,
    "glideslope": 3.0031301,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "YSWG",
+   "identifier": "IWG",
+   "associatedRunwayNumber": "23",
+   "frequency": 111100,
+   "elevation": 724,
+   "latitude": -35.15962067,
+   "longitude": 147.47732021,
+   "bearing": 241.98,
+   "glideslope": 3.0024198,
    "receptionRange": 10
  },
  {
