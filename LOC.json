@@ -41159,19 +41159,6 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
-   "airportICAO": "UMMM",
-   "identifier": "IGK",
-   "associatedRunwayNumber": "12",
-   "frequency": 110500,
-   "elevation": 748,
-   "latitude": 53.858333,
-   "longitude": 27.556667,
-   "bearing": 123.219,
-   "receptionRange": 18,
-   "type": 4
- },
- {
    "name": "ILS-cat-III",
    "airportICAO": "UMMS",
    "identifier": "IMDL",

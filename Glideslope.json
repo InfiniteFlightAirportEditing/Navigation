@@ -41043,19 +41043,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "UMMM",
-   "identifier": "IGK",
-   "associatedRunwayNumber": "12",
-   "frequency": 110500,
-   "elevation": 748,
-   "latitude": 53.865,
-   "longitude": 27.535,
-   "bearing": 125.902,
-   "glideslope": 3.00125451,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "UMMS",
    "identifier": "IMDL",
    "associatedRunwayNumber": "13L",
