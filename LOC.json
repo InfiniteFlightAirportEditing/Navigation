@@ -38924,6 +38924,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SLAL",
+   "identifier": "ILCA",
+   "associatedRunwayNumber": "32",
+   "frequency": 109900,
+   "elevation": 10285,
+   "latitude": -19.25479082,
+   "longitude": -65.14575139,
+   "bearing": 348.91,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SLCB",
    "identifier": "ILCO",
    "associatedRunwayNumber": "32",
