@@ -41121,6 +41121,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "UMMG",
+   "identifier": "IGP",
+   "associatedRunwayNumber": "17",
+   "frequency": 109500,
+   "elevation": 442,
+   "latitude": 53.61350068,
+   "longitude": 24.05315698,
+   "bearing": 178.14,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "UMKK",
    "identifier": "IFG",
    "associatedRunwayNumber": "06",
@@ -41142,19 +41155,6 @@
    "latitude": 54.8977944,
    "longitude": 20.6224111,
    "bearing": 245.75,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
-   "airportICAO": "UMMG",
-   "identifier": "IGP",
-   "associatedRunwayNumber": "17",
-   "frequency": 109500,
-   "elevation": 442,
-   "latitude": 53.6135,
-   "longitude": 24.053156,
-   "bearing": 178.14,
    "receptionRange": 18,
    "type": 4
  },
