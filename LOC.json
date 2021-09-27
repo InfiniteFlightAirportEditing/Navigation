@@ -32606,6 +32606,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "MZBZ",
+   "identifier": "IBZE",
+   "associatedRunwayNumber": "07",
+   "frequency": 108900,
+   "elevation": 15,
+   "latitude": 17.53690577,
+   "longitude": -88.31817213,
+   "bearing": 77.03,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "NCRG",
    "identifier": "INO",
    "associatedRunwayNumber": "08",
