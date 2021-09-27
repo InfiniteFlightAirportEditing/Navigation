@@ -32801,6 +32801,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "OBKH",
+   "identifier": "IKH",
+   "associatedRunwayNumber": "35",
+   "frequency": 110750,
+   "elevation": 76,
+   "latitude": 26.0202589,
+   "longitude": 50.5257428,
+   "bearing": 355.65,
+   "glideslope": 3.0035565,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "OEAB",
    "identifier": "IABH",
    "associatedRunwayNumber": "13",
