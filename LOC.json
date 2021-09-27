@@ -2562,6 +2562,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "EBCV",
+   "identifier": "ICV",
+   "associatedRunwayNumber": "26",
+   "frequency": 108550,
+   "elevation": 186,
+   "latitude": 50.57874508,
+   "longitude": 3.85612463,
+   "bearing": 260,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "EBFS",
    "identifier": "IBFS",
    "associatedRunwayNumber": "08L",
@@ -49958,19 +49971,6 @@
    "latitude": 45.297667,
    "longitude": -72.734833,
    "bearing": 36.999,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "EBCV",
-   "identifier": "ICV",
-   "associatedRunwayNumber": "26",
-   "frequency": 108550,
-   "elevation": 201,
-   "latitude": 50.574406,
-   "longitude": 3.817472,
-   "bearing": 260.197,
    "receptionRange": 18,
    "type": 5
  },

@@ -2550,6 +2550,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "EBCV",
+   "identifier": "ICV",
+   "associatedRunwayNumber": "26",
+   "frequency": 108550,
+   "elevation": 186,
+   "latitude": 50.57874508,
+   "longitude": 3.85612463,
+   "bearing": 260,
+   "glideslope": 3.00260,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "EBFS",
    "identifier": "IBFS",
    "associatedRunwayNumber": "08L",
