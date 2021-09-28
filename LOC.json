@@ -38078,14 +38078,14 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-II",
    "airportICAO": "SBCT",
    "identifier": "ICT",
    "associatedRunwayNumber": "15",
    "frequency": 109300,
-   "elevation": 2988,
-   "latitude": -25.522088,
-   "longitude": -49.182922,
+   "elevation": 2989,
+   "latitude": -25.52208878,
+   "longitude": -49.18292258,
    "bearing": 134.69,
    "receptionRange": 18,
    "type": 4
@@ -38096,9 +38096,9 @@
    "identifier": "ITA",
    "associatedRunwayNumber": "33",
    "frequency": 110300,
-   "elevation": 2988,
-   "latitude": -25.536114,
-   "longitude": -49.16721,
+   "elevation": 2989,
+   "latitude": -25.53611436,
+   "longitude": -49.16721036,
    "bearing": 314.69,
    "receptionRange": 18,
    "type": 4
