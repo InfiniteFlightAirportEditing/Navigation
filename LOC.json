@@ -38260,7 +38260,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "LOC",
    "airportICAO": "SBKG",
    "identifier": "IKG",
    "associatedRunwayNumber": "15",
@@ -38270,7 +38270,7 @@
    "longitude": -35.90183297,
    "bearing": 125.25,
    "receptionRange": 18,
-   "type": 4
+   "type": 5
  },
  {
    "name": "ILS-cat-I",

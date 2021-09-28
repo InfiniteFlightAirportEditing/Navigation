@@ -38118,19 +38118,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "SBKG",
-   "identifier": "IKG",
-   "associatedRunwayNumber": "15",
-   "frequency": 109100,
-   "elevation": 1647,
-   "latitude": -7.26550061,
-   "longitude": -35.90183297,
-   "bearing": 125.25,
-   "glideslope": 3.00002472,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "SBKP",
    "identifier": "IJV",
    "associatedRunwayNumber": "15",
