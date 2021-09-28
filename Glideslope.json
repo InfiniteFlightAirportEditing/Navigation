@@ -38105,6 +38105,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SBJV",
+   "identifier": "IJV",
+   "associatedRunwayNumber": "33",
+   "frequency": 111100,
+   "elevation": 15,
+   "latitude": -26.22910866,
+   "longitude": -48.79097743,
+   "bearing": 308.88,
+   "glideslope": 3.0630888,
+   "receptionRange": 10 
+ },
+ {
+   "name": "GS",
    "airportICAO": "SBKG",
    "identifier": "IKG",
    "associatedRunwayNumber": "15",
