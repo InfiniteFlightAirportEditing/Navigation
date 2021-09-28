@@ -38261,6 +38261,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SBSN",
+   "identifier": "ISR",
+   "associatedRunwayNumber": "10",
+   "frequency": 110900,
+   "elevation": 198,
+   "latitude": -2.42418243,
+   "longitude": -54.80348027,
+   "bearing": 80.69,
+   "glideslope": 3.1008069,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SBSP",
    "identifier": "ISP",
    "associatedRunwayNumber": "17R",

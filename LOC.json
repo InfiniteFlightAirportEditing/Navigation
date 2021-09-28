@@ -38417,6 +38417,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SBSN",
+   "identifier": "ISR",
+   "associatedRunwayNumber": "10",
+   "frequency": 110900,
+   "elevation": 198,
+   "latitude": -2.42418243,
+   "longitude": -54.80348027,
+   "bearing": 80.69,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SBSP",
    "identifier": "ISP",
    "associatedRunwayNumber": "17R",
