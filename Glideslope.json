@@ -43540,14 +43540,14 @@
  {
    "name": "GS",
    "airportICAO": "VDPP",
-   "identifier": "IPNP",
+   "identifier": "PNP",
    "associatedRunwayNumber": "23",
    "frequency": 109700,
-   "elevation": 37,
-   "latitude": 11.55411053,
-   "longitude": 104.85009003,
-   "bearing": 226.188,
-   "glideslope": 3.00225594,
+   "elevation": 40,
+   "latitude": 11.55598824,
+   "longitude": 104.85396805,
+   "bearing": 225.56,
+   "glideslope": 3.0022556,
    "receptionRange": 10
  },
  {
