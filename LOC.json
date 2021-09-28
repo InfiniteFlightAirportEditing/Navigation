@@ -38287,6 +38287,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SBMN",
+   "identifier": "IPE",
+   "associatedRunwayNumber": "09",
+   "frequency": 109300,
+   "elevation": 269,
+   "latitude": -3.14840361,
+   "longitude": -59.99579141,
+   "bearing": 75.87,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SBMO",
    "identifier": "IMC",
    "associatedRunwayNumber": "12",
@@ -53286,19 +53299,6 @@
    "latitude": -15.66219535,
    "longitude": -56.11185866,
    "bearing": 332.90,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "SBMN",
-   "identifier": "IPE",
-   "associatedRunwayNumber": "09",
-   "frequency": 109300,
-   "elevation": 267,
-   "latitude": -3.1435,
-   "longitude": -59.976,
-   "bearing": 76.058,
    "receptionRange": 18,
    "type": 5
  },

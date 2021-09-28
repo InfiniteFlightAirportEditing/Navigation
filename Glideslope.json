@@ -38131,6 +38131,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SBMN",
+   "identifier": "IPE",
+   "associatedRunwayNumber": "09",
+   "frequency": 109300,
+   "elevation": 269,
+   "latitude": -3.14840361,
+   "longitude": -59.99579141,
+   "bearing": 75.87,
+   "glideslope": 3.0007587,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SBMO",
    "identifier": "IMC",
    "associatedRunwayNumber": "12",
