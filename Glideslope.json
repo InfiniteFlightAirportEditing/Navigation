@@ -1926,6 +1926,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "DFOO",
+   "identifier": "BO",
+   "associatedRunwayNumber": "06",
+   "frequency": 109700,
+   "elevation": 1512,
+   "latitude": 11.15077187,
+   "longitude": -4.34319322,
+   "bearing": 52.54,
+   "glideslope": 3.005254,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "DGAA",
    "identifier": "IACA",
    "associatedRunwayNumber": "21",

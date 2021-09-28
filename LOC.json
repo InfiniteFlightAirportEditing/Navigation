@@ -1938,6 +1938,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "DFOO",
+   "identifier": "BO",
+   "associatedRunwayNumber": "06",
+   "frequency": 109700,
+   "elevation": 1512,
+   "latitude": 11.15077187,
+   "longitude": -4.34319322,
+   "bearing": 52.54,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "DGAA",
    "identifier": "IACA",
    "associatedRunwayNumber": "21",
