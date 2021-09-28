@@ -30511,19 +30511,6 @@
    "glideslope": 3.00166,
    "receptionRange": 10
  },
-  {
-   "name": "GS",
-   "airportICAO": "LQMO",
-   "identifier": "MOS",
-   "associatedRunwayNumber": "33",
-   "frequency": 108100,
-   "elevation": 154,
-   "latitude": 43.272967,
-   "longitude": 17.851436,
-   "bearing": 337.83,
-   "glideslope": 3.4033783,
-   "receptionRange": 10
- },
  {
    "name": "GS",
    "airportICAO": "LQSA",
