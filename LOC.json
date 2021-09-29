@@ -1223,19 +1223,6 @@
  },
  {
    "name": "ILS-cat-I",
-   "airportICAO": "CYXD",
-   "identifier": "IXD",
-   "associatedRunwayNumber": "34",
-   "frequency": 109500,
-   "elevation": 2200,
-   "latitude": 53.58145048,
-   "longitude": -113.511669,
-   "bearing": 360,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
    "airportICAO": "CYXE",
    "identifier": "IST",
    "associatedRunwayNumber": "09",
@@ -1647,19 +1634,6 @@
    "latitude": 53.259974,
    "longitude": -131.820733,
    "bearing": 144.34,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
-   "airportICAO": "CYZR",
-   "identifier": "IZR",
-   "associatedRunwayNumber": "33",
-   "frequency": 109700,
-   "elevation": 595,
-   "latitude": 42.994567,
-   "longitude": -82.302831,
-   "bearing": 316.96,
    "receptionRange": 18,
    "type": 4
  },
@@ -49885,19 +49859,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "CYRJ",
-   "identifier": "IRJ",
-   "associatedRunwayNumber": "34",
-   "frequency": 110300,
-   "elevation": 586,
-   "latitude": 48.526667,
-   "longitude": -72.274,
-   "bearing": 321.196,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "CYTF",
    "identifier": "ITF",
    "associatedRunwayNumber": "13",
@@ -49945,19 +49906,6 @@
    "latitude": 48.617692,
    "longitude": -68.199513,
    "bearing": 38.4,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "CYZR",
-   "identifier": "IZR",
-   "associatedRunwayNumber": "15",
-   "frequency": 109700,
-   "elevation": 595,
-   "latitude": 43.004791,
-   "longitude": -82.315888,
-   "bearing": 136.96,
    "receptionRange": 18,
    "type": 5
  },
