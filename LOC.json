@@ -195,14 +195,27 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
+   "airportICAO": "CYBG",
+   "identifier": "ITV",
+   "associatedRunwayNumber": "11",
+   "frequency": 110150,
+   "elevation": 520,
+   "latitude": 48.33223712,
+   "longitude": -71.0167274,
+   "bearing": 91.17,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "CYBG",
    "identifier": "IBG",
    "associatedRunwayNumber": "29",
    "frequency": 111500,
    "elevation": 520,
-   "latitude": 48.331677,
-   "longitude": -70.975556,
+   "latitude": 48.33167691,
+   "longitude": -70.97555602,
    "bearing": 271.17,
    "receptionRange": 18,
    "type": 4
@@ -245,6 +258,19 @@
    "bearing": 360,
    "receptionRange": 18,
    "type": 4
+ },
+ {
+   "name": "LOC",
+   "airportICAO": "CYBX",
+   "identifier": "IBX",
+   "associatedRunwayNumber": "05",
+   "frequency": 109100,
+   "elevation": 121,
+   "latitude": 51.448833,
+   "longitude": -57.180417,
+   "bearing": 28.109,
+   "receptionRange": 18,
+   "type": 5
  },
  {
    "name": "ILS-cat-I",
@@ -344,22 +370,9 @@
    "associatedRunwayNumber": "09",
    "frequency": 111300,
    "elevation": 66,
-   "latitude": 45.862832,
-   "longitude": -66.551790,
+   "latitude": 45.86283232,
+   "longitude": -66.55179044,
    "bearing": 69.84,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
-   "airportICAO": "CYFC",
-   "identifier": "IFC",
-   "associatedRunwayNumber": "15",
-   "frequency": 109900,
-   "elevation": 66,
-   "latitude": 45.874590,
-   "longitude": -66.539556,
-   "bearing": 130.35,
    "receptionRange": 18,
    "type": 4
  },
@@ -388,6 +401,19 @@
    "bearing": 175.88,
    "receptionRange": 18,
    "type": 4
+ },
+ {
+   "name": "LOC",
+   "airportICAO": "CYGP",
+   "identifier": "IGP",
+   "associatedRunwayNumber": "11",
+   "frequency": 110300,
+   "elevation": 108,
+   "latitude": 48.776167,
+   "longitude": -64.468,
+   "bearing": 83.32,
+   "receptionRange": 18,
+   "type": 5
  },
  {
    "name": "ILS-cat-I",
@@ -8814,15 +8840,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "FKKD",
    "identifier": "DL",
    "associatedRunwayNumber": "30",
    "frequency": 110300,
-   "elevation": 25,
-   "latitude": 4.014339,
-   "longitude": 9.704036,
-   "bearing": 297.679,
+   "elevation": 33,
+   "latitude": 4.000242,
+   "longitude": 9.730975,
+   "bearing": 296.94,
    "receptionRange": 18,
    "type": 4
  },
@@ -49768,19 +49794,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "CYBX",
-   "identifier": "IBX",
-   "associatedRunwayNumber": "05",
-   "frequency": 109100,
-   "elevation": 121,
-   "latitude": 51.448833,
-   "longitude": -57.180417,
-   "bearing": 28.109,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "CYCG",
    "identifier": "XCG",
    "associatedRunwayNumber": "15",
@@ -49789,19 +49802,6 @@
    "latitude": 49.252222,
    "longitude": -117.662778,
    "bearing": 196,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "CYGP",
-   "identifier": "IGP",
-   "associatedRunwayNumber": "11",
-   "frequency": 110300,
-   "elevation": 108,
-   "latitude": 48.776167,
-   "longitude": -64.468,
-   "bearing": 83.32,
    "receptionRange": 18,
    "type": 5
  },
