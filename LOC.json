@@ -455,6 +455,19 @@
    "type": 4
  },
  {
+   "name": "LOC",
+   "airportICAO": "CYHM",
+   "identifier": "IER",
+   "associatedRunwayNumber": "30",
+   "frequency": 110900,
+   "elevation": 779,
+   "latitude": 43.172424,
+   "longitude": -79.91707512,
+   "bearing": 287.3,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "CYHU",
    "identifier": "IHU",
