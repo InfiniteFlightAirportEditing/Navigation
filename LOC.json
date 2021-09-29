@@ -8801,15 +8801,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "FKKD",
    "identifier": "DL",
    "associatedRunwayNumber": "30",
    "frequency": 110300,
-   "elevation": 25,
-   "latitude": 4.014339,
-   "longitude": 9.704036,
-   "bearing": 297.679,
+   "elevation": 33,
+   "latitude": 4.000242,
+   "longitude": 9.730975,
+   "bearing": 296.94,
    "receptionRange": 18,
    "type": 4
  },
