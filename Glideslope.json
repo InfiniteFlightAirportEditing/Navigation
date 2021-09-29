@@ -526,10 +526,23 @@
    "associatedRunwayNumber": "11L",
    "frequency": 109300,
    "elevation": 1892,
-   "latitude": 50.338056,
-   "longitude": -105.569722,
-   "bearing": 119.222,
-   "glideslope": 3.00118611,
+   "latitude": 50.33813048,
+   "longitude": -105.5754771,
+   "bearing": 118.61,
+   "glideslope": 3.0011861,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "CYMJ",
+   "identifier": "IMJ",
+   "associatedRunwayNumber": "29R",
+   "frequency": 109300,
+   "elevation": 1892,
+   "latitude": 50.32719401,
+   "longitude": -105.54406764,
+   "bearing": 298.61,
+   "glideslope": 3.0029861,
    "receptionRange": 10
  },
  {
