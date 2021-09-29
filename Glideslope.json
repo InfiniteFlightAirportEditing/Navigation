@@ -357,23 +357,10 @@
    "associatedRunwayNumber": "09",
    "frequency": 111300,
    "elevation": 66,
-   "latitude": 45.862832,
-   "longitude": -66.551790,
+   "latitude": 45.86283232,
+   "longitude": -66.55179044,
    "bearing": 69.84,
    "glideslope": 3.0006984,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "CYFC",
-   "identifier": "IFC",
-   "associatedRunwayNumber": "15",
-   "frequency": 109900,
-   "elevation": 66,
-   "latitude": 45.874590,
-   "longitude": -66.539556,
-   "bearing": 130.35,
-   "glideslope": 3.0013035,
    "receptionRange": 10
  },
  {
