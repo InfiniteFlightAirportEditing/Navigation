@@ -544,7 +544,7 @@
    "bearing": 271.00,
    "receptionRange": 18,
    "type": 4
- },
+  },
   {
    "name": "ILS-cat-I",
    "airportICAO": "CYKA",
@@ -552,11 +552,24 @@
    "associatedRunwayNumber": "09",
    "frequency": 109300,
    "elevation": 1131,
-   "latitude": 50.70554110,
-   "longitude": -120.46541200,
+   "latitude": 50.7055411,
+   "longitude": -120.465412,
    "bearing": 103.29,
    "receptionRange": 18,
    "type": 4
+ },
+ {
+   "name": "LOC",
+   "airportICAO": "CYKA",
+   "identifier": "XPP",
+   "associatedRunwayNumber": "27",
+   "frequency": 109900,
+   "elevation": 1131,
+   "latitude": 50.70052091,
+   "longitude": -120.43186143,
+   "bearing": 283.29,
+   "receptionRange": 18,
+   "type": 5
  },
  {
    "name": "ILS-cat-I",
@@ -49815,19 +49828,6 @@
    "latitude": 51.203333,
    "longitude": -58.655,
    "bearing": 168.872,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "CYKA",
-   "identifier": "XPP",
-   "associatedRunwayNumber": "27",
-   "frequency": 109900,
-   "elevation": 1131,
-   "latitude": 50.70052091,
-   "longitude": -120.43186143,
-   "bearing": 283.29,
    "receptionRange": 18,
    "type": 5
  },
