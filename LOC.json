@@ -403,6 +403,19 @@
    "type": 4
  },
  {
+   "name": "LOC",
+   "airportICAO": "CYGP",
+   "identifier": "IGP",
+   "associatedRunwayNumber": "11",
+   "frequency": 110300,
+   "elevation": 108,
+   "latitude": 48.776167,
+   "longitude": -64.468,
+   "bearing": 83.32,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "CYHD",
    "identifier": "IHD",
@@ -49789,19 +49802,6 @@
    "latitude": 49.252222,
    "longitude": -117.662778,
    "bearing": 196,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "CYGP",
-   "identifier": "IGP",
-   "associatedRunwayNumber": "11",
-   "frequency": 110300,
-   "elevation": 108,
-   "latitude": 48.776167,
-   "longitude": -64.468,
-   "bearing": 83.32,
    "receptionRange": 18,
    "type": 5
  },
