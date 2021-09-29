@@ -197,12 +197,25 @@
  {
    "name": "GS",
    "airportICAO": "CYBG",
+   "identifier": "ITV",
+   "associatedRunwayNumber": "11",
+   "frequency": 110150,
+   "elevation": 520,
+   "latitude": 48.33223712,
+   "longitude": -71.0167274,
+   "bearing": 91.17,
+   "glideslope": 3.0009117,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "CYBG",
    "identifier": "IBG",
    "associatedRunwayNumber": "29",
    "frequency": 111500,
    "elevation": 520,
-   "latitude": 48.331677,
-   "longitude": -70.975556,
+   "latitude": 48.33167691,
+   "longitude": -70.97555602,
    "bearing": 271.17,
    "glideslope": 3.0027117,
    "receptionRange": 10
