@@ -599,6 +599,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "CYOD",
+   "identifier": "IOD",
+   "associatedRunwayNumber": "31R",
+   "frequency": 109300,
+   "elevation": 1774,
+   "latitude": 54.39134479,
+   "longitude": -110.26969598,
+   "bearing": 323.87,
+   "glideslope": 3.0032387,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "CYOW",
    "identifier": "IOW",
    "associatedRunwayNumber": "07",
