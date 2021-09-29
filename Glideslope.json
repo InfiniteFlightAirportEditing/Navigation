@@ -692,13 +692,13 @@
    "name": "GS",
    "airportICAO": "CYQL",
    "identifier": "IQL",
-   "associatedRunwayNumber": "05",
+   "associatedRunwayNumber": "06",
    "frequency": 109500,
    "elevation": 3049,
-   "latitude": 49.623826,
-   "longitude": -112.815441,
-   "bearing": 70.10,
-   "glideslope": 3.0007010,
+   "latitude": 49.62382629,
+   "longitude": -112.81544066,
+   "bearing": 70.1,
+   "glideslope": 3.000701,
    "receptionRange": 10
  },
  {
