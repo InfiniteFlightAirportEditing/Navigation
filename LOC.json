@@ -49820,19 +49820,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "CYHR",
-   "identifier": "IHR",
-   "associatedRunwayNumber": "08",
-   "frequency": 109700,
-   "elevation": 39,
-   "latitude": 50.473333,
-   "longitude": -59.626667,
-   "bearing": 55.35,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "CYHZ",
    "identifier": "IGX",
    "associatedRunwayNumber": "05",
