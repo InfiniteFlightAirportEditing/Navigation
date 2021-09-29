@@ -742,6 +742,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "CYQQ",
+   "identifier": "ICX",
+   "associatedRunwayNumber": "30",
+   "frequency": 109750,
+   "elevation": 83,
+   "latitude": 49.7013844,
+   "longitude": -124.87185689,
+   "bearing": 315.4,
+   "glideslope": 3.003154,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "CYQR",
    "identifier": "IQR",
    "associatedRunwayNumber": "13",

@@ -813,8 +813,21 @@
    "frequency": 111700,
    "elevation": 83,
    "latitude": 49.7208804,
-   "longitude": -124.9015952,
+   "longitude": -124.90159516,
    "bearing": 135.4,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "CYQQ",
+   "identifier": "ICX",
+   "associatedRunwayNumber": "30",
+   "frequency": 109750,
+   "elevation": 83,
+   "latitude": 49.7013844,
+   "longitude": -124.87185689,
+   "bearing": 315.4,
    "receptionRange": 18,
    "type": 4
  },
