@@ -49807,19 +49807,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "CYCG",
-   "identifier": "XCG",
-   "associatedRunwayNumber": "15",
-   "frequency": 110100,
-   "elevation": 1695,
-   "latitude": 49.252222,
-   "longitude": -117.662778,
-   "bearing": 196,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "CYHR",
    "identifier": "IHR",
    "associatedRunwayNumber": "08",
