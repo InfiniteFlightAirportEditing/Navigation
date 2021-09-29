@@ -586,19 +586,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "CYOD",
-   "identifier": "IOD",
-   "associatedRunwayNumber": "31R",
-   "frequency": 109300,
-   "elevation": 1774,
-   "latitude": 54.39134479,
-   "longitude": -110.26969598,
-   "bearing": 323.87,
-   "glideslope": 3.00323870,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "CYOW",
    "identifier": "IOW",
    "associatedRunwayNumber": "07",
@@ -673,20 +660,6 @@
    "longitude": -82.940584,
    "bearing": 242.44,
    "glideslope": 3.0024244,
-   "receptionRange": 10
- },
-
- {
-   "name": "GS",
-   "airportICAO": "CYQI",
-   "identifier": "IQI",
-   "associatedRunwayNumber": "24",
-   "frequency": 109700,
-   "elevation": 141,
-   "latitude": 43.82753372,
-   "longitude": -66.08643341,
-   "bearing": 242.106,
-   "glideslope": 3.00242053,
    "receptionRange": 10
  },
  {
