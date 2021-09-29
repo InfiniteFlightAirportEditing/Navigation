@@ -549,13 +549,13 @@
    "name": "GS",
    "airportICAO": "CYMM",
    "identifier": "IMM",
-   "associatedRunwayNumber": "25",
+   "associatedRunwayNumber": "26",
    "frequency": 109900,
    "elevation": 1209,
    "latitude": 56.65321576,
    "longitude": -111.20471545,
    "bearing": 270.01,
-   "glideslope": 3.00270010,
+   "glideslope": 3.0027001,
    "receptionRange": 10
  },
  {
