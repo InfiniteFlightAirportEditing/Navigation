@@ -38728,6 +38728,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SKAR",
+   "identifier": "IAXM",
+   "associatedRunwayNumber": "20",
+   "frequency": 110300,
+   "elevation": 3976,
+   "latitude": 4.46261068,
+   "longitude": -75.76359761,
+   "bearing": 193.45,
+   "glideslope": 3.0019345,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SKBG",
    "identifier": "IBGA",
    "associatedRunwayNumber": "35",

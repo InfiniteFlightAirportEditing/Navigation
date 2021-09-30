@@ -39015,6 +39015,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SKAR",
+   "identifier": "IAXM",
+   "associatedRunwayNumber": "20",
+   "frequency": 110300,
+   "elevation": 3976,
+   "latitude": 4.46261068,
+   "longitude": -75.76359761,
+   "bearing": 193.45,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SKBG",
    "identifier": "IBGA",
    "associatedRunwayNumber": "35",
