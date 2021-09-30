@@ -1223,6 +1223,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "CYXY",
+   "identifier": "IXY",
+   "associatedRunwayNumber": "32L",
+   "frequency": 109500,
+   "elevation": 2316,
+   "latitude": 60.69799966,
+   "longitude": -135.05834017,
+   "bearing": 339.44,
+   "glideslope": 3.0033944,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "CYYB",
    "identifier": "IYB",
    "associatedRunwayNumber": "08",

@@ -1327,6 +1327,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "CYXY",
+   "identifier": "IXY",
+   "associatedRunwayNumber": "32L",
+   "frequency": 109500,
+   "elevation": 2316,
+   "latitude": 60.69799966,
+   "longitude": -135.05834017,
+   "bearing": 339.44,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "CYYB",
    "identifier": "IYB",
    "associatedRunwayNumber": "08",
