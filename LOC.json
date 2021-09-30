@@ -1547,6 +1547,19 @@
    "type": 4
  },
  {
+   "name": "LOC",
+   "airportICAO": "CYYY",
+   "identifier": "IYY",
+   "associatedRunwayNumber": "06",
+   "frequency": 109700,
+   "elevation": 172,
+   "latitude": 48.617692,
+   "longitude": -68.199513,
+   "bearing": 38.4,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "CYYZ",
    "identifier": "ITX",
@@ -49919,19 +49932,6 @@
    "latitude": 43.854778,
    "longitude": -79.363052,
    "bearing": 142.51,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "CYYY",
-   "identifier": "IYY",
-   "associatedRunwayNumber": "06",
-   "frequency": 109700,
-   "elevation": 172,
-   "latitude": 48.617692,
-   "longitude": -68.199513,
-   "bearing": 38.4,
    "receptionRange": 18,
    "type": 5
  },
