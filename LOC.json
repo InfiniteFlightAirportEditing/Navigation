@@ -1443,6 +1443,19 @@
    "type": 4
  },
  {
+   "name": "LOC",
+   "airportICAO": "CYYF",
+   "identifier": "XYF",
+   "associatedRunwayNumber": "16",
+   "frequency": 110300,
+   "elevation": 1127,
+   "latitude": 49.47079488,
+   "longitude": -119.60194784,
+   "bearing": 181.4,
+   "receptionRange": 18,
+   "type": 5
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "CYYG",
    "identifier": "IYG",
@@ -49893,19 +49906,6 @@
    "latitude": 43.854778,
    "longitude": -79.363052,
    "bearing": 142.51,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "CYYF",
-   "identifier": "XYF",
-   "associatedRunwayNumber": "16",
-   "frequency": 110300,
-   "elevation": 1116,
-   "latitude": 49.45145,
-   "longitude": -119.602074,
-   "bearing": 180,
    "receptionRange": 18,
    "type": 5
  },
