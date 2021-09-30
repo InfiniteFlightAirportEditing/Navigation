@@ -38716,14 +38716,14 @@
  {
    "name": "GS",
    "airportICAO": "SKAP",
-   "identifier": "APY",
+   "identifier": "IAPY",
    "associatedRunwayNumber": "28",
    "frequency": 108900,
-   "elevation": 1199,
-   "latitude": 4.076397,
-   "longitude": -73.554242,
-   "bearing": 275.37,
-   "glideslope": 2.50275185,
+   "elevation": 1235,
+   "latitude": 4.0750536,
+   "longitude": -73.55149436,
+   "bearing": 275.17,
+   "glideslope": 2.5027517,
    "receptionRange": 10
  },
  {

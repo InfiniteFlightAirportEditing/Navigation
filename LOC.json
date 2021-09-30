@@ -39003,13 +39003,13 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "SKAP",
-   "identifier": "APY",
+   "identifier": "IAPY",
    "associatedRunwayNumber": "28",
    "frequency": 108900,
-   "elevation": 1244,
-   "latitude": 4.077328,
-   "longitude": -73.576625,
-   "bearing": 275.185,
+   "elevation": 1235,
+   "latitude": 4.0750536,
+   "longitude": -73.55149436,
+   "bearing": 275.17,
    "receptionRange": 18,
    "type": 4
  },
