@@ -32917,6 +32917,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "OEBT",
+   "identifier": "IBAT",
+   "associatedRunwayNumber": "32",
+   "frequency": 111700,
+   "elevation": 258,
+   "latitude": 24.20899787,
+   "longitude": 51.4546569,
+   "bearing": 321.26,
+   "glideslope": 2.8032126,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "OEDF",
    "identifier": "IMBF",
    "associatedRunwayNumber": "16L",
