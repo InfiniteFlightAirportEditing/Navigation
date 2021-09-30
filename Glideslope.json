@@ -1119,6 +1119,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "CYWK",
+   "identifier": "IWK",
+   "associatedRunwayNumber": "36",
+   "frequency": 110100,
+   "elevation": 1809,
+   "latitude": 52.914999,
+   "longitude": -066.86022524,
+   "bearing": 340.43,
+   "glideslope": 2.9034043,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "CYXC",
    "identifier": "IXC",
    "associatedRunwayNumber": "16",
