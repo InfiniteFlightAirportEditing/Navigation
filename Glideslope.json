@@ -38858,19 +38858,6 @@
  },
  {
    "name": "GS",
-   "airportICAO": "SKLT",
-   "identifier": "ILET",
-   "associatedRunwayNumber": "21",
-   "frequency": 110900,
-   "elevation": 277,
-   "latitude": -4.18808982,
-   "longitude": -69.93987773,
-   "bearing": 201.376,
-   "glideslope": 3.00200688,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
    "airportICAO": "SKPQ",
    "identifier": "IPAL",
    "associatedRunwayNumber": "19",

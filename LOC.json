@@ -39145,19 +39145,6 @@
  },
  {
    "name": "ILS-cat-I",
-   "airportICAO": "SKLT",
-   "identifier": "ILET",
-   "associatedRunwayNumber": "21",
-   "frequency": 110900,
-   "elevation": 277,
-   "latitude": -4.20234381,
-   "longitude": -69.94615682,
-   "bearing": 200.688,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
    "airportICAO": "SKRG",
    "identifier": "IMDE",
    "associatedRunwayNumber": "01",
