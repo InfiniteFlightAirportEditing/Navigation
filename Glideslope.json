@@ -15917,11 +15917,11 @@
    "identifier": "ILLT",
    "associatedRunwayNumber": "34",
    "frequency": 110100,
-   "elevation": 4352,
-   "latitude": 44.339667,
-   "longitude": -105.540967,
-   "bearing": 350.422,
-   "glideslope": 3.20349711,
+   "elevation": 4365,
+   "latitude": 44.33677451,
+   "longitude": -105.53876339,
+   "bearing": 349.69,
+   "glideslope": 3.0034969,
    "receptionRange": 10
  },
  {
