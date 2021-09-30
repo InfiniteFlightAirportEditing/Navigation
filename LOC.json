@@ -33165,6 +33165,32 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "OENN",
+   "identifier": "INEM",
+   "associatedRunwayNumber": "15",
+   "frequency": 108700,
+   "elevation": 33,
+   "latitude": 27.93920014,
+   "longitude": 35.28584900,
+   "bearing": 155.17,
+   "receptionRange": 18,
+   "type": 4
+ },   
+ {
+   "name": "ILS-cat-I",
+   "airportICAO": "OENN",
+   "identifier": "IKHA",
+   "associatedRunwayNumber": "33",
+   "frequency": 108900,
+   "elevation": 33,
+   "latitude": 27.90844600,
+   "longitude": 35.30195610,
+   "bearing": 335.17,
+   "receptionRange": 18,
+   "type": 4
+ }, 
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "OEOM",
    "identifier": "IUME",
    "associatedRunwayNumber": "05",
