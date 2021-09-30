@@ -38715,14 +38715,14 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "SCEL",
    "identifier": "IUEL",
    "associatedRunwayNumber": "17L",
    "frequency": 110300,
    "elevation": 1555,
-   "latitude": -33.376105,
-   "longitude": -70.786700,
+   "latitude": -33.37610539,
+   "longitude": -70.78670034,
    "bearing": 177.42,
    "receptionRange": 18,
    "type": 4
@@ -38734,8 +38734,8 @@
    "associatedRunwayNumber": "17R",
    "frequency": 111100,
    "elevation": 1555,
-   "latitude": -33.371984,
-   "longitude": -70.803688,
+   "latitude": -33.3719839,
+   "longitude": -70.80368816,
    "bearing": 177.47,
    "receptionRange": 18,
    "type": 4
