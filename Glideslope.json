@@ -25277,11 +25277,11 @@
    "identifier": "ISWO",
    "associatedRunwayNumber": "17",
    "frequency": 109150,
-   "elevation": 984,
-   "latitude": 36.169153,
-   "longitude": -97.088089,
-   "bearing": 179.99,
-   "glideslope": 3.00179495,
+   "elevation": 1000,
+   "latitude": 36.17231811,
+   "longitude": -97.08686884,
+   "bearing": 179.5,
+   "glideslope": 3.001795,
    "receptionRange": 10
  },
  {
