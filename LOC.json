@@ -51211,19 +51211,6 @@
  },
  {
    "name": "LOC",
-   "airportICAO": "KETB",
-   "identifier": "IETB",
-   "associatedRunwayNumber": "31",
-   "frequency": 108900,
-   "elevation": 879,
-   "latitude": 43.425972,
-   "longitude": -88.135817,
-   "bearing": 306.529,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
    "airportICAO": "KFAT",
    "identifier": "IRPW",
    "associatedRunwayNumber": "11L",
