@@ -1397,8 +1397,8 @@
    "associatedRunwayNumber": "11",
    "frequency": 109100,
    "elevation": 459,
-   "latitude": 47.623639,
-   "longitude": -52.771540,
+   "latitude": 47.62363921,
+   "longitude": -52.77154048,
    "bearing": 85.92,
    "glideslope": 3.0008592,
    "receptionRange": 10
@@ -1410,8 +1410,8 @@
    "associatedRunwayNumber": "16",
    "frequency": 110700,
    "elevation": 459,
-   "latitude": 47.625887,
-   "longitude": -52.751853,
+   "latitude": 47.62588691,
+   "longitude": -52.75185287,
    "bearing": 139.13,
    "glideslope": 3.0013913,
    "receptionRange": 10
@@ -1419,12 +1419,12 @@
  {
    "name": "GS",
    "airportICAO": "CYYT",
-   "identifier": "UYT",
+   "identifier": "ISO",
    "associatedRunwayNumber": "29",
    "frequency": 110300,
    "elevation": 459,
-   "latitude": 47.625292,
-   "longitude": -52.737154,
+   "latitude": 47.62529188,
+   "longitude": -52.7371541,
    "bearing": 265.92,
    "glideslope": 3.0026592,
    "receptionRange": 10
