@@ -38806,6 +38806,19 @@
    "type": 4
  },
  {
+   "name": "ILS-cat-III",
+   "airportICAO": "SCQP",
+   "identifier": "INIA",
+   "associatedRunwayNumber": "35",
+   "frequency": 110300,
+   "elevation": 321,
+   "latitude": -38.93637596,
+   "longitude": -72.6557822,
+   "bearing": 17.09,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
    "name": "ILS-cat-I",
    "airportICAO": "SCSN",
    "identifier": "ISNO",
