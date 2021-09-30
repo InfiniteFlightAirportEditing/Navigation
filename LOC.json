@@ -39106,6 +39106,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SKCG",
+   "identifier": "ICTG",
+   "associatedRunwayNumber": "01",
+   "frequency": 111300,
+   "elevation": 1,
+   "latitude": 10.43092406,
+   "longitude": -75.51337762,
+   "bearing": 2.32,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SKCL",
    "identifier": "IPAS",
    "associatedRunwayNumber": "02",
