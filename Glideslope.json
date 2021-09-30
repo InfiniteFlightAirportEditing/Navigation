@@ -8767,11 +8767,11 @@
    "identifier": "WKI",
    "associatedRunwayNumber": "01",
    "frequency": 111300,
-   "elevation": 4941,
-   "latitude": -25.841299,
-   "longitude": 28.22311,
-   "bearing": 352,
-   "glideslope": 3.00352,
+   "elevation": 4939,
+   "latitude": -25.84409037,
+   "longitude": 28.22470167,
+   "bearing": 352.04,
+   "glideslope": 3.0035204,
    "receptionRange": 10
  },
  {
