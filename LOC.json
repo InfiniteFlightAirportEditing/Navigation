@@ -8905,15 +8905,15 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-II",
+   "name": "ILS-cat-I",
    "airportICAO": "FEFF",
    "identifier": "BGI",
-   "associatedRunwayNumber": "35",
+   "associatedRunwayNumber": "34",
    "frequency": 110300,
-   "elevation": 1211,
-   "latitude": 4.414244,
-   "longitude": 18.515472,
-   "bearing": 347.068,
+   "elevation": 1208,
+   "latitude": 4.38803799,
+   "longitude": 18.52229878,
+   "bearing": 345.48,
    "receptionRange": 18,
    "type": 4
  },
