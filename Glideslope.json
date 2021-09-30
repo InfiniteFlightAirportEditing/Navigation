@@ -977,19 +977,6 @@
  {
    "name": "GS",
    "airportICAO": "CYUL",
-   "identifier": "IDO",
-   "associatedRunwayNumber": "10",
-   "frequency": 110100,
-   "elevation": 118,
-   "latitude": 45.46268900,
-   "longitude": -73.76585336,
-   "bearing": 87.62,
-   "glideslope": 3.0008762,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "CYUL",
    "identifier": "IMQ",
    "associatedRunwayNumber": "24L",
    "frequency": 110500,

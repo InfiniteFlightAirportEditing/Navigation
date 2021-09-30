@@ -1068,19 +1068,6 @@
  {
    "name": "ILS-cat-I",
    "airportICAO": "CYUL",
-   "identifier": "IDO",
-   "associatedRunwayNumber": "10",
-   "frequency": 110100,
-   "elevation": 118,
-   "latitude": 45.46268900,
-   "longitude": -73.76585336,
-   "bearing": 87.62,
-   "receptionRange": 18,
-   "type": 4
- },
- {
-   "name": "ILS-cat-I",
-   "airportICAO": "CYUL",
    "identifier": "IMQ",
    "associatedRunwayNumber": "24L",
    "frequency": 110500,
