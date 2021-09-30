@@ -1379,6 +1379,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "CYYR",
+   "identifier": "IYR",
+   "associatedRunwayNumber": "08",
+   "frequency": 110300,
+   "elevation": 160,
+   "latitude": 53.30410207,
+   "longitude": -60.44754646,
+   "bearing": 55.28,
+   "glideslope": 3.0005528,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "CYYT",
    "identifier": "IMP",
    "associatedRunwayNumber": "11",
