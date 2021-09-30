@@ -8828,6 +8828,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "FGBT",
+   "identifier": "BA",
+   "associatedRunwayNumber": "21",
+   "frequency": 101700,
+   "elevation": 13,
+   "latitude": 1.91593747,
+   "longitude": 9.81259825,
+   "bearing": 206.48,
+   "glideslope": 3.0020648,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "FGSL",
    "identifier": "MBO",
    "associatedRunwayNumber": "22",
