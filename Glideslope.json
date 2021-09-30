@@ -38798,10 +38798,23 @@
    "associatedRunwayNumber": "16",
    "frequency": 109900,
    "elevation": 1096,
-   "latitude": 7.938189,
-   "longitude": -72.517569,
-   "bearing": 148.756,
-   "glideslope": 3.50147878,
+   "latitude": 7.94022164,
+   "longitude": -72.51950044,
+   "bearing": 147.88,
+   "glideslope": 3.0014788,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "SKCC",
+   "identifier": "ICUX",
+   "associatedRunwayNumber": "21",
+   "frequency": 110300,
+   "elevation": 1096,
+   "latitude": 7.93438249,
+   "longitude": -72.50918414,
+   "bearing": 197.74,
+   "glideslope": 3.0019774,
    "receptionRange": 10
  },
  {
