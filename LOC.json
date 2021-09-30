@@ -39040,7 +39040,7 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "SKBO",
    "identifier": "IEDR",
    "associatedRunwayNumber": "13L",
@@ -39053,14 +39053,14 @@
    "type": 4
  },
  {
-   "name": "ILS-cat-I",
+   "name": "ILS-cat-III",
    "airportICAO": "SKBO",
    "identifier": "IADO",
    "associatedRunwayNumber": "13R",
    "frequency": 110700,
    "elevation": 8358,
    "latitude": 4.71050326,
-   "longitude": -74.16917110,
+   "longitude": -74.1691711,
    "bearing": 127.24,
    "receptionRange": 18,
    "type": 4
