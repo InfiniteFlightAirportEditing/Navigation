@@ -474,10 +474,10 @@
    "associatedRunwayNumber": "09",
    "frequency": 109300,
    "elevation": 1131,
-   "latitude": 50.70554110,
-   "longitude": -120.46541200,
+   "latitude": 50.7055411,
+   "longitude": -120.465412,
    "bearing": 103.29,
-   "glideslope": 3.10103290,
+   "glideslope": 3.1010329,
    "receptionRange": 10
  },
  {
@@ -526,23 +526,36 @@
    "associatedRunwayNumber": "11L",
    "frequency": 109300,
    "elevation": 1892,
-   "latitude": 50.338056,
-   "longitude": -105.569722,
-   "bearing": 119.222,
-   "glideslope": 3.00118611,
+   "latitude": 50.33813048,
+   "longitude": -105.5754771,
+   "bearing": 118.61,
+   "glideslope": 3.0011861,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "CYMJ",
+   "identifier": "IMJ",
+   "associatedRunwayNumber": "29R",
+   "frequency": 109300,
+   "elevation": 1892,
+   "latitude": 50.32719401,
+   "longitude": -105.54406764,
+   "bearing": 298.61,
+   "glideslope": 3.0029861,
    "receptionRange": 10
  },
  {
    "name": "GS",
    "airportICAO": "CYMM",
    "identifier": "IMM",
-   "associatedRunwayNumber": "25",
+   "associatedRunwayNumber": "26",
    "frequency": 109900,
    "elevation": 1209,
    "latitude": 56.65321576,
    "longitude": -111.20471545,
    "bearing": 270.01,
-   "glideslope": 3.00270010,
+   "glideslope": 3.0027001,
    "receptionRange": 10
  },
  {
@@ -594,7 +607,7 @@
    "latitude": 54.39134479,
    "longitude": -110.26969598,
    "bearing": 323.87,
-   "glideslope": 3.00323870,
+   "glideslope": 3.0032387,
    "receptionRange": 10
  },
  {
@@ -675,31 +688,17 @@
    "glideslope": 3.0024244,
    "receptionRange": 10
  },
-
- {
-   "name": "GS",
-   "airportICAO": "CYQI",
-   "identifier": "IQI",
-   "associatedRunwayNumber": "24",
-   "frequency": 109700,
-   "elevation": 141,
-   "latitude": 43.82753372,
-   "longitude": -66.08643341,
-   "bearing": 242.106,
-   "glideslope": 3.00242053,
-   "receptionRange": 10
- },
  {
    "name": "GS",
    "airportICAO": "CYQL",
    "identifier": "IQL",
-   "associatedRunwayNumber": "05",
+   "associatedRunwayNumber": "06",
    "frequency": 109500,
    "elevation": 3049,
-   "latitude": 49.623826,
-   "longitude": -112.815441,
-   "bearing": 70.10,
-   "glideslope": 3.0007010,
+   "latitude": 49.62382629,
+   "longitude": -112.81544066,
+   "bearing": 70.1,
+   "glideslope": 3.000701,
    "receptionRange": 10
  },
  {
@@ -739,6 +738,19 @@
    "longitude": -124.90159516,
    "bearing": 135.4,
    "glideslope": 3.001354,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
+   "airportICAO": "CYQQ",
+   "identifier": "ICX",
+   "associatedRunwayNumber": "30",
+   "frequency": 109750,
+   "elevation": 83,
+   "latitude": 49.7013844,
+   "longitude": -124.87185689,
+   "bearing": 315.4,
+   "glideslope": 3.003154,
    "receptionRange": 10
  },
  {
@@ -810,11 +822,11 @@
    "name": "GS",
    "airportICAO": "CYQY",
    "identifier": "IQY",
-   "associatedRunwayNumber": "07",
+   "associatedRunwayNumber": "06",
    "frequency": 110300,
    "elevation": 203,
-   "latitude": 46.154433,
-   "longitude": -60.057307,
+   "latitude": 46.15443289,
+   "longitude": -60.05730704,
    "bearing": 45.78,
    "glideslope": 3.0004578,
    "receptionRange": 10
@@ -1129,19 +1141,6 @@
    "longitude": -115.78229911,
    "bearing": 179.16,
    "glideslope": 3.0017916,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "CYXD",
-   "identifier": "IXD",
-   "associatedRunwayNumber": "34",
-   "frequency": 109500,
-   "elevation": 2200,
-   "latitude": 53.56866819,
-   "longitude": -113.51305467,
-   "bearing": 180,
-   "glideslope": 3.0018,
    "receptionRange": 10
  },
  {
@@ -1558,19 +1557,6 @@
    "longitude": -131.820733,
    "bearing": 144.34,
    "glideslope": 3.0014434,
-   "receptionRange": 10
- },
- {
-   "name": "GS",
-   "airportICAO": "CYZR",
-   "identifier": "IZR",
-   "associatedRunwayNumber": "33",
-   "frequency": 109700,
-   "elevation": 595,
-   "latitude": 42.994567,
-   "longitude": -82.302831,
-   "bearing": 316.96,
-   "glideslope": 3.0031696,
    "receptionRange": 10
  },
  {
