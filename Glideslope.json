@@ -38871,6 +38871,19 @@
  },
  {
    "name": "GS",
+   "airportICAO": "SKPS",
+   "identifier": "IPSO",
+   "associatedRunwayNumber": "20",
+   "frequency": 110700,
+   "elevation": 5921,
+   "latitude": 1.40593111,
+   "longitude": -77.28848922,
+   "bearing": 194.86,
+   "glideslope": 3.0019486,
+   "receptionRange": 10
+ },
+ {
+   "name": "GS",
    "airportICAO": "SKPQ",
    "identifier": "IPAL",
    "associatedRunwayNumber": "19",

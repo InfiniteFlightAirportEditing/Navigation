@@ -39158,6 +39158,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SKPS",
+   "identifier": "IPSO",
+   "associatedRunwayNumber": "20",
+   "frequency": 110700,
+   "elevation": 5921,
+   "latitude": 1.40593111,
+   "longitude": -77.28848922,
+   "bearing": 194.86,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SKRG",
    "identifier": "IMDE",
    "associatedRunwayNumber": "01",
@@ -53338,19 +53351,6 @@
    "latitude": 5.49720424,
    "longitude": -74.65675144,
    "bearing": 182.66,
-   "receptionRange": 18,
-   "type": 5
- },
- {
-   "name": "LOC",
-   "airportICAO": "SKPS",
-   "identifier": "IPSO",
-   "associatedRunwayNumber": "20",
-   "frequency": 110700,
-   "elevation": 5951,
-   "latitude": 1.38496112,
-   "longitude": -77.29468415,
-   "bearing": 195.859,
    "receptionRange": 18,
    "type": 5
  },
