@@ -39145,6 +39145,19 @@
  },
  {
    "name": "ILS-cat-I",
+   "airportICAO": "SKPE",
+   "identifier": "IPEI",
+   "associatedRunwayNumber": "08",
+   "frequency": 109500,
+   "elevation": 4416,
+   "latitude": 4.80992646,
+   "longitude": -75.7481683,
+   "bearing": 72.25,
+   "receptionRange": 18,
+   "type": 4
+ },
+ {
+   "name": "ILS-cat-I",
    "airportICAO": "SKRG",
    "identifier": "IMDE",
    "associatedRunwayNumber": "01",
